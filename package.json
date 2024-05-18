@@ -105,6 +105,29 @@
     "@typescript-eslint",
     "@typescript",
     "@udecode",
+    "@uiw",
+    "@umijs",
+    "@uni",
+    "@vercel",
+    "@videojs-player",
+    "@vitejs",
+    "@vitest",
+    "@vscode",
+    "@vue",
+    "@vuepress",
+    "@wangeditor",
+    "@web-io",
+    "@webcomponents",
+    "@zeit",
+    "@jscpd",
+    "@js-preview",
+    "@ice",
+    "@teamix",
+    "@testing-library",
+    "@tinymce",
+    "@toast-ui",
+    "@txdfe",
+    "@uform"
   ],
   "allowPackages": {
     "3d-force-graph": {
@@ -446,12 +469,6 @@
     "@ianvs/prettier-plugin-sort-imports": {
       "version": "*"
     },
-    "@ice/spec": {
-      "version": "*"
-    },
-    "@ice/store": {
-      "version": "*"
-    },
     "@iceworks/spec": {
       "version": "*"
     },
@@ -539,25 +556,7 @@
     "@jridgewell/sourcemap-codec": {
       "version": "*"
     },
-    "@js-preview/docx": {
-      "version": "*"
-    },
-    "@js-preview/pdf": {
-      "version": "*"
-    },
     "@js.properties/properties": {
-      "version": "*"
-    },
-    "@jscpd/core": {
-      "version": "*"
-    },
-    "@jscpd/finder": {
-      "version": "*"
-    },
-    "@jscpd/leveldb-store": {
-      "version": "*"
-    },
-    "@jscpd/tokenizer": {
       "version": "*"
     },
     "@jsdevtools/file-path-filter": {
@@ -1103,49 +1102,10 @@
     "@teambition-web/notifaction-ext": {
       "version": "*"
     },
-    "@teamix/avatar": {
-      "version": "*"
-    },
-    "@teamix/icon": {
-      "version": "*"
-    },
-    "@teamix/lead": {
-      "version": "*"
-    },
-    "@teamix/member-search": {
-      "version": "*"
-    },
-    "@teamix/react-loader": {
-      "version": "*"
-    },
-    "@teamix/title": {
-      "version": "*"
-    },
-    "@teamix/ui": {
-      "version": "*"
-    },
     "@techstark/opencv-js": {
       "version": "*"
     },
     "@terraformer/wkt": {
-      "version": "*"
-    },
-    "@testing-library/dom": {
-      "version": "*"
-    },
-    "@testing-library/jest-dom": {
-      "version": "*"
-    },
-    "@testing-library/react": {
-      "version": "*"
-    },
-    "@testing-library/react-hooks": {
-      "version": "*"
-    },
-    "@testing-library/user-event": {
-      "version": "*"
-    },
-    "@testing-library/vue": {
       "version": "*"
     },
     "@textea/json-viewer": {
@@ -1169,25 +1129,7 @@
     "@tinyjs/tiny": {
       "version": "*"
     },
-    "@tinymce/eslint-plugin": {
-      "version": "*"
-    },
-    "@tinymce/tinymce-react": {
-      "version": "*"
-    },
     "@tippyjs/react": {
-      "version": "*"
-    },
-    "@toast-ui/editor": {
-      "version": "*"
-    },
-    "@toast-ui/editor-plugin-table-merged-cell": {
-      "version": "*"
-    },
-    "@toast-ui/react-editor": {
-      "version": "*"
-    },
-    "@toast-ui/react-image-editor": {
       "version": "*"
     },
     "@total-typescript/ts-reset": {
@@ -1205,265 +1147,10 @@
     "@tweenjs/tween.js": {
       "version": "*"
     },
-    "@txdfe/at": {
-      "version": "*"
-    },
-    "@txdfe/at-error-page": {
-      "version": "*"
-    },
-    "@txdfe/at-exceed": {
-      "version": "*"
-    },
-    "@txdfe/at-sortable-select": {
-      "version": "*"
-    },
-    "@txdfe/at-theme": {
-      "version": "*"
-    },
-    "@txdfe/at-title": {
-      "version": "*"
-    },
-    "@txdfe/postcss-at-theme-cssvar": {
-      "version": "*"
-    },
-    "@txdfe/uiless-member": {
-      "version": "*"
-    },
     "@typography-org/react": {
       "version": "*"
     },
-    "@uform/antd": {
-      "version": "*"
-    },
-    "@uform/printer": {
-      "version": "*"
-    },
-    "@uform/react": {
-      "version": "*"
-    },
-    "@uiw/codemirror-extensions-basic-setup": {
-      "version": "*"
-    },
-    "@uiw/codemirror-extensions-langs": {
-      "version": "*"
-    },
-    "@uiw/codemirror-extensions-mentions": {
-      "version": "*"
-    },
-    "@uiw/codemirror-theme-androidstudio": {
-      "version": "*"
-    },
-    "@uiw/codemirror-theme-basic": {
-      "version": "*"
-    },
-    "@uiw/codemirror-theme-github": {
-      "version": "*"
-    },
-    "@uiw/codemirror-theme-material": {
-      "version": "*"
-    },
-    "@uiw/codemirror-theme-okaidia": {
-      "version": "*"
-    },
-    "@uiw/codemirror-theme-quietlight": {
-      "version": "*"
-    },
-    "@uiw/codemirror-theme-solarized": {
-      "version": "*"
-    },
-    "@uiw/codemirror-theme-vscode": {
-      "version": "*"
-    },
-    "@uiw/codemirror-themes": {
-      "version": "*"
-    },
-    "@uiw/codemirror-themes-all": {
-      "version": "*"
-    },
-    "@uiw/react-amap": {
-      "version": "*"
-    },
-    "@uiw/react-amap-api-loader": {
-      "version": "*"
-    },
-    "@uiw/react-amap-map": {
-      "version": "*"
-    },
-    "@uiw/react-amap-marker": {
-      "version": "*"
-    },
-    "@uiw/react-codemirror": {
-      "version": "*"
-    },
-    "@uiw/react-json-view": {
-      "version": "*"
-    },
-    "@uiw/react-markdown-preview": {
-      "version": "*"
-    },
-    "@uiw/react-md-editor": {
-      "version": "*"
-    },
-    "@uiw/react-monacoeditor": {
-      "version": "*"
-    },
-    "@uiw/react-textarea-code-editor": {
-      "version": "*"
-    },
-    "@uiw/react-watermark": {
-      "version": "*"
-    },
-    "@umijs/ast": {
-      "version": "*"
-    },
-    "@umijs/babel-plugin-auto-css-modules": {
-      "version": "*"
-    },
-    "@umijs/babel-preset-umi": {
-      "version": "*"
-    },
-    "@umijs/bundler-utils": {
-      "version": "*"
-    },
-    "@umijs/bundler-webpack": {
-      "version": "*"
-    },
-    "@umijs/core": {
-      "version": "*"
-    },
-    "@umijs/deps": {
-      "version": "*"
-    },
-    "@umijs/fabric": {
-      "version": "*"
-    },
-    "@umijs/hooks": {
-      "version": "*"
-    },
-    "@umijs/launch-editor": {
-      "version": "*"
-    },
-    "@umijs/lint": {
-      "version": "*"
-    },
-    "@umijs/max": {
-      "version": "*"
-    },
-    "@umijs/max-plugin-openapi": {
-      "version": "*"
-    },
-    "@umijs/plugin-antd": {
-      "version": "*"
-    },
-    "@umijs/plugin-antd-mobile": {
-      "version": "*"
-    },
-    "@umijs/plugin-blocks": {
-      "version": "*"
-    },
-    "@umijs/plugin-crossorigin": {
-      "version": "*"
-    },
-    "@umijs/plugin-esbuild": {
-      "version": "*"
-    },
-    "@umijs/plugin-initial-state": {
-      "version": "*"
-    },
-    "@umijs/plugin-locale": {
-      "version": "*"
-    },
-    "@umijs/plugin-model": {
-      "version": "*"
-    },
-    "@umijs/plugin-qiankun": {
-      "version": "*"
-    },
-    "@umijs/plugin-sass": {
-      "version": "*"
-    },
-    "@umijs/plugin-umi-request-compat": {
-      "version": "*"
-    },
-    "@umijs/plugins": {
-      "version": "*"
-    },
-    "@umijs/preset-ant-design-pro": {
-      "version": "*"
-    },
-    "@umijs/preset-dumi": {
-      "version": "*"
-    },
-    "@umijs/preset-react": {
-      "version": "*"
-    },
-    "@umijs/preset-ui": {
-      "version": "*"
-    },
-    "@umijs/renderer-react": {
-      "version": "*"
-    },
-    "@umijs/route-utils": {
-      "version": "*"
-    },
-    "@umijs/runtime": {
-      "version": "*"
-    },
-    "@umijs/ssr-darkreader": {
-      "version": "*"
-    },
-    "@umijs/test": {
-      "version": "*"
-    },
-    "@umijs/test-utils": {
-      "version": "*"
-    },
-    "@umijs/types": {
-      "version": "*"
-    },
-    "@umijs/ui-theme": {
-      "version": "*"
-    },
-    "@umijs/use-api": {
-      "version": "*"
-    },
-    "@umijs/use-params": {
-      "version": "*"
-    },
-    "@umijs/use-request": {
-      "version": "*"
-    },
-    "@umijs/utils": {
-      "version": "*"
-    },
-    "@umijs/yorkie": {
-      "version": "*"
-    },
     "@ungap/structured-clone": {
-      "version": "*"
-    },
-    "@uni/alert": {
-      "version": "*"
-    },
-    "@uni/apis": {
-      "version": "*"
-    },
-    "@uni/element": {
-      "version": "*"
-    },
-    "@uni/env": {
-      "version": "*"
-    },
-    "@uni/loading": {
-      "version": "*"
-    },
-    "@uni/navigate": {
-      "version": "*"
-    },
-    "@uni/system-info": {
-      "version": "*"
-    },
-    "@uni/toast": {
       "version": "*"
     },
     "@unocss/cli": {
@@ -1493,9 +1180,6 @@
     "@vanilla-extract/webpack-plugin": {
       "version": "*"
     },
-    "@vercel/ncc": {
-      "version": "*"
-    },
     "@vibrant/color": {
       "version": "*"
     },
@@ -1517,166 +1201,19 @@
     "@vibrant/quantizer-mmcq": {
       "version": "*"
     },
-    "@videojs-player/react": {
-      "version": "*"
-    },
     "@videojs/themes": {
       "version": "*"
     },
     "@vingle/bmp-js": {
       "version": "*"
     },
-    "@vitejs/plugin-legacy": {
-      "version": "*"
-    },
-    "@vitejs/plugin-react": {
-      "version": "*"
-    },
-    "@vitejs/plugin-react-refresh": {
-      "version": "*"
-    },
-    "@vitejs/plugin-react-swc": {
-      "version": "*"
-    },
-    "@vitejs/plugin-vue": {
-      "version": "*"
-    },
-    "@vitest/browser": {
-      "version": "*"
-    },
-    "@vitest/coverage-c8": {
-      "version": "*"
-    },
-    "@vitest/coverage-istanbul": {
-      "version": "*"
-    },
-    "@vitest/coverage-v8": {
-      "version": "*"
-    },
-    "@vitest/ui": {
-      "version": "*"
-    },
     "@viz-js/viz": {
-      "version": "*"
-    },
-    "@vscode/codicons": {
-      "version": "*"
-    },
-    "@vscode/test-electron": {
-      "version": "*"
-    },
-    "@vscode/vsce": {
-      "version": "*"
-    },
-    "@vscode/vscode-languagedetection": {
-      "version": "*"
-    },
-    "@vue/babel-helper-vue-jsx-merge-props": {
-      "version": "*"
-    },
-    "@vue/babel-preset-jsx": {
-      "version": "*"
-    },
-    "@vue/cli-plugin-babel": {
-      "version": "*"
-    },
-    "@vue/cli-plugin-eslint": {
-      "version": "*"
-    },
-    "@vue/cli-plugin-router": {
-      "version": "*"
-    },
-    "@vue/cli-plugin-typescript": {
-      "version": "*"
-    },
-    "@vue/cli-plugin-unit-jest": {
-      "version": "*"
-    },
-    "@vue/cli-plugin-unit-mocha": {
-      "version": "*"
-    },
-    "@vue/cli-plugin-vuex": {
-      "version": "*"
-    },
-    "@vue/cli-service": {
-      "version": "*"
-    },
-    "@vue/compiler-dom": {
-      "version": "*"
-    },
-    "@vue/composition-api": {
-      "version": "*"
-    },
-    "@vue/eslint-config-airbnb": {
-      "version": "*"
-    },
-    "@vue/eslint-config-prettier": {
-      "version": "*"
-    },
-    "@vue/eslint-config-typescript": {
-      "version": "*"
-    },
-    "@vue/preload-webpack-plugin": {
-      "version": "*"
-    },
-    "@vue/test-utils": {
-      "version": "*"
-    },
-    "@vue/tsconfig": {
-      "version": "*"
-    },
-    "@vuepress/plugin-back-to-top": {
-      "version": "*"
-    },
-    "@vuepress/plugin-medium-zoom": {
-      "version": "*"
-    },
-    "@vuepress/shared-utils": {
       "version": "*"
     },
     "@vvfx/resource-detection": {
       "version": "*"
     },
     "@walletconnect/web3-provider": {
-      "version": "*"
-    },
-    "@wangeditor/core": {
-      "version": "*"
-    },
-    "@wangeditor/editor": {
-      "version": "*"
-    },
-    "@wangeditor/editor-for-react": {
-      "version": "*"
-    },
-    "@wangeditor/plugin-link-card": {
-      "version": "*"
-    },
-    "@wangeditor/plugin-md": {
-      "version": "*"
-    },
-    "@wangeditor/plugin-upload-attachment": {
-      "version": "*"
-    },
-    "@web-io/common": {
-      "version": "*"
-    },
-    "@web-io/jest": {
-      "version": "*"
-    },
-    "@web-io/lint-config": {
-      "version": "*"
-    },
-    "@web-io/stylelint-config-rational-order": {
-      "version": "*"
-    },
-    "@web-io/tsdoc": {
-      "version": "*"
-    },
-    "@webcomponents/custom-elements": {
-      "version": "*"
-    },
-    "@webcomponents/webcomponentsjs": {
       "version": "*"
     },
     "@webpack-contrib/eslint-config-webpack": {
@@ -1722,15 +1259,6 @@
       "version": "*"
     },
     "@yunlefun/utils": {
-      "version": "*"
-    },
-    "@zeit/fetch-retry": {
-      "version": "*"
-    },
-    "@zeit/next-css": {
-      "version": "*"
-    },
-    "@zeit/next-less": {
       "version": "*"
     },
     "@zip.js/zip.js": {
