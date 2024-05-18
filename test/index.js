@@ -10,9 +10,9 @@ test('should pkg.allowPackages work', (t) => {
   const pkg = JSON.parse(readFileSync(pkgFile, 'utf-8'));
   assert(pkg.allowPackages);
   assert.equal(typeof pkg.allowPackages, 'object');
-  let count = 0;
+  let packages = 0;
   for (const name in pkg.allowPackages) {
-    count++;
+    packages++;
     assert(name);
     assert.equal(typeof name, 'string');
     const config = pkg.allowPackages[name];
@@ -24,6 +24,19 @@ test('should pkg.allowPackages work', (t) => {
     assert(config.versionRange, `${name} version(${config.version}) should match semver range format`);
     // console.log(' - %o => %j', name, config);
   }
-  console.log('Total %d packages', count);
+  console.log('Total %d packages', packages);
+  assert(packages > 0);
+
+  assert(pkg.allowScopes);
+  assert.equal(typeof pkg.allowScopes, 'object');
+  let scopes = 0;
+  for (const name of pkg.allowScopes) {
+    scopes++;
+    assert(name);
+    assert.equal(typeof name, 'string');
+    assert.match(name, /^@.+/);
+  }
+  console.log('Total %d scopes', scopes);
+  assert(scopes > 0);
 });
 

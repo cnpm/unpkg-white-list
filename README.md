@@ -22,6 +22,16 @@
 }
 ```
 
+当然你发布的是 scoped package，可以直接添加 scope 到白名单 `allowScopes`：
+
+```json
+"allowScopes": [
+  ...
+  "@eggjs",
+  ...
+]
+```
+
 2、修改完成后提交一个 `Pull Request` 合并到 master 分支，等待 Review，合并后会自动发布，预计最长 5 分钟后会全网生效。
 
 ## License
