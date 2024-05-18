@@ -173,7 +173,8 @@
     "@progress",
     "@reach",
     "@jiakun-zhao",
-    "@iyawoqu"
+    "@iyawoqu",
+    "@opentiny"
   ],
   "allowPackages": {
     "zhaojiakun.com": {
