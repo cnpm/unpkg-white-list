@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/cnpm/unpkg-white-list/compare/v1.5.0...v1.6.0) (2024-05-18)
+
+
+### Features
+
+* add unpkg-white-list ([#8](https://github.com/cnpm/unpkg-white-list/issues/8)) ([669546f](https://github.com/cnpm/unpkg-white-list/commit/669546f636a005b3a939e3f341c1bb63fbf99f8e))
+
 ## [1.5.0](https://github.com/cnpm/unpkg-white-list/compare/v1.4.0...v1.5.0) (2024-05-18)
 
 
