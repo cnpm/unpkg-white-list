@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/cnpm/unpkg-white-list/compare/v1.2.0...v1.2.1) (2024-05-18)
+
+
+### Bug Fixes
+
+* only publish package.json on npm ([0b8882e](https://github.com/cnpm/unpkg-white-list/commit/0b8882e25a3034c01cf1cc7c13d15a71268de0cf))
+
 ## [1.2.0](https://github.com/cnpm/unpkg-white-list/compare/v1.1.0...v1.2.0) (2024-05-18)
 
 
