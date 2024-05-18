@@ -42,10 +42,10 @@
 
 ## 贡献者
 
-|[<img src="https://avatars.githubusercontent.com/u/156269?v=4" width="100px;"/><br/><sub><b>fengmk2</b></sub>](https://github.com/fengmk2)<br/>|
-| :---: |
+|[<img src="https://avatars.githubusercontent.com/u/32174276?v=4" width="100px;"/><br/><sub><b>semantic-release-bot</b></sub>](https://github.com/semantic-release-bot)<br/>|[<img src="https://avatars.githubusercontent.com/u/156269?v=4" width="100px;"/><br/><sub><b>fengmk2</b></sub>](https://github.com/fengmk2)<br/>|[<img src="https://avatars.githubusercontent.com/u/50269993?v=4" width="100px;"/><br/><sub><b>jiakun-zhao</b></sub>](https://github.com/jiakun-zhao)<br/>|[<img src="https://avatars.githubusercontent.com/u/26962197?v=4" width="100px;"/><br/><sub><b>chilingling</b></sub>](https://github.com/chilingling)<br/>|[<img src="https://avatars.githubusercontent.com/u/55302758?v=4" width="100px;"/><br/><sub><b>122cygf</b></sub>](https://github.com/122cygf)<br/>|
+| :---: | :---: | :---: | :---: | :---: |
 
 
-[git-contributor 说明](https://github.com/xudafeng/git-contributor)，自动生成时间：`Sat May 18 2024 09:02:24 GMT+0800`。
+[git-contributor 说明](https://github.com/xudafeng/git-contributor)，自动生成时间：`Sun May 19 2024 00:36:24 GMT+0800`。
 
 <!-- GITCONTRIBUTOR_END -->
