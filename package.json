@@ -172,7 +172,8 @@
     "@plasmohq",
     "@progress",
     "@reach",
-    "@jiakun-zhao"
+    "@jiakun-zhao",
+    "@iyawoqu"
   ],
   "allowPackages": {
     "zhaojiakun.com": {
@@ -1019,6 +1020,18 @@
       "version": "*"
     },
     "@zxing/library": {
+      "version": "*"
+    },
+    "@iyawoqu/dxxtool_share": {
+      "version": "*"
+    },
+    "@iyawoqu/dxxtool_data": {
+      "version": "*"
+    },
+    "@iyawoqu/dxxtool_pic": {
+      "version": "*"
+    },
+    "@iyawoqu/dxxtool_js": {
       "version": "*"
     },
     "Base64": {
