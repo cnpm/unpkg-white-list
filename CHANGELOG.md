@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/cnpm/unpkg-white-list/compare/v1.2.1...v1.3.0) (2024-05-18)
+
+
+### Features
+
+* add [@jiakun-zhao](https://github.com/jiakun-zhao) ([#4](https://github.com/cnpm/unpkg-white-list/issues/4)) ([9a825f1](https://github.com/cnpm/unpkg-white-list/commit/9a825f16ac2688e1d8936a3fab7a1a0717218f33))
+
 ## [1.2.1](https://github.com/cnpm/unpkg-white-list/compare/v1.2.0...v1.2.1) (2024-05-18)
 
 
