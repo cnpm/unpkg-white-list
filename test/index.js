@@ -8,6 +8,8 @@ const pkgFile = join(dirname(__dirname), 'package.json');
 
 test('should pkg.allowPackages work', (t) => {
   const pkg = JSON.parse(readFileSync(pkgFile, 'utf-8'));
+  assert(pkg.files);
+  assert.equal(pkg.files.length, 0);
   assert(pkg.allowPackages);
   assert.equal(typeof pkg.allowPackages, 'object');
   let packages = 0;
