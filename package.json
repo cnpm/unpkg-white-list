@@ -171,9 +171,16 @@
     "@phosphor",
     "@plasmohq",
     "@progress",
-    "@reach"
+    "@reach",
+    "@jiakun-zhao"
   ],
   "allowPackages": {
+    "zhaojiakun.com":{
+      "version": "*"
+    },
+    "954.im":{
+      "version": "*"
+    },
     "3d-force-graph": {
       "version": "*"
     },
