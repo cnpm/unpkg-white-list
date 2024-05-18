@@ -16200,6 +16200,9 @@
     "unzipper": {
       "version": "*"
     },
+    "unpkg-white-list": {
+      "version": "*"
+    },
     "update": {
       "version": "*"
     },
