@@ -127,7 +127,50 @@
     "@tinymce",
     "@toast-ui",
     "@txdfe",
-    "@uform"
+    "@uform",
+    "@fluentui",
+    "@formily-editor",
+    "@figma",
+    "@teambit",
+    "@latticexyz",
+    "@material-ui",
+    "@oclif",
+    "@octokit",
+    "@okamjs",
+    "@paciolan",
+    "@pansy",
+    "@parcel",
+    "@patternfly",
+    "@projectstorm",
+    "@react-three",
+    "@remax",
+    "@rjsf",
+    "@rushstack",
+    "@sentry",
+    "@secretflow",
+    "@shopify",
+    "@size-limit",
+    "@splinetool",
+    "@stackblitz",
+    "@stencil",
+    "@stripe",
+    "@sula-ruler",
+    "@sula-template",
+    "@swc-node",
+    "@tanstack",
+    "@tailwindcss",
+    "@tauri-apps",
+    "@tinyjs-plugin-three",
+    "@theia",
+    "@vanilla-extract",
+    "@vibrant",
+    "@valeera",
+    "@xstate",
+    "@angular-devkit",
+    "@phosphor",
+    "@plasmohq",
+    "@progress",
+    "@reach"
   ],
   "allowPackages": {
     "3d-force-graph": {
@@ -167,9 +210,6 @@
       "version": "*"
     },
     "@ampproject/remapping": {
-      "version": "*"
-    },
-    "@angular-devkit/build-angular": {
       "version": "*"
     },
     "@ant-basement/miniprogram-sdk": {
@@ -364,22 +404,7 @@
     "@ffprobe-installer/ffprobe": {
       "version": "*"
     },
-    "@figma/plugin-typings": {
-      "version": "*"
-    },
     "@fingerprintjs/fingerprintjs": {
-      "version": "*"
-    },
-    "@fluentui/react": {
-      "version": "*"
-    },
-    "@fluentui/react-northstar": {
-      "version": "*"
-    },
-    "@formily-editor/extensions": {
-      "version": "*"
-    },
-    "@formily-editor/schema-editor": {
       "version": "*"
     },
     "@fortune-sheet/react": {
@@ -649,9 +674,6 @@
     "@matejmazur/react-katex": {
       "version": "*"
     },
-    "@material-ui/core": {
-      "version": "*"
-    },
     "@material/material-color-utilities": {
       "version": "*"
     },
@@ -733,36 +755,6 @@
     "@oceanbase-odc/ob-intl-cli": {
       "version": "*"
     },
-    "@oclif/command": {
-      "version": "*"
-    },
-    "@oclif/config": {
-      "version": "*"
-    },
-    "@oclif/dev-cli": {
-      "version": "*"
-    },
-    "@oclif/errors": {
-      "version": "*"
-    },
-    "@oclif/plugin-help": {
-      "version": "*"
-    },
-    "@oclif/test": {
-      "version": "*"
-    },
-    "@octokit/core": {
-      "version": "*"
-    },
-    "@octokit/rest": {
-      "version": "*"
-    },
-    "@okamjs/okam": {
-      "version": "*"
-    },
-    "@okamjs/okam-darwin-x64": {
-      "version": "*"
-    },
     "@okee-uikit/m-react": {
       "version": "*"
     },
@@ -778,46 +770,10 @@
     "@orama/orama": {
       "version": "*"
     },
-    "@paciolan/eslint-config-react": {
-      "version": "*"
-    },
-    "@paciolan/remote-component": {
-      "version": "*"
-    },
-    "@paciolan/remote-module-loader": {
-      "version": "*"
-    },
-    "@pansy/china-division": {
-      "version": "*"
-    },
-    "@pansy/react-watermark": {
-      "version": "*"
-    },
-    "@parcel/config-default": {
-      "version": "*"
-    },
-    "@parcel/core": {
-      "version": "*"
-    },
-    "@parcel/transformer-less": {
-      "version": "*"
-    },
-    "@parcel/watcher": {
-      "version": "*"
-    },
-    "@patternfly/react-core": {
-      "version": "*"
-    },
-    "@patternfly/react-log-viewer": {
-      "version": "*"
-    },
     "@peculiar/webcrypto": {
       "version": "*"
     },
     "@phenomnomnominal/tsquery": {
-      "version": "*"
-    },
-    "@phosphor/signaling": {
       "version": "*"
     },
     "@pinging/dagrejs": {
@@ -829,25 +785,7 @@
     "@pixiv/three-vrm": {
       "version": "*"
     },
-    "@plasmohq/messaging": {
-      "version": "*"
-    },
-    "@plasmohq/storage": {
-      "version": "*"
-    },
     "@pmmmwh/react-refresh-webpack-plugin": {
-      "version": "*"
-    },
-    "@progress/kendo-react-excel-export": {
-      "version": "*"
-    },
-    "@projectstorm/geometry": {
-      "version": "*"
-    },
-    "@projectstorm/react-canvas-core": {
-      "version": "*"
-    },
-    "@projectstorm/react-diagrams": {
       "version": "*"
     },
     "@qiankunjs/shared": {
@@ -859,22 +797,10 @@
     "@qixian.cs/sarif-web-component": {
       "version": "*"
     },
-    "@reach/router": {
-      "version": "*"
-    },
     "@react-dnd/invariant": {
       "version": "*"
     },
     "@react-pdf/renderer": {
-      "version": "*"
-    },
-    "@react-three/drei": {
-      "version": "*"
-    },
-    "@react-three/fiber": {
-      "version": "*"
-    },
-    "@react-three/postprocessing": {
       "version": "*"
     },
     "@reactour/tour": {
@@ -895,12 +821,6 @@
     "@rehooks/component-size": {
       "version": "*"
     },
-    "@remax/plugin-dev-optimize": {
-      "version": "*"
-    },
-    "@remax/plugin-less": {
-      "version": "*"
-    },
     "@remix-run/router": {
       "version": "*"
     },
@@ -908,24 +828,6 @@
       "version": "*"
     },
     "@resvg/resvg-js": {
-      "version": "*"
-    },
-    "@rjsf/antd": {
-      "version": "*"
-    },
-    "@rjsf/core": {
-      "version": "*"
-    },
-    "@rjsf/material-ui": {
-      "version": "*"
-    },
-    "@rjsf/utils": {
-      "version": "*"
-    },
-    "@rjsf/validator-ajv6": {
-      "version": "*"
-    },
-    "@rjsf/validator-ajv8": {
       "version": "*"
     },
     "@rollup-extras/plugin-clean": {
@@ -937,34 +839,10 @@
     "@rrweb/types": {
       "version": "*"
     },
-    "@rushstack/eslint-patch": {
-      "version": "*"
-    },
-    "@rushstack/eslint-plugin-packlets": {
-      "version": "*"
-    },
     "@saasfe/we-app-react": {
       "version": "*"
     },
     "@sbzen/re-cron": {
-      "version": "*"
-    },
-    "@secretflow/openapi": {
-      "version": "*"
-    },
-    "@sentry/integrations": {
-      "version": "*"
-    },
-    "@sentry/react": {
-      "version": "*"
-    },
-    "@sentry/tracing": {
-      "version": "*"
-    },
-    "@sentry/webpack-plugin": {
-      "version": "*"
-    },
-    "@shopify/draggable": {
       "version": "*"
     },
     "@silverage/table-custom": {
@@ -985,12 +863,6 @@
     "@sinonjs/fake-timers": {
       "version": "*"
     },
-    "@size-limit/file": {
-      "version": "*"
-    },
-    "@size-limit/preset-small-lib": {
-      "version": "*"
-    },
     "@skeditor/canvaskit-wasm": {
       "version": "*"
     },
@@ -1009,28 +881,10 @@
     "@soda/friendly-errors-webpack-plugin": {
       "version": "*"
     },
-    "@splinetool/react-spline": {
-      "version": "*"
-    },
-    "@splinetool/runtime": {
-      "version": "*"
-    },
     "@sqltools/formatter": {
       "version": "*"
     },
-    "@stackblitz/sdk": {
-      "version": "*"
-    },
     "@starptech/prettyhtml": {
-      "version": "*"
-    },
-    "@stencil/core": {
-      "version": "*"
-    },
-    "@stencil/sass": {
-      "version": "*"
-    },
-    "@stencil/store": {
       "version": "*"
     },
     "@stomp/stompjs": {
@@ -1039,61 +893,13 @@
     "@stone-lyl/google-translate-script": {
       "version": "*"
     },
-    "@stripe/stripe-js": {
-      "version": "*"
-    },
-    "@sula-ruler/condition": {
-      "version": "*"
-    },
-    "@sula-ruler/condition-group": {
-      "version": "*"
-    },
-    "@sula-ruler/list": {
-      "version": "*"
-    },
-    "@sula-ruler/row": {
-      "version": "*"
-    },
-    "@sula-template/create-form": {
-      "version": "*"
-    },
-    "@sula-template/create-wizard": {
-      "version": "*"
-    },
-    "@sula-template/search-table": {
-      "version": "*"
-    },
     "@super-effective/react-color-picker": {
       "version": "*"
     },
     "@svgdotjs/svg.js": {
       "version": "*"
     },
-    "@swc-node/jest": {
-      "version": "*"
-    },
-    "@swc-node/register": {
-      "version": "*"
-    },
     "@synvox/rehook": {
-      "version": "*"
-    },
-    "@tailwindcss/postcss7-compat": {
-      "version": "*"
-    },
-    "@tanstack/query-core": {
-      "version": "*"
-    },
-    "@tanstack/react-query": {
-      "version": "*"
-    },
-    "@tanstack/react-query-devtools": {
-      "version": "*"
-    },
-    "@tauri-apps/api": {
-      "version": "*"
-    },
-    "@tauri-apps/cli": {
       "version": "*"
     },
     "@tbminiapp/lottie-miniapp": {
@@ -1109,21 +915,6 @@
       "version": "*"
     },
     "@textea/json-viewer": {
-      "version": "*"
-    },
-    "@theia/compression-webpack-plugin": {
-      "version": "*"
-    },
-    "@theia/monaco-editor-core": {
-      "version": "*"
-    },
-    "@tinyjs-plugin-three/geometries": {
-      "version": "*"
-    },
-    "@tinyjs-plugin-three/helpers": {
-      "version": "*"
-    },
-    "@tinyjs-plugin-three/math": {
       "version": "*"
     },
     "@tinyjs/tiny": {
@@ -1168,39 +959,6 @@
     "@use-it/event-listener": {
       "version": "*"
     },
-    "@valeera/blobdownloader": {
-      "version": "*"
-    },
-    "@valeera/idgenerator": {
-      "version": "*"
-    },
-    "@vanilla-extract/css": {
-      "version": "*"
-    },
-    "@vanilla-extract/webpack-plugin": {
-      "version": "*"
-    },
-    "@vibrant/color": {
-      "version": "*"
-    },
-    "@vibrant/core": {
-      "version": "*"
-    },
-    "@vibrant/generator": {
-      "version": "*"
-    },
-    "@vibrant/generator-default": {
-      "version": "*"
-    },
-    "@vibrant/image": {
-      "version": "*"
-    },
-    "@vibrant/quantizer": {
-      "version": "*"
-    },
-    "@vibrant/quantizer-mmcq": {
-      "version": "*"
-    },
     "@videojs/themes": {
       "version": "*"
     },
@@ -1235,18 +993,6 @@
       "version": "*"
     },
     "@xenova/transformers": {
-      "version": "*"
-    },
-    "@xstate/fsm": {
-      "version": "*"
-    },
-    "@xstate/immer": {
-      "version": "*"
-    },
-    "@xstate/inspect": {
-      "version": "*"
-    },
-    "@xstate/react": {
       "version": "*"
     },
     "@xzdarcy/react-timeline-editor": {
