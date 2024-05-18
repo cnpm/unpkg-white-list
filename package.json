@@ -255,6 +255,21 @@
     "@alilc/lowcode-utils": {
       "version": "*"
     },
+    "@alipay/faas-web-sdk": {
+      "version": "*"
+    },
+    "@alipay/faas-server-sdk": {
+      "version": "*"
+    },
+    "@alipay/faas-db-builder": {
+      "version": "*"
+    },
+    "@alipay/faas-common-sdk": {
+      "version": "*"
+    },
+    "@alipay/faas-server-utils": {
+      "version": "*"
+    },
     "@alipay-inc/mpaas-device-fingerprint-sdk": {
       "version": "*"
     },
