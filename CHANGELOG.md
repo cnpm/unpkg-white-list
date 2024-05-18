@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/cnpm/unpkg-white-list/compare/v1.1.0...v1.2.0) (2024-05-18)
+
+
+### Features
+
+* support allow scopes ([#3](https://github.com/cnpm/unpkg-white-list/issues/3)) ([6e1b821](https://github.com/cnpm/unpkg-white-list/commit/6e1b821e63136ade3430fa3351a51eb07d249094))
+
 ## [1.1.0](https://github.com/cnpm/unpkg-white-list/compare/v1.0.0...v1.1.0) (2024-05-18)
 
 
