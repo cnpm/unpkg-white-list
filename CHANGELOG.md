@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/cnpm/unpkg-white-list/compare/v1.3.0...v1.4.0) (2024-05-18)
+
+
+### Features
+
+* add [@iyawoqu](https://github.com/iyawoqu) scope ([#6](https://github.com/cnpm/unpkg-white-list/issues/6)) ([afad10f](https://github.com/cnpm/unpkg-white-list/commit/afad10f0781cd3f14e51b43e551bea2cf0d43376))
+
 ## [1.3.0](https://github.com/cnpm/unpkg-white-list/compare/v1.2.1...v1.3.0) (2024-05-18)
 
 
