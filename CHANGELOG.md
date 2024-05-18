@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/cnpm/unpkg-white-list/compare/v1.4.0...v1.5.0) (2024-05-18)
+
+
+### Features
+
+* add [@opentiny](https://github.com/opentiny) white-list ([#7](https://github.com/cnpm/unpkg-white-list/issues/7)) ([b2f86ae](https://github.com/cnpm/unpkg-white-list/commit/b2f86ae04fe5d305ab8894d75373c70ca6faf0b3))
+
 ## [1.4.0](https://github.com/cnpm/unpkg-white-list/compare/v1.3.0...v1.4.0) (2024-05-18)
 
 
