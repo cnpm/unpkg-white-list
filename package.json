@@ -75,6 +75,7 @@
     "@lerna",
     "@lingui",
     "@mapbox",
+    "@maptalks",
     "@mas.io",
     "@microsoft",
     "@miniu",
@@ -9064,6 +9065,9 @@
     "mapbox-gl-draw-rectangle-mode": {
       "version": "*"
     },
+    "maptalks": {
+      "version": "*"
+    },
     "mariadb": {
       "version": "*"
     },
@@ -17582,6 +17586,12 @@
       "version": "*"
     },
     "zy-count-up": {
+      "version": "*"
+    },
+    "@aisouler/gkd_subscription": {
+      "version": "*"
+    },
+    "@aisouler/subscription": {
       "version": "*"
     }
   }
