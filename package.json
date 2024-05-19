@@ -3063,6 +3063,9 @@
     "cli-ux": {
       "version": "*"
     },
+    "clientworker": {
+      "version": "*"
+    },
     "clipboard": {
       "version": "*"
     },
