@@ -17582,6 +17582,12 @@
     },
     "zy-count-up": {
       "version": "*"
+    },
+    "@aisouler/gkd_subscription": {
+      "version": "*"
+    },
+    "@aisouler/subscription": {
+      "version": "*"
     }
   }
 }
