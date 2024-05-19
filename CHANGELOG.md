@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0](https://github.com/cnpm/unpkg-white-list/compare/v1.6.0...v1.7.0) (2024-05-19)
+
+
+### Features
+
+* add clientworker ([#9](https://github.com/cnpm/unpkg-white-list/issues/9)) ([9f9d6d5](https://github.com/cnpm/unpkg-white-list/commit/9f9d6d5d37f51825d561b2612928277a324ce186))
+
 ## [1.6.0](https://github.com/cnpm/unpkg-white-list/compare/v1.5.0...v1.6.0) (2024-05-18)
 
 
