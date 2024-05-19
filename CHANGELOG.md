@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.8.0](https://github.com/cnpm/unpkg-white-list/compare/v1.7.0...v1.8.0) (2024-05-19)
+
+
+### Features
+
+* add [@chenyfan](https://github.com/chenyfan) ([#11](https://github.com/cnpm/unpkg-white-list/issues/11)) ([d668a0c](https://github.com/cnpm/unpkg-white-list/commit/d668a0cfab645e4f42891f2158ace54887e5a05a))
+* add maptalks ([#10](https://github.com/cnpm/unpkg-white-list/issues/10)) ([fb90c85](https://github.com/cnpm/unpkg-white-list/commit/fb90c8538e1925ee8b19b45efa6dafea5874b524))
+* add packages ([#12](https://github.com/cnpm/unpkg-white-list/issues/12)) ([47ca408](https://github.com/cnpm/unpkg-white-list/commit/47ca4085453dc4d0d83c181af2f4897892b27298))
+
 ## [1.7.0](https://github.com/cnpm/unpkg-white-list/compare/v1.6.0...v1.7.0) (2024-05-19)
 
 
