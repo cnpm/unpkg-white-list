@@ -74,6 +74,7 @@
     "@lerna",
     "@lingui",
     "@mapbox",
+    "@maptalks",
     "@mas.io",
     "@microsoft",
     "@miniu",
@@ -9061,6 +9062,9 @@
       "version": "*"
     },
     "mapbox-gl-draw-rectangle-mode": {
+      "version": "*"
+    },
+    "maptalks": {
       "version": "*"
     },
     "mariadb": {
