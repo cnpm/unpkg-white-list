@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.13.0](https://github.com/cnpm/unpkg-white-list/compare/v1.12.0...v1.13.0) (2024-05-20)
+
+
+### Features
+
+* add @muxunorg/mxorg-client package ([#20](https://github.com/cnpm/unpkg-white-list/issues/20)) ([0162ea2](https://github.com/cnpm/unpkg-white-list/commit/0162ea2a0a3030b97bf0543736419f7f4c9abdd4))
+
 ## [1.12.0](https://github.com/cnpm/unpkg-white-list/compare/v1.11.0...v1.12.0) (2024-05-20)
 
 
