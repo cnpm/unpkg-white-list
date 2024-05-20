@@ -177,6 +177,7 @@
     "@jiakun-zhao",
     "@iyawoqu",
     "@opentiny",
+    "@electron",
     "@gkd-kit"
   ],
   "allowPackages": {
