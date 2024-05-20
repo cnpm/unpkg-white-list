@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.14.0](https://github.com/cnpm/unpkg-white-list/compare/v1.13.0...v1.14.0) (2024-05-20)
+
+
+### Features
+
+* add [@vnjuise](https://github.com/vnjuise) scope ([#22](https://github.com/cnpm/unpkg-white-list/issues/22)) ([8563389](https://github.com/cnpm/unpkg-white-list/commit/85633894f8d22a260930edd5c92120c940d1454a))
+* add xiaochuan-source-dev package ([#23](https://github.com/cnpm/unpkg-white-list/issues/23)) ([c350226](https://github.com/cnpm/unpkg-white-list/commit/c3502266f00b6bb840432c0cc3062472253d196e))
+
 ## [1.13.0](https://github.com/cnpm/unpkg-white-list/compare/v1.12.0...v1.13.0) (2024-05-20)
 
 
