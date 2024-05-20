@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.9.0](https://github.com/cnpm/unpkg-white-list/compare/v1.8.0...v1.9.0) (2024-05-20)
+
+
+### Features
+
+* add [@electron](https://github.com/electron) scope ([#14](https://github.com/cnpm/unpkg-white-list/issues/14)) ([7892c28](https://github.com/cnpm/unpkg-white-list/commit/7892c28cf0287561a053712c12db1a5177e7ee1c))
+* add [@gkd-kit](https://github.com/gkd-kit) scope ([#13](https://github.com/cnpm/unpkg-white-list/issues/13)) ([b00670b](https://github.com/cnpm/unpkg-white-list/commit/b00670b3401cac2fb138d9a5d2331850ab16cd72))
+
 ## [1.8.0](https://github.com/cnpm/unpkg-white-list/compare/v1.7.0...v1.8.0) (2024-05-19)
 
 
