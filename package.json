@@ -178,6 +178,7 @@
     "@iyawoqu",
     "@opentiny",
     "@electron",
+    "@pisell",
     "@gkd-kit"
   ],
   "allowPackages": {
