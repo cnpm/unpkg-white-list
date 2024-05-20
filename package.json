@@ -176,7 +176,8 @@
     "@reach",
     "@jiakun-zhao",
     "@iyawoqu",
-    "@opentiny"
+    "@opentiny",
+    "@gkd-kit"
   ],
   "allowPackages": {
     "zhaojiakun.com": {
