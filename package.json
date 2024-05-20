@@ -177,7 +177,8 @@
     "@jiakun-zhao",
     "@iyawoqu",
     "@opentiny",
-    "@electron"
+    "@electron",
+    "@gkd-kit"
   ],
   "allowPackages": {
     "zhaojiakun.com": {
