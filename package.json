@@ -181,6 +181,7 @@
     "@electron",
     "@pisell",
     "@gkd-kit",
+    "@muxunorg",
     "@xlaoyu"
   ],
   "allowPackages": {
@@ -17609,9 +17610,6 @@
       "version": "*"
     },
     "el-table-fixed-header": {
-      "version": "*"
-    },
-    "@muxunorg/mxorg-client": {
       "version": "*"
     },
     "v-smooth-scroll": {
