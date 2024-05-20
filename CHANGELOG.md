@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.0](https://github.com/cnpm/unpkg-white-list/compare/v1.10.0...v1.11.0) (2024-05-20)
+
+
+### Features
+
+* add mzt_sty and mzt_app packages ([#17](https://github.com/cnpm/unpkg-white-list/issues/17)) ([50ef7b6](https://github.com/cnpm/unpkg-white-list/commit/50ef7b64ef590e1327446f837b8baba01ecac190))
+
 ## [1.10.0](https://github.com/cnpm/unpkg-white-list/compare/v1.9.0...v1.10.0) (2024-05-20)
 
 
