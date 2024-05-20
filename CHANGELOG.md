@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.14.1](https://github.com/cnpm/unpkg-white-list/compare/v1.14.0...v1.14.1) (2024-05-20)
+
+
+### Bug Fixes
+
+* remove mzt_sty and mzt_app packages ([#24](https://github.com/cnpm/unpkg-white-list/issues/24)) ([d9891f8](https://github.com/cnpm/unpkg-white-list/commit/d9891f8babe02ea6fff0a4bfb396e3875f9a09ce))
+
 ## [1.14.0](https://github.com/cnpm/unpkg-white-list/compare/v1.13.0...v1.14.0) (2024-05-20)
 
 
