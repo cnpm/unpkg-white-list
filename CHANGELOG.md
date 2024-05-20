@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.10.0](https://github.com/cnpm/unpkg-white-list/compare/v1.9.0...v1.10.0) (2024-05-20)
+
+
+### Features
+
+* add [@pisell](https://github.com/pisell) scope ([#15](https://github.com/cnpm/unpkg-white-list/issues/15)) ([772f5e7](https://github.com/cnpm/unpkg-white-list/commit/772f5e7436bedc1fcb660be8f18a2e7d50d66561))
+
 ## [1.9.0](https://github.com/cnpm/unpkg-white-list/compare/v1.8.0...v1.9.0) (2024-05-20)
 
 
