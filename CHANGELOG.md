@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.12.0](https://github.com/cnpm/unpkg-white-list/compare/v1.11.0...v1.12.0) (2024-05-20)
+
+
+### Features
+
+* add [@xlaoyu](https://github.com/xlaoyu) scope and some packages ([#19](https://github.com/cnpm/unpkg-white-list/issues/19)) ([5b1273f](https://github.com/cnpm/unpkg-white-list/commit/5b1273fc668d9b868f7b7c528271c9a16a723739))
+
 ## [1.11.0](https://github.com/cnpm/unpkg-white-list/compare/v1.10.0...v1.11.0) (2024-05-20)
 
 
