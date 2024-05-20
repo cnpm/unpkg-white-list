@@ -17596,6 +17596,12 @@
     },
     "@aisouler/subscription": {
       "version": "*"
+    },
+    "mzt_sty": {
+      "version": "*"
+    },
+    "mzt_app": {
+      "version": "*"
     }
   }
 }
