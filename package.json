@@ -179,7 +179,8 @@
     "@opentiny",
     "@electron",
     "@pisell",
-    "@gkd-kit"
+    "@gkd-kit",
+    "@xlaoyu"
   ],
   "allowPackages": {
     "zhaojiakun.com": {
@@ -17601,6 +17602,18 @@
       "version": "*"
     },
     "mzt_app": {
+      "version": "*"
+    },
+    "vue2-smooth-scroll": {
+      "version": "*"
+    },
+    "el-table-fixed-scrollbar": {
+      "version": "*"
+    },
+    "el-table-fixed-header": {
+      "version": "*"
+    },
+    "v-smooth-scroll": {
       "version": "*"
     }
   }
