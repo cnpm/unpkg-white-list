@@ -40,12 +40,12 @@
 
 <!-- GITCONTRIBUTOR_START -->
 
-## 贡献者
+## Contributors
 
-|[<img src="https://avatars.githubusercontent.com/u/32174276?v=4" width="100px;"/><br/><sub><b>semantic-release-bot</b></sub>](https://github.com/semantic-release-bot)<br/>|[<img src="https://avatars.githubusercontent.com/u/156269?v=4" width="100px;"/><br/><sub><b>fengmk2</b></sub>](https://github.com/fengmk2)<br/>|[<img src="https://avatars.githubusercontent.com/u/50269993?v=4" width="100px;"/><br/><sub><b>jiakun-zhao</b></sub>](https://github.com/jiakun-zhao)<br/>|[<img src="https://avatars.githubusercontent.com/u/26962197?v=4" width="100px;"/><br/><sub><b>chilingling</b></sub>](https://github.com/chilingling)<br/>|[<img src="https://avatars.githubusercontent.com/u/55302758?v=4" width="100px;"/><br/><sub><b>122cygf</b></sub>](https://github.com/122cygf)<br/>|
-| :---: | :---: | :---: | :---: | :---: |
+|[<img src="https://avatars.githubusercontent.com/u/32174276?v=4" width="100px;"/><br/><sub><b>semantic-release-bot</b></sub>](https://github.com/semantic-release-bot)<br/>|[<img src="https://avatars.githubusercontent.com/u/156269?v=4" width="100px;"/><br/><sub><b>fengmk2</b></sub>](https://github.com/fengmk2)<br/>|[<img src="https://avatars.githubusercontent.com/u/53730587?v=4" width="100px;"/><br/><sub><b>ChenYFan</b></sub>](https://github.com/ChenYFan)<br/>|[<img src="https://avatars.githubusercontent.com/u/57941037?v=4" width="100px;"/><br/><sub><b>AIsouler</b></sub>](https://github.com/AIsouler)<br/>|[<img src="https://avatars.githubusercontent.com/u/1191515?v=4" width="100px;"/><br/><sub><b>ydfzgyj</b></sub>](https://github.com/ydfzgyj)<br/>|[<img src="https://avatars.githubusercontent.com/u/50269993?v=4" width="100px;"/><br/><sub><b>jiakun-zhao</b></sub>](https://github.com/jiakun-zhao)<br/>|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+[<img src="https://avatars.githubusercontent.com/u/8198408?v=4" width="100px;"/><br/><sub><b>BlackHole1</b></sub>](https://github.com/BlackHole1)<br/>|[<img src="https://avatars.githubusercontent.com/u/83338746?v=4" width="100px;"/><br/><sub><b>abuits</b></sub>](https://github.com/abuits)<br/>|[<img src="https://avatars.githubusercontent.com/u/26962197?v=4" width="100px;"/><br/><sub><b>chilingling</b></sub>](https://github.com/chilingling)<br/>|[<img src="https://avatars.githubusercontent.com/u/55302758?v=4" width="100px;"/><br/><sub><b>122cygf</b></sub>](https://github.com/122cygf)<br/>|[<img src="https://avatars.githubusercontent.com/u/142392685?v=4" width="100px;"/><br/><sub><b>zsj9705</b></sub>](https://github.com/zsj9705)<br/>|[<img src="https://avatars.githubusercontent.com/u/38517192?v=4" width="100px;"/><br/><sub><b>lisonge</b></sub>](https://github.com/lisonge)<br/>
 
-
-[git-contributor 说明](https://github.com/xudafeng/git-contributor)，自动生成时间：`Sun May 19 2024 00:36:24 GMT+0800`。
+This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Mon May 20 2024 13:39:03 GMT+0800`.
 
 <!-- GITCONTRIBUTOR_END -->

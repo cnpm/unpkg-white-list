@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.13.0](https://github.com/cnpm/unpkg-white-list/compare/v1.12.0...v1.13.0) (2024-05-20)
+
+
+### Features
+
+* add @muxunorg/mxorg-client package ([#20](https://github.com/cnpm/unpkg-white-list/issues/20)) ([0162ea2](https://github.com/cnpm/unpkg-white-list/commit/0162ea2a0a3030b97bf0543736419f7f4c9abdd4))
+
+## [1.12.0](https://github.com/cnpm/unpkg-white-list/compare/v1.11.0...v1.12.0) (2024-05-20)
+
+
+### Features
+
+* add [@xlaoyu](https://github.com/xlaoyu) scope and some packages ([#19](https://github.com/cnpm/unpkg-white-list/issues/19)) ([5b1273f](https://github.com/cnpm/unpkg-white-list/commit/5b1273fc668d9b868f7b7c528271c9a16a723739))
+
+## [1.11.0](https://github.com/cnpm/unpkg-white-list/compare/v1.10.0...v1.11.0) (2024-05-20)
+
+
+### Features
+
+* add mzt_sty and mzt_app packages ([#17](https://github.com/cnpm/unpkg-white-list/issues/17)) ([50ef7b6](https://github.com/cnpm/unpkg-white-list/commit/50ef7b64ef590e1327446f837b8baba01ecac190))
+
 ## [1.10.0](https://github.com/cnpm/unpkg-white-list/compare/v1.9.0...v1.10.0) (2024-05-20)
 
 

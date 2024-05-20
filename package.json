@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.10.0",
+  "version": "1.13.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -179,7 +179,8 @@
     "@opentiny",
     "@electron",
     "@pisell",
-    "@gkd-kit"
+    "@gkd-kit",
+    "@xlaoyu"
   ],
   "allowPackages": {
     "zhaojiakun.com": {
@@ -17598,6 +17599,27 @@
       "version": "*"
     },
     "@aisouler/subscription": {
+      "version": "*"
+    },
+    "mzt_sty": {
+      "version": "*"
+    },
+    "mzt_app": {
+      "version": "*"
+    },
+    "vue2-smooth-scroll": {
+      "version": "*"
+    },
+    "el-table-fixed-scrollbar": {
+      "version": "*"
+    },
+    "el-table-fixed-header": {
+      "version": "*"
+    },
+    "@muxunorg/mxorg-client": {
+      "version": "*"
+    },
+    "v-smooth-scroll": {
       "version": "*"
     }
   }
