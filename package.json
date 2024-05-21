@@ -184,7 +184,7 @@
     "@xlaoyu",
     "@clicli",
     "@yse",
-    "@webcomponents",
+    "@webcomponents"
   ],
   "allowPackages": {
     "zhaojiakun.com": {
