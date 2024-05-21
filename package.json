@@ -6261,6 +6261,9 @@
     "giturl": {
       "version": "*"
     },
+    "gkd-subscription": {
+      "version": "*"
+    },
     "gl-matrix": {
       "version": "*"
     },
