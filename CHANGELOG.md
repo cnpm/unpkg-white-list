@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.15.0](https://github.com/cnpm/unpkg-white-list/compare/v1.14.1...v1.15.0) (2024-05-21)
+
+
+### Features
+
+* add [@kne](https://github.com/kne) and [@kne-components](https://github.com/kne-components) ([#27](https://github.com/cnpm/unpkg-white-list/issues/27)) ([436e078](https://github.com/cnpm/unpkg-white-list/commit/436e0781471308191e6c7f4a4b881e34df460fc4))
+* add [@muxunorg](https://github.com/muxunorg) ([#25](https://github.com/cnpm/unpkg-white-list/issues/25)) ([39969cf](https://github.com/cnpm/unpkg-white-list/commit/39969cf194522f9aeff0a9672a0de74d2bb72400))
+* add @aoguai/subscription ([#29](https://github.com/cnpm/unpkg-white-list/issues/29)) ([9a347cb](https://github.com/cnpm/unpkg-white-list/commit/9a347cb11a2b1b7b1894b3b0c3345e45539a1e31))
+* add packages: emoji-cst, kjua, assets-retry, editor.md, uppy ([#26](https://github.com/cnpm/unpkg-white-list/issues/26)) ([09c57c7](https://github.com/cnpm/unpkg-white-list/commit/09c57c78c3fd2a7c341bd854da29551496012a15))
+* add scopes and packages ([#28](https://github.com/cnpm/unpkg-white-list/issues/28)) ([3e5c829](https://github.com/cnpm/unpkg-white-list/commit/3e5c8292cbef0316eb1b045ae512b7f820aa193c))
+* add zwork ([#30](https://github.com/cnpm/unpkg-white-list/issues/30)) ([99a2722](https://github.com/cnpm/unpkg-white-list/commit/99a272233d133ef33a61c1739915ff95a31f8f5b))
+
 ## [1.14.1](https://github.com/cnpm/unpkg-white-list/compare/v1.14.0...v1.14.1) (2024-05-20)
 
 
