@@ -17616,6 +17616,9 @@
     },
     "v-smooth-scroll": {
       "version": "*"
+    },
+    "zwork": {
+      "version": "*"
     }
   }
 }
