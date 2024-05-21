@@ -182,7 +182,9 @@
     "@pisell",
     "@gkd-kit",
     "@muxunorg",
-    "@xlaoyu"
+    "@xlaoyu",
+    "@kne",
+    "@kne-components"
   ],
   "allowPackages": {
     "zhaojiakun.com": {
