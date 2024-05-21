@@ -181,7 +181,10 @@
     "@electron",
     "@pisell",
     "@gkd-kit",
-    "@xlaoyu"
+    "@xlaoyu",
+    "@clicli",
+    "fre",
+    "eplayer"
   ],
   "allowPackages": {
     "zhaojiakun.com": {
