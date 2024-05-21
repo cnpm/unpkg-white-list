@@ -17645,6 +17645,9 @@
     },
     "zwork": {
       "version": "*"
+    },
+    "zstatics": {
+      "version": "*"
     }
   }
 }
