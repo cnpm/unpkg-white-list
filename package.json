@@ -181,7 +181,10 @@
     "@electron",
     "@pisell",
     "@gkd-kit",
-    "@xlaoyu"
+    "@muxunorg",
+    "@xlaoyu",
+    "@kne",
+    "@kne-components"
   ],
   "allowPackages": {
     "zhaojiakun.com": {
@@ -17609,9 +17612,6 @@
       "version": "*"
     },
     "el-table-fixed-header": {
-      "version": "*"
-    },
-    "@muxunorg/mxorg-client": {
       "version": "*"
     },
     "v-smooth-scroll": {
