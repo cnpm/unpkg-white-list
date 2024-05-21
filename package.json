@@ -181,7 +181,9 @@
     "@electron",
     "@pisell",
     "@gkd-kit",
-    "@xlaoyu"
+    "@xlaoyu",
+    "@kne",
+    "@kne-components"
   ],
   "allowPackages": {
     "zhaojiakun.com": {
