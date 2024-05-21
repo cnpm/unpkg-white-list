@@ -181,8 +181,10 @@
     "@electron",
     "@pisell",
     "@gkd-kit",
-    "@muxunorg",
     "@xlaoyu",
+    "@clicli",
+    "@yse",
+    "@muxunorg",
     "@kne",
     "@kne-components"
   ],
@@ -4933,6 +4935,9 @@
     "ep-open-tool-mini": {
       "version": "*"
     },
+    "eplayer": {
+      "version": "*"
+    },
     "ero": {
       "version": "*"
     },
@@ -6005,6 +6010,9 @@
       "version": "*"
     },
     "frappe-gantt": {
+      "version": "*"
+    },
+    "fre": {
       "version": "*"
     },
     "free-tex-packer-core": {
