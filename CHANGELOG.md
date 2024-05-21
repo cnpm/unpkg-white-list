@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.0](https://github.com/cnpm/unpkg-white-list/compare/v1.16.0...v1.17.0) (2024-05-21)
+
+
+### Features
+
+* add [@wener](https://github.com/wener) ([#33](https://github.com/cnpm/unpkg-white-list/issues/33)) ([3625dee](https://github.com/cnpm/unpkg-white-list/commit/3625dee389f3d9ca97444f322c218666caa373fb))
+
 ## [1.16.0](https://github.com/cnpm/unpkg-white-list/compare/v1.15.0...v1.16.0) (2024-05-21)
 
 
