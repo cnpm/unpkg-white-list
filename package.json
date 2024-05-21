@@ -181,7 +181,12 @@
     "@electron",
     "@pisell",
     "@gkd-kit",
-    "@xlaoyu"
+    "@xlaoyu",
+    "@clicli",
+    "@yse",
+    "@muxunorg",
+    "@kne",
+    "@kne-components"
   ],
   "allowPackages": {
     "zhaojiakun.com": {
@@ -4930,6 +4935,9 @@
     "ep-open-tool-mini": {
       "version": "*"
     },
+    "eplayer": {
+      "version": "*"
+    },
     "ero": {
       "version": "*"
     },
@@ -6002,6 +6010,9 @@
       "version": "*"
     },
     "frappe-gantt": {
+      "version": "*"
+    },
+    "fre": {
       "version": "*"
     },
     "free-tex-packer-core": {
@@ -17611,10 +17622,25 @@
     "el-table-fixed-header": {
       "version": "*"
     },
-    "@muxunorg/mxorg-client": {
+    "v-smooth-scroll": {
       "version": "*"
     },
-    "v-smooth-scroll": {
+    "emoji-cst": {
+      "version": "*"
+    },
+    "kjua": {
+      "version": "*"
+    },
+    "assets-retry": {
+      "version": "*"
+    },
+    "editor.md": {
+      "version": "*"
+    },
+    "uppy": {
+      "version": "*"
+    },
+    "@aoguai/subscription": {
       "version": "*"
     },
     "zwork": {
