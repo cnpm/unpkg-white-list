@@ -17631,6 +17631,9 @@
     },
     "uppy": {
       "version": "*"
+    },
+    "@aoguai/subscription": {
+      "version": "*"
     }
   }
 }
