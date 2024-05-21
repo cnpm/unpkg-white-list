@@ -183,8 +183,12 @@
     "@gkd-kit",
     "@xlaoyu",
     "@clicli",
+    "@yse",
+    "@webcomponents",
     "fre",
-    "eplayer"
+    "eplayer",
+    "cliclimde",
+    "hls.js"
   ],
   "allowPackages": {
     "zhaojiakun.com": {
