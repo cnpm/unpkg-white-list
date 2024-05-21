@@ -181,6 +181,7 @@
     "@electron",
     "@pisell",
     "@gkd-kit",
+    "@muxunorg",
     "@xlaoyu",
     "@kne",
     "@kne-components"
@@ -17611,9 +17612,6 @@
       "version": "*"
     },
     "el-table-fixed-header": {
-      "version": "*"
-    },
-    "@muxunorg/mxorg-client": {
       "version": "*"
     },
     "v-smooth-scroll": {
