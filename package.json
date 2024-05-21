@@ -186,8 +186,7 @@
     "@yse",
     "@muxunorg",
     "@kne",
-    "@kne-components",
-    "@wener"
+    "@kne-components"
   ],
   "allowPackages": {
     "zhaojiakun.com": {
