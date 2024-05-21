@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.16.0](https://github.com/cnpm/unpkg-white-list/compare/v1.15.0...v1.16.0) (2024-05-21)
+
+
+### Features
+
+* add gkd-subscription ([#32](https://github.com/cnpm/unpkg-white-list/issues/32)) ([2feacff](https://github.com/cnpm/unpkg-white-list/commit/2feacff1cf7b4c3f37a3d2a3de1b9a50c5693fe4))
+
 ## [1.15.0](https://github.com/cnpm/unpkg-white-list/compare/v1.14.1...v1.15.0) (2024-05-21)
 
 
