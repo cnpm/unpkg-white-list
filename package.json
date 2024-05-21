@@ -185,10 +185,6 @@
     "@clicli",
     "@yse",
     "@webcomponents",
-    "fre",
-    "eplayer",
-    "cliclimde",
-    "hls.js"
   ],
   "allowPackages": {
     "zhaojiakun.com": {
@@ -4937,6 +4933,9 @@
     "ep-open-tool-mini": {
       "version": "*"
     },
+    "eplayer": {
+      "version": "*"
+    },
     "ero": {
       "version": "*"
     },
@@ -6009,6 +6008,9 @@
       "version": "*"
     },
     "frappe-gantt": {
+      "version": "*"
+    },
+    "fre": {
       "version": "*"
     },
     "free-tex-packer-core": {
