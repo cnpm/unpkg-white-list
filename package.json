@@ -17616,6 +17616,21 @@
     },
     "v-smooth-scroll": {
       "version": "*"
+    },
+    "emoji-cst": {
+      "version": "*"
+    },
+    "kjua": {
+      "version": "*"
+    },
+    "assets-retry": {
+      "version": "*"
+    },
+    "editor.md": {
+      "version": "*"
+    },
+    "uppy": {
+      "version": "*"
     }
   }
 }
