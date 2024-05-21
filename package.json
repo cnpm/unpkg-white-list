@@ -181,7 +181,10 @@
     "@electron",
     "@pisell",
     "@gkd-kit",
-    "@xlaoyu"
+    "@muxunorg",
+    "@xlaoyu",
+    "@kne",
+    "@kne-components"
   ],
   "allowPackages": {
     "zhaojiakun.com": {
@@ -17611,10 +17614,22 @@
     "el-table-fixed-header": {
       "version": "*"
     },
-    "@muxunorg/mxorg-client": {
+    "v-smooth-scroll": {
       "version": "*"
     },
-    "v-smooth-scroll": {
+    "emoji-cst": {
+      "version": "*"
+    },
+    "kjua": {
+      "version": "*"
+    },
+    "assets-retry": {
+      "version": "*"
+    },
+    "editor.md": {
+      "version": "*"
+    },
+    "uppy": {
       "version": "*"
     },
     "@aoguai/subscription": {
