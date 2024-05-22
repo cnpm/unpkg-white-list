@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.19.0](https://github.com/cnpm/unpkg-white-list/compare/v1.18.0...v1.19.0) (2024-05-22)
+
+
+### Features
+
+* add "985-manager" and "sky-manager" ([#38](https://github.com/cnpm/unpkg-white-list/issues/38)) ([34434bf](https://github.com/cnpm/unpkg-white-list/commit/34434bf41e9ac73d3a5df2c19650caf79ccb036e))
+
 ## [1.18.0](https://github.com/cnpm/unpkg-white-list/compare/v1.17.0...v1.18.0) (2024-05-22)
 
 
