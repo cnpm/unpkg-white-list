@@ -189,10 +189,14 @@
     "@kne-components",
     "@wener",
     "@hkyhy",
-    "@tomjs"
+    "@tomjs",
+    "@lyq2"
   ],
   "allowPackages": {
     "985-manager-client": {
+      "version": "*"
+    },
+    "lyq2": {
       "version": "*"
     },
     "sky-manager-client": {
