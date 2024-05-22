@@ -188,7 +188,8 @@
     "@kne",
     "@kne-components",
     "@wener",
-    "@hkyhy"
+    "@hkyhy",
+    "@tomjs"
   ],
   "allowPackages": {
     "985-manager-client": {
