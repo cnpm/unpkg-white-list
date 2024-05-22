@@ -191,6 +191,12 @@
     "@hkyhy"
   ],
   "allowPackages": {
+    "985-manager-client": {
+      "version": "*"
+    },
+    "sky-manager-client": {
+      "version": "*"
+    },
     "985-manager": {
       "version": "*"
     },
