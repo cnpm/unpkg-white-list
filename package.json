@@ -191,6 +191,12 @@
     "@hkyhy"
   ],
   "allowPackages": {
+    "985-manager": {
+      "version": "*"
+    },
+    "sky-manager": {
+      "version": "*"
+    },
     "zhaojiakun.com": {
       "version": "*"
     },
