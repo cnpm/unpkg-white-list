@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.21.0](https://github.com/cnpm/unpkg-white-list/compare/v1.20.0...v1.21.0) (2024-05-22)
+
+
+### Features
+
+* add [@tomjs](https://github.com/tomjs) ([#40](https://github.com/cnpm/unpkg-white-list/issues/40)) ([7934c85](https://github.com/cnpm/unpkg-white-list/commit/7934c853c2b971af4bc3f73921c752fc791a5cba))
+
 ## [1.20.0](https://github.com/cnpm/unpkg-white-list/compare/v1.19.0...v1.20.0) (2024-05-22)
 
 
