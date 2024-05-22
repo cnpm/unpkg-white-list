@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.18.0](https://github.com/cnpm/unpkg-white-list/compare/v1.17.0...v1.18.0) (2024-05-22)
+
+
+### Features
+
+* add [@hkyhy](https://github.com/hkyhy) ([#36](https://github.com/cnpm/unpkg-white-list/issues/36)) ([78018f1](https://github.com/cnpm/unpkg-white-list/commit/78018f1d3fe0abab4078e614600e32715625ec24))
+
 ## [1.17.0](https://github.com/cnpm/unpkg-white-list/compare/v1.16.0...v1.17.0) (2024-05-21)
 
 
