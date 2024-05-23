@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.22.0](https://github.com/cnpm/unpkg-white-list/compare/v1.21.0...v1.22.0) (2024-05-23)
+
+
+### Features
+
+* add @ganlinte/gkd-subscription ([#43](https://github.com/cnpm/unpkg-white-list/issues/43)) ([5a71b25](https://github.com/cnpm/unpkg-white-list/commit/5a71b25effde32f9586f8b80311a5b978b6d4590))
+* jspdf-pro ([#42](https://github.com/cnpm/unpkg-white-list/issues/42)) ([23e154f](https://github.com/cnpm/unpkg-white-list/commit/23e154f7d956c8e2a9d9b6a69b0614dec8fa79cc))
+
 ## [1.21.0](https://github.com/cnpm/unpkg-white-list/compare/v1.20.0...v1.21.0) (2024-05-22)
 
 
