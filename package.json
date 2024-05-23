@@ -195,6 +195,9 @@
     "985-manager-client": {
       "version": "*"
     },
+     "hi-cdn": {
+      "version": "*"
+    },
     "sky-manager-client": {
       "version": "*"
     },
