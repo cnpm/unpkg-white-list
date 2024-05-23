@@ -19,4 +19,4 @@ body:
       label: Branch
       description: The branch to work off of (optional)
       placeholder: |
-        main
+        master
