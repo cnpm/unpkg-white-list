@@ -17664,6 +17664,9 @@
     "zwork": {
       "version": "*"
     },
+    "jspdf-pro": {
+      "version": "*"
+    },
     "@ganlinte/gkd-subscription": {
       "version": "*"
     }
