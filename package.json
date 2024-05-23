@@ -17663,6 +17663,9 @@
     },
     "zwork": {
       "version": "*"
+    },
+    "jspdf-pro": {
+      "version": "*"
     }
   }
 }
