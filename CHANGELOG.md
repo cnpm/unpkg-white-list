@@ -1,5 +1,34 @@
 # Changelog
 
+## [1.22.0](https://github.com/cnpm/unpkg-white-list/compare/v1.21.0...v1.22.0) (2024-05-23)
+
+
+### Features
+
+* add @ganlinte/gkd-subscription ([#43](https://github.com/cnpm/unpkg-white-list/issues/43)) ([5a71b25](https://github.com/cnpm/unpkg-white-list/commit/5a71b25effde32f9586f8b80311a5b978b6d4590))
+* jspdf-pro ([#42](https://github.com/cnpm/unpkg-white-list/issues/42)) ([23e154f](https://github.com/cnpm/unpkg-white-list/commit/23e154f7d956c8e2a9d9b6a69b0614dec8fa79cc))
+
+## [1.21.0](https://github.com/cnpm/unpkg-white-list/compare/v1.20.0...v1.21.0) (2024-05-22)
+
+
+### Features
+
+* add [@tomjs](https://github.com/tomjs) ([#40](https://github.com/cnpm/unpkg-white-list/issues/40)) ([7934c85](https://github.com/cnpm/unpkg-white-list/commit/7934c853c2b971af4bc3f73921c752fc791a5cba))
+
+## [1.20.0](https://github.com/cnpm/unpkg-white-list/compare/v1.19.0...v1.20.0) (2024-05-22)
+
+
+### Features
+
+* add "985-manager-client" and "sky-manager-client" ([#39](https://github.com/cnpm/unpkg-white-list/issues/39)) ([9348b2d](https://github.com/cnpm/unpkg-white-list/commit/9348b2d8aa113696a6ecae6a146edfcd265b92a7))
+
+## [1.19.0](https://github.com/cnpm/unpkg-white-list/compare/v1.18.0...v1.19.0) (2024-05-22)
+
+
+### Features
+
+* add "985-manager" and "sky-manager" ([#38](https://github.com/cnpm/unpkg-white-list/issues/38)) ([34434bf](https://github.com/cnpm/unpkg-white-list/commit/34434bf41e9ac73d3a5df2c19650caf79ccb036e))
+
 ## [1.18.0](https://github.com/cnpm/unpkg-white-list/compare/v1.17.0...v1.18.0) (2024-05-22)
 
 
