@@ -192,6 +192,9 @@
     "@tomjs"
   ],
   "allowPackages": {
+    "image-size-v2": {
+      "version": "*"
+    },
     "985-manager-client": {
       "version": "*"
     },
