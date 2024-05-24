@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.24.0](https://github.com/cnpm/unpkg-white-list/compare/v1.23.0...v1.24.0) (2024-05-24)
+
+
+### Features
+
+* add [@lobehub](https://github.com/lobehub) ([#48](https://github.com/cnpm/unpkg-white-list/issues/48)) ([1992c2a](https://github.com/cnpm/unpkg-white-list/commit/1992c2a3bdc1a5520e0262aedd0c1872ebffdf0a))
+
 ## [1.23.0](https://github.com/cnpm/unpkg-white-list/compare/v1.22.0...v1.23.0) (2024-05-24)
 
 
