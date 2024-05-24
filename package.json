@@ -74,6 +74,7 @@
     "@koa",
     "@lerna",
     "@lingui",
+    "@lobehub",
     "@mapbox",
     "@maptalks",
     "@mas.io",
