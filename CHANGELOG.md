@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.25.0](https://github.com/cnpm/unpkg-white-list/compare/v1.24.0...v1.25.0) (2024-05-24)
+
+
+### Features
+
+* add some  packages about `iconify-icon` ([#50](https://github.com/cnpm/unpkg-white-list/issues/50)) ([cf83b7f](https://github.com/cnpm/unpkg-white-list/commit/cf83b7fb169e8792078f31812b92957e2a04ad7d))
+
 ## [1.24.0](https://github.com/cnpm/unpkg-white-list/compare/v1.23.0...v1.24.0) (2024-05-24)
 
 
