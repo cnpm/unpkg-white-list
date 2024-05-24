@@ -69,6 +69,9 @@
     "@goldfishjs",
     "@googlemaps",
     "@icedesign",
+    "@iconify",
+    "@iconify-icon",
+    "@iconify-icons",
     "@iconify-json",
     "@jupyterlab",
     "@koa",
@@ -191,8 +194,7 @@
     "@wener",
     "@hkyhy",
     "@tomjs",
-    "@fesjs",
-    "@douyinfe"
+    "@fesjs"
   ],
   "allowPackages": {
     "985-manager-client": {
@@ -541,18 +543,6 @@
       "version": "*"
     },
     "@iconfu/svg-inject": {
-      "version": "*"
-    },
-    "@iconify-icon/react": {
-      "version": "*"
-    },
-    "@iconify-icons/codicon": {
-      "version": "*"
-    },
-    "@iconify/react": {
-      "version": "*"
-    },
-    "@iconify/tools": {
       "version": "*"
     },
     "@icons/material": {
@@ -7120,6 +7110,9 @@
       "version": "*"
     },
     "iclipboard": {
+      "version": "*"
+    },
+    "iconify-icon": {
       "version": "*"
     },
     "iconv": {
