@@ -194,7 +194,8 @@
     "@wener",
     "@hkyhy",
     "@tomjs",
-    "@fesjs"
+    "@fesjs",
+    "@douyinfe"
   ],
   "allowPackages": {
     "985-manager-client": {
