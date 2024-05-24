@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.23.0](https://github.com/cnpm/unpkg-white-list/compare/v1.22.0...v1.23.0) (2024-05-24)
+
+
+### Features
+
+* add [@fesjs](https://github.com/fesjs) ([#47](https://github.com/cnpm/unpkg-white-list/issues/47)) ([b35fe1e](https://github.com/cnpm/unpkg-white-list/commit/b35fe1e9785cb075be6526389b4f8d787d372101))
+
 ## [1.22.0](https://github.com/cnpm/unpkg-white-list/compare/v1.21.0...v1.22.0) (2024-05-23)
 
 
