@@ -198,6 +198,9 @@
     "@douyinfe"
   ],
   "allowPackages": {
+    "alist-web": {
+      "version": "*"
+    },
     "985-manager-client": {
       "version": "*"
     },
