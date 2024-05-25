@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.27.0](https://github.com/cnpm/unpkg-white-list/compare/v1.26.0...v1.27.0) (2024-05-25)
+
+
+### Features
+
+* add `[@unocss](https://github.com/unocss)` scope ([#52](https://github.com/cnpm/unpkg-white-list/issues/52)) ([921f9ac](https://github.com/cnpm/unpkg-white-list/commit/921f9ac008c2368065d6819dc63f38f77ea3c018))
+
 ## [1.26.0](https://github.com/cnpm/unpkg-white-list/compare/v1.25.0...v1.26.0) (2024-05-25)
 
 
