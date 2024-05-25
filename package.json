@@ -115,6 +115,7 @@
     "@uiw",
     "@umijs",
     "@uni",
+    "@unocss",
     "@vercel",
     "@videojs-player",
     "@vitejs",
@@ -976,9 +977,6 @@
       "version": "*"
     },
     "@ungap/structured-clone": {
-      "version": "*"
-    },
-    "@unocss/cli": {
       "version": "*"
     },
     "@uone/u-clip": {
