@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.26.0](https://github.com/cnpm/unpkg-white-list/compare/v1.25.0...v1.26.0) (2024-05-25)
+
+
+### Features
+
+* add alist-web ([#51](https://github.com/cnpm/unpkg-white-list/issues/51)) ([f444739](https://github.com/cnpm/unpkg-white-list/commit/f444739d32653d5e519c68d1d39619b355dccd85))
+
 ## [1.25.0](https://github.com/cnpm/unpkg-white-list/compare/v1.24.0...v1.25.0) (2024-05-24)
 
 
