@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.28.0](https://github.com/cnpm/unpkg-white-list/compare/v1.27.0...v1.28.0) (2024-05-26)
+
+
+### Features
+
+* add luckyphoenix ([#53](https://github.com/cnpm/unpkg-white-list/issues/53)) ([6c85dfa](https://github.com/cnpm/unpkg-white-list/commit/6c85dfa1b08db491572849cf3a4a3d3531460084))
+
 ## [1.27.0](https://github.com/cnpm/unpkg-white-list/compare/v1.26.0...v1.27.0) (2024-05-25)
 
 
