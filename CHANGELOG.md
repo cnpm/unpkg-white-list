@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.29.0](https://github.com/cnpm/unpkg-white-list/compare/v1.28.0...v1.29.0) (2024-05-27)
+
+
+### Features
+
+* add pyodide-files ([#55](https://github.com/cnpm/unpkg-white-list/issues/55)) ([9f3370e](https://github.com/cnpm/unpkg-white-list/commit/9f3370eaf22c8e2e68befac7bcd30dd0dc911411))
+
 ## [1.28.0](https://github.com/cnpm/unpkg-white-list/compare/v1.27.0...v1.28.0) (2024-05-26)
 
 
