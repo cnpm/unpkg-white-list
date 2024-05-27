@@ -11263,6 +11263,9 @@
     "px2rem-webpack-plugin": {
       "version": "*"
     },
+    "pyodide-files": {
+      "version": "*"
+    },
     "q": {
       "version": "*"
     },
