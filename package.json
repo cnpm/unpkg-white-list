@@ -8547,6 +8547,9 @@
     "lib-flexible": {
       "version": "*"
     },
+    "libarchive.js": {
+      "version": "*"
+    },
     "libgif": {
       "version": "*"
     },
@@ -15460,6 +15463,9 @@
       "version": "*"
     },
     "tesseract.js": {
+      "version": "*"
+    },
+    "tesseract.js-core": {
       "version": "*"
     },
     "test-exclude": {
