@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.35.0](https://github.com/cnpm/unpkg-white-list/compare/v1.34.0...v1.35.0) (2024-05-29)
+
+
+### Features
+
+* Add xgplayer plugin packages ([#62](https://github.com/cnpm/unpkg-white-list/issues/62)) ([9fcebc3](https://github.com/cnpm/unpkg-white-list/commit/9fcebc36a751c5a684d6c1ba2cd0ec0751299599))
+
 ## [1.34.0](https://github.com/cnpm/unpkg-white-list/compare/v1.33.0...v1.34.0) (2024-05-29)
 
 
