@@ -15353,6 +15353,9 @@
     "tailwindcss-animate": {
       "version": "*"
     },
+    "tailwindcss-cdn": {
+      "version": "*"
+    },
     "tailwindcss-webpack-plugin": {
       "version": "*"
     },
