@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.30.0](https://github.com/cnpm/unpkg-white-list/compare/v1.29.0...v1.30.0) (2024-05-29)
+
+
+### Features
+
+* add [@yuzhang134562](https://github.com/yuzhang134562) ([#56](https://github.com/cnpm/unpkg-white-list/issues/56)) ([cbf3bd1](https://github.com/cnpm/unpkg-white-list/commit/cbf3bd129a68a0a0b0e2e16aeb5452db115f0fd2))
+
 ## [1.29.0](https://github.com/cnpm/unpkg-white-list/compare/v1.28.0...v1.29.0) (2024-05-27)
 
 
