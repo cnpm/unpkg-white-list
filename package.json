@@ -17361,6 +17361,30 @@
     "xgplayer": {
       "version": "*"
     },
+    "xgplayer-flv": {
+      "version": "*"
+    },
+    "xgplayer-flv.js": {
+      "version": "*"
+    },
+    "xgplayer-hls": {
+      "version": "*"
+    },
+    "xgplayer-hls.js": {
+      "version": "*"
+    },
+    "xgplayer-mp4": {
+      "version": "*"
+    },
+    "xgplayer-dash": {
+      "version": "*"
+    },
+    "xgplayer-shaka": {
+      "version": "*"
+    },
+    "xgplayer-music": {
+      "version": "*"
+    },
     "xhr-file": {
       "version": "*"
     },
