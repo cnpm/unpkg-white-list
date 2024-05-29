@@ -204,6 +204,12 @@
     "alist-web": {
       "version": "*"
     },
+    "feffery_antd_components": {
+      "version": "*"
+    },
+    "feffery_markdown_components": {
+      "version": "*"
+    },
     "985-manager-client": {
       "version": "*"
     },
