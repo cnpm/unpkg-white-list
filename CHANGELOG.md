@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.31.0](https://github.com/cnpm/unpkg-white-list/compare/v1.30.0...v1.31.0) (2024-05-29)
+
+
+### Features
+
+* Add tailwindcss-cdn package ([#57](https://github.com/cnpm/unpkg-white-list/issues/57)) ([1b9ce6c](https://github.com/cnpm/unpkg-white-list/commit/1b9ce6ce3f7560cd9c972c0d62b894513d4ea43b))
+
 ## [1.30.0](https://github.com/cnpm/unpkg-white-list/compare/v1.29.0...v1.30.0) (2024-05-29)
 
 
