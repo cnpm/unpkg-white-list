@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.33.0](https://github.com/cnpm/unpkg-white-list/compare/v1.32.0...v1.33.0) (2024-05-29)
+
+
+### Features
+
+* add [@dashuaibi45678](https://github.com/dashuaibi45678) ([#60](https://github.com/cnpm/unpkg-white-list/issues/60)) ([7ec45b9](https://github.com/cnpm/unpkg-white-list/commit/7ec45b9e52f9c79ffcc0b9536e5136f0b2f9a780))
+* add feffery_antd_components and feffery_markdown_components ([#59](https://github.com/cnpm/unpkg-white-list/issues/59)) ([832d12d](https://github.com/cnpm/unpkg-white-list/commit/832d12d61840345cded667ef68bf9dc1000c4c8a))
+
 ## [1.32.0](https://github.com/cnpm/unpkg-white-list/compare/v1.31.0...v1.32.0) (2024-05-29)
 
 
