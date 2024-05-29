@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.34.0](https://github.com/cnpm/unpkg-white-list/compare/v1.33.0...v1.34.0) (2024-05-29)
+
+
+### Features
+
+* add libarchive.js and tesseract.js-core ([#61](https://github.com/cnpm/unpkg-white-list/issues/61)) ([48fc3bc](https://github.com/cnpm/unpkg-white-list/commit/48fc3bc26c592367f9b5d8567c4cf8e43037e449))
+
 ## [1.33.0](https://github.com/cnpm/unpkg-white-list/compare/v1.32.0...v1.33.0) (2024-05-29)
 
 
