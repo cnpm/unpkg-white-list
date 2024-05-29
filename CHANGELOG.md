@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.32.0](https://github.com/cnpm/unpkg-white-list/compare/v1.31.0...v1.32.0) (2024-05-29)
+
+
+### Features
+
+* add runcss ([#58](https://github.com/cnpm/unpkg-white-list/issues/58)) ([35c3e40](https://github.com/cnpm/unpkg-white-list/commit/35c3e40e15f8e92efcfcc595e70bd938338acbaf))
+
 ## [1.31.0](https://github.com/cnpm/unpkg-white-list/compare/v1.30.0...v1.31.0) (2024-05-29)
 
 
