@@ -205,6 +205,12 @@
     "@eslibs"
   ],
   "allowPackages": {
+    "fc3": {
+      "version": "*"
+    },
+    "18x": {
+      "version": "*"
+    },
     "alist-web": {
       "version": "*"
     },
