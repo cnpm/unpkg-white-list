@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.38.0](https://github.com/cnpm/unpkg-white-list/compare/v1.37.0...v1.38.0) (2024-05-30)
+
+
+### Features
+
+* add vue-demi ([#67](https://github.com/cnpm/unpkg-white-list/issues/67)) ([b6a16a4](https://github.com/cnpm/unpkg-white-list/commit/b6a16a4a6ae4b94bea779235ca853b93bbdd041e))
+
 ## [1.37.0](https://github.com/cnpm/unpkg-white-list/compare/v1.36.0...v1.37.0) (2024-05-30)
 
 
