@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.43.0](https://github.com/cnpm/unpkg-white-list/compare/v1.42.0...v1.43.0) (2024-05-30)
+
+
+### Features
+
+* add ckeditor5 ([#72](https://github.com/cnpm/unpkg-white-list/issues/72)) ([6a7f623](https://github.com/cnpm/unpkg-white-list/commit/6a7f623ecd87ce9a0ae5e4bc5c33ecae79fb23a7))
+
 ## [1.42.0](https://github.com/cnpm/unpkg-white-list/compare/v1.41.0...v1.42.0) (2024-05-30)
 
 
