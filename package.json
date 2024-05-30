@@ -17749,6 +17749,9 @@
     "vue-demi": {
       "version": "*"
     },
+    "vue-echarts": {
+      "version": "*"
+    },
     "runcss": {
       "version": "*"
     }
