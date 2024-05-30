@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.42.0](https://github.com/cnpm/unpkg-white-list/compare/v1.41.0...v1.42.0) (2024-05-30)
+
+
+### Features
+
+* add "@waline/client" ([#71](https://github.com/cnpm/unpkg-white-list/issues/71)) ([f4742d3](https://github.com/cnpm/unpkg-white-list/commit/f4742d3272935dc17222c7041d26024d17d47102))
+
 ## [1.41.0](https://github.com/cnpm/unpkg-white-list/compare/v1.40.0...v1.41.0) (2024-05-30)
 
 
