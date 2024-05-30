@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.37.0](https://github.com/cnpm/unpkg-white-list/compare/v1.36.0...v1.37.0) (2024-05-30)
+
+
+### Features
+
+* Add some libraries commonly used in dash application ([#65](https://github.com/cnpm/unpkg-white-list/issues/65)) ([5e952ee](https://github.com/cnpm/unpkg-white-list/commit/5e952ee41a77697706f32e156e9798ae9b42bf51))
+
 ## [1.36.0](https://github.com/cnpm/unpkg-white-list/compare/v1.35.0...v1.36.0) (2024-05-30)
 
 
