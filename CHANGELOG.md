@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.39.0](https://github.com/cnpm/unpkg-white-list/compare/v1.38.0...v1.39.0) (2024-05-30)
+
+
+### Features
+
+* add [@ikrong](https://github.com/ikrong) and [@eslibs](https://github.com/eslibs) ([#68](https://github.com/cnpm/unpkg-white-list/issues/68)) ([7072c17](https://github.com/cnpm/unpkg-white-list/commit/7072c1724417c28a30959722f9ddec37782e6ab8))
+
 ## [1.38.0](https://github.com/cnpm/unpkg-white-list/compare/v1.37.0...v1.38.0) (2024-05-30)
 
 
