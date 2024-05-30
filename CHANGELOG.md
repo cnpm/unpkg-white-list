@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.40.0](https://github.com/cnpm/unpkg-white-list/compare/v1.39.0...v1.40.0) (2024-05-30)
+
+
+### Features
+
+* add vue-echarts ([#69](https://github.com/cnpm/unpkg-white-list/issues/69)) ([2b648fb](https://github.com/cnpm/unpkg-white-list/commit/2b648fb9722c4995149ea10ebe925c305c28357d))
+
 ## [1.39.0](https://github.com/cnpm/unpkg-white-list/compare/v1.38.0...v1.39.0) (2024-05-30)
 
 
