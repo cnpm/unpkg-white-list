@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.36.0](https://github.com/cnpm/unpkg-white-list/compare/v1.35.0...v1.36.0) (2024-05-30)
+
+
+### Features
+
+* add [@qse](https://github.com/qse) [@ironkinoko](https://github.com/ironkinoko) ([#64](https://github.com/cnpm/unpkg-white-list/issues/64)) ([abd5b7b](https://github.com/cnpm/unpkg-white-list/commit/abd5b7b2c2fc64ae5484ff3fce57158ca11d303a))
+
 ## [1.35.0](https://github.com/cnpm/unpkg-white-list/compare/v1.34.0...v1.35.0) (2024-05-29)
 
 
