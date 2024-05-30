@@ -478,6 +478,9 @@
     "@fal-works/esbuild-plugin-global-externals": {
       "version": "*"
     },
+    "@fancyapps/ui": {
+      "version": "*"
+    },
     "@fast-csv/format": {
       "version": "*"
     },
@@ -15986,6 +15989,9 @@
       "version": "*"
     },
     "type-signals": {
+      "version": "*"
+    },
+    "typecho-core": {
       "version": "*"
     },
     "typed-less-modules": {
