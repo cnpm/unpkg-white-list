@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.41.0](https://github.com/cnpm/unpkg-white-list/compare/v1.40.0...v1.41.0) (2024-05-30)
+
+
+### Features
+
+* Add "typecho-core" and "@fancyapps/ui" ([#70](https://github.com/cnpm/unpkg-white-list/issues/70)) ([994fbea](https://github.com/cnpm/unpkg-white-list/commit/994fbeafa51af96e6d38191ff86cdc18bee196b1))
+
 ## [1.40.0](https://github.com/cnpm/unpkg-white-list/compare/v1.39.0...v1.40.0) (2024-05-30)
 
 
