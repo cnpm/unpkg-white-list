@@ -11326,6 +11326,9 @@
     "qiankun3": {
       "version": "*"
     },
+    "qmacgs": {
+      "version": "*"
+    },
     "qnn-react-cron": {
       "version": "*"
     },
