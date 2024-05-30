@@ -3061,6 +3061,9 @@
     "ckeditor4-react": {
       "version": "*"
     },
+    "ckeditor5": {
+      "version": "*"
+    },
     "clamped-promise-all": {
       "version": "*"
     },
