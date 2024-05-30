@@ -17744,6 +17744,9 @@
     "luckyphoenix": {
       "version": "*"
     },
+    "vue-demi": {
+      "version": "*"
+    },
     "runcss": {
       "version": "*"
     }
