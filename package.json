@@ -198,7 +198,9 @@
     "@hkyhy",
     "@tomjs",
     "@fesjs",
-    "@douyinfe"
+    "@douyinfe",
+    "@qse",
+    "@ironkinoko"
   ],
   "allowPackages": {
     "alist-web": {
