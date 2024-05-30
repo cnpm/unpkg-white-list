@@ -206,6 +206,33 @@
     "alist-web": {
       "version": "*"
     },
+    "dash-table": {
+      "version": "*"
+    },
+    "dash-html-components": {
+      "version": "*"
+    },
+    "dash-core-components": {
+      "version": "*"
+    },
+    "dash-renderer": {
+      "version": "*"
+    },
+    "feffery_utils_components": {
+      "version": "*"
+    },
+    "feffery_leaflet_components": {
+      "version": "*"
+    },
+    "feffery_maplibre": {
+      "version": "*"
+    },
+    "feffery_antd_charts": {
+      "version": "*"
+    },
+    "feffery_antd_mobile_components": {
+      "version": "*"
+    },
     "feffery_antd_components": {
       "version": "*"
     },
