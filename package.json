@@ -125,6 +125,7 @@
     "@vscode",
     "@vue",
     "@vuepress",
+    "@waline",
     "@wangeditor",
     "@web-io",
     "@webcomponents",
@@ -138,6 +139,7 @@
     "@toast-ui",
     "@txdfe",
     "@uform",
+    "@floatsheep",
     "@fluentui",
     "@formily-editor",
     "@figma",
@@ -202,9 +204,13 @@
     "@qse",
     "@ironkinoko",
     "@ikrong",
-    "@eslibs"
+    "@eslibs",
+    "@itchenliang"
   ],
   "allowPackages": {
+    "@itchenliang/picture-rollup-local-plugin": {
+      "version": "*"
+    },
     "fc3": {
       "version": "*"
     },
@@ -2665,6 +2671,9 @@
     "browser-fs-access": {
       "version": "*"
     },
+    "browser-image-compression": {
+      "version": "*"
+    },
     "browser-jsonp": {
       "version": "*"
     },
@@ -3783,6 +3792,15 @@
     },
     "cuid": {
       "version": "*"
+    },
+    "cu-lowcode-material-antd":{
+      "version": "*"
+    },
+    "cu-lowcode-antd-mobile":{
+      "version": "*"
+    },
+    "cu-lowcode-flow-material":{
+       "version": "*"
     },
     "curlrequest": {
       "version": "*"
@@ -9022,6 +9040,9 @@
     "lottie-zip": {
       "version": "*"
     },
+    "lowcode-visualization":{
+       "version": "*"
+    },
     "lowdb": {
       "version": "*"
     },
@@ -9281,6 +9302,9 @@
       "version": "*"
     },
     "matchmedia-polyfill": {
+      "version": "*"
+    },
+    "material-icons": {
       "version": "*"
     },
     "math-interval-parser": {
@@ -17775,6 +17799,9 @@
     },
     "weblive2d": {
       "version": "*"
+    },
+    "district-data": {
+      "version":"*"
     }
   }
 }
