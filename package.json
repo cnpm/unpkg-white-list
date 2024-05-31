@@ -125,6 +125,7 @@
     "@vscode",
     "@vue",
     "@vuepress",
+    "@waline",
     "@wangeditor",
     "@web-io",
     "@webcomponents",
