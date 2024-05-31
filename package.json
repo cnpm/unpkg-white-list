@@ -17772,6 +17772,9 @@
     },
     "@waline/client": {
       "version": "*"
+    },
+    "xingzhengqu":{
+      "version": "*"
     }
   }
 }
