@@ -204,7 +204,8 @@
     "@qse",
     "@ironkinoko",
     "@ikrong",
-    "@eslibs"
+    "@eslibs",
+    "@itchenliang"
   ],
   "allowPackages": {
     "@itchenliang/picture-rollup-local-plugin": {
