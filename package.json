@@ -205,7 +205,7 @@
     "@ironkinoko",
     "@ikrong",
     "@eslibs",
-    "@itchenliang"
+    "@itchenliang",
   ],
   "allowPackages": {
     "@itchenliang/picture-rollup-local-plugin": {
@@ -17798,6 +17798,12 @@
       "version": "*"
     },
     "weblive2d": {
+      "version": "*"
+    },
+    "anfuns-assets": {
+      "version": "*"
+    },
+    "nikannm-assets": {
       "version": "*"
     }
   }
