@@ -207,6 +207,9 @@
     "@eslibs"
   ],
   "allowPackages": {
+    "@itchenliang/picture-rollup-local-plugin": {
+      "version": "*"
+    },
     "fc3": {
       "version": "*"
     },
