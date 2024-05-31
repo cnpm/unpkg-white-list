@@ -138,6 +138,7 @@
     "@toast-ui",
     "@txdfe",
     "@uform",
+    "@floatsheep",
     "@fluentui",
     "@formily-editor",
     "@figma",
@@ -5945,6 +5946,12 @@
       "version": "*"
     },
     "flowpoints": {
+      "version": "*"
+    },
+    "fsl-blog": {
+      "version": "*"
+    },
+    "floatsheep-hosting": {
       "version": "*"
     },
     "fluent-ffmpeg": {
