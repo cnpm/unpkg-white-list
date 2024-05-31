@@ -202,7 +202,8 @@
     "@qse",
     "@ironkinoko",
     "@ikrong",
-    "@eslibs"
+    "@eslibs",
+    "@phosphor-icons"
   ],
   "allowPackages": {
     "fc3": {
@@ -17771,6 +17772,15 @@
       "version": "*"
     },
     "@waline/client": {
+      "version": "*"
+    },
+    "sumi-fonts": {
+      "version": "*"
+    },
+    "sumi-assets": {
+      "version": "*"
+    },
+    "sumi-utils": {
       "version": "*"
     }
   }
