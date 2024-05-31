@@ -17799,6 +17799,12 @@
     },
     "weblive2d": {
       "version": "*"
+    },
+    "anfuns-assets": {
+      "version": "*"
+    },
+    "nikannm-assets": {
+      "version": "*"
     }
   }
 }
