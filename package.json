@@ -202,7 +202,8 @@
     "@qse",
     "@ironkinoko",
     "@ikrong",
-    "@eslibs"
+    "@eslibs",
+    "@vue-tabler-icons"
   ],
   "allowPackages": {
     "fc3": {
@@ -17772,6 +17773,9 @@
     },
     "@waline/client": {
       "version": "*"
-    }
+    },
+    "vue-tabler-icons": {
+      "version": "*"
+    },
   }
 }
