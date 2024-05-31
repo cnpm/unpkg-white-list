@@ -17766,6 +17766,9 @@
     },
     "@waline/client": {
       "version": "*"
+    },
+    "weblive2d": {
+      "version": "*"
     }
   }
 }
