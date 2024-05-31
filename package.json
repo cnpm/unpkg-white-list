@@ -9304,6 +9304,9 @@
     "matchmedia-polyfill": {
       "version": "*"
     },
+    "material-icons": {
+      "version": "*"
+    },
     "math-interval-parser": {
       "version": "*"
     },
