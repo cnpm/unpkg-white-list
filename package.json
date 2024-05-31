@@ -3789,6 +3789,15 @@
     "cuid": {
       "version": "*"
     },
+    "cu-lowcode-material-antd":{
+      "version": "*"
+    },
+    "cu-lowcode-antd-mobile":{
+      "version": "*"
+    },
+    "cu-lowcode-flow-material":{
+       "version": "*"
+    },
     "curlrequest": {
       "version": "*"
     },
@@ -9026,6 +9035,9 @@
     },
     "lottie-zip": {
       "version": "*"
+    },
+    "lowcode-visualization":{
+       "version": "*"
     },
     "lowdb": {
       "version": "*"
