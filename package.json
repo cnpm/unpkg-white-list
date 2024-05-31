@@ -202,7 +202,8 @@
     "@qse",
     "@ironkinoko",
     "@ikrong",
-    "@eslibs"
+    "@eslibs",
+    "@itchenliang"
   ],
   "allowPackages": {
     "fc3": {
