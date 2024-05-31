@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.45.0](https://github.com/cnpm/unpkg-white-list/compare/v1.44.0...v1.45.0) (2024-05-31)
+
+
+### Features
+
+* add "cu-lowcode-material-antd"...packages ([#87](https://github.com/cnpm/unpkg-white-list/issues/87)) ([0da3f94](https://github.com/cnpm/unpkg-white-list/commit/0da3f943d2766faba16a6dc5213815c7dd8288a2))
+* add "material-icons" ([#82](https://github.com/cnpm/unpkg-white-list/issues/82)) ([48145d2](https://github.com/cnpm/unpkg-white-list/commit/48145d2f39f72639e61a78de9f3583f6552e0a97))
+* add [@floatsheep](https://github.com/floatsheep) & [@waline](https://github.com/waline) ([#86](https://github.com/cnpm/unpkg-white-list/issues/86)) ([232900a](https://github.com/cnpm/unpkg-white-list/commit/232900a05042e809df8d67c8a5995bea7efa3598))
+* add @itchenliang/picture-rollup-local-plugin ([#88](https://github.com/cnpm/unpkg-white-list/issues/88)) ([a413fc1](https://github.com/cnpm/unpkg-white-list/commit/a413fc1b3d9724a39af7868ab9919953e3748739))
+* add browser-image-compression ([#85](https://github.com/cnpm/unpkg-white-list/issues/85)) ([2466021](https://github.com/cnpm/unpkg-white-list/commit/24660217eef2b07f90b8a43f14cf76155bd125cb))
+* add district-data ([#80](https://github.com/cnpm/unpkg-white-list/issues/80)) ([a6b77a7](https://github.com/cnpm/unpkg-white-list/commit/a6b77a799ea0e27755df8584e221b6419301bc00))
+* add weblive2d ([#78](https://github.com/cnpm/unpkg-white-list/issues/78)) ([25e5ce1](https://github.com/cnpm/unpkg-white-list/commit/25e5ce114494d53d9d11e9b84cc58f2fbddb60ae))
+
 ## [1.44.0](https://github.com/cnpm/unpkg-white-list/compare/v1.43.0...v1.44.0) (2024-05-31)
 
 

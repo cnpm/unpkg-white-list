@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.44.0",
+  "version": "1.45.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -3793,14 +3793,14 @@
     "cuid": {
       "version": "*"
     },
-    "cu-lowcode-material-antd":{
+    "cu-lowcode-material-antd": {
       "version": "*"
     },
-    "cu-lowcode-antd-mobile":{
+    "cu-lowcode-antd-mobile": {
       "version": "*"
     },
-    "cu-lowcode-flow-material":{
-       "version": "*"
+    "cu-lowcode-flow-material": {
+      "version": "*"
     },
     "curlrequest": {
       "version": "*"
@@ -9040,8 +9040,8 @@
     "lottie-zip": {
       "version": "*"
     },
-    "lowcode-visualization":{
-       "version": "*"
+    "lowcode-visualization": {
+      "version": "*"
     },
     "lowdb": {
       "version": "*"
@@ -17799,9 +17799,6 @@
     },
     "weblive2d": {
       "version": "*"
-    },
-    "district-data": {
-      "version":"*"
     }
   }
 }
