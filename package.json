@@ -17796,6 +17796,9 @@
     },
     "@waline/client": {
       "version": "*"
+    },
+    "district-data":{
+      "version":"*"
     }
   }
 }
