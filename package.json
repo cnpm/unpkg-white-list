@@ -17797,7 +17797,10 @@
     "@waline/client": {
       "version": "*"
     },
-    "district-data":{
+    "weblive2d": {
+      "version": "*"
+    },
+    "district-data": {
       "version":"*"
     }
   }
