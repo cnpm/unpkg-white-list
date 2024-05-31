@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.44.0](https://github.com/cnpm/unpkg-white-list/compare/v1.43.0...v1.44.0) (2024-05-31)
+
+
+### Features
+
+* add fc3 & 18x ([#75](https://github.com/cnpm/unpkg-white-list/issues/75)) ([8ceb886](https://github.com/cnpm/unpkg-white-list/commit/8ceb886b66a88be490aa2e160aa286f10255c5b0))
+
 ## [1.43.0](https://github.com/cnpm/unpkg-white-list/compare/v1.42.0...v1.43.0) (2024-05-30)
 
 
