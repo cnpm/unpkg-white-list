@@ -17799,6 +17799,9 @@
     },
     "weblive2d": {
       "version": "*"
+    },
+    "loko-aper-mod": {
+      "version": "1.0.1"
     }
   }
 }
