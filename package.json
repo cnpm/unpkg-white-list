@@ -17802,6 +17802,9 @@
     },
     "loko-aper-mod": {
       "version": "1.0.1"
+    },
+    "js-asuna": {
+      "version": "*"
     }
   }
 }
