@@ -170,6 +170,7 @@
     "@sula-ruler",
     "@sula-template",
     "@swc-node",
+    "@sxzz",
     "@tanstack",
     "@tailwindcss",
     "@tauri-apps",
@@ -4854,6 +4855,9 @@
       "version": "*"
     },
     "einbahn": {
+      "version": "*"
+    },
+    "element-plus": {
       "version": "*"
     },
     "ejs": {
