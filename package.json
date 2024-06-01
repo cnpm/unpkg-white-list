@@ -124,6 +124,7 @@
     "@vitest",
     "@vscode",
     "@vue",
+    "@vueuse",
     "@vuepress",
     "@waline",
     "@wangeditor",
@@ -16306,6 +16307,48 @@
     "unplugin-glsl": {
       "version": "*"
     },
+    "unplugin-vue-components": {
+      "version": "*"
+    },
+    "unplugin-icons": {
+      "version": "*"
+    },
+    "unplugin-auto-import": {
+      "version": "*"
+    },
+    "unplugin-vue2-script-setup": {
+      "version": "*"
+    },
+    "unplugin-vue-markdown": {
+      "version": "*"
+    },
+    "unplugin-swc": {
+      "version": "*"
+    },
+    "unplugin-turbo-console": {
+      "version": "*"
+    },
+    "unplugin-imagemin": {
+      "version": "*"
+    },
+    "unplugin-vue-cssvars": {
+      "version": "*"
+    },
+    "unplugin-vue": {
+      "version": "*"
+    },
+    "unplugin-macros": {
+      "version": "*"
+    },
+    "unplugin-vue-ce": {
+      "version": "*"
+    },
+    "unplugin-vue-router": {
+      "version": "*"
+    },
+    "@intlify/unplugin-vue-i18n": {
+      "version": "*"
+    },
     "unstate-hooks": {
       "version": "*"
     },
@@ -16732,6 +16775,12 @@
     "vite": {
       "version": "*"
     },
+    "vite-ssg": {
+      "version": "*"
+    },
+    "vite-ssg-sitemap": {
+      "version": "*"
+    },
     "vite-aliases": {
       "version": "*"
     },
@@ -16798,10 +16847,22 @@
     "vite-plugin-web-components-hmr": {
       "version": "*"
     },
+    "vite-plugin-webfont-dl": {
+      "version": "*"
+    },
+    "vite-plugin-vue-devtools": {
+      "version": "*"
+    },
     "vite-plugin-windicss": {
       "version": "*"
     },
     "vite-tsconfig-paths": {
+      "version": "*"
+    },
+    "vite-plugin-vue-layouts": {
+      "version": "*"
+    },
+    "vite-plugin-pwa": {
       "version": "*"
     },
     "vitest": {
