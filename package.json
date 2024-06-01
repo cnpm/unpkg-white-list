@@ -772,6 +772,9 @@
     "@mdi/react": {
       "version": "*"
     },
+    "@mdi/font": {
+      "version": "*"
+    },
     "@mdn/browser-compat-data": {
       "version": "*"
     },
@@ -17021,6 +17024,9 @@
       "version": "*"
     },
     "vuera": {
+      "version": "*"
+    },
+    "vuetify": {
       "version": "*"
     },
     "vuex": {
