@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.46.0](https://github.com/cnpm/unpkg-white-list/compare/v1.45.0...v1.46.0) (2024-06-01)
+
+
+### Features
+
+* add a modified aplayer ([#92](https://github.com/cnpm/unpkg-white-list/issues/92)) ([a0e62f6](https://github.com/cnpm/unpkg-white-list/commit/a0e62f62d9cb28f004c5c565de66a7b8873f2e18))
+
 ## [1.45.0](https://github.com/cnpm/unpkg-white-list/compare/v1.44.0...v1.45.0) (2024-05-31)
 
 
