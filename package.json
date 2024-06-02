@@ -5989,6 +5989,9 @@
     "follow-redirects": {
       "version": "*"
     },
+    "fomantic-ui": {
+      "version": "*"
+    },
     "font-awesome": {
       "version": "*"
     },
