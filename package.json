@@ -9204,6 +9204,9 @@
     "mapbox-gl-draw-rectangle-mode": {
       "version": "*"
     },
+    "maplibre-gl": {
+      "version": "*"
+    },
     "maptalks": {
       "version": "*"
     },
