@@ -9329,6 +9329,9 @@
     "math-interval-parser": {
       "version": "*"
     },
+    "mathjax": {
+      "version": "*"
+    },
     "mathjax-node": {
       "version": "*"
     },
