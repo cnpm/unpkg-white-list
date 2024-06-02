@@ -209,7 +209,8 @@
     "@ironkinoko",
     "@ikrong",
     "@eslibs",
-    "@itchenliang"
+    "@itchenliang",
+    "@i18n.site"
   ],
   "allowPackages": {
     "@itchenliang/picture-rollup-local-plugin": {
@@ -17895,6 +17896,12 @@
       "version": "*"
     },
     "9fit": {
+      "version": "*"
+    },
+    "18s": {
+      "version": "*"
+    },
+    "i18n.site": {
       "version": "*"
     }
   }
