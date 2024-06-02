@@ -213,6 +213,9 @@
     "@itchenliang/picture-rollup-local-plugin": {
       "version": "*"
     },
+    "twikoo": {
+      "version": "*"
+    },
     "fc3": {
       "version": "*"
     },
@@ -772,6 +775,9 @@
       "version": "*"
     },
     "@mdi/react": {
+      "version": "*"
+    },
+    "@mdi/font": {
       "version": "*"
     },
     "@mdn/browser-compat-data": {
@@ -5986,6 +5992,9 @@
       "version": "*"
     },
     "follow-redirects": {
+      "version": "*"
+    },
+    "fomantic-ui": {
       "version": "*"
     },
     "font-awesome": {
@@ -17088,6 +17097,9 @@
     "vuera": {
       "version": "*"
     },
+    "vuetify": {
+      "version": "*"
+    },
     "vuex": {
       "version": "*"
     },
@@ -17867,6 +17879,12 @@
     },
     "loko-aper-mod": {
       "version": "1.0.1"
+    },
+    "js-asuna": {
+      "version": "*"
+    },
+    "iview-area-wx": {
+      "version": "*"
     }
   }
 }
