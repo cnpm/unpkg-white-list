@@ -70,6 +70,7 @@
     "@fullcalendar",
     "@goldfishjs",
     "@googlemaps",
+    "@highlightjs",
     "@icedesign",
     "@iconify",
     "@iconify-icon",
@@ -108,6 +109,7 @@
     "@tarojs",
     "@tensorflow-models",
     "@tensorflow",
+    "@tryghost",
     "@tsconfig",
     "@turf",
     "@types",
@@ -6328,6 +6330,9 @@
       "version": "*"
     },
     "git-url-parse": {
+      "version": "*"
+    },
+    "gitalk": {
       "version": "*"
     },
     "gitbook-plugin-antsay": {
