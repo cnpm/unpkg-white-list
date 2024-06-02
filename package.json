@@ -211,6 +211,9 @@
     "@itchenliang/picture-rollup-local-plugin": {
       "version": "*"
     },
+    "twikoo": {
+      "version": "*"
+    },
     "fc3": {
       "version": "*"
     },
@@ -17808,6 +17811,9 @@
     },
     "loko-aper-mod": {
       "version": "1.0.1"
+    },
+    "iview-area-wx": {
+      "version": "*"
     }
   }
 }
