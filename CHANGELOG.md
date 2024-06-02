@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.49.0](https://github.com/cnpm/unpkg-white-list/compare/v1.48.0...v1.49.0) (2024-06-02)
+
+
+### Features
+
+* add i18n.site ([#105](https://github.com/cnpm/unpkg-white-list/issues/105)) ([1820cb2](https://github.com/cnpm/unpkg-white-list/commit/1820cb25fd66d016c83d76499108ccca63ab2b5d))
+* add mathjax ([#104](https://github.com/cnpm/unpkg-white-list/issues/104)) ([19d765a](https://github.com/cnpm/unpkg-white-list/commit/19d765af19957331ec7b3588ae38532c4037608f))
+
 ## [1.48.0](https://github.com/cnpm/unpkg-white-list/compare/v1.47.0...v1.48.0) (2024-06-02)
 
 
