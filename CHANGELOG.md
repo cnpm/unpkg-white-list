@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.51.0](https://github.com/cnpm/unpkg-white-list/compare/v1.50.0...v1.51.0) (2024-06-02)
+
+
+### Features
+
+* add maplibre-gl ([#107](https://github.com/cnpm/unpkg-white-list/issues/107)) ([a4ad8f3](https://github.com/cnpm/unpkg-white-list/commit/a4ad8f386fb84d330f2ff814beb60a06290c3c6a))
+
 ## [1.50.0](https://github.com/cnpm/unpkg-white-list/compare/v1.49.0...v1.50.0) (2024-06-02)
 
 
