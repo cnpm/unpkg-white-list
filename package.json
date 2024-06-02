@@ -384,6 +384,9 @@
     "@bytemd/react": {
       "version": "*"
     },
+    "@callmebill/lxgw-wenkai-web": {
+      "version": "*"
+    },
     "@canisminor/colors": {
       "version": "*"
     },
@@ -9100,6 +9103,15 @@
       "version": "*"
     },
     "lunr-languages": {
+      "version": "*"
+    },
+    "lxgw-wenkai-gb-web": {
+      "version": "*"
+    },
+    "lxgw-wenkai-screen-web": {
+      "version": "*"
+    },
+    "lxgw-wenkai-tc-web": {
       "version": "*"
     },
     "lyn-conventional-changelog": {
