@@ -17885,6 +17885,9 @@
     },
     "iview-area-wx": {
       "version": "*"
+    },
+     "9fit": {
+      "version": "*"
     }
   }
 }
