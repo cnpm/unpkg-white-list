@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.48.0](https://github.com/cnpm/unpkg-white-list/compare/v1.47.0...v1.48.0) (2024-06-02)
+
+
+### Features
+
+* add [@highlightjs](https://github.com/highlightjs) & [@tryghost](https://github.com/tryghost) & gitalk ([#100](https://github.com/cnpm/unpkg-white-list/issues/100)) ([78fdf11](https://github.com/cnpm/unpkg-white-list/commit/78fdf115fa25542bf9d9419c46f774a8df75f84f))
+* add 9fit ([#102](https://github.com/cnpm/unpkg-white-list/issues/102)) ([8bede43](https://github.com/cnpm/unpkg-white-list/commit/8bede4349c732a6202394189175256ca314e0cd1))
+
 ## [1.47.0](https://github.com/cnpm/unpkg-white-list/compare/v1.46.0...v1.47.0) (2024-06-02)
 
 
