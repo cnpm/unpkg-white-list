@@ -209,7 +209,8 @@
     "@ironkinoko",
     "@ikrong",
     "@eslibs",
-    "@itchenliang"
+    "@itchenliang",
+    "@v-idol"
   ],
   "allowPackages": {
     "@itchenliang/picture-rollup-local-plugin": {
