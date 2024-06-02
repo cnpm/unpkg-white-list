@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.50.0](https://github.com/cnpm/unpkg-white-list/compare/v1.49.0...v1.50.0) (2024-06-02)
+
+
+### Features
+
+* add lxgw-wenkai ([#106](https://github.com/cnpm/unpkg-white-list/issues/106)) ([852be10](https://github.com/cnpm/unpkg-white-list/commit/852be10533df7355807c0492a2a1874b19f140d4))
+
 ## [1.49.0](https://github.com/cnpm/unpkg-white-list/compare/v1.48.0...v1.49.0) (2024-06-02)
 
 
