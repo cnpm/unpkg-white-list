@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.47.0](https://github.com/cnpm/unpkg-white-list/compare/v1.46.0...v1.47.0) (2024-06-02)
+
+
+### Features
+
+* Add "iview-area-wx" ([#94](https://github.com/cnpm/unpkg-white-list/issues/94)) ([4aceca5](https://github.com/cnpm/unpkg-white-list/commit/4aceca505efc7770c593bc9e005cbb242928983a))
+* add `element-plus` & `uplugin-*` & `vite-plugin-*` & `[@vueuse](https://github.com/vueuse)` ([#95](https://github.com/cnpm/unpkg-white-list/issues/95)) ([06dcb09](https://github.com/cnpm/unpkg-white-list/commit/06dcb09e473fe2cb3feec6982ad4dee6415fda31))
+* add fomantic-ui ([#97](https://github.com/cnpm/unpkg-white-list/issues/97)) ([58f2288](https://github.com/cnpm/unpkg-white-list/commit/58f2288fb893dc7c0b1e5958b77341ee8c5aa50f))
+* add js-asuna ([#98](https://github.com/cnpm/unpkg-white-list/issues/98)) ([a5ca7ce](https://github.com/cnpm/unpkg-white-list/commit/a5ca7ce8b48fe7b0bf072464a38cb9dcd179357f))
+* add twikoo ([#93](https://github.com/cnpm/unpkg-white-list/issues/93)) ([0b54718](https://github.com/cnpm/unpkg-white-list/commit/0b54718f66a170b45e8131fe8b561381d9a34f2b))
+* add vuetify and @mdi/font ([#99](https://github.com/cnpm/unpkg-white-list/issues/99)) ([b4fcf5b](https://github.com/cnpm/unpkg-white-list/commit/b4fcf5b0554c246610d1dcc5fddcb98eb5184d23))
+
 ## [1.46.0](https://github.com/cnpm/unpkg-white-list/compare/v1.45.0...v1.46.0) (2024-06-01)
 
 
