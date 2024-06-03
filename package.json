@@ -17933,6 +17933,15 @@
     },
     "i18n.site": {
       "version": "*"
+    },
+    "@vant/use": {
+      "version": "*"
+    },
+    "@vant/popperjs": {
+      "version": "*"
+    },
+    "echarts-for-vue": {
+      "version": "*"
     }
   }
 }
