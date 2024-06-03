@@ -215,7 +215,8 @@
     "@i18n.beta",
     "@i18n.nightly",
     "@i18n.rc",
-    "@8n"
+    "@8n",
+    "@otplib"
   ],
   "allowPackages": {
     "@itchenliang/picture-rollup-local-plugin": {
