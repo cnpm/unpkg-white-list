@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.54.0](https://github.com/cnpm/unpkg-white-list/compare/v1.53.0...v1.54.0) (2024-06-03)
+
+
+### Features
+
+* add @vant/use @vant/popperjs echarts-for-vue ([#114](https://github.com/cnpm/unpkg-white-list/issues/114)) ([9752c63](https://github.com/cnpm/unpkg-white-list/commit/9752c638b55049e5341395191ad3c0ebe0f28479))
+* add lemon-mse ([#111](https://github.com/cnpm/unpkg-white-list/issues/111)) ([a0df810](https://github.com/cnpm/unpkg-white-list/commit/a0df810ff572331f60c5d25a4abb54aed14a0df9))
+* add otpauth ([#112](https://github.com/cnpm/unpkg-white-list/issues/112)) ([e43cb34](https://github.com/cnpm/unpkg-white-list/commit/e43cb34664fd19757c42f3ac97b72d969a96afb3))
+* add vue-tabler-icons ([#113](https://github.com/cnpm/unpkg-white-list/issues/113)) ([2811000](https://github.com/cnpm/unpkg-white-list/commit/2811000b99c565f6638985bcc91a1811c3f12680))
+
 ## [1.53.0](https://github.com/cnpm/unpkg-white-list/compare/v1.52.0...v1.53.0) (2024-06-03)
 
 
