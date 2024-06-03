@@ -3819,9 +3819,6 @@
     "cu-lowcode-antd-mobile": {
       "version": "*"
     },
-    "cu-lowcode-flow-material": {
-      "version": "*"
-    },
     "curlrequest": {
       "version": "*"
     },
@@ -17882,6 +17879,15 @@
     },
     "zwork": {
       "version": "*"
+    },
+    "zw-lowcode-plugin-datasource-pane":{
+       "version": "*"
+    },
+    "zw-lowcode-plugin-components-pane":{
+       "version": "*"
+    },
+    "zw-lowcode-plugin-code-editor":{
+       "version": "*"
     },
     "jspdf-pro": {
       "version": "*"
