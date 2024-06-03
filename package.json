@@ -8574,6 +8574,9 @@
     "leiten-zustand": {
       "version": "*"
     },
+    "lemon-mse": {
+      "version":"*"
+    },
     "leoric": {
       "version": "*"
     },
@@ -17932,6 +17935,18 @@
       "version": "*"
     },
     "i18n.site": {
+      "version": "*"
+    },
+    "vue-tabler-icons": {
+      "version": "*"
+    },
+    "@vant/use": {
+      "version": "*"
+    },
+    "@vant/popperjs": {
+      "version": "*"
+    },
+    "echarts-for-vue": {
       "version": "*"
     }
   }
