@@ -210,7 +210,12 @@
     "@ikrong",
     "@eslibs",
     "@itchenliang",
-    "@i18n.site"
+    "@i18n.site",
+    "@i18n.alpha",
+    "@i18n.beta",
+    "@i18n.nightly",
+    "@i18n.rc",
+    "@8n"
   ],
   "allowPackages": {
     "@itchenliang/picture-rollup-local-plugin": {
