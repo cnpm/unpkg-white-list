@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.55.0](https://github.com/cnpm/unpkg-white-list/compare/v1.54.0...v1.55.0) (2024-06-03)
+
+
+### Features
+
+* add redoc ([#115](https://github.com/cnpm/unpkg-white-list/issues/115)) ([c23c57a](https://github.com/cnpm/unpkg-white-list/commit/c23c57af609f63176b85b23971eacf5b770a81d9))
+
 ## [1.54.0](https://github.com/cnpm/unpkg-white-list/compare/v1.53.0...v1.54.0) (2024-06-03)
 
 
