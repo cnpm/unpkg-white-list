@@ -11838,6 +11838,9 @@
     "rds": {
       "version": "*"
     },
+    "redoc": {
+      "version": "*"
+    },
     "re-editor": {
       "version": "*"
     },
