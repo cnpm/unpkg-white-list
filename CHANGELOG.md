@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.53.0](https://github.com/cnpm/unpkg-white-list/compare/v1.52.0...v1.53.0) (2024-06-03)
+
+
+### Features
+
+* add [@otplib](https://github.com/otplib) ([#110](https://github.com/cnpm/unpkg-white-list/issues/110)) ([9f3a524](https://github.com/cnpm/unpkg-white-list/commit/9f3a524a635f46bb304847760a0f0157ad9588e9))
+* zw-lowcode-plugin 相关packages添加，以及废弃包删除 ([#109](https://github.com/cnpm/unpkg-white-list/issues/109)) ([2e75510](https://github.com/cnpm/unpkg-white-list/commit/2e75510fa36cfeba88781c8e390050f0a2de3c62))
+
 ## [1.52.0](https://github.com/cnpm/unpkg-white-list/compare/v1.51.0...v1.52.0) (2024-06-03)
 
 
