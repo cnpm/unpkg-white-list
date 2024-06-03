@@ -10476,6 +10476,9 @@
     "ot": {
       "version": "*"
     },
+    "otpauth": {
+      "version": "*"
+    },
     "otrans": {
       "version": "*"
     },
