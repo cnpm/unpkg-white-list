@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.52.0](https://github.com/cnpm/unpkg-white-list/compare/v1.51.0...v1.52.0) (2024-06-03)
+
+
+### Features
+
+* Add "[@i18n](https://github.com/i18n).alpha",  "[@i18n](https://github.com/i18n).beta",  "[@i18n](https://github.com/i18n).nightly",  "[@i18n](https://github.com/i18n).rc","[@8n](https://github.com/8n)" ([#108](https://github.com/cnpm/unpkg-white-list/issues/108)) ([f401acc](https://github.com/cnpm/unpkg-white-list/commit/f401acc3575e3c6a9afe2b4c116a6d2797dadf76))
+
 ## [1.51.0](https://github.com/cnpm/unpkg-white-list/compare/v1.50.0...v1.51.0) (2024-06-02)
 
 
