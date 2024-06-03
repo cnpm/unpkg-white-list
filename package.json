@@ -17930,6 +17930,9 @@
     },
     "i18n.site": {
       "version": "*"
+    },
+     "vue-tabler-icons": {
+      "version": "*"
     }
   }
 }
