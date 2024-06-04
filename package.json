@@ -1012,6 +1012,9 @@
     "@synvox/rehook": {
       "version": "*"
     },
+    "@selectize/selectize": {
+      "version": "*"
+    },
     "@tbminiapp/lottie-miniapp": {
       "version": "*"
     },
@@ -14999,6 +15002,9 @@
       "version": "*"
     },
     "ssl-root-cas": {
+      "version": "*"
+    },
+    "spectre.css": {
       "version": "*"
     },
     "ssri": {
