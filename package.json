@@ -17957,6 +17957,12 @@
     },
     "openapi-ui-dist": {
       "version": "*"
+    },
+    "artplayer": {
+      "version": "*"
+    },
+    "artplayer-plugin-danmuku": {
+      "version": "*"
     }
   }
 }
