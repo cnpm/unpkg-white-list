@@ -17961,6 +17961,21 @@
     },
     "chevrotain": {
       "version": "*"
+     },
+    "@popperjs/core":{
+      "version": "2.11.8"
+    },
+    "vue3-photo-preview":{
+      "version": "0.3.0"
+    },
+    "pdf-vue3":{
+      "version": "1.0.11"
+    },
+    "vue3-video-play":{
+      "version": "1.3.2"
+    },
+    "@vuepic/vue-datepicker":{
+      "version": "7.4.1"
     },
     "artplayer": {
       "version": "*"
