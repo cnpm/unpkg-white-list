@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.59.0](https://github.com/cnpm/unpkg-white-list/compare/v1.58.0...v1.59.0) (2024-06-04)
+
+
+### Features
+
+* add es-module-shims ([#122](https://github.com/cnpm/unpkg-white-list/issues/122)) ([cfdce21](https://github.com/cnpm/unpkg-white-list/commit/cfdce21f52bd8c337ea1d6a76c418bbb447c8060))
+
 ## [1.58.0](https://github.com/cnpm/unpkg-white-list/compare/v1.57.0...v1.58.0) (2024-06-04)
 
 
