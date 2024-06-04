@@ -17954,6 +17954,9 @@
     },
     "v-calendar": {
       "version": "*"
-    }
+    },
+    "openapi-ui-dist": {
+      "version": "*"
+    },
   }
 }
