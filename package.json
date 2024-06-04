@@ -17961,6 +17961,12 @@
     },
     "chevrotain": {
       "version": "*"
+    },
+    "artplayer": {
+      "version": "*"
+    },
+    "artplayer-plugin-danmuku": {
+      "version": "*"
     }
   }
 }
