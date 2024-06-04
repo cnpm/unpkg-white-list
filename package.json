@@ -17951,6 +17951,9 @@
     },
     "echarts-for-vue": {
       "version": "*"
+    },
+    "v-calendar": {
+      "version": "*"
     }
   }
 }
