@@ -17972,6 +17972,12 @@
     },
     "@vuepic/vue-datepicker":{
       "version": "7.4.1"
+    },
+    "artplayer": {
+      "version": "*"
+    },
+    "artplayer-plugin-danmuku": {
+      "version": "*"
     }
   }
 }
