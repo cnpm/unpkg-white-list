@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.61.0](https://github.com/cnpm/unpkg-white-list/compare/v1.60.0...v1.61.0) (2024-06-04)
+
+
+### Features
+
+* add klinecharts and @klinecharts/pro ([#124](https://github.com/cnpm/unpkg-white-list/issues/124)) ([cabb62c](https://github.com/cnpm/unpkg-white-list/commit/cabb62ce3d90786cd0ea216a81baa436c6fabb1c))
+
 ## [1.60.0](https://github.com/cnpm/unpkg-white-list/compare/v1.59.0...v1.60.0) (2024-06-04)
 
 
