@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.58.0](https://github.com/cnpm/unpkg-white-list/compare/v1.57.0...v1.58.0) (2024-06-04)
+
+
+### Features
+
+* @popperjs/core vue3-* ([#119](https://github.com/cnpm/unpkg-white-list/issues/119)) ([f562d9d](https://github.com/cnpm/unpkg-white-list/commit/f562d9d9f628f83f6f6b50b834cc6cbe5562aebe))
+* add artplayer, artplayer-plugin-danmuku  ([#121](https://github.com/cnpm/unpkg-white-list/issues/121)) ([5268a29](https://github.com/cnpm/unpkg-white-list/commit/5268a29747736aa427888eb82175a0c1804bc3ec))
+* add chevrotain and [@chevrotain](https://github.com/chevrotain) ([#120](https://github.com/cnpm/unpkg-white-list/issues/120)) ([745821a](https://github.com/cnpm/unpkg-white-list/commit/745821a9f5c3a22cddd8ce35688c620b00df14c0))
+
 ## [1.57.0](https://github.com/cnpm/unpkg-white-list/compare/v1.56.0...v1.57.0) (2024-06-04)
 
 
