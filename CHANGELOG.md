@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.60.0](https://github.com/cnpm/unpkg-white-list/compare/v1.59.0...v1.60.0) (2024-06-04)
+
+
+### Features
+
+* add spectre.css and @selectize/selectize ([#123](https://github.com/cnpm/unpkg-white-list/issues/123)) ([ac5d033](https://github.com/cnpm/unpkg-white-list/commit/ac5d03311fbdd13e22bf6e5b3b5fb7fc0959948c))
+
 ## [1.59.0](https://github.com/cnpm/unpkg-white-list/compare/v1.58.0...v1.59.0) (2024-06-04)
 
 
