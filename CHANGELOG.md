@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.57.0](https://github.com/cnpm/unpkg-white-list/compare/v1.56.0...v1.57.0) (2024-06-04)
+
+
+### Features
+
+* add openapi-ui-dist ([#117](https://github.com/cnpm/unpkg-white-list/issues/117)) ([e9ef074](https://github.com/cnpm/unpkg-white-list/commit/e9ef074699d6efd9d42e11dd65cbf15e8ad3be1c))
+
 ## [1.56.0](https://github.com/cnpm/unpkg-white-list/compare/v1.55.0...v1.56.0) (2024-06-04)
 
 
