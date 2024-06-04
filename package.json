@@ -17957,6 +17957,6 @@
     },
     "openapi-ui-dist": {
       "version": "*"
-    },
+    }
   }
 }
