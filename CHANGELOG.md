@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.56.0](https://github.com/cnpm/unpkg-white-list/compare/v1.55.0...v1.56.0) (2024-06-04)
+
+
+### Features
+
+* add v-calendar ([#116](https://github.com/cnpm/unpkg-white-list/issues/116)) ([9d1690f](https://github.com/cnpm/unpkg-white-list/commit/9d1690f1ba66f7ee6444f1e980aad2f07686a0fa))
+
 ## [1.55.0](https://github.com/cnpm/unpkg-white-list/compare/v1.54.0...v1.55.0) (2024-06-03)
 
 
