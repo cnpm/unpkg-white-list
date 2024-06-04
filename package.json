@@ -17957,6 +17957,21 @@
     },
     "openapi-ui-dist": {
       "version": "*"
+    },
+    "@popperjs/core":{
+      "version": "*"
+    },
+    "vue3-photo-preview":{
+      "version": "*"
+    },
+    "pdf-vue3":{
+      "version": "*"
+    },
+    "vue3-video-play":{
+      "version": "*"
+    },
+    "@vuepic/vue-datepicker":{
+      "version": "*"
     }
   }
 }
