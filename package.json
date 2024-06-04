@@ -216,7 +216,8 @@
     "@i18n.nightly",
     "@i18n.rc",
     "@8n",
-    "@otplib"
+    "@otplib",
+    "@chevrotain"
   ],
   "allowPackages": {
     "@itchenliang/picture-rollup-local-plugin": {
@@ -17956,6 +17957,9 @@
       "version": "*"
     },
     "openapi-ui-dist": {
+      "version": "*"
+    },
+    "chevrotain": {
       "version": "*"
     }
   }
