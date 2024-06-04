@@ -17997,6 +17997,12 @@
     },
     "es-module-shims": {
       "version": "*"
+    },
+    "klinecharts": {
+      "version": "*"
+    },
+    "@klinecharts/pro": {
+      "version": "*"
     }
   }
 }
