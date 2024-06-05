@@ -1,35 +1,5 @@
 # Changelog
 
-## [1.61.0](https://github.com/cnpm/unpkg-white-list/compare/v1.60.0...v1.61.0) (2024-06-04)
-
-
-### Features
-
-* add klinecharts and @klinecharts/pro ([#124](https://github.com/cnpm/unpkg-white-list/issues/124)) ([cabb62c](https://github.com/cnpm/unpkg-white-list/commit/cabb62ce3d90786cd0ea216a81baa436c6fabb1c))
-
-## [1.60.0](https://github.com/cnpm/unpkg-white-list/compare/v1.59.0...v1.60.0) (2024-06-04)
-
-
-### Features
-
-* add spectre.css and @selectize/selectize ([#123](https://github.com/cnpm/unpkg-white-list/issues/123)) ([ac5d033](https://github.com/cnpm/unpkg-white-list/commit/ac5d03311fbdd13e22bf6e5b3b5fb7fc0959948c))
-
-## [1.59.0](https://github.com/cnpm/unpkg-white-list/compare/v1.58.0...v1.59.0) (2024-06-04)
-
-
-### Features
-
-* add es-module-shims ([#122](https://github.com/cnpm/unpkg-white-list/issues/122)) ([cfdce21](https://github.com/cnpm/unpkg-white-list/commit/cfdce21f52bd8c337ea1d6a76c418bbb447c8060))
-
-## [1.58.0](https://github.com/cnpm/unpkg-white-list/compare/v1.57.0...v1.58.0) (2024-06-04)
-
-
-### Features
-
-* @popperjs/core vue3-* ([#119](https://github.com/cnpm/unpkg-white-list/issues/119)) ([f562d9d](https://github.com/cnpm/unpkg-white-list/commit/f562d9d9f628f83f6f6b50b834cc6cbe5562aebe))
-* add artplayer, artplayer-plugin-danmuku  ([#121](https://github.com/cnpm/unpkg-white-list/issues/121)) ([5268a29](https://github.com/cnpm/unpkg-white-list/commit/5268a29747736aa427888eb82175a0c1804bc3ec))
-* add chevrotain and [@chevrotain](https://github.com/chevrotain) ([#120](https://github.com/cnpm/unpkg-white-list/issues/120)) ([745821a](https://github.com/cnpm/unpkg-white-list/commit/745821a9f5c3a22cddd8ce35688c620b00df14c0))
-
 ## [1.57.0](https://github.com/cnpm/unpkg-white-list/compare/v1.56.0...v1.57.0) (2024-06-04)
 
 
