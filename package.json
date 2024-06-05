@@ -16444,6 +16444,9 @@
     "updeep": {
       "version": "*"
     },
+    "p5": {
+      "version": "*"
+    },
     "uplot": {
       "version": "*"
     },
@@ -18002,6 +18005,75 @@
       "version": "*"
     },
     "@klinecharts/pro": {
+      "version": "*"
+    },
+    "@sigma": {
+      "version": "*"
+    },
+    "sigma": {
+      "version": "*"
+    },
+    "graphology-gexf": {
+      "version": "*"
+    },
+    "graphology-layout": {
+      "version": "*"
+    },
+    "graphology-layout-forceatlas2": {
+      "version": "*"
+    },
+    "graphology-generators": {
+      "version": "*"
+    },
+    "graphology-types": {
+      "version": "*"
+    },
+    "iwanthue": {
+      "version": "*"
+    },
+    "sigma/types": {
+      "version": "*"
+    },
+    "graphology-layout/circular": {
+      "version": "*"
+    },
+    "graphology-components": {
+      "version": "*"
+    },
+    "@sigma/node-image": {
+      "version": "*"
+    },
+    "graphology-layout-force/worker": {
+      "version": "*"
+    },
+    "graphology-generators/random/clusters": {
+      "version": "*"
+    },
+    "graphology-layout-forceatlas2/worker": {
+      "version": "*"
+    },
+    "graphology-layout/circlepack": {
+      "version": "*"
+    },
+    "sigma/rendering": {
+      "version": "*"
+    },
+    "sigma/utils": {
+      "version": "*"
+    },
+    "graphology-gexf/browser": {
+      "version": "*"
+    },
+    "@sigma/edge-curve": {
+      "version": "*"
+    },
+    "@sigma/node-border": {
+      "version": "*"
+    },
+    "@sigma/node-piechart": {
+      "version": "*"
+    },
+    "sigma/settings": {
       "version": "*"
     }
   }
