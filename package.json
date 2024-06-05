@@ -4309,6 +4309,9 @@
     "docsearch.js": {
       "version": "*"
     },
+    "docsify-sidebar-collapse": {
+      "version": "*"
+    },
     "docx-preview": {
       "version": "*"
     },
