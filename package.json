@@ -18003,6 +18003,9 @@
     },
     "@klinecharts/pro": {
       "version": "*"
+    },
+    "lozad": {
+      "version": "*"
     }
   }
 }
