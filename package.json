@@ -18006,6 +18006,9 @@
     },
     "p5":{
       "version": "*"
+    },
+    "vue3-apexcharts":{
+      "version": "*"
     }
   }
 }
