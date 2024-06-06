@@ -18014,6 +18014,12 @@
     },
     "lozad": {
       "version": "*"
+    },
+    "vue3-apexcharts":{
+      "version": "*"
+    },
+    "@f3ve/vue-markdown-it":{
+      "version": "*"
     }
   }
 }
