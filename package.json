@@ -66,6 +66,7 @@
     "@formily",
     "@galacean",
     "@gedit",
+    "@fontsource",
     "@fortawesome",
     "@fullcalendar",
     "@goldfishjs",
@@ -84,6 +85,7 @@
     "@mapbox",
     "@maptalks",
     "@mas.io",
+    "@maybe-lab",
     "@microsoft",
     "@miniu",
     "@napi-rs",
@@ -18005,6 +18007,9 @@
       "version": "*"
     },
     "@klinecharts/pro": {
+      "version": "*"
+    },
+    "lozad": {
       "version": "*"
     }
   }
