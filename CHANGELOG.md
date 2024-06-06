@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.62.0](https://github.com/cnpm/unpkg-white-list/compare/v1.61.0...v1.62.0) (2024-06-06)
+
+
+### Features
+
+* add [@fontsource](https://github.com/fontsource) ([#129](https://github.com/cnpm/unpkg-white-list/issues/129)) ([175991b](https://github.com/cnpm/unpkg-white-list/commit/175991ba895ff74f39700fb7006b6d49ef6e09ae))
+* add docsify-sidebar-collapse ([#128](https://github.com/cnpm/unpkg-white-list/issues/128)) ([2e817b5](https://github.com/cnpm/unpkg-white-list/commit/2e817b54e8b06f46daad2951fcda781e11797f85))
+* add lozad ([#131](https://github.com/cnpm/unpkg-white-list/issues/131)) ([adfe03d](https://github.com/cnpm/unpkg-white-list/commit/adfe03d9af51425137b8960d2281d8bda6b98f97))
+* add scope [@maybe-lab](https://github.com/maybe-lab) ([#130](https://github.com/cnpm/unpkg-white-list/issues/130)) ([07621d2](https://github.com/cnpm/unpkg-white-list/commit/07621d20322f4a198c0812054bbda9364bdb6cc7))
+
 ## [1.61.0](https://github.com/cnpm/unpkg-white-list/compare/v1.60.0...v1.61.0) (2024-06-04)
 
 
