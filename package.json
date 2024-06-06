@@ -18011,6 +18011,9 @@
     },
     "lozad": {
       "version": "*"
+    },
+    "smart-font-assist": {
+      "version": "*"
     }
   }
 }
