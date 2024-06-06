@@ -18005,6 +18005,9 @@
     },
     "@klinecharts/pro": {
       "version": "*"
+    },
+    "inmap":{
+      "version":"*"
     }
   }
 }
