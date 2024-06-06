@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.63.0](https://github.com/cnpm/unpkg-white-list/compare/v1.62.0...v1.63.0) (2024-06-06)
+
+
+### Features
+
+* add inmap ([#133](https://github.com/cnpm/unpkg-white-list/issues/133)) ([9e01c45](https://github.com/cnpm/unpkg-white-list/commit/9e01c459d45be08652b5bdd42d810df4831fa1d8))
+* add vue3-apexcharts @f3ve/vue-markdown-it ([#136](https://github.com/cnpm/unpkg-white-list/issues/136)) ([23be29c](https://github.com/cnpm/unpkg-white-list/commit/23be29cbc09120f36aba6962c4d674e3a4460c0d))
+
 ## [1.62.0](https://github.com/cnpm/unpkg-white-list/compare/v1.61.0...v1.62.0) (2024-06-06)
 
 
