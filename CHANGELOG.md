@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.65.0](https://github.com/cnpm/unpkg-white-list/compare/v1.64.0...v1.65.0) (2024-06-08)
+
+
+### Features
+
+* add lehe ([#138](https://github.com/cnpm/unpkg-white-list/issues/138)) ([bd4388c](https://github.com/cnpm/unpkg-white-list/commit/bd4388cff07c2b1f5c2deb88681c30e0528107b4))
+
 ## [1.64.0](https://github.com/cnpm/unpkg-white-list/compare/v1.63.0...v1.64.0) (2024-06-08)
 
 
