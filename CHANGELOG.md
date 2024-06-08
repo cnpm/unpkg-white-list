@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.64.0](https://github.com/cnpm/unpkg-white-list/compare/v1.63.0...v1.64.0) (2024-06-08)
+
+
+### Features
+
+* add [@orillusion](https://github.com/orillusion) ([#137](https://github.com/cnpm/unpkg-white-list/issues/137)) ([7401045](https://github.com/cnpm/unpkg-white-list/commit/740104546c23cfc03904f8fca2fd9b7ad3c53605))
+
 ## [1.63.0](https://github.com/cnpm/unpkg-white-list/compare/v1.62.0...v1.63.0) (2024-06-06)
 
 
