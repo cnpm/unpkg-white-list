@@ -18019,6 +18019,9 @@
     "vue3-apexcharts": {
       "version": "*"
     },
+    "lehe": {
+      "version": "*"
+    },
     "@f3ve/vue-markdown-it": {
       "version": "*"
     }
