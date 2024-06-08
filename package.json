@@ -219,7 +219,8 @@
     "@i18n.rc",
     "@8n",
     "@otplib",
-    "@chevrotain"
+    "@chevrotain",
+    "@orillusion"
   ],
   "allowPackages": {
     "@itchenliang/picture-rollup-local-plugin": {
