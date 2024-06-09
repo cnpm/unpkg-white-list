@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.66.0](https://github.com/cnpm/unpkg-white-list/compare/v1.65.0...v1.66.0) (2024-06-09)
+
+
+### Features
+
+* add libre-ui ([#139](https://github.com/cnpm/unpkg-white-list/issues/139)) ([4a0319f](https://github.com/cnpm/unpkg-white-list/commit/4a0319ff250ed37b4721d0127965ec88fd9047cf))
+
 ## [1.65.0](https://github.com/cnpm/unpkg-white-list/compare/v1.64.0...v1.65.0) (2024-06-08)
 
 
