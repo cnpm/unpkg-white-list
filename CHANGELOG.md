@@ -1,5 +1,51 @@
 # Changelog
 
+## [1.66.0](https://github.com/cnpm/unpkg-white-list/compare/v1.65.0...v1.66.0) (2024-06-09)
+
+
+### Features
+
+* add libre-ui ([#139](https://github.com/cnpm/unpkg-white-list/issues/139)) ([4a0319f](https://github.com/cnpm/unpkg-white-list/commit/4a0319ff250ed37b4721d0127965ec88fd9047cf))
+
+## [1.65.0](https://github.com/cnpm/unpkg-white-list/compare/v1.64.0...v1.65.0) (2024-06-08)
+
+
+### Features
+
+* add lehe ([#138](https://github.com/cnpm/unpkg-white-list/issues/138)) ([bd4388c](https://github.com/cnpm/unpkg-white-list/commit/bd4388cff07c2b1f5c2deb88681c30e0528107b4))
+
+## [1.64.0](https://github.com/cnpm/unpkg-white-list/compare/v1.63.0...v1.64.0) (2024-06-08)
+
+
+### Features
+
+* add [@orillusion](https://github.com/orillusion) ([#137](https://github.com/cnpm/unpkg-white-list/issues/137)) ([7401045](https://github.com/cnpm/unpkg-white-list/commit/740104546c23cfc03904f8fca2fd9b7ad3c53605))
+
+## [1.63.0](https://github.com/cnpm/unpkg-white-list/compare/v1.62.0...v1.63.0) (2024-06-06)
+
+
+### Features
+
+* add inmap ([#133](https://github.com/cnpm/unpkg-white-list/issues/133)) ([9e01c45](https://github.com/cnpm/unpkg-white-list/commit/9e01c459d45be08652b5bdd42d810df4831fa1d8))
+* add vue3-apexcharts @f3ve/vue-markdown-it ([#136](https://github.com/cnpm/unpkg-white-list/issues/136)) ([23be29c](https://github.com/cnpm/unpkg-white-list/commit/23be29cbc09120f36aba6962c4d674e3a4460c0d))
+
+## [1.62.0](https://github.com/cnpm/unpkg-white-list/compare/v1.61.0...v1.62.0) (2024-06-06)
+
+
+### Features
+
+* add [@fontsource](https://github.com/fontsource) ([#129](https://github.com/cnpm/unpkg-white-list/issues/129)) ([175991b](https://github.com/cnpm/unpkg-white-list/commit/175991ba895ff74f39700fb7006b6d49ef6e09ae))
+* add docsify-sidebar-collapse ([#128](https://github.com/cnpm/unpkg-white-list/issues/128)) ([2e817b5](https://github.com/cnpm/unpkg-white-list/commit/2e817b54e8b06f46daad2951fcda781e11797f85))
+* add lozad ([#131](https://github.com/cnpm/unpkg-white-list/issues/131)) ([adfe03d](https://github.com/cnpm/unpkg-white-list/commit/adfe03d9af51425137b8960d2281d8bda6b98f97))
+* add scope [@maybe-lab](https://github.com/maybe-lab) ([#130](https://github.com/cnpm/unpkg-white-list/issues/130)) ([07621d2](https://github.com/cnpm/unpkg-white-list/commit/07621d20322f4a198c0812054bbda9364bdb6cc7))
+
+## [1.61.0](https://github.com/cnpm/unpkg-white-list/compare/v1.60.0...v1.61.0) (2024-06-04)
+
+
+### Features
+
+* add klinecharts and @klinecharts/pro ([#124](https://github.com/cnpm/unpkg-white-list/issues/124)) ([cabb62c](https://github.com/cnpm/unpkg-white-list/commit/cabb62ce3d90786cd0ea216a81baa436c6fabb1c))
+
 ## [1.60.0](https://github.com/cnpm/unpkg-white-list/compare/v1.59.0...v1.60.0) (2024-06-04)
 
 

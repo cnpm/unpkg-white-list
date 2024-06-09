@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.60.0",
+  "version": "1.66.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -66,6 +66,7 @@
     "@formily",
     "@galacean",
     "@gedit",
+    "@fontsource",
     "@fortawesome",
     "@fullcalendar",
     "@goldfishjs",
@@ -84,6 +85,7 @@
     "@mapbox",
     "@maptalks",
     "@mas.io",
+    "@maybe-lab",
     "@microsoft",
     "@miniu",
     "@napi-rs",
@@ -217,7 +219,8 @@
     "@i18n.rc",
     "@8n",
     "@otplib",
-    "@chevrotain"
+    "@chevrotain",
+    "@orillusion"
   ],
   "allowPackages": {
     "@itchenliang/picture-rollup-local-plugin": {
@@ -4307,6 +4310,9 @@
       "version": "*"
     },
     "docsearch.js": {
+      "version": "*"
+    },
+    "docsify-sidebar-collapse": {
       "version": "*"
     },
     "docx-preview": {
@@ -8648,6 +8654,9 @@
       "version": "*"
     },
     "libpag": {
+      "version": "*"
+    },
+    "libre-ui": {
       "version": "*"
     },
     "license-checker": {
@@ -18002,6 +18011,21 @@
       "version": "*"
     },
     "@klinecharts/pro": {
+      "version": "*"
+    },
+    "inmap": {
+      "version": "*"
+    },
+    "lozad": {
+      "version": "*"
+    },
+    "vue3-apexcharts": {
+      "version": "*"
+    },
+    "lehe": {
+      "version": "*"
+    },
+    "@f3ve/vue-markdown-it": {
       "version": "*"
     }
   }
