@@ -2638,6 +2638,9 @@
     "bootstrap": {
       "version": "*"
     },
+    "bootstrap-icons": {
+      "version": "*"
+    },
     "bowser": {
       "version": "*"
     },
@@ -18029,6 +18032,78 @@
       "version": "*"
     },
     "yolo-tfjs": {
+      "version": "*"
+    },
+    "search-insights": {
+      "version": "*"
+    },
+    "@splidejs/splide": {
+      "version": "*"
+    },
+    "algoliasearch": {
+      "version": "*"
+    },
+    "instantsearch.js": {
+      "version": "*"
+    },
+    "jquery-ui": {
+      "version": "*"
+    },
+    "daterangepicker": {
+      "version": "*"
+    },
+    "bootstrap-select": {
+      "version": "*"
+    },
+    "uikit": {
+      "version": "*"
+    },
+    "lazyload": {
+      "version": "*"
+    },
+    "ky": {
+      "version": "*"
+    },
+    "remixicon": {
+      "version": "*"
+    },
+    "alpinejs": {
+      "version": "*"
+    },
+    "country-flag-emoji-json": {
+      "version": "*"
+    },
+    "bulma": {
+      "version": "*"
+    },
+    "dialog-polyfill": {
+      "version": "*"
+    },
+    "svg-country-flags": {
+      "version": "*"
+    },
+    "@clerk/clerk-js": {
+      "version": "*"
+    },
+    "lightgallery": {
+      "version": "*"
+    },
+    "core-js-bundle": {
+      "version": "*"
+    },
+    "mux.js": {
+      "version": "*"
+    },
+    "eruda-dom": {
+      "version": "*"
+    },
+    "autocomplete.js": {
+      "version": "*"
+    },
+    "@glidejs/glide": {
+      "version": "*"
+    },
+    "luxon": {
       "version": "*"
     }
   }
