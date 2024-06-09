@@ -8656,6 +8656,9 @@
     "libpag": {
       "version": "*"
     },
+    "libre-ui": {
+      "version": "*"
+    },
     "license-checker": {
       "version": "*"
     },
