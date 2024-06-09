@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.67.0](https://github.com/cnpm/unpkg-white-list/compare/v1.66.0...v1.67.0) (2024-06-09)
+
+
+### Features
+
+* add yolo-tfjs ([#140](https://github.com/cnpm/unpkg-white-list/issues/140)) ([ddff97e](https://github.com/cnpm/unpkg-white-list/commit/ddff97e3e0add8b3c94deab5c0098d7539abc559))
+
 ## [1.66.0](https://github.com/cnpm/unpkg-white-list/compare/v1.65.0...v1.66.0) (2024-06-09)
 
 
