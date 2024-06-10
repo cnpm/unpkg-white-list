@@ -225,6 +225,12 @@
     "@zxcvbn-ts"
   ],
   "allowPackages": {
+    "surface-plus": {
+      "version": "*"
+    },
+    "@element-plus": {
+      "version": "*"
+    },
     "@itchenliang/picture-rollup-local-plugin": {
       "version": "*"
     },
