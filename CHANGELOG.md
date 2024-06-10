@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.68.0](https://github.com/cnpm/unpkg-white-list/compare/v1.67.0...v1.68.0) (2024-06-10)
+
+
+### Features
+
+* add `[@zxcvbn-ts](https://github.com/zxcvbn-ts)` ([#141](https://github.com/cnpm/unpkg-white-list/issues/141)) ([bc4b0f1](https://github.com/cnpm/unpkg-white-list/commit/bc4b0f112ef07eee5cdd4aea6c53b5b801b9008d))
+* add packages and scope ([#143](https://github.com/cnpm/unpkg-white-list/issues/143)) ([396fdcf](https://github.com/cnpm/unpkg-white-list/commit/396fdcfe8890bab91afbdade6a0a27c1e68d12e9))
+* add packages from jsDelivr top 200 npm ([#142](https://github.com/cnpm/unpkg-white-list/issues/142)) ([3d040b8](https://github.com/cnpm/unpkg-white-list/commit/3d040b8f5e04ce20d8027d81abb8201e8bb7a381))
+
 ## [1.67.0](https://github.com/cnpm/unpkg-white-list/compare/v1.66.0...v1.67.0) (2024-06-09)
 
 
