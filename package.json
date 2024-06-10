@@ -221,6 +221,7 @@
     "@otplib",
     "@chevrotain",
     "@orillusion",
+    "@sec-ant",
     "@zxcvbn-ts"
   ],
   "allowPackages": {
@@ -18033,6 +18034,21 @@
       "version": "*"
     },
     "yolo-tfjs": {
+      "version": "*"
+    },
+    "zxing-wasm": {
+      "version": "*"
+    },
+    "barcode-detector": {
+      "version": "*"
+    },
+    "prettier-plugin-embed": {
+      "version": "*"
+    },
+    "doufree": {
+      "version": "*"
+    },
+    "github-feed-back": {
       "version": "*"
     },
     "search-insights": {
