@@ -220,7 +220,8 @@
     "@8n",
     "@otplib",
     "@chevrotain",
-    "@orillusion"
+    "@orillusion",
+    "@sec-ant"
   ],
   "allowPackages": {
     "@itchenliang/picture-rollup-local-plugin": {
@@ -18029,6 +18030,21 @@
       "version": "*"
     },
     "yolo-tfjs": {
+      "version": "*"
+    },
+    "zxing-wasm": {
+      "version": "*"
+    },
+    "barcode-detector": {
+      "version": "*"
+    },
+    "prettier-plugin-embed": {
+      "version": "*"
+    },
+    "doufree": {
+      "version": "*"
+    },
+    "github-feed-back": {
       "version": "*"
     }
   }
