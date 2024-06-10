@@ -220,7 +220,8 @@
     "@8n",
     "@otplib",
     "@chevrotain",
-    "@orillusion"
+    "@orillusion",
+    "@zxcvbn-ts"
   ],
   "allowPackages": {
     "@itchenliang/picture-rollup-local-plugin": {
