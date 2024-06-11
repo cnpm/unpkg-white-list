@@ -17983,11 +17983,11 @@
       "version": "*"
     },
     "playcanvas": {
-       "version": "*"
+      "version": "*"
     },
     "chevrotain": {
       "version": "*"
-     },
+    },
     "@popperjs/core": {
       "version": "2.11.8"
     },
@@ -18009,8 +18009,8 @@
     "artplayer-plugin-danmuku": {
       "version": "*"
     },
-    "es-module-shims":{
-      "version":"*"
+    "es-module-shims": {
+      "version": "*"
     },
     "klinecharts": {
       "version": "*"
@@ -18018,8 +18018,8 @@
     "@klinecharts/pro": {
       "version": "*"
     },
-    "inmap":{
-      "version":"*"
+    "inmap": {
+      "version": "*"
     },
     "lozad": {
       "version": "*"
