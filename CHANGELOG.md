@@ -1,5 +1,50 @@
 # Changelog
 
+## [1.68.0](https://github.com/cnpm/unpkg-white-list/compare/v1.67.0...v1.68.0) (2024-06-10)
+
+
+### Features
+
+* add `[@zxcvbn-ts](https://github.com/zxcvbn-ts)` ([#141](https://github.com/cnpm/unpkg-white-list/issues/141)) ([bc4b0f1](https://github.com/cnpm/unpkg-white-list/commit/bc4b0f112ef07eee5cdd4aea6c53b5b801b9008d))
+* add packages and scope ([#143](https://github.com/cnpm/unpkg-white-list/issues/143)) ([396fdcf](https://github.com/cnpm/unpkg-white-list/commit/396fdcfe8890bab91afbdade6a0a27c1e68d12e9))
+* add packages from jsDelivr top 200 npm ([#142](https://github.com/cnpm/unpkg-white-list/issues/142)) ([3d040b8](https://github.com/cnpm/unpkg-white-list/commit/3d040b8f5e04ce20d8027d81abb8201e8bb7a381))
+
+## [1.67.0](https://github.com/cnpm/unpkg-white-list/compare/v1.66.0...v1.67.0) (2024-06-09)
+
+
+### Features
+
+* add yolo-tfjs ([#140](https://github.com/cnpm/unpkg-white-list/issues/140)) ([ddff97e](https://github.com/cnpm/unpkg-white-list/commit/ddff97e3e0add8b3c94deab5c0098d7539abc559))
+
+## [1.66.0](https://github.com/cnpm/unpkg-white-list/compare/v1.65.0...v1.66.0) (2024-06-09)
+
+
+### Features
+
+* add libre-ui ([#139](https://github.com/cnpm/unpkg-white-list/issues/139)) ([4a0319f](https://github.com/cnpm/unpkg-white-list/commit/4a0319ff250ed37b4721d0127965ec88fd9047cf))
+
+## [1.65.0](https://github.com/cnpm/unpkg-white-list/compare/v1.64.0...v1.65.0) (2024-06-08)
+
+
+### Features
+
+* add lehe ([#138](https://github.com/cnpm/unpkg-white-list/issues/138)) ([bd4388c](https://github.com/cnpm/unpkg-white-list/commit/bd4388cff07c2b1f5c2deb88681c30e0528107b4))
+
+## [1.64.0](https://github.com/cnpm/unpkg-white-list/compare/v1.63.0...v1.64.0) (2024-06-08)
+
+
+### Features
+
+* add [@orillusion](https://github.com/orillusion) ([#137](https://github.com/cnpm/unpkg-white-list/issues/137)) ([7401045](https://github.com/cnpm/unpkg-white-list/commit/740104546c23cfc03904f8fca2fd9b7ad3c53605))
+
+## [1.63.0](https://github.com/cnpm/unpkg-white-list/compare/v1.62.0...v1.63.0) (2024-06-06)
+
+
+### Features
+
+* add inmap ([#133](https://github.com/cnpm/unpkg-white-list/issues/133)) ([9e01c45](https://github.com/cnpm/unpkg-white-list/commit/9e01c459d45be08652b5bdd42d810df4831fa1d8))
+* add vue3-apexcharts @f3ve/vue-markdown-it ([#136](https://github.com/cnpm/unpkg-white-list/issues/136)) ([23be29c](https://github.com/cnpm/unpkg-white-list/commit/23be29cbc09120f36aba6962c4d674e3a4460c0d))
+
 ## [1.62.0](https://github.com/cnpm/unpkg-white-list/compare/v1.61.0...v1.62.0) (2024-06-06)
 
 
