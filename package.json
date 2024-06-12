@@ -234,6 +234,9 @@
     "twikoo": {
       "version": "*"
     },
+    "ionicons": {
+      "version": "*"
+    },
     "fc3": {
       "version": "*"
     },
