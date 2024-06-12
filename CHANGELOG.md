@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.69.0](https://github.com/cnpm/unpkg-white-list/compare/v1.68.0...v1.69.0) (2024-06-12)
+
+
+### Features
+
+* add p5 ([#146](https://github.com/cnpm/unpkg-white-list/issues/146)) ([879b059](https://github.com/cnpm/unpkg-white-list/commit/879b0599237c740ef8b3a5d57334ead40f47ddda))
+* add surface-plus ([#147](https://github.com/cnpm/unpkg-white-list/issues/147)) ([d64c24f](https://github.com/cnpm/unpkg-white-list/commit/d64c24fed81c44c5c0029194c4981b2cb3f4cd5d))
+
 ## [1.68.0](https://github.com/cnpm/unpkg-white-list/compare/v1.67.0...v1.68.0) (2024-06-10)
 
 
