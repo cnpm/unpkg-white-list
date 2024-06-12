@@ -222,6 +222,7 @@
     "@chevrotain",
     "@orillusion",
     "@sec-ant",
+    "@ao-x",
     "@zxcvbn-ts"
   ],
   "allowPackages": {
