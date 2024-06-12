@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.70.0](https://github.com/cnpm/unpkg-white-list/compare/v1.69.0...v1.70.0) (2024-06-12)
+
+
+### Features
+
+* add [@ao-x](https://github.com/ao-x) ([#149](https://github.com/cnpm/unpkg-white-list/issues/149)) ([c85d971](https://github.com/cnpm/unpkg-white-list/commit/c85d97128cd9b64972924be53af00d2b29868304))
+* add ionicons ([#148](https://github.com/cnpm/unpkg-white-list/issues/148)) ([ca7dd2e](https://github.com/cnpm/unpkg-white-list/commit/ca7dd2ef68c0810c3f15ae6c9d035070465a8fac))
+
 ## [1.69.0](https://github.com/cnpm/unpkg-white-list/compare/v1.68.0...v1.69.0) (2024-06-12)
 
 
