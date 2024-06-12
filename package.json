@@ -9454,6 +9454,9 @@
     "median-quickselect": {
       "version": "*"
     },
+    "medium-zoom": {
+      "version": "*"
+    },
     "mem": {
       "version": "*"
     },
