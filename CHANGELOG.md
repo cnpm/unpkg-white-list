@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.71.0](https://github.com/cnpm/unpkg-white-list/compare/v1.70.0...v1.71.0) (2024-06-12)
+
+
+### Features
+
+* add medium-zoom ([#150](https://github.com/cnpm/unpkg-white-list/issues/150)) ([018a829](https://github.com/cnpm/unpkg-white-list/commit/018a829d3606f5711237b5b69140fee38fa9f5cb))
+
 ## [1.70.0](https://github.com/cnpm/unpkg-white-list/compare/v1.69.0...v1.70.0) (2024-06-12)
 
 
