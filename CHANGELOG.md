@@ -1,5 +1,58 @@
 # Changelog
 
+## [1.73.0](https://github.com/cnpm/unpkg-white-list/compare/v1.72.0...v1.73.0) (2024-06-13)
+
+
+### Features
+
+* add @hdzk-hel/pangu ([#152](https://github.com/cnpm/unpkg-white-list/issues/152)) ([94d7747](https://github.com/cnpm/unpkg-white-list/commit/94d77479a3b709bc4c6b9de0056efdf97b6cbf68))
+
+## [1.72.0](https://github.com/cnpm/unpkg-white-list/compare/v1.71.0...v1.72.0) (2024-06-13)
+
+
+### Features
+
+* add @element-plus/icons-vue ([#151](https://github.com/cnpm/unpkg-white-list/issues/151)) ([5e66250](https://github.com/cnpm/unpkg-white-list/commit/5e662506dc6a70c1c7ab32b76f7ebfd75309c4e3))
+
+## [1.71.0](https://github.com/cnpm/unpkg-white-list/compare/v1.70.0...v1.71.0) (2024-06-12)
+
+
+### Features
+
+* add medium-zoom ([#150](https://github.com/cnpm/unpkg-white-list/issues/150)) ([018a829](https://github.com/cnpm/unpkg-white-list/commit/018a829d3606f5711237b5b69140fee38fa9f5cb))
+
+## [1.70.0](https://github.com/cnpm/unpkg-white-list/compare/v1.69.0...v1.70.0) (2024-06-12)
+
+
+### Features
+
+* add [@ao-x](https://github.com/ao-x) ([#149](https://github.com/cnpm/unpkg-white-list/issues/149)) ([c85d971](https://github.com/cnpm/unpkg-white-list/commit/c85d97128cd9b64972924be53af00d2b29868304))
+* add ionicons ([#148](https://github.com/cnpm/unpkg-white-list/issues/148)) ([ca7dd2e](https://github.com/cnpm/unpkg-white-list/commit/ca7dd2ef68c0810c3f15ae6c9d035070465a8fac))
+
+## [1.69.0](https://github.com/cnpm/unpkg-white-list/compare/v1.68.0...v1.69.0) (2024-06-12)
+
+
+### Features
+
+* add p5 ([#146](https://github.com/cnpm/unpkg-white-list/issues/146)) ([879b059](https://github.com/cnpm/unpkg-white-list/commit/879b0599237c740ef8b3a5d57334ead40f47ddda))
+* add surface-plus ([#147](https://github.com/cnpm/unpkg-white-list/issues/147)) ([d64c24f](https://github.com/cnpm/unpkg-white-list/commit/d64c24fed81c44c5c0029194c4981b2cb3f4cd5d))
+
+## [1.68.0](https://github.com/cnpm/unpkg-white-list/compare/v1.67.0...v1.68.0) (2024-06-10)
+
+
+### Features
+
+* add `[@zxcvbn-ts](https://github.com/zxcvbn-ts)` ([#141](https://github.com/cnpm/unpkg-white-list/issues/141)) ([bc4b0f1](https://github.com/cnpm/unpkg-white-list/commit/bc4b0f112ef07eee5cdd4aea6c53b5b801b9008d))
+* add packages and scope ([#143](https://github.com/cnpm/unpkg-white-list/issues/143)) ([396fdcf](https://github.com/cnpm/unpkg-white-list/commit/396fdcfe8890bab91afbdade6a0a27c1e68d12e9))
+* add packages from jsDelivr top 200 npm ([#142](https://github.com/cnpm/unpkg-white-list/issues/142)) ([3d040b8](https://github.com/cnpm/unpkg-white-list/commit/3d040b8f5e04ce20d8027d81abb8201e8bb7a381))
+
+## [1.67.0](https://github.com/cnpm/unpkg-white-list/compare/v1.66.0...v1.67.0) (2024-06-09)
+
+
+### Features
+
+* add yolo-tfjs ([#140](https://github.com/cnpm/unpkg-white-list/issues/140)) ([ddff97e](https://github.com/cnpm/unpkg-white-list/commit/ddff97e3e0add8b3c94deab5c0098d7539abc559))
+
 ## [1.66.0](https://github.com/cnpm/unpkg-white-list/compare/v1.65.0...v1.66.0) (2024-06-09)
 
 

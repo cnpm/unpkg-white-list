@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.66.0",
+  "version": "1.73.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -220,13 +220,22 @@
     "@8n",
     "@otplib",
     "@chevrotain",
-    "@orillusion"
+    "@orillusion",
+    "@sec-ant",
+    "@ao-x",
+    "@zxcvbn-ts"
   ],
   "allowPackages": {
+    "surface-plus": {
+      "version": "*"
+    },
     "@itchenliang/picture-rollup-local-plugin": {
       "version": "*"
     },
     "twikoo": {
+      "version": "*"
+    },
+    "ionicons": {
       "version": "*"
     },
     "fc3": {
@@ -863,6 +872,9 @@
       "version": "*"
     },
     "@nuxtjs/friendly-errors-webpack-plugin": {
+      "version": "*"
+    },
+    "@hdzk-hel/pangu": {
       "version": "*"
     },
     "@oceanbase-odc/ob-intl-cli": {
@@ -2636,6 +2648,9 @@
       "version": "*"
     },
     "bootstrap": {
+      "version": "*"
+    },
+    "bootstrap-icons": {
       "version": "*"
     },
     "bowser": {
@@ -4883,6 +4898,9 @@
       "version": "*"
     },
     "element-plus": {
+      "version": "*"
+    },
+    "@element-plus/icons-vue": {
       "version": "*"
     },
     "ejs": {
@@ -9440,6 +9458,9 @@
       "version": "*"
     },
     "median-quickselect": {
+      "version": "*"
+    },
+    "medium-zoom": {
       "version": "*"
     },
     "mem": {
@@ -18029,6 +18050,96 @@
       "version": "*"
     },
     "yolo-tfjs": {
+      "version": "*"
+    },
+    "zxing-wasm": {
+      "version": "*"
+    },
+    "barcode-detector": {
+      "version": "*"
+    },
+    "prettier-plugin-embed": {
+      "version": "*"
+    },
+    "doufree": {
+      "version": "*"
+    },
+    "github-feed-back": {
+      "version": "*"
+    },
+    "search-insights": {
+      "version": "*"
+    },
+    "@splidejs/splide": {
+      "version": "*"
+    },
+    "algoliasearch": {
+      "version": "*"
+    },
+    "instantsearch.js": {
+      "version": "*"
+    },
+    "jquery-ui": {
+      "version": "*"
+    },
+    "daterangepicker": {
+      "version": "*"
+    },
+    "bootstrap-select": {
+      "version": "*"
+    },
+    "uikit": {
+      "version": "*"
+    },
+    "lazyload": {
+      "version": "*"
+    },
+    "ky": {
+      "version": "*"
+    },
+    "remixicon": {
+      "version": "*"
+    },
+    "alpinejs": {
+      "version": "*"
+    },
+    "country-flag-emoji-json": {
+      "version": "*"
+    },
+    "bulma": {
+      "version": "*"
+    },
+    "dialog-polyfill": {
+      "version": "*"
+    },
+    "svg-country-flags": {
+      "version": "*"
+    },
+    "@clerk/clerk-js": {
+      "version": "*"
+    },
+    "lightgallery": {
+      "version": "*"
+    },
+    "core-js-bundle": {
+      "version": "*"
+    },
+    "mux.js": {
+      "version": "*"
+    },
+    "eruda-dom": {
+      "version": "*"
+    },
+    "autocomplete.js": {
+      "version": "*"
+    },
+    "@glidejs/glide": {
+      "version": "*"
+    },
+    "luxon": {
+      "version": "*"
+    },
+    "p5": {
       "version": "*"
     }
   }
