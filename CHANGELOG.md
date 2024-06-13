@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.73.0](https://github.com/cnpm/unpkg-white-list/compare/v1.72.0...v1.73.0) (2024-06-13)
+
+
+### Features
+
+* add @hdzk-hel/pangu ([#152](https://github.com/cnpm/unpkg-white-list/issues/152)) ([94d7747](https://github.com/cnpm/unpkg-white-list/commit/94d77479a3b709bc4c6b9de0056efdf97b6cbf68))
+
 ## [1.72.0](https://github.com/cnpm/unpkg-white-list/compare/v1.71.0...v1.72.0) (2024-06-13)
 
 
