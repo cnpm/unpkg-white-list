@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.74.0](https://github.com/cnpm/unpkg-white-list/compare/v1.73.0...v1.74.0) (2024-06-13)
+
+
+### Features
+
+* add pinia-plugin-persistedstate ([#153](https://github.com/cnpm/unpkg-white-list/issues/153)) ([e4aeef7](https://github.com/cnpm/unpkg-white-list/commit/e4aeef75dfd2f7bac45fc37031f54aa98602c963))
+
 ## [1.73.0](https://github.com/cnpm/unpkg-white-list/compare/v1.72.0...v1.73.0) (2024-06-13)
 
 
