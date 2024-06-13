@@ -874,6 +874,9 @@
     "@nuxtjs/friendly-errors-webpack-plugin": {
       "version": "*"
     },
+    "@hdzk-hel/pangu": {
+      "version":"*"
+    },
     "@oceanbase-odc/ob-intl-cli": {
       "version": "*"
     },
