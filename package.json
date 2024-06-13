@@ -4897,6 +4897,9 @@
     "element-plus": {
       "version": "*"
     },
+    "@element-plus/icons-vue": {
+      "version": "*"
+    },
     "ejs": {
       "version": "*"
     },
