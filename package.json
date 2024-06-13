@@ -18141,6 +18141,9 @@
     },
     "p5": {
       "version": "*"
+    },
+    "pinia-plugin-persistedstate": {
+      "version": "*"
     }
   }
 }
