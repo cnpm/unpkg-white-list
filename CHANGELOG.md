@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.72.0](https://github.com/cnpm/unpkg-white-list/compare/v1.71.0...v1.72.0) (2024-06-13)
+
+
+### Features
+
+* add @element-plus/icons-vue ([#151](https://github.com/cnpm/unpkg-white-list/issues/151)) ([5e66250](https://github.com/cnpm/unpkg-white-list/commit/5e662506dc6a70c1c7ab32b76f7ebfd75309c4e3))
+
 ## [1.71.0](https://github.com/cnpm/unpkg-white-list/compare/v1.70.0...v1.71.0) (2024-06-12)
 
 
