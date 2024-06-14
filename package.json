@@ -10772,6 +10772,12 @@
     "photoswipe": {
       "version": "*"
     },
+    "photoswipe-deep-zoom-plugin": {
+      "version": "*"
+    },
+    "photoswipe-dynamic-caption-plugin": {
+      "version": "*"
+    },
     "pica": {
       "version": "*"
     },
