@@ -1,5 +1,49 @@
 # Changelog
 
+## [1.74.0](https://github.com/cnpm/unpkg-white-list/compare/v1.73.0...v1.74.0) (2024-06-13)
+
+
+### Features
+
+* add pinia-plugin-persistedstate ([#153](https://github.com/cnpm/unpkg-white-list/issues/153)) ([e4aeef7](https://github.com/cnpm/unpkg-white-list/commit/e4aeef75dfd2f7bac45fc37031f54aa98602c963))
+
+## [1.73.0](https://github.com/cnpm/unpkg-white-list/compare/v1.72.0...v1.73.0) (2024-06-13)
+
+
+### Features
+
+* add @hdzk-hel/pangu ([#152](https://github.com/cnpm/unpkg-white-list/issues/152)) ([94d7747](https://github.com/cnpm/unpkg-white-list/commit/94d77479a3b709bc4c6b9de0056efdf97b6cbf68))
+
+## [1.72.0](https://github.com/cnpm/unpkg-white-list/compare/v1.71.0...v1.72.0) (2024-06-13)
+
+
+### Features
+
+* add @element-plus/icons-vue ([#151](https://github.com/cnpm/unpkg-white-list/issues/151)) ([5e66250](https://github.com/cnpm/unpkg-white-list/commit/5e662506dc6a70c1c7ab32b76f7ebfd75309c4e3))
+
+## [1.71.0](https://github.com/cnpm/unpkg-white-list/compare/v1.70.0...v1.71.0) (2024-06-12)
+
+
+### Features
+
+* add medium-zoom ([#150](https://github.com/cnpm/unpkg-white-list/issues/150)) ([018a829](https://github.com/cnpm/unpkg-white-list/commit/018a829d3606f5711237b5b69140fee38fa9f5cb))
+
+## [1.70.0](https://github.com/cnpm/unpkg-white-list/compare/v1.69.0...v1.70.0) (2024-06-12)
+
+
+### Features
+
+* add [@ao-x](https://github.com/ao-x) ([#149](https://github.com/cnpm/unpkg-white-list/issues/149)) ([c85d971](https://github.com/cnpm/unpkg-white-list/commit/c85d97128cd9b64972924be53af00d2b29868304))
+* add ionicons ([#148](https://github.com/cnpm/unpkg-white-list/issues/148)) ([ca7dd2e](https://github.com/cnpm/unpkg-white-list/commit/ca7dd2ef68c0810c3f15ae6c9d035070465a8fac))
+
+## [1.69.0](https://github.com/cnpm/unpkg-white-list/compare/v1.68.0...v1.69.0) (2024-06-12)
+
+
+### Features
+
+* add p5 ([#146](https://github.com/cnpm/unpkg-white-list/issues/146)) ([879b059](https://github.com/cnpm/unpkg-white-list/commit/879b0599237c740ef8b3a5d57334ead40f47ddda))
+* add surface-plus ([#147](https://github.com/cnpm/unpkg-white-list/issues/147)) ([d64c24f](https://github.com/cnpm/unpkg-white-list/commit/d64c24fed81c44c5c0029194c4981b2cb3f4cd5d))
+
 ## [1.68.0](https://github.com/cnpm/unpkg-white-list/compare/v1.67.0...v1.68.0) (2024-06-10)
 
 
