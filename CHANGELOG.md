@@ -1,5 +1,27 @@
 # Changelog
 
+## [1.76.0](https://github.com/cnpm/unpkg-white-list/compare/v1.75.0...v1.76.0) (2024-06-15)
+
+
+### Features
+
+* Add photoswipe-deep-zoom-plugin and photoswipe-dynamic-caption-plugin ([#156](https://github.com/cnpm/unpkg-white-list/issues/156)) ([a633836](https://github.com/cnpm/unpkg-white-list/commit/a6338360957d84795f1daf3b439b403ff676a623))
+
+## [1.75.0](https://github.com/cnpm/unpkg-white-list/compare/v1.74.0...v1.75.0) (2024-06-14)
+
+
+### Features
+
+* add [@artalk](https://github.com/artalk) ([#155](https://github.com/cnpm/unpkg-white-list/issues/155)) ([5281428](https://github.com/cnpm/unpkg-white-list/commit/52814286bd85dbab9252fb708173490e7bbab447))
+* add vue3-lottie ([#154](https://github.com/cnpm/unpkg-white-list/issues/154)) ([c8960e9](https://github.com/cnpm/unpkg-white-list/commit/c8960e9075aacfdee6ab1c1e6507eea3d72e43b1))
+
+## [1.74.0](https://github.com/cnpm/unpkg-white-list/compare/v1.73.0...v1.74.0) (2024-06-13)
+
+
+### Features
+
+* add pinia-plugin-persistedstate ([#153](https://github.com/cnpm/unpkg-white-list/issues/153)) ([e4aeef7](https://github.com/cnpm/unpkg-white-list/commit/e4aeef75dfd2f7bac45fc37031f54aa98602c963))
+
 ## [1.73.0](https://github.com/cnpm/unpkg-white-list/compare/v1.72.0...v1.73.0) (2024-06-13)
 
 
