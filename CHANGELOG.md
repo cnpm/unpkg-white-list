@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.76.0](https://github.com/cnpm/unpkg-white-list/compare/v1.75.0...v1.76.0) (2024-06-15)
+
+
+### Features
+
+* Add photoswipe-deep-zoom-plugin and photoswipe-dynamic-caption-plugin ([#156](https://github.com/cnpm/unpkg-white-list/issues/156)) ([a633836](https://github.com/cnpm/unpkg-white-list/commit/a6338360957d84795f1daf3b439b403ff676a623))
+
 ## [1.75.0](https://github.com/cnpm/unpkg-white-list/compare/v1.74.0...v1.75.0) (2024-06-14)
 
 
