@@ -230,6 +230,9 @@
     "surface-plus": {
       "version": "*"
     },
+    "artalk": {
+      "version": "*"
+    },
     "@itchenliang/picture-rollup-local-plugin": {
       "version": "*"
     },
