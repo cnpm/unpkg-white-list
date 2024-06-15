@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.77.0](https://github.com/cnpm/unpkg-white-list/compare/v1.76.0...v1.77.0) (2024-06-15)
+
+
+### Features
+
+* add artalk ([#157](https://github.com/cnpm/unpkg-white-list/issues/157)) ([e1fed9d](https://github.com/cnpm/unpkg-white-list/commit/e1fed9d3ff532a0d0f8bd9ef654b3b3fcef9c1ca))
+
 ## [1.76.0](https://github.com/cnpm/unpkg-white-list/compare/v1.75.0...v1.76.0) (2024-06-15)
 
 
