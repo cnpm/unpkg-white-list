@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.79.0](https://github.com/cnpm/unpkg-white-list/compare/v1.78.0...v1.79.0) (2024-06-17)
+
+
+### Features
+
+* add `echarts-stat`, `echarts-graph-modularity` and `code-prettify` package ([#161](https://github.com/cnpm/unpkg-white-list/issues/161)) ([82ca3bc](https://github.com/cnpm/unpkg-white-list/commit/82ca3bcdb9accea9b388013f5728a5de6ced513f)), closes [#159](https://github.com/cnpm/unpkg-white-list/issues/159)
+
 ## [1.78.0](https://github.com/cnpm/unpkg-white-list/compare/v1.77.0...v1.78.0) (2024-06-17)
 
 
