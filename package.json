@@ -3311,6 +3311,9 @@
     "codemirror-solidity": {
       "version": "*"
     },
+    "code-prettify": {
+      "version": "*"
+    },
     "codql": {
       "version": "*"
     },
