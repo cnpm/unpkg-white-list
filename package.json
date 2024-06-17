@@ -4649,10 +4649,16 @@
     "echarts-gl": {
       "version": "*"
     },
+    "echarts-graph-modularity": {
+      "version": "*"
+    },
     "echarts-liquidfill": {
       "version": "*"
     },
     "echarts-nightly": {
+      "version": "*"
+    },
+    "echarts-stat": {
       "version": "*"
     },
     "echarts-wordcloud": {
