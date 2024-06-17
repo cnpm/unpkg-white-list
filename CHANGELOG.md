@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.78.0](https://github.com/cnpm/unpkg-white-list/compare/v1.77.0...v1.78.0) (2024-06-17)
+
+
+### Features
+
+* add echarts-nightly, zrender-nightly & remove non-existing echarts-v5 package ([#159](https://github.com/cnpm/unpkg-white-list/issues/159)) ([c44ce68](https://github.com/cnpm/unpkg-white-list/commit/c44ce68c70338d9549f280067ec2232563dcbe1d))
+
 ## [1.77.0](https://github.com/cnpm/unpkg-white-list/compare/v1.76.0...v1.77.0) (2024-06-15)
 
 
