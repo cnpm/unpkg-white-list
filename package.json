@@ -3311,6 +3311,9 @@
     "codemirror-solidity": {
       "version": "*"
     },
+    "code-prettify": {
+      "version": "*"
+    },
     "codql": {
       "version": "*"
     },
@@ -4649,10 +4652,16 @@
     "echarts-gl": {
       "version": "*"
     },
+    "echarts-graph-modularity": {
+      "version": "*"
+    },
     "echarts-liquidfill": {
       "version": "*"
     },
     "echarts-nightly": {
+      "version": "*"
+    },
+    "echarts-stat": {
       "version": "*"
     },
     "echarts-wordcloud": {
