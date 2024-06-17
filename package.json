@@ -4655,6 +4655,9 @@
     "echarts-nightly": {
       "version": "*"
     },
+    "echarts-stat": {
+      "version": "*"
+    },
     "echarts-wordcloud": {
       "version": "*"
     },
