@@ -4652,7 +4652,7 @@
     "echarts-liquidfill": {
       "version": "*"
     },
-    "echarts-v5": {
+    "echarts-nightly": {
       "version": "*"
     },
     "echarts-wordcloud": {
@@ -17874,6 +17874,9 @@
       "version": "*"
     },
     "zrender": {
+      "version": "*"
+    },
+    "zrender-nightly": {
       "version": "*"
     },
     "zstd-codec": {
