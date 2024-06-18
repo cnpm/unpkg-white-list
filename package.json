@@ -18169,6 +18169,9 @@
     },
     "vue3-lottie": {
       "version": "*"
+    }，
+    "blog-qianxun-site": {
+      "version": "*"
     }
   }
 }
