@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.80.0](https://github.com/cnpm/unpkg-white-list/compare/v1.79.0...v1.80.0) (2024-06-18)
+
+
+### Features
+
+* add [@wangeditor-next](https://github.com/wangeditor-next) ([#163](https://github.com/cnpm/unpkg-white-list/issues/163)) ([feb51d2](https://github.com/cnpm/unpkg-white-list/commit/feb51d25a88bcdc950300a0796657ec5524a17a9))
+* add blog-qianxun-site ([#164](https://github.com/cnpm/unpkg-white-list/issues/164)) ([9cfcfa8](https://github.com/cnpm/unpkg-white-list/commit/9cfcfa82d30df9b0b31ce42897b9ef7bef2f6c23))
+
 ## [1.79.0](https://github.com/cnpm/unpkg-white-list/compare/v1.78.0...v1.79.0) (2024-06-17)
 
 
