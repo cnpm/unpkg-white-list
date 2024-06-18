@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.74.0",
+  "version": "1.80.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -28,6 +28,8 @@
   },
   "homepage": "https://github.com/cnpm/unpkg-white-list#readme",
   "allowScopes": [
+    "@wangeditor-next",
+    "@artalk",
     "@yuzhang134562",
     "@eggjs",
     "@ahooksjs",
@@ -227,6 +229,9 @@
   ],
   "allowPackages": {
     "surface-plus": {
+      "version": "*"
+    },
+    "artalk": {
       "version": "*"
     },
     "@itchenliang/picture-rollup-local-plugin": {
@@ -3307,6 +3312,9 @@
     "codemirror-solidity": {
       "version": "*"
     },
+    "code-prettify": {
+      "version": "*"
+    },
     "codql": {
       "version": "*"
     },
@@ -4645,10 +4653,16 @@
     "echarts-gl": {
       "version": "*"
     },
+    "echarts-graph-modularity": {
+      "version": "*"
+    },
     "echarts-liquidfill": {
       "version": "*"
     },
-    "echarts-v5": {
+    "echarts-nightly": {
+      "version": "*"
+    },
+    "echarts-stat": {
       "version": "*"
     },
     "echarts-wordcloud": {
@@ -10769,6 +10783,12 @@
       "version": "*"
     },
     "photoswipe": {
+      "version": "*"
+    },
+    "photoswipe-deep-zoom-plugin": {
+      "version": "*"
+    },
+    "photoswipe-dynamic-caption-plugin": {
       "version": "*"
     },
     "pica": {
@@ -17866,6 +17886,9 @@
     "zrender": {
       "version": "*"
     },
+    "zrender-nightly": {
+      "version": "*"
+    },
     "zstd-codec": {
       "version": "*"
     },
@@ -18145,7 +18168,13 @@
     "pinia-plugin-persistedstate": {
       "version": "*"
     },
-    "vue3-lottie":{
+    "vue3-lottie": {
+      "version": "*"
+    },
+    "blog-qianxun-site": {
+      "version": "*"
+    },
+    "roughjs": {
       "version": "*"
     }
   }

@@ -1,5 +1,49 @@
 # Changelog
 
+## [1.80.0](https://github.com/cnpm/unpkg-white-list/compare/v1.79.0...v1.80.0) (2024-06-18)
+
+
+### Features
+
+* add [@wangeditor-next](https://github.com/wangeditor-next) ([#163](https://github.com/cnpm/unpkg-white-list/issues/163)) ([feb51d2](https://github.com/cnpm/unpkg-white-list/commit/feb51d25a88bcdc950300a0796657ec5524a17a9))
+* add blog-qianxun-site ([#164](https://github.com/cnpm/unpkg-white-list/issues/164)) ([9cfcfa8](https://github.com/cnpm/unpkg-white-list/commit/9cfcfa82d30df9b0b31ce42897b9ef7bef2f6c23))
+
+## [1.79.0](https://github.com/cnpm/unpkg-white-list/compare/v1.78.0...v1.79.0) (2024-06-17)
+
+
+### Features
+
+* add `echarts-stat`, `echarts-graph-modularity` and `code-prettify` package ([#161](https://github.com/cnpm/unpkg-white-list/issues/161)) ([82ca3bc](https://github.com/cnpm/unpkg-white-list/commit/82ca3bcdb9accea9b388013f5728a5de6ced513f)), closes [#159](https://github.com/cnpm/unpkg-white-list/issues/159)
+
+## [1.78.0](https://github.com/cnpm/unpkg-white-list/compare/v1.77.0...v1.78.0) (2024-06-17)
+
+
+### Features
+
+* add echarts-nightly, zrender-nightly & remove non-existing echarts-v5 package ([#159](https://github.com/cnpm/unpkg-white-list/issues/159)) ([c44ce68](https://github.com/cnpm/unpkg-white-list/commit/c44ce68c70338d9549f280067ec2232563dcbe1d))
+
+## [1.77.0](https://github.com/cnpm/unpkg-white-list/compare/v1.76.0...v1.77.0) (2024-06-15)
+
+
+### Features
+
+* add artalk ([#157](https://github.com/cnpm/unpkg-white-list/issues/157)) ([e1fed9d](https://github.com/cnpm/unpkg-white-list/commit/e1fed9d3ff532a0d0f8bd9ef654b3b3fcef9c1ca))
+
+## [1.76.0](https://github.com/cnpm/unpkg-white-list/compare/v1.75.0...v1.76.0) (2024-06-15)
+
+
+### Features
+
+* Add photoswipe-deep-zoom-plugin and photoswipe-dynamic-caption-plugin ([#156](https://github.com/cnpm/unpkg-white-list/issues/156)) ([a633836](https://github.com/cnpm/unpkg-white-list/commit/a6338360957d84795f1daf3b439b403ff676a623))
+
+## [1.75.0](https://github.com/cnpm/unpkg-white-list/compare/v1.74.0...v1.75.0) (2024-06-14)
+
+
+### Features
+
+* add [@artalk](https://github.com/artalk) ([#155](https://github.com/cnpm/unpkg-white-list/issues/155)) ([5281428](https://github.com/cnpm/unpkg-white-list/commit/52814286bd85dbab9252fb708173490e7bbab447))
+* add vue3-lottie ([#154](https://github.com/cnpm/unpkg-white-list/issues/154)) ([c8960e9](https://github.com/cnpm/unpkg-white-list/commit/c8960e9075aacfdee6ab1c1e6507eea3d72e43b1))
+
 ## [1.74.0](https://github.com/cnpm/unpkg-white-list/compare/v1.73.0...v1.74.0) (2024-06-13)
 
 
