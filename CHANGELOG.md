@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.81.0](https://github.com/cnpm/unpkg-white-list/compare/v1.80.0...v1.81.0) (2024-06-18)
+
+
+### Features
+
+* add roughjs ([#165](https://github.com/cnpm/unpkg-white-list/issues/165)) ([3dae819](https://github.com/cnpm/unpkg-white-list/commit/3dae819463ac61468fb5fd4343a9d9fc1a3d7032))
+
 ## [1.80.0](https://github.com/cnpm/unpkg-white-list/compare/v1.79.0...v1.80.0) (2024-06-18)
 
 
