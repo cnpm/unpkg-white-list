@@ -18173,6 +18173,9 @@
     },
     "blog-qianxun-site": {
       "version": "*"
+    },
+    "roughjs": {
+      "version": "*"
     }
   }
 }
