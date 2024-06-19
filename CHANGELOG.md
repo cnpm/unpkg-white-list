@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.82.0](https://github.com/cnpm/unpkg-white-list/compare/v1.81.0...v1.82.0) (2024-06-19)
+
+
+### Features
+
+* add [@ruiyun](https://github.com/ruiyun) and [@microfe](https://github.com/microfe) ([#167](https://github.com/cnpm/unpkg-white-list/issues/167)) ([3b62506](https://github.com/cnpm/unpkg-white-list/commit/3b62506476346d670e2ff63d478fdb649e684012))
+
 ## [1.81.0](https://github.com/cnpm/unpkg-white-list/compare/v1.80.0...v1.81.0) (2024-06-18)
 
 
