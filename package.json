@@ -225,7 +225,9 @@
     "@orillusion",
     "@sec-ant",
     "@ao-x",
-    "@zxcvbn-ts"
+    "@zxcvbn-ts",
+    "@ruiyun",
+    "@microfe"
   ],
   "allowPackages": {
     "surface-plus": {
