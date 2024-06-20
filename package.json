@@ -18184,6 +18184,102 @@
     },
     "cytoscape-cola": {
       "version": "*"
+    },
+    "console-browserify": {
+      "version": "*"
+    },
+    "constants-browserify": {
+      "version": "*"
+    },
+    "domain-browser": {
+      "version": "*"
+    },
+    "punycode": {
+      "version": "*"
+    },
+    "timers-browserify": {
+      "version": "*"
+    },
+    "tty-browserify": {
+      "version": "*"
+    },
+    "vm-browserify": {
+      "version": "*"
+    },
+    "ieee754": {
+      "version": "*"
+    },
+    "isarray": {
+      "version": "*"
+    },
+    "browserify-cipher": {
+      "version": "*"
+    },
+    "browserify-sign": {
+      "version": "*"
+    },
+    "create-ecdh": {
+      "version": "*"
+    },
+    "diffie-hellman": {
+      "version": "*"
+    },
+    "pbkdf2": {
+      "version": "*"
+    },
+    "public-encrypt": {
+      "version": "*"
+    },
+    "randombytes": {
+      "version": "*"
+    },
+    "randomfill": {
+      "version": "*"
+    },
+    "core-util-is": {
+      "version": "*"
+    },
+    "process-nextick-args": {
+      "version": "*"
+    },
+    "util-deprecate": {
+      "version": "*"
+    },
+    "builtin-status-codes": {
+      "version": "*"
+    },
+    "to-arraybuffer": {
+      "version": "*"
+    },
+    "xtend": {
+      "version": "*"
+    },
+    "call-bind": {
+      "version": "*"
+    },
+    "define-properties": {
+      "version": "*"
+    },
+    "has-symbols": {
+      "version": "*"
+    },
+    "object-keys": {
+      "version": "*"
+    },
+    "cipher-base": {
+      "version": "*"
+    },
+    "ripemd160": {
+      "version": "*"
+    },
+    "sha.js": {
+      "version": "*"
+    },
+    "side-channel": {
+      "version": "*"
+    },
+    "hash-base": {
+      "version": "*"
     }
   }
 }
