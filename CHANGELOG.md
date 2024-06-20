@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.82.0](https://github.com/cnpm/unpkg-white-list/compare/v1.81.0...v1.82.0) (2024-06-19)
+
+
+### Features
+
+* add [@ruiyun](https://github.com/ruiyun) and [@microfe](https://github.com/microfe) ([#167](https://github.com/cnpm/unpkg-white-list/issues/167)) ([3b62506](https://github.com/cnpm/unpkg-white-list/commit/3b62506476346d670e2ff63d478fdb649e684012))
+
+## [1.81.0](https://github.com/cnpm/unpkg-white-list/compare/v1.80.0...v1.81.0) (2024-06-18)
+
+
+### Features
+
+* add roughjs ([#165](https://github.com/cnpm/unpkg-white-list/issues/165)) ([3dae819](https://github.com/cnpm/unpkg-white-list/commit/3dae819463ac61468fb5fd4343a9d9fc1a3d7032))
+
 ## [1.80.0](https://github.com/cnpm/unpkg-white-list/compare/v1.79.0...v1.80.0) (2024-06-18)
 
 
