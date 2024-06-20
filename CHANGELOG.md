@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.83.0](https://github.com/cnpm/unpkg-white-list/compare/v1.82.0...v1.83.0) (2024-06-20)
+
+
+### Features
+
+* add webcola, cytoscape-cola ([#168](https://github.com/cnpm/unpkg-white-list/issues/168)) ([0d8ef02](https://github.com/cnpm/unpkg-white-list/commit/0d8ef02cef8bbb227e51909c9d8e9ad9344245c2))
+
 ## [1.82.0](https://github.com/cnpm/unpkg-white-list/compare/v1.81.0...v1.82.0) (2024-06-19)
 
 
