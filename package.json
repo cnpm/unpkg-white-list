@@ -18178,6 +18178,12 @@
     },
     "roughjs": {
       "version": "*"
+    },
+    "webcola":{
+      "version":"*"
+    },
+    "cytoscape-cola":{
+      "version":"*"
     }
   }
 }
