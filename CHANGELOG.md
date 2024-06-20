@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.85.0](https://github.com/cnpm/unpkg-white-list/compare/v1.84.0...v1.85.0) (2024-06-20)
+
+
+### Features
+
+* add hexo-theme-redefine ([#170](https://github.com/cnpm/unpkg-white-list/issues/170)) ([ad82033](https://github.com/cnpm/unpkg-white-list/commit/ad82033e7ccbcbea558276f6c729ae6985df3a1d))
+
 ## [1.84.0](https://github.com/cnpm/unpkg-white-list/compare/v1.83.0...v1.84.0) (2024-06-20)
 
 
