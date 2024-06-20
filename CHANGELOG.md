@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.84.0](https://github.com/cnpm/unpkg-white-list/compare/v1.83.0...v1.84.0) (2024-06-20)
+
+
+### Features
+
+* add browserify and more packages ([#169](https://github.com/cnpm/unpkg-white-list/issues/169)) ([42b9f73](https://github.com/cnpm/unpkg-white-list/commit/42b9f734a40f3f613832644c24f296d64d626c8b))
+
 ## [1.83.0](https://github.com/cnpm/unpkg-white-list/compare/v1.82.0...v1.83.0) (2024-06-20)
 
 
