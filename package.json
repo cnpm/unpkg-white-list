@@ -18182,11 +18182,11 @@
     "roughjs": {
       "version": "*"
     },
-    "webcola": {
-      "version": "*"
+    "webcola":{
+      "version":"*"
     },
-    "cytoscape-cola": {
-      "version": "*"
+    "cytoscape-cola":{
+      "version":"*"
     },
     "console-browserify": {
       "version": "*"
@@ -18282,6 +18282,33 @@
       "version": "*"
     },
     "hash-base": {
+      "version": "*"
+    },
+    "@sigma/node-border":{
+      "version": "*"
+    },
+    "@sigma/node-image":{
+      "version": "*"
+    },
+    "@sigma/node-piechart":{
+      "version": "*"
+    },
+    "@sigma/edge-curve":{
+      "version": "*"
+    },
+    "graphology-generators":{
+      "version": "*"
+    },
+    "graphology-layout-forceatlas2":{
+      "version": "*"
+    },
+    "graphology-gexf":{
+      "version": "*"
+    },
+    "graphology":{
+      "version": "*"
+    },
+    "sigma":{
       "version": "*"
     }
   }
