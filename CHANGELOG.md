@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.86.0](https://github.com/cnpm/unpkg-white-list/compare/v1.85.0...v1.86.0) (2024-06-21)
+
+
+### Features
+
+* add @sigma/node-border、@sigma/node-image、@sigma/node-piechart、@sigma/edge-curve、graphology-generators、graphology-layout-forceatlas2、graphology-gexf、graphology、sigma ([#171](https://github.com/cnpm/unpkg-white-list/issues/171)) ([ca914b6](https://github.com/cnpm/unpkg-white-list/commit/ca914b69ff39172a7469a8d345af2d2dd411874e))
+
 ## [1.85.0](https://github.com/cnpm/unpkg-white-list/compare/v1.84.0...v1.85.0) (2024-06-20)
 
 
