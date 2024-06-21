@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.82.0",
+  "version": "1.85.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -230,6 +230,9 @@
     "@microfe"
   ],
   "allowPackages": {
+    "hexo-theme-redefine": {
+      "version": "*"
+    },
     "surface-plus": {
       "version": "*"
     },
@@ -18184,6 +18187,129 @@
     },
     "cytoscape-cola":{
       "version":"*"
+    },
+    "console-browserify": {
+      "version": "*"
+    },
+    "constants-browserify": {
+      "version": "*"
+    },
+    "domain-browser": {
+      "version": "*"
+    },
+    "punycode": {
+      "version": "*"
+    },
+    "timers-browserify": {
+      "version": "*"
+    },
+    "tty-browserify": {
+      "version": "*"
+    },
+    "vm-browserify": {
+      "version": "*"
+    },
+    "ieee754": {
+      "version": "*"
+    },
+    "isarray": {
+      "version": "*"
+    },
+    "browserify-cipher": {
+      "version": "*"
+    },
+    "browserify-sign": {
+      "version": "*"
+    },
+    "create-ecdh": {
+      "version": "*"
+    },
+    "diffie-hellman": {
+      "version": "*"
+    },
+    "pbkdf2": {
+      "version": "*"
+    },
+    "public-encrypt": {
+      "version": "*"
+    },
+    "randombytes": {
+      "version": "*"
+    },
+    "randomfill": {
+      "version": "*"
+    },
+    "core-util-is": {
+      "version": "*"
+    },
+    "process-nextick-args": {
+      "version": "*"
+    },
+    "util-deprecate": {
+      "version": "*"
+    },
+    "builtin-status-codes": {
+      "version": "*"
+    },
+    "to-arraybuffer": {
+      "version": "*"
+    },
+    "xtend": {
+      "version": "*"
+    },
+    "call-bind": {
+      "version": "*"
+    },
+    "define-properties": {
+      "version": "*"
+    },
+    "has-symbols": {
+      "version": "*"
+    },
+    "object-keys": {
+      "version": "*"
+    },
+    "cipher-base": {
+      "version": "*"
+    },
+    "ripemd160": {
+      "version": "*"
+    },
+    "sha.js": {
+      "version": "*"
+    },
+    "side-channel": {
+      "version": "*"
+    },
+    "hash-base": {
+      "version": "*"
+    },
+    "@sigma/node-border":{
+      "version": "*"
+    },
+    "@sigma/node-image":{
+      "version": "*"
+    },
+    "@sigma/node-piechart":{
+      "version": "*"
+    },
+    "@sigma/edge-curve":{
+      "version": "*"
+    },
+    "graphology-generators":{
+      "version": "*"
+    },
+    "graphology-layout-forceatlas2":{
+      "version": "*"
+    },
+    "graphology-gexf":{
+      "version": "*"
+    },
+    "graphology":{
+      "version": "*"
+    },
+    "sigma":{
+      "version": "*"
     }
   }
 }
