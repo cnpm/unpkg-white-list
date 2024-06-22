@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.87.0](https://github.com/cnpm/unpkg-white-list/compare/v1.86.0...v1.87.0) (2024-06-22)
+
+
+### Features
+
+* add solid-js ([#172](https://github.com/cnpm/unpkg-white-list/issues/172)) ([ba14e70](https://github.com/cnpm/unpkg-white-list/commit/ba14e7071158f175887c7ae341cac77af5fd64da))
+
 ## [1.86.0](https://github.com/cnpm/unpkg-white-list/compare/v1.85.0...v1.86.0) (2024-06-21)
 
 
