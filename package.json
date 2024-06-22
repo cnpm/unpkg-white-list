@@ -18310,6 +18310,9 @@
     },
     "sigma": {
       "version": "*"
+    },
+    "solid-js": {
+      "version": "*"
     }
   }
 }
