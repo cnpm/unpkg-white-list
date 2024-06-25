@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.89.0](https://github.com/cnpm/unpkg-white-list/compare/v1.88.0...v1.89.0) (2024-06-25)
+
+
+### Features
+
+* add vue-plugin-hiprint and bwip-js ([#174](https://github.com/cnpm/unpkg-white-list/issues/174)) ([af6d9cf](https://github.com/cnpm/unpkg-white-list/commit/af6d9cf47c38f604a6de7b27c8f4e0cb7188ab54))
+
 ## [1.88.0](https://github.com/cnpm/unpkg-white-list/compare/v1.87.0...v1.88.0) (2024-06-25)
 
 
