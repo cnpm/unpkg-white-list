@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.88.0](https://github.com/cnpm/unpkg-white-list/compare/v1.87.0...v1.88.0) (2024-06-25)
+
+
+### Features
+
+* add asciinema-player ([#173](https://github.com/cnpm/unpkg-white-list/issues/173)) ([525ec8e](https://github.com/cnpm/unpkg-white-list/commit/525ec8ea75fb2b7a926cc9fe2d3be58d1caf168d))
+
 ## [1.87.0](https://github.com/cnpm/unpkg-white-list/compare/v1.86.0...v1.87.0) (2024-06-22)
 
 
