@@ -1907,6 +1907,9 @@
     "art-template-loader": {
       "version": "*"
     },
+    "asciinema-player": {
+      "version": "*"
+    },
     "asn1.js": {
       "version": "*"
     },
