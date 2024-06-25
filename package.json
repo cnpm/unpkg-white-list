@@ -18316,6 +18316,12 @@
     },
     "solid-js": {
       "version": "*"
+    },
+    "vue-plugin-hiprint": {
+      "version": "*"
+    },
+    "bwip-js": {
+      "version": "*"
     }
   }
 }
