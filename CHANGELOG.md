@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.90.0](https://github.com/cnpm/unpkg-white-list/compare/v1.89.0...v1.90.0) (2024-06-26)
+
+
+### Features
+
+* add flickity ([#175](https://github.com/cnpm/unpkg-white-list/issues/175)) ([dba8b2b](https://github.com/cnpm/unpkg-white-list/commit/dba8b2b1929f38bbd21409a0cbc0e739f4ba7e97))
+
 ## [1.89.0](https://github.com/cnpm/unpkg-white-list/compare/v1.88.0...v1.89.0) (2024-06-25)
 
 
