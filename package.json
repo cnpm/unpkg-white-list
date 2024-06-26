@@ -18322,6 +18322,9 @@
     },
     "bwip-js": {
       "version": "*"
+    },
+    "flickity": {
+      "version": "*"
     }
   }
 }
