@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.91.0](https://github.com/cnpm/unpkg-white-list/compare/v1.90.0...v1.91.0) (2024-06-28)
+
+
+### Features
+
+* add echarts-www-landing-animation, echarts-extension-amap, echarts-extension-gmap ([#176](https://github.com/cnpm/unpkg-white-list/issues/176)) ([cdf136f](https://github.com/cnpm/unpkg-white-list/commit/cdf136f7051c977779f7f7c20cd0e78dd1d59415))
+
 ## [1.90.0](https://github.com/cnpm/unpkg-white-list/compare/v1.89.0...v1.90.0) (2024-06-26)
 
 
