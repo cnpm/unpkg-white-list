@@ -4655,6 +4655,12 @@
     "echarts": {
       "version": "*"
     },
+    "echarts-extension-amap": {
+      "version": "*"
+    },
+    "echarts-extension-gmap": {
+      "version": "*"
+    },
     "echarts-for-react": {
       "version": "*"
     },
@@ -4674,6 +4680,9 @@
       "version": "*"
     },
     "echarts-wordcloud": {
+      "version": "*"
+    },
+    "echarts-www-landing-animation": {
       "version": "*"
     },
     "ecmascript6": {
