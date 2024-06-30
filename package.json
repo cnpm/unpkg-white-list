@@ -230,6 +230,18 @@
     "@microfe"
   ],
   "allowPackages": {
+    "jspreadsheet-ce": {
+      "version": "*"
+    },
+    "jsuites": {
+      "version": "*"
+    },
+    "split-grid": {
+      "version": "*"
+    },
+    "papaparse": {
+      "version": "*"
+    },
     "hexo-theme-redefine": {
       "version": "*"
     },
