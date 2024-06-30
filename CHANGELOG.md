@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.92.0](https://github.com/cnpm/unpkg-white-list/compare/v1.91.0...v1.92.0) (2024-06-30)
+
+
+### Features
+
+* add jspreadsheet-ce、jsuites、split-grid、papaparse ([#177](https://github.com/cnpm/unpkg-white-list/issues/177)) ([591058b](https://github.com/cnpm/unpkg-white-list/commit/591058bb07402a533d2f714cf633a670242e0770))
+
 ## [1.91.0](https://github.com/cnpm/unpkg-white-list/compare/v1.90.0...v1.91.0) (2024-06-28)
 
 
