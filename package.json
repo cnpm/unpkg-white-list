@@ -18343,6 +18343,15 @@
     },
     "flickity": {
       "version": "*"
+    },
+    "font-logos": {
+      "version": "*"
+    },
+    "flag-icons": {
+      "version": "*"
+    },
+    "semantic-ui": {
+      "version": "*"
     }
   }
 }
