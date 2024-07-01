@@ -18343,6 +18343,8 @@
     },
     "flickity": {
       "version": "*"
-    }
-  }
+    },
+    "@wenbux/gkd_subscription": {
+      "version": "*"
+  },
 }
