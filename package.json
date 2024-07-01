@@ -85,6 +85,7 @@
     "@lingui",
     "@lobehub",
     "@mapbox",
+    "@wenbux",
     "@maptalks",
     "@mas.io",
     "@maybe-lab",
@@ -17940,6 +17941,9 @@
       "version": "*"
     },
     "@aisouler/subscription": {
+      "version": "*"
+    },
+    "@wenbux/gkd_subscription":{
       "version": "*"
     },
     "vue2-smooth-scroll": {
