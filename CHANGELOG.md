@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.93.0](https://github.com/cnpm/unpkg-white-list/compare/v1.92.0...v1.93.0) (2024-07-02)
+
+
+### Features
+
+* add @wenbux/gkd_subscription ([#184](https://github.com/cnpm/unpkg-white-list/issues/184)) ([1e6757b](https://github.com/cnpm/unpkg-white-list/commit/1e6757b2b679c8691b6700a04a04385ad8306618))
+* add font-logos, flag-icons and semantic-ui ([#178](https://github.com/cnpm/unpkg-white-list/issues/178)) ([0ecb072](https://github.com/cnpm/unpkg-white-list/commit/0ecb072c429ceb477ad153a2d8e09939404fa103))
+
 ## [1.92.0](https://github.com/cnpm/unpkg-white-list/compare/v1.91.0...v1.92.0) (2024-06-30)
 
 
