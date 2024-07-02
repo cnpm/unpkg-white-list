@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.94.0](https://github.com/cnpm/unpkg-white-list/compare/v1.93.0...v1.94.0) (2024-07-02)
+
+
+### Features
+
+* change [@microfe](https://github.com/microfe) to [@microfe](https://github.com/microfe).top  ([#186](https://github.com/cnpm/unpkg-white-list/issues/186)) ([0f4d304](https://github.com/cnpm/unpkg-white-list/commit/0f4d304f72cb0c2d9787effbed92c18e47a46349))
+
 ## [1.93.0](https://github.com/cnpm/unpkg-white-list/compare/v1.92.0...v1.93.0) (2024-07-02)
 
 
