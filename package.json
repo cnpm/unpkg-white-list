@@ -17942,6 +17942,9 @@
     "@aisouler/subscription": {
       "version": "*"
     },
+    "@wenbux/gkd_subscription": {
+      "version": "*"
+    },
     "vue2-smooth-scroll": {
       "version": "*"
     },
