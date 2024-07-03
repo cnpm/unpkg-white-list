@@ -1,5 +1,69 @@
 # Changelog
 
+## [1.94.0](https://github.com/cnpm/unpkg-white-list/compare/v1.93.0...v1.94.0) (2024-07-02)
+
+
+### Features
+
+* change [@microfe](https://github.com/microfe) to [@microfe](https://github.com/microfe).top  ([#186](https://github.com/cnpm/unpkg-white-list/issues/186)) ([0f4d304](https://github.com/cnpm/unpkg-white-list/commit/0f4d304f72cb0c2d9787effbed92c18e47a46349))
+
+## [1.93.0](https://github.com/cnpm/unpkg-white-list/compare/v1.92.0...v1.93.0) (2024-07-02)
+
+
+### Features
+
+* add @wenbux/gkd_subscription ([#184](https://github.com/cnpm/unpkg-white-list/issues/184)) ([1e6757b](https://github.com/cnpm/unpkg-white-list/commit/1e6757b2b679c8691b6700a04a04385ad8306618))
+* add font-logos, flag-icons and semantic-ui ([#178](https://github.com/cnpm/unpkg-white-list/issues/178)) ([0ecb072](https://github.com/cnpm/unpkg-white-list/commit/0ecb072c429ceb477ad153a2d8e09939404fa103))
+
+## [1.92.0](https://github.com/cnpm/unpkg-white-list/compare/v1.91.0...v1.92.0) (2024-06-30)
+
+
+### Features
+
+* add jspreadsheet-ce、jsuites、split-grid、papaparse ([#177](https://github.com/cnpm/unpkg-white-list/issues/177)) ([591058b](https://github.com/cnpm/unpkg-white-list/commit/591058bb07402a533d2f714cf633a670242e0770))
+
+## [1.91.0](https://github.com/cnpm/unpkg-white-list/compare/v1.90.0...v1.91.0) (2024-06-28)
+
+
+### Features
+
+* add echarts-www-landing-animation, echarts-extension-amap, echarts-extension-gmap ([#176](https://github.com/cnpm/unpkg-white-list/issues/176)) ([cdf136f](https://github.com/cnpm/unpkg-white-list/commit/cdf136f7051c977779f7f7c20cd0e78dd1d59415))
+
+## [1.90.0](https://github.com/cnpm/unpkg-white-list/compare/v1.89.0...v1.90.0) (2024-06-26)
+
+
+### Features
+
+* add flickity ([#175](https://github.com/cnpm/unpkg-white-list/issues/175)) ([dba8b2b](https://github.com/cnpm/unpkg-white-list/commit/dba8b2b1929f38bbd21409a0cbc0e739f4ba7e97))
+
+## [1.89.0](https://github.com/cnpm/unpkg-white-list/compare/v1.88.0...v1.89.0) (2024-06-25)
+
+
+### Features
+
+* add vue-plugin-hiprint and bwip-js ([#174](https://github.com/cnpm/unpkg-white-list/issues/174)) ([af6d9cf](https://github.com/cnpm/unpkg-white-list/commit/af6d9cf47c38f604a6de7b27c8f4e0cb7188ab54))
+
+## [1.88.0](https://github.com/cnpm/unpkg-white-list/compare/v1.87.0...v1.88.0) (2024-06-25)
+
+
+### Features
+
+* add asciinema-player ([#173](https://github.com/cnpm/unpkg-white-list/issues/173)) ([525ec8e](https://github.com/cnpm/unpkg-white-list/commit/525ec8ea75fb2b7a926cc9fe2d3be58d1caf168d))
+
+## [1.87.0](https://github.com/cnpm/unpkg-white-list/compare/v1.86.0...v1.87.0) (2024-06-22)
+
+
+### Features
+
+* add solid-js ([#172](https://github.com/cnpm/unpkg-white-list/issues/172)) ([ba14e70](https://github.com/cnpm/unpkg-white-list/commit/ba14e7071158f175887c7ae341cac77af5fd64da))
+
+## [1.86.0](https://github.com/cnpm/unpkg-white-list/compare/v1.85.0...v1.86.0) (2024-06-21)
+
+
+### Features
+
+* add @sigma/node-border、@sigma/node-image、@sigma/node-piechart、@sigma/edge-curve、graphology-generators、graphology-layout-forceatlas2、graphology-gexf、graphology、sigma ([#171](https://github.com/cnpm/unpkg-white-list/issues/171)) ([ca914b6](https://github.com/cnpm/unpkg-white-list/commit/ca914b69ff39172a7469a8d345af2d2dd411874e))
+
 ## [1.85.0](https://github.com/cnpm/unpkg-white-list/compare/v1.84.0...v1.85.0) (2024-06-20)
 
 

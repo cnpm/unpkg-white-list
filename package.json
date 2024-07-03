@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.85.0",
+  "version": "1.94.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -227,9 +227,21 @@
     "@ao-x",
     "@zxcvbn-ts",
     "@ruiyun",
-    "@microfe"
+    "@microfe.top"
   ],
   "allowPackages": {
+    "jspreadsheet-ce": {
+      "version": "*"
+    },
+    "jsuites": {
+      "version": "*"
+    },
+    "split-grid": {
+      "version": "*"
+    },
+    "papaparse": {
+      "version": "*"
+    },
     "hexo-theme-redefine": {
       "version": "*"
     },
@@ -1905,6 +1917,9 @@
       "version": "*"
     },
     "art-template-loader": {
+      "version": "*"
+    },
+    "asciinema-player": {
       "version": "*"
     },
     "asn1.js": {
@@ -4652,6 +4667,12 @@
     "echarts": {
       "version": "*"
     },
+    "echarts-extension-amap": {
+      "version": "*"
+    },
+    "echarts-extension-gmap": {
+      "version": "*"
+    },
     "echarts-for-react": {
       "version": "*"
     },
@@ -4671,6 +4692,9 @@
       "version": "*"
     },
     "echarts-wordcloud": {
+      "version": "*"
+    },
+    "echarts-www-landing-animation": {
       "version": "*"
     },
     "ecmascript6": {
@@ -10623,9 +10647,6 @@
       "version": "*"
     },
     "panzoom": {
-      "version": "*"
-    },
-    "papaparse": {
       "version": "*"
     },
     "parallax-js": {
@@ -17921,6 +17942,9 @@
     "@aisouler/subscription": {
       "version": "*"
     },
+    "@wenbux/gkd_subscription": {
+      "version": "*"
+    },
     "vue2-smooth-scroll": {
       "version": "*"
     },
@@ -18284,31 +18308,52 @@
     "hash-base": {
       "version": "*"
     },
-    "@sigma/node-border":{
+    "@sigma/node-border": {
       "version": "*"
     },
-    "@sigma/node-image":{
+    "@sigma/node-image": {
       "version": "*"
     },
-    "@sigma/node-piechart":{
+    "@sigma/node-piechart": {
       "version": "*"
     },
-    "@sigma/edge-curve":{
+    "@sigma/edge-curve": {
       "version": "*"
     },
-    "graphology-generators":{
+    "graphology-generators": {
       "version": "*"
     },
-    "graphology-layout-forceatlas2":{
+    "graphology-layout-forceatlas2": {
       "version": "*"
     },
-    "graphology-gexf":{
+    "graphology-gexf": {
       "version": "*"
     },
-    "graphology":{
+    "graphology": {
       "version": "*"
     },
-    "sigma":{
+    "sigma": {
+      "version": "*"
+    },
+    "solid-js": {
+      "version": "*"
+    },
+    "vue-plugin-hiprint": {
+      "version": "*"
+    },
+    "bwip-js": {
+      "version": "*"
+    },
+    "flickity": {
+      "version": "*"
+    },
+    "font-logos": {
+      "version": "*"
+    },
+    "flag-icons": {
+      "version": "*"
+    },
+    "semantic-ui": {
       "version": "*"
     }
   }
