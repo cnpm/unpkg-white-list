@@ -18206,11 +18206,11 @@
     "roughjs": {
       "version": "*"
     },
-    "webcola": {
-      "version": "*"
+    "webcola":{
+      "version":"*"
     },
-    "cytoscape-cola": {
-      "version": "*"
+    "cytoscape-cola":{
+      "version":"*"
     },
     "console-browserify": {
       "version": "*"
@@ -18354,6 +18354,9 @@
       "version": "*"
     },
     "semantic-ui": {
+      "version": "*"
+    },
+    "jsxgraph":{
       "version": "*"
     }
   }
