@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.95.0](https://github.com/cnpm/unpkg-white-list/compare/v1.94.0...v1.95.0) (2024-07-03)
+
+
+### Features
+
+* add @hoythan/watermark-dom ([#190](https://github.com/cnpm/unpkg-white-list/issues/190)) ([afbfa42](https://github.com/cnpm/unpkg-white-list/commit/afbfa42c5a7585235dc6f5c26590cb649fb10747))
+* add jsxgraph ([#187](https://github.com/cnpm/unpkg-white-list/issues/187)) ([333b1f3](https://github.com/cnpm/unpkg-white-list/commit/333b1f38e8b4bcb1b07da54c8fb3f1f250cbfafe))
+
 ## [1.94.0](https://github.com/cnpm/unpkg-white-list/compare/v1.93.0...v1.94.0) (2024-07-02)
 
 
