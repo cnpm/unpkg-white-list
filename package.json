@@ -227,7 +227,8 @@
     "@ao-x",
     "@zxcvbn-ts",
     "@ruiyun",
-    "@microfe.top"
+    "@microfe.top",
+    "@hoythan"
   ],
   "allowPackages": {
     "jspreadsheet-ce": {
