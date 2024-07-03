@@ -18358,6 +18358,9 @@
     },
     "jsxgraph":{
       "version": "*"
+    },
+    "@hoythan/watermark-dom":{
+      "version": "2.3.2"
     }
   }
 }
