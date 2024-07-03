@@ -18355,6 +18355,9 @@
     },
     "semantic-ui": {
       "version": "*"
+    },
+    "hoythanwatermark": {
+      "version": "*"
     }
   }
 }
