@@ -18356,11 +18356,11 @@
     "semantic-ui": {
       "version": "*"
     },
-    "jsxgraph":{
+    "jsxgraph": {
       "version": "*"
     },
-    "@hoythan/watermark-dom":{
-      "version": "2.3.2"
+    "@hoythan/watermark-dom": {
+      "version": "*"
     }
   }
 }
