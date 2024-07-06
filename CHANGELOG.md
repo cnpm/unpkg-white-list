@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.96.0](https://github.com/cnpm/unpkg-white-list/compare/v1.95.0...v1.96.0) (2024-07-06)
+
+
+### Features
+
+* add [@gitlab](https://github.com/gitlab) ([#191](https://github.com/cnpm/unpkg-white-list/issues/191)) ([570f3cc](https://github.com/cnpm/unpkg-white-list/commit/570f3ccdea96ec0c9aef4bb8a5445cbb67035430))
+
 ## [1.95.0](https://github.com/cnpm/unpkg-white-list/compare/v1.94.0...v1.95.0) (2024-07-03)
 
 
