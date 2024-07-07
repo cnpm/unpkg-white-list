@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.97.0](https://github.com/cnpm/unpkg-white-list/compare/v1.96.0...v1.97.0) (2024-07-07)
+
+
+### Features
+
+* add [@minecraft](https://github.com/minecraft) scope ([#192](https://github.com/cnpm/unpkg-white-list/issues/192)) ([08e488d](https://github.com/cnpm/unpkg-white-list/commit/08e488d81714fd560b4e5467b5fa9b9ae51aadf7))
+
 ## [1.96.0](https://github.com/cnpm/unpkg-white-list/compare/v1.95.0...v1.96.0) (2024-07-06)
 
 
