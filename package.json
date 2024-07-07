@@ -228,7 +228,8 @@
     "@zxcvbn-ts",
     "@ruiyun",
     "@microfe.top",
-    "@gitlab"
+    "@gitlab",
+    "@minecraft"
   ],
   "allowPackages": {
     "jspreadsheet-ce": {
