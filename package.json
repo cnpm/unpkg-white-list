@@ -5,12 +5,13 @@
   "main": "index.js",
   "files": [],
   "scripts": {
+    "lint": "eslint test",
     "test": "node --test",
-    "ci": "npm test",
-    "contributor": "git-contributor"
+    "ci": "npm test"
   },
   "devDependencies": {
-    "git-contributor": "^2.1.5",
+    "eslint": "8",
+    "eslint-config-egg": "14",
     "semver": "^7.6.2"
   },
   "repository": {
