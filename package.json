@@ -18367,6 +18367,9 @@
     },
     "@hoythan/watermark-dom": {
       "version": "*"
+    },
+    "openapi-ts-request": {
+      "version": "*"
     }
   }
 }
