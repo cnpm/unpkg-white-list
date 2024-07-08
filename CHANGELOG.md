@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.98.0](https://github.com/cnpm/unpkg-white-list/compare/v1.97.0...v1.98.0) (2024-07-08)
+
+
+### Features
+
+* add oml2d-models ([#193](https://github.com/cnpm/unpkg-white-list/issues/193)) ([914495c](https://github.com/cnpm/unpkg-white-list/commit/914495c300e8bf37df78f14fa51898a04e3cf4b5))
+* add openapi-ts-request ([#194](https://github.com/cnpm/unpkg-white-list/issues/194)) ([518ca59](https://github.com/cnpm/unpkg-white-list/commit/518ca59cee11969817ab92937c98b4e4f36e5e61))
+
 ## [1.97.0](https://github.com/cnpm/unpkg-white-list/compare/v1.96.0...v1.97.0) (2024-07-07)
 
 
