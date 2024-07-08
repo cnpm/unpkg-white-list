@@ -233,6 +233,9 @@
     "@minecraft"
   ],
   "allowPackages": {
+    "oml2d-models": {
+      "version": "*"
+    },
     "jspreadsheet-ce": {
       "version": "*"
     },
