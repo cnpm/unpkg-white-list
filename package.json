@@ -18212,11 +18212,11 @@
     "roughjs": {
       "version": "*"
     },
-    "webcola": {
-      "version": "*"
+    "webcola":{
+      "version":"*"
     },
-    "cytoscape-cola": {
-      "version": "*"
+    "cytoscape-cola":{
+      "version":"*"
     },
     "console-browserify": {
       "version": "*"
@@ -18392,7 +18392,10 @@
     "vue-flatpickr-component": {
       "version": "*"
     },
-    "shikiji":{
+    "shikiji": {
+      "version": "*"
+    },
+    "vue-record-audio": {
       "version": "*"
     }
   }
