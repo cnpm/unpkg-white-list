@@ -18370,6 +18370,9 @@
     },
     "openapi-ts-request": {
       "version": "*"
+    },
+    "vue-record-audio":{
+      "version": "*"
     }
   }
 }
