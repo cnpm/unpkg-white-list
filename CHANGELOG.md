@@ -1,5 +1,267 @@
 # Changelog
 
+## [1.98.0](https://github.com/cnpm/unpkg-white-list/compare/v1.97.0...v1.98.0) (2024-07-08)
+
+
+### Features
+
+* add oml2d-models ([#193](https://github.com/cnpm/unpkg-white-list/issues/193)) ([914495c](https://github.com/cnpm/unpkg-white-list/commit/914495c300e8bf37df78f14fa51898a04e3cf4b5))
+* add openapi-ts-request ([#194](https://github.com/cnpm/unpkg-white-list/issues/194)) ([518ca59](https://github.com/cnpm/unpkg-white-list/commit/518ca59cee11969817ab92937c98b4e4f36e5e61))
+
+## [1.97.0](https://github.com/cnpm/unpkg-white-list/compare/v1.96.0...v1.97.0) (2024-07-07)
+
+
+### Features
+
+* add [@minecraft](https://github.com/minecraft) scope ([#192](https://github.com/cnpm/unpkg-white-list/issues/192)) ([08e488d](https://github.com/cnpm/unpkg-white-list/commit/08e488d81714fd560b4e5467b5fa9b9ae51aadf7))
+
+## [1.96.0](https://github.com/cnpm/unpkg-white-list/compare/v1.95.0...v1.96.0) (2024-07-06)
+
+
+### Features
+
+* add [@gitlab](https://github.com/gitlab) ([#191](https://github.com/cnpm/unpkg-white-list/issues/191)) ([570f3cc](https://github.com/cnpm/unpkg-white-list/commit/570f3ccdea96ec0c9aef4bb8a5445cbb67035430))
+
+## [1.95.0](https://github.com/cnpm/unpkg-white-list/compare/v1.94.0...v1.95.0) (2024-07-03)
+
+
+### Features
+
+* add @hoythan/watermark-dom ([#190](https://github.com/cnpm/unpkg-white-list/issues/190)) ([afbfa42](https://github.com/cnpm/unpkg-white-list/commit/afbfa42c5a7585235dc6f5c26590cb649fb10747))
+* add jsxgraph ([#187](https://github.com/cnpm/unpkg-white-list/issues/187)) ([333b1f3](https://github.com/cnpm/unpkg-white-list/commit/333b1f38e8b4bcb1b07da54c8fb3f1f250cbfafe))
+
+## [1.94.0](https://github.com/cnpm/unpkg-white-list/compare/v1.93.0...v1.94.0) (2024-07-02)
+
+
+### Features
+
+* change [@microfe](https://github.com/microfe) to [@microfe](https://github.com/microfe).top  ([#186](https://github.com/cnpm/unpkg-white-list/issues/186)) ([0f4d304](https://github.com/cnpm/unpkg-white-list/commit/0f4d304f72cb0c2d9787effbed92c18e47a46349))
+
+## [1.93.0](https://github.com/cnpm/unpkg-white-list/compare/v1.92.0...v1.93.0) (2024-07-02)
+
+
+### Features
+
+* add @wenbux/gkd_subscription ([#184](https://github.com/cnpm/unpkg-white-list/issues/184)) ([1e6757b](https://github.com/cnpm/unpkg-white-list/commit/1e6757b2b679c8691b6700a04a04385ad8306618))
+* add font-logos, flag-icons and semantic-ui ([#178](https://github.com/cnpm/unpkg-white-list/issues/178)) ([0ecb072](https://github.com/cnpm/unpkg-white-list/commit/0ecb072c429ceb477ad153a2d8e09939404fa103))
+
+## [1.92.0](https://github.com/cnpm/unpkg-white-list/compare/v1.91.0...v1.92.0) (2024-06-30)
+
+
+### Features
+
+* add jspreadsheet-ce、jsuites、split-grid、papaparse ([#177](https://github.com/cnpm/unpkg-white-list/issues/177)) ([591058b](https://github.com/cnpm/unpkg-white-list/commit/591058bb07402a533d2f714cf633a670242e0770))
+
+## [1.91.0](https://github.com/cnpm/unpkg-white-list/compare/v1.90.0...v1.91.0) (2024-06-28)
+
+
+### Features
+
+* add echarts-www-landing-animation, echarts-extension-amap, echarts-extension-gmap ([#176](https://github.com/cnpm/unpkg-white-list/issues/176)) ([cdf136f](https://github.com/cnpm/unpkg-white-list/commit/cdf136f7051c977779f7f7c20cd0e78dd1d59415))
+
+## [1.90.0](https://github.com/cnpm/unpkg-white-list/compare/v1.89.0...v1.90.0) (2024-06-26)
+
+
+### Features
+
+* add flickity ([#175](https://github.com/cnpm/unpkg-white-list/issues/175)) ([dba8b2b](https://github.com/cnpm/unpkg-white-list/commit/dba8b2b1929f38bbd21409a0cbc0e739f4ba7e97))
+
+## [1.89.0](https://github.com/cnpm/unpkg-white-list/compare/v1.88.0...v1.89.0) (2024-06-25)
+
+
+### Features
+
+* add vue-plugin-hiprint and bwip-js ([#174](https://github.com/cnpm/unpkg-white-list/issues/174)) ([af6d9cf](https://github.com/cnpm/unpkg-white-list/commit/af6d9cf47c38f604a6de7b27c8f4e0cb7188ab54))
+
+## [1.88.0](https://github.com/cnpm/unpkg-white-list/compare/v1.87.0...v1.88.0) (2024-06-25)
+
+
+### Features
+
+* add asciinema-player ([#173](https://github.com/cnpm/unpkg-white-list/issues/173)) ([525ec8e](https://github.com/cnpm/unpkg-white-list/commit/525ec8ea75fb2b7a926cc9fe2d3be58d1caf168d))
+
+## [1.87.0](https://github.com/cnpm/unpkg-white-list/compare/v1.86.0...v1.87.0) (2024-06-22)
+
+
+### Features
+
+* add solid-js ([#172](https://github.com/cnpm/unpkg-white-list/issues/172)) ([ba14e70](https://github.com/cnpm/unpkg-white-list/commit/ba14e7071158f175887c7ae341cac77af5fd64da))
+
+## [1.86.0](https://github.com/cnpm/unpkg-white-list/compare/v1.85.0...v1.86.0) (2024-06-21)
+
+
+### Features
+
+* add @sigma/node-border、@sigma/node-image、@sigma/node-piechart、@sigma/edge-curve、graphology-generators、graphology-layout-forceatlas2、graphology-gexf、graphology、sigma ([#171](https://github.com/cnpm/unpkg-white-list/issues/171)) ([ca914b6](https://github.com/cnpm/unpkg-white-list/commit/ca914b69ff39172a7469a8d345af2d2dd411874e))
+
+## [1.85.0](https://github.com/cnpm/unpkg-white-list/compare/v1.84.0...v1.85.0) (2024-06-20)
+
+
+### Features
+
+* add hexo-theme-redefine ([#170](https://github.com/cnpm/unpkg-white-list/issues/170)) ([ad82033](https://github.com/cnpm/unpkg-white-list/commit/ad82033e7ccbcbea558276f6c729ae6985df3a1d))
+
+## [1.84.0](https://github.com/cnpm/unpkg-white-list/compare/v1.83.0...v1.84.0) (2024-06-20)
+
+
+### Features
+
+* add browserify and more packages ([#169](https://github.com/cnpm/unpkg-white-list/issues/169)) ([42b9f73](https://github.com/cnpm/unpkg-white-list/commit/42b9f734a40f3f613832644c24f296d64d626c8b))
+
+## [1.83.0](https://github.com/cnpm/unpkg-white-list/compare/v1.82.0...v1.83.0) (2024-06-20)
+
+
+### Features
+
+* add webcola, cytoscape-cola ([#168](https://github.com/cnpm/unpkg-white-list/issues/168)) ([0d8ef02](https://github.com/cnpm/unpkg-white-list/commit/0d8ef02cef8bbb227e51909c9d8e9ad9344245c2))
+
+## [1.82.0](https://github.com/cnpm/unpkg-white-list/compare/v1.81.0...v1.82.0) (2024-06-19)
+
+
+### Features
+
+* add [@ruiyun](https://github.com/ruiyun) and [@microfe](https://github.com/microfe) ([#167](https://github.com/cnpm/unpkg-white-list/issues/167)) ([3b62506](https://github.com/cnpm/unpkg-white-list/commit/3b62506476346d670e2ff63d478fdb649e684012))
+
+## [1.81.0](https://github.com/cnpm/unpkg-white-list/compare/v1.80.0...v1.81.0) (2024-06-18)
+
+
+### Features
+
+* add roughjs ([#165](https://github.com/cnpm/unpkg-white-list/issues/165)) ([3dae819](https://github.com/cnpm/unpkg-white-list/commit/3dae819463ac61468fb5fd4343a9d9fc1a3d7032))
+
+## [1.80.0](https://github.com/cnpm/unpkg-white-list/compare/v1.79.0...v1.80.0) (2024-06-18)
+
+
+### Features
+
+* add [@wangeditor-next](https://github.com/wangeditor-next) ([#163](https://github.com/cnpm/unpkg-white-list/issues/163)) ([feb51d2](https://github.com/cnpm/unpkg-white-list/commit/feb51d25a88bcdc950300a0796657ec5524a17a9))
+* add blog-qianxun-site ([#164](https://github.com/cnpm/unpkg-white-list/issues/164)) ([9cfcfa8](https://github.com/cnpm/unpkg-white-list/commit/9cfcfa82d30df9b0b31ce42897b9ef7bef2f6c23))
+
+## [1.79.0](https://github.com/cnpm/unpkg-white-list/compare/v1.78.0...v1.79.0) (2024-06-17)
+
+
+### Features
+
+* add `echarts-stat`, `echarts-graph-modularity` and `code-prettify` package ([#161](https://github.com/cnpm/unpkg-white-list/issues/161)) ([82ca3bc](https://github.com/cnpm/unpkg-white-list/commit/82ca3bcdb9accea9b388013f5728a5de6ced513f)), closes [#159](https://github.com/cnpm/unpkg-white-list/issues/159)
+
+## [1.78.0](https://github.com/cnpm/unpkg-white-list/compare/v1.77.0...v1.78.0) (2024-06-17)
+
+
+### Features
+
+* add echarts-nightly, zrender-nightly & remove non-existing echarts-v5 package ([#159](https://github.com/cnpm/unpkg-white-list/issues/159)) ([c44ce68](https://github.com/cnpm/unpkg-white-list/commit/c44ce68c70338d9549f280067ec2232563dcbe1d))
+
+## [1.77.0](https://github.com/cnpm/unpkg-white-list/compare/v1.76.0...v1.77.0) (2024-06-15)
+
+
+### Features
+
+* add artalk ([#157](https://github.com/cnpm/unpkg-white-list/issues/157)) ([e1fed9d](https://github.com/cnpm/unpkg-white-list/commit/e1fed9d3ff532a0d0f8bd9ef654b3b3fcef9c1ca))
+
+## [1.76.0](https://github.com/cnpm/unpkg-white-list/compare/v1.75.0...v1.76.0) (2024-06-15)
+
+
+### Features
+
+* Add photoswipe-deep-zoom-plugin and photoswipe-dynamic-caption-plugin ([#156](https://github.com/cnpm/unpkg-white-list/issues/156)) ([a633836](https://github.com/cnpm/unpkg-white-list/commit/a6338360957d84795f1daf3b439b403ff676a623))
+
+## [1.75.0](https://github.com/cnpm/unpkg-white-list/compare/v1.74.0...v1.75.0) (2024-06-14)
+
+
+### Features
+
+* add [@artalk](https://github.com/artalk) ([#155](https://github.com/cnpm/unpkg-white-list/issues/155)) ([5281428](https://github.com/cnpm/unpkg-white-list/commit/52814286bd85dbab9252fb708173490e7bbab447))
+* add vue3-lottie ([#154](https://github.com/cnpm/unpkg-white-list/issues/154)) ([c8960e9](https://github.com/cnpm/unpkg-white-list/commit/c8960e9075aacfdee6ab1c1e6507eea3d72e43b1))
+
+## [1.74.0](https://github.com/cnpm/unpkg-white-list/compare/v1.73.0...v1.74.0) (2024-06-13)
+
+
+### Features
+
+* add pinia-plugin-persistedstate ([#153](https://github.com/cnpm/unpkg-white-list/issues/153)) ([e4aeef7](https://github.com/cnpm/unpkg-white-list/commit/e4aeef75dfd2f7bac45fc37031f54aa98602c963))
+
+## [1.73.0](https://github.com/cnpm/unpkg-white-list/compare/v1.72.0...v1.73.0) (2024-06-13)
+
+
+### Features
+
+* add @hdzk-hel/pangu ([#152](https://github.com/cnpm/unpkg-white-list/issues/152)) ([94d7747](https://github.com/cnpm/unpkg-white-list/commit/94d77479a3b709bc4c6b9de0056efdf97b6cbf68))
+
+## [1.72.0](https://github.com/cnpm/unpkg-white-list/compare/v1.71.0...v1.72.0) (2024-06-13)
+
+
+### Features
+
+* add @element-plus/icons-vue ([#151](https://github.com/cnpm/unpkg-white-list/issues/151)) ([5e66250](https://github.com/cnpm/unpkg-white-list/commit/5e662506dc6a70c1c7ab32b76f7ebfd75309c4e3))
+
+## [1.71.0](https://github.com/cnpm/unpkg-white-list/compare/v1.70.0...v1.71.0) (2024-06-12)
+
+
+### Features
+
+* add medium-zoom ([#150](https://github.com/cnpm/unpkg-white-list/issues/150)) ([018a829](https://github.com/cnpm/unpkg-white-list/commit/018a829d3606f5711237b5b69140fee38fa9f5cb))
+
+## [1.70.0](https://github.com/cnpm/unpkg-white-list/compare/v1.69.0...v1.70.0) (2024-06-12)
+
+
+### Features
+
+* add [@ao-x](https://github.com/ao-x) ([#149](https://github.com/cnpm/unpkg-white-list/issues/149)) ([c85d971](https://github.com/cnpm/unpkg-white-list/commit/c85d97128cd9b64972924be53af00d2b29868304))
+* add ionicons ([#148](https://github.com/cnpm/unpkg-white-list/issues/148)) ([ca7dd2e](https://github.com/cnpm/unpkg-white-list/commit/ca7dd2ef68c0810c3f15ae6c9d035070465a8fac))
+
+## [1.69.0](https://github.com/cnpm/unpkg-white-list/compare/v1.68.0...v1.69.0) (2024-06-12)
+
+
+### Features
+
+* add p5 ([#146](https://github.com/cnpm/unpkg-white-list/issues/146)) ([879b059](https://github.com/cnpm/unpkg-white-list/commit/879b0599237c740ef8b3a5d57334ead40f47ddda))
+* add surface-plus ([#147](https://github.com/cnpm/unpkg-white-list/issues/147)) ([d64c24f](https://github.com/cnpm/unpkg-white-list/commit/d64c24fed81c44c5c0029194c4981b2cb3f4cd5d))
+
+## [1.68.0](https://github.com/cnpm/unpkg-white-list/compare/v1.67.0...v1.68.0) (2024-06-10)
+
+
+### Features
+
+* add `[@zxcvbn-ts](https://github.com/zxcvbn-ts)` ([#141](https://github.com/cnpm/unpkg-white-list/issues/141)) ([bc4b0f1](https://github.com/cnpm/unpkg-white-list/commit/bc4b0f112ef07eee5cdd4aea6c53b5b801b9008d))
+* add packages and scope ([#143](https://github.com/cnpm/unpkg-white-list/issues/143)) ([396fdcf](https://github.com/cnpm/unpkg-white-list/commit/396fdcfe8890bab91afbdade6a0a27c1e68d12e9))
+* add packages from jsDelivr top 200 npm ([#142](https://github.com/cnpm/unpkg-white-list/issues/142)) ([3d040b8](https://github.com/cnpm/unpkg-white-list/commit/3d040b8f5e04ce20d8027d81abb8201e8bb7a381))
+
+## [1.67.0](https://github.com/cnpm/unpkg-white-list/compare/v1.66.0...v1.67.0) (2024-06-09)
+
+
+### Features
+
+* add yolo-tfjs ([#140](https://github.com/cnpm/unpkg-white-list/issues/140)) ([ddff97e](https://github.com/cnpm/unpkg-white-list/commit/ddff97e3e0add8b3c94deab5c0098d7539abc559))
+
+## [1.66.0](https://github.com/cnpm/unpkg-white-list/compare/v1.65.0...v1.66.0) (2024-06-09)
+
+
+### Features
+
+* add libre-ui ([#139](https://github.com/cnpm/unpkg-white-list/issues/139)) ([4a0319f](https://github.com/cnpm/unpkg-white-list/commit/4a0319ff250ed37b4721d0127965ec88fd9047cf))
+
+## [1.65.0](https://github.com/cnpm/unpkg-white-list/compare/v1.64.0...v1.65.0) (2024-06-08)
+
+
+### Features
+
+* add lehe ([#138](https://github.com/cnpm/unpkg-white-list/issues/138)) ([bd4388c](https://github.com/cnpm/unpkg-white-list/commit/bd4388cff07c2b1f5c2deb88681c30e0528107b4))
+
+## [1.64.0](https://github.com/cnpm/unpkg-white-list/compare/v1.63.0...v1.64.0) (2024-06-08)
+
+
+### Features
+
+* add [@orillusion](https://github.com/orillusion) ([#137](https://github.com/cnpm/unpkg-white-list/issues/137)) ([7401045](https://github.com/cnpm/unpkg-white-list/commit/740104546c23cfc03904f8fca2fd9b7ad3c53605))
+
+## [1.63.0](https://github.com/cnpm/unpkg-white-list/compare/v1.62.0...v1.63.0) (2024-06-06)
+
+
+### Features
+
+* add inmap ([#133](https://github.com/cnpm/unpkg-white-list/issues/133)) ([9e01c45](https://github.com/cnpm/unpkg-white-list/commit/9e01c459d45be08652b5bdd42d810df4831fa1d8))
+* add vue3-apexcharts @f3ve/vue-markdown-it ([#136](https://github.com/cnpm/unpkg-white-list/issues/136)) ([23be29c](https://github.com/cnpm/unpkg-white-list/commit/23be29cbc09120f36aba6962c4d674e3a4460c0d))
+
 ## [1.62.0](https://github.com/cnpm/unpkg-white-list/compare/v1.61.0...v1.62.0) (2024-06-06)
 
 

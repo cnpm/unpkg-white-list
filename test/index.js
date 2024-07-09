@@ -1,13 +1,15 @@
 const test = require('node:test');
 const { strict: assert } = require('node:assert');
-const { readFileSync } = require('node:fs');
+const { readFileSync, writeFileSync } = require('node:fs');
 const { dirname, join } = require('node:path');
-const semverValidRange = require('semver/ranges/valid')
+const semverValidRange = require('semver/ranges/valid');
 
 const pkgFile = join(dirname(__dirname), 'package.json');
 const pkg = JSON.parse(readFileSync(pkgFile, 'utf-8'));
+// format the package.json
+writeFileSync(pkgFile, JSON.stringify(pkg, null, 2) + '\n');
 
-test('should pkg.allowPackages work', (t) => {
+test('should pkg.allowPackages work', () => {
   assert(pkg.files);
   assert.equal(pkg.files.length, 0);
   assert(pkg.allowPackages);
@@ -30,7 +32,7 @@ test('should pkg.allowPackages work', (t) => {
   assert(packages > 0);
 });
 
-test('should pkg.allowScopes work', (t) => {
+test('should pkg.allowScopes work', () => {
   assert(pkg.allowScopes);
   assert.equal(typeof pkg.allowScopes, 'object');
   let scopes = 0;
@@ -39,7 +41,7 @@ test('should pkg.allowScopes work', (t) => {
     assert(name);
     assert.equal(typeof name, 'string');
     assert.match(name, /^@.+/);
-    assert.equal(pkg.allowScopes.filter(n => n === name).length, 1, `"${name}" is duplicate`)
+    assert.equal(pkg.allowScopes.filter(n => n === name).length, 1, `"${name}" is duplicate`);
   }
   console.log('Total %d scopes', scopes);
   assert(scopes > 0);
