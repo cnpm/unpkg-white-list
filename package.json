@@ -18212,11 +18212,11 @@
     "roughjs": {
       "version": "*"
     },
-    "webcola": {
-      "version": "*"
+    "webcola":{
+      "version":"*"
     },
-    "cytoscape-cola": {
-      "version": "*"
+    "cytoscape-cola":{
+      "version":"*"
     },
     "console-browserify": {
       "version": "*"
@@ -18369,6 +18369,9 @@
       "version": "*"
     },
     "openapi-ts-request": {
+      "version": "*"
+    },
+    "vue-record-audio":{
       "version": "*"
     }
   }
