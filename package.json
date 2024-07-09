@@ -18370,6 +18370,9 @@
     },
     "openapi-ts-request": {
       "version": "*"
+    },
+    "wot-design-uni-assets": {
+      "version": "*"
     }
   }
 }
