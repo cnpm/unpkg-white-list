@@ -18371,7 +18371,31 @@
     "openapi-ts-request": {
       "version": "*"
     },
-    "vue-record-audio":{
+    "vue3-perfect-scrollbar": {
+      "version": "*"
+    },
+    "perfect-scrollbar": {
+      "version": "*"
+    },
+    "@tiptap/extension-placeholder": {
+      "version": "*"
+    },
+    "@tiptap/extension-text-align": {
+      "version": "*"
+    },
+    "@tiptap/extension-underline": {
+      "version": "*"
+    },
+    "@tiptap/starter-kit": {
+      "version": "*"
+    },
+    "vue-flatpickr-component": {
+      "version": "*"
+    },
+    "shikiji": {
+      "version": "*"
+    },
+    "vue-record-audio": {
       "version": "*"
     }
   }
