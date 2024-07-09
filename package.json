@@ -18370,6 +18370,12 @@
     },
     "openapi-ts-request": {
       "version": "*"
+    },
+    "vue3-perfect-scrollbar": {
+      "version": "*"
+    },
+    "perfect-scrollbar": {
+      "version": "*"
     }
   }
 }
