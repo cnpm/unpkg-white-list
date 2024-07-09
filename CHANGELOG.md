@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.99.0](https://github.com/cnpm/unpkg-white-list/compare/v1.98.0...v1.99.0) (2024-07-09)
+
+
+### Features
+
+* add vue-record-audio ([#197](https://github.com/cnpm/unpkg-white-list/issues/197)) ([a679bc8](https://github.com/cnpm/unpkg-white-list/commit/a679bc86379fa018b663cf87f8252ddd35b31cb8))
+* add vue3-perfect-scrollbar and more ([#199](https://github.com/cnpm/unpkg-white-list/issues/199)) ([206bf4f](https://github.com/cnpm/unpkg-white-list/commit/206bf4fc1ed0e815730e679f419cd70427909317))
+* add wot-design-uni-assets ([#195](https://github.com/cnpm/unpkg-white-list/issues/195)) ([2e28ada](https://github.com/cnpm/unpkg-white-list/commit/2e28ada4850773fc4556ab465063b654ab140c8d))
+
 ## [1.98.0](https://github.com/cnpm/unpkg-white-list/compare/v1.97.0...v1.98.0) (2024-07-08)
 
 
