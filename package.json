@@ -18371,6 +18371,9 @@
     "openapi-ts-request": {
       "version": "*"
     },
+    "wot-design-uni-assets": {
+      "version": "*"
+    },
     "vue3-perfect-scrollbar": {
       "version": "*"
     },
