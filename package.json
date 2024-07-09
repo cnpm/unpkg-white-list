@@ -18391,6 +18391,9 @@
     },
     "vue-flatpickr-component": {
       "version": "*"
+    },
+    "shikiji":{
+      "version": "*"
     }
   }
 }
