@@ -1094,6 +1094,9 @@
     "@tweenjs/tween.js": {
       "version": "*"
     },
+    "@tyllllll/gkd-subscription": {
+      "version": "*"
+    },
     "@typography-org/react": {
       "version": "*"
     },
