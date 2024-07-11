@@ -230,7 +230,8 @@
     "@ruiyun",
     "@microfe.top",
     "@gitlab",
-    "@minecraft"
+    "@minecraft",
+    "@tyllllll"
   ],
   "allowPackages": {
     "oml2d-models": {
@@ -1092,6 +1093,9 @@
       "version": "*"
     },
     "@tweenjs/tween.js": {
+      "version": "*"
+    },
+    "@tyllllll/gkd-subscription": {
       "version": "*"
     },
     "@typography-org/react": {
