@@ -18392,6 +18392,15 @@
     "@tiptap/starter-kit": {
       "version": "*"
     },
+    "@tiptap/extension-image":{
+      "version": "*"
+    },
+    "@tiptap/extension-link":{
+      "version": "*"
+    },
+    "cookie-es":{
+      "version": "*"
+    },
     "vue-flatpickr-component": {
       "version": "*"
     },
