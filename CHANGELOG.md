@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.100.0](https://github.com/cnpm/unpkg-white-list/compare/v1.99.0...v1.100.0) (2024-07-11)
+
+
+### Features
+
+* add [@tyllllll](https://github.com/tyllllll) ([#201](https://github.com/cnpm/unpkg-white-list/issues/201)) ([dfdf4bc](https://github.com/cnpm/unpkg-white-list/commit/dfdf4bc4ac8dfe0f3fb589ebc485d35c57bd2e01))
+* add @tiptap/extension-image, @tiptap/extension-link and cookie-es ([#202](https://github.com/cnpm/unpkg-white-list/issues/202)) ([6097cff](https://github.com/cnpm/unpkg-white-list/commit/6097cffdf5d360cb94e55685b9cffad362ee17d6))
+
 ## [1.99.0](https://github.com/cnpm/unpkg-white-list/compare/v1.98.0...v1.99.0) (2024-07-09)
 
 
