@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.99.0",
+  "version": "1.100.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -230,7 +230,8 @@
     "@ruiyun",
     "@microfe.top",
     "@gitlab",
-    "@minecraft"
+    "@minecraft",
+    "@tyllllll"
   ],
   "allowPackages": {
     "oml2d-models": {
@@ -1092,6 +1093,9 @@
       "version": "*"
     },
     "@tweenjs/tween.js": {
+      "version": "*"
+    },
+    "@tyllllll/gkd-subscription": {
       "version": "*"
     },
     "@typography-org/react": {
@@ -18392,13 +18396,13 @@
     "@tiptap/starter-kit": {
       "version": "*"
     },
-    "@tiptap/extension-image":{
+    "@tiptap/extension-image": {
       "version": "*"
     },
-    "@tiptap/extension-link":{
+    "@tiptap/extension-link": {
       "version": "*"
     },
-    "cookie-es":{
+    "cookie-es": {
       "version": "*"
     },
     "vue-flatpickr-component": {
