@@ -18413,6 +18413,9 @@
     },
     "vue-record-audio": {
       "version": "*"
+    },
+    "ufo":{
+      "version": "*"
     }
   }
 }
