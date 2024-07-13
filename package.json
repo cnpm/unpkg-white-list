@@ -233,7 +233,8 @@
     "@minecraft",
     "@tyllllll",
     "@imgly",
-    "@yuntijs"
+    "@yuntijs",
+    "@chinese-fonts"
   ],
   "allowPackages": {
     "oml2d-models": {
