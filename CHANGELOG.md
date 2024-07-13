@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.101.0](https://github.com/cnpm/unpkg-white-list/compare/v1.100.0...v1.101.0) (2024-07-13)
+
+
+### Features
+
+* add [@imgly](https://github.com/imgly) ([#212](https://github.com/cnpm/unpkg-white-list/issues/212)) ([6138bdc](https://github.com/cnpm/unpkg-white-list/commit/6138bdc2c9ab1342a8c05cbadcacdda28b9171f1))
+* add [@yuntijs](https://github.com/yuntijs) scope ([#209](https://github.com/cnpm/unpkg-white-list/issues/209)) ([98bd59b](https://github.com/cnpm/unpkg-white-list/commit/98bd59bc4964bfae2a05cbad798a68966243d196))
+* add suimi-fonts ([#205](https://github.com/cnpm/unpkg-white-list/issues/205)) ([892ff7f](https://github.com/cnpm/unpkg-white-list/commit/892ff7faff54fb2e75eac52369b544090ad216cc))
+* add ufo ([#204](https://github.com/cnpm/unpkg-white-list/issues/204)) ([c727e63](https://github.com/cnpm/unpkg-white-list/commit/c727e63cff3f8a2b00edb92b312979dfaaa68340))
+
 ## [1.100.0](https://github.com/cnpm/unpkg-white-list/compare/v1.99.0...v1.100.0) (2024-07-11)
 
 
