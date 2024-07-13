@@ -231,9 +231,13 @@
     "@microfe.top",
     "@gitlab",
     "@minecraft",
-    "@tyllllll"
+    "@tyllllll",
+    "@imgly"
   ],
   "allowPackages": {
+    "@imgly/background-removal-data": {
+      "version": "*"
+    },
     "oml2d-models": {
       "version": "*"
     },
