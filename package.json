@@ -18414,6 +18414,9 @@
     "vue-record-audio": {
       "version": "*"
     },
+    "suimi-fonts": {
+      "version": "*"
+    },
     "ufo":{
       "version": "*"
     }
