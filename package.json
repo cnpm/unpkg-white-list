@@ -232,12 +232,10 @@
     "@gitlab",
     "@minecraft",
     "@tyllllll",
-    "@imgly"
+    "@imgly",
+    "@yuntijs"
   ],
   "allowPackages": {
-    "@imgly/background-removal-data": {
-      "version": "*"
-    },
     "oml2d-models": {
       "version": "*"
     },
@@ -18416,6 +18414,12 @@
       "version": "*"
     },
     "vue-record-audio": {
+      "version": "*"
+    },
+    "suimi-fonts": {
+      "version": "*"
+    },
+    "ufo":{
       "version": "*"
     }
   }
