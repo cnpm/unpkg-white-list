@@ -18416,6 +18416,9 @@
     },
     "suimi-fonts": {
       "version": "*"
+    },
+    "ufo":{
+      "version": "*"
     }
   }
 }
