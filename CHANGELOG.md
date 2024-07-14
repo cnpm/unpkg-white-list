@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.102.0](https://github.com/cnpm/unpkg-white-list/compare/v1.101.0...v1.102.0) (2024-07-14)
+
+
+### Features
+
+* add [@chinese-fonts](https://github.com/chinese-fonts) ([#213](https://github.com/cnpm/unpkg-white-list/issues/213)) ([b850759](https://github.com/cnpm/unpkg-white-list/commit/b850759b7bbac0efed7b0a8790d06416c2fe1842))
+* add [@xterm](https://github.com/xterm) ([#214](https://github.com/cnpm/unpkg-white-list/issues/214)) ([3f8031a](https://github.com/cnpm/unpkg-white-list/commit/3f8031a36a216fb2c91e67cc8f768219582cb7fc))
+
 ## [1.101.0](https://github.com/cnpm/unpkg-white-list/compare/v1.100.0...v1.101.0) (2024-07-13)
 
 
