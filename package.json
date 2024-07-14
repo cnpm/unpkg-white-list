@@ -233,7 +233,8 @@
     "@minecraft",
     "@tyllllll",
     "@imgly",
-    "@yuntijs"
+    "@yuntijs",
+    "@xterm"
   ],
   "allowPackages": {
     "oml2d-models": {
