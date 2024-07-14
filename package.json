@@ -234,7 +234,8 @@
     "@tyllllll",
     "@imgly",
     "@yuntijs",
-    "@chinese-fonts"
+    "@chinese-fonts",
+    "@xterm"
   ],
   "allowPackages": {
     "oml2d-models": {
