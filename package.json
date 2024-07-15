@@ -18423,6 +18423,9 @@
     },
     "ufo": {
       "version": "*"
+    },
+    "live2d-widget": {
+      "version": "*"
     }
   }
 }
