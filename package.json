@@ -18421,6 +18421,9 @@
     "suimi-fonts": {
       "version": "*"
     },
+    "@docsearch/css": {
+      "version": "*"
+    },
     "ufo": {
       "version": "*"
     }
