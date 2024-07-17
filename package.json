@@ -1,16 +1,17 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.76.0",
+  "version": "1.102.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
   "scripts": {
+    "lint": "eslint test",
     "test": "node --test",
-    "ci": "npm test",
-    "contributor": "git-contributor"
+    "ci": "npm test"
   },
   "devDependencies": {
-    "git-contributor": "^2.1.5",
+    "eslint": "8",
+    "eslint-config-egg": "14",
     "semver": "^7.6.2"
   },
   "repository": {
@@ -28,6 +29,7 @@
   },
   "homepage": "https://github.com/cnpm/unpkg-white-list#readme",
   "allowScopes": [
+    "@wangeditor-next",
     "@artalk",
     "@yuzhang134562",
     "@eggjs",
@@ -224,10 +226,40 @@
     "@orillusion",
     "@sec-ant",
     "@ao-x",
-    "@zxcvbn-ts"
+    "@zxcvbn-ts",
+    "@ruiyun",
+    "@microfe.top",
+    "@gitlab",
+    "@minecraft",
+    "@tyllllll",
+    "@imgly",
+    "@yuntijs",
+    "@chinese-fonts",
+    "@xterm"
   ],
   "allowPackages": {
+    "oml2d-models": {
+      "version": "*"
+    },
+    "jspreadsheet-ce": {
+      "version": "*"
+    },
+    "jsuites": {
+      "version": "*"
+    },
+    "split-grid": {
+      "version": "*"
+    },
+    "papaparse": {
+      "version": "*"
+    },
+    "hexo-theme-redefine": {
+      "version": "*"
+    },
     "surface-plus": {
+      "version": "*"
+    },
+    "artalk": {
       "version": "*"
     },
     "@itchenliang/picture-rollup-local-plugin": {
@@ -1067,6 +1099,9 @@
     "@tweenjs/tween.js": {
       "version": "*"
     },
+    "@tyllllll/gkd-subscription": {
+      "version": "*"
+    },
     "@typography-org/react": {
       "version": "*"
     },
@@ -1896,6 +1931,9 @@
       "version": "*"
     },
     "art-template-loader": {
+      "version": "*"
+    },
+    "asciinema-player": {
       "version": "*"
     },
     "asn1.js": {
@@ -3308,6 +3346,9 @@
     "codemirror-solidity": {
       "version": "*"
     },
+    "code-prettify": {
+      "version": "*"
+    },
     "codql": {
       "version": "*"
     },
@@ -4640,19 +4681,34 @@
     "echarts": {
       "version": "*"
     },
+    "echarts-extension-amap": {
+      "version": "*"
+    },
+    "echarts-extension-gmap": {
+      "version": "*"
+    },
     "echarts-for-react": {
       "version": "*"
     },
     "echarts-gl": {
       "version": "*"
     },
+    "echarts-graph-modularity": {
+      "version": "*"
+    },
     "echarts-liquidfill": {
       "version": "*"
     },
-    "echarts-v5": {
+    "echarts-nightly": {
+      "version": "*"
+    },
+    "echarts-stat": {
       "version": "*"
     },
     "echarts-wordcloud": {
+      "version": "*"
+    },
+    "echarts-www-landing-animation": {
       "version": "*"
     },
     "ecmascript6": {
@@ -10605,9 +10661,6 @@
       "version": "*"
     },
     "panzoom": {
-      "version": "*"
-    },
-    "papaparse": {
       "version": "*"
     },
     "parallax-js": {
@@ -17873,6 +17926,9 @@
     "zrender": {
       "version": "*"
     },
+    "zrender-nightly": {
+      "version": "*"
+    },
     "zstd-codec": {
       "version": "*"
     },
@@ -17898,6 +17954,9 @@
       "version": "*"
     },
     "@aisouler/subscription": {
+      "version": "*"
+    },
+    "@wenbux/gkd_subscription": {
       "version": "*"
     },
     "vue2-smooth-scroll": {
@@ -18153,6 +18212,216 @@
       "version": "*"
     },
     "vue3-lottie": {
+      "version": "*"
+    },
+    "blog-qianxun-site": {
+      "version": "*"
+    },
+    "roughjs": {
+      "version": "*"
+    },
+    "webcola": {
+      "version": "*"
+    },
+    "cytoscape-cola": {
+      "version": "*"
+    },
+    "console-browserify": {
+      "version": "*"
+    },
+    "constants-browserify": {
+      "version": "*"
+    },
+    "domain-browser": {
+      "version": "*"
+    },
+    "punycode": {
+      "version": "*"
+    },
+    "timers-browserify": {
+      "version": "*"
+    },
+    "tty-browserify": {
+      "version": "*"
+    },
+    "vm-browserify": {
+      "version": "*"
+    },
+    "ieee754": {
+      "version": "*"
+    },
+    "isarray": {
+      "version": "*"
+    },
+    "browserify-cipher": {
+      "version": "*"
+    },
+    "browserify-sign": {
+      "version": "*"
+    },
+    "create-ecdh": {
+      "version": "*"
+    },
+    "diffie-hellman": {
+      "version": "*"
+    },
+    "pbkdf2": {
+      "version": "*"
+    },
+    "public-encrypt": {
+      "version": "*"
+    },
+    "randombytes": {
+      "version": "*"
+    },
+    "randomfill": {
+      "version": "*"
+    },
+    "core-util-is": {
+      "version": "*"
+    },
+    "process-nextick-args": {
+      "version": "*"
+    },
+    "util-deprecate": {
+      "version": "*"
+    },
+    "builtin-status-codes": {
+      "version": "*"
+    },
+    "to-arraybuffer": {
+      "version": "*"
+    },
+    "xtend": {
+      "version": "*"
+    },
+    "call-bind": {
+      "version": "*"
+    },
+    "define-properties": {
+      "version": "*"
+    },
+    "has-symbols": {
+      "version": "*"
+    },
+    "object-keys": {
+      "version": "*"
+    },
+    "cipher-base": {
+      "version": "*"
+    },
+    "ripemd160": {
+      "version": "*"
+    },
+    "sha.js": {
+      "version": "*"
+    },
+    "side-channel": {
+      "version": "*"
+    },
+    "hash-base": {
+      "version": "*"
+    },
+    "@sigma/node-border": {
+      "version": "*"
+    },
+    "@sigma/node-image": {
+      "version": "*"
+    },
+    "@sigma/node-piechart": {
+      "version": "*"
+    },
+    "@sigma/edge-curve": {
+      "version": "*"
+    },
+    "graphology-generators": {
+      "version": "*"
+    },
+    "graphology-layout-forceatlas2": {
+      "version": "*"
+    },
+    "graphology-gexf": {
+      "version": "*"
+    },
+    "graphology": {
+      "version": "*"
+    },
+    "sigma": {
+      "version": "*"
+    },
+    "solid-js": {
+      "version": "*"
+    },
+    "vue-plugin-hiprint": {
+      "version": "*"
+    },
+    "bwip-js": {
+      "version": "*"
+    },
+    "flickity": {
+      "version": "*"
+    },
+    "font-logos": {
+      "version": "*"
+    },
+    "flag-icons": {
+      "version": "*"
+    },
+    "semantic-ui": {
+      "version": "*"
+    },
+    "jsxgraph": {
+      "version": "*"
+    },
+    "@hoythan/watermark-dom": {
+      "version": "*"
+    },
+    "openapi-ts-request": {
+      "version": "*"
+    },
+    "wot-design-uni-assets": {
+      "version": "*"
+    },
+    "vue3-perfect-scrollbar": {
+      "version": "*"
+    },
+    "perfect-scrollbar": {
+      "version": "*"
+    },
+    "@tiptap/extension-placeholder": {
+      "version": "*"
+    },
+    "@tiptap/extension-text-align": {
+      "version": "*"
+    },
+    "@tiptap/extension-underline": {
+      "version": "*"
+    },
+    "@tiptap/starter-kit": {
+      "version": "*"
+    },
+    "@tiptap/extension-image": {
+      "version": "*"
+    },
+    "@tiptap/extension-link": {
+      "version": "*"
+    },
+    "cookie-es": {
+      "version": "*"
+    },
+    "vue-flatpickr-component": {
+      "version": "*"
+    },
+    "shikiji": {
+      "version": "*"
+    },
+    "vue-record-audio": {
+      "version": "*"
+    },
+    "suimi-fonts": {
+      "version": "*"
+    },
+    "ufo": {
       "version": "*"
     }
   }
