@@ -18423,6 +18423,9 @@
     },
     "ufo": {
       "version": "*"
+    },
+    "suimi-js-css": {
+      "version": "*"
     }
   }
 }
