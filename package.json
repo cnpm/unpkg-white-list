@@ -18001,6 +18001,9 @@
     "zw-lowcode-plugin-code-editor": {
       "version": "*"
     },
+    "zw-lowcode-preset-plugin":{
+      "version": "*"
+    },
     "jspdf-pro": {
       "version": "*"
     },
