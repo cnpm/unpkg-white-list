@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.103.0](https://github.com/cnpm/unpkg-white-list/compare/v1.102.0...v1.103.0) (2024-07-19)
+
+
+### Features
+
+* add @docsearch/css ([#217](https://github.com/cnpm/unpkg-white-list/issues/217)) ([cbefcab](https://github.com/cnpm/unpkg-white-list/commit/cbefcabedfe332a55a4e869fcd458c8774f791ad))
+* add @imagemagick/magick-wasm ([#218](https://github.com/cnpm/unpkg-white-list/issues/218)) ([ff4a229](https://github.com/cnpm/unpkg-white-list/commit/ff4a22997bfef02ed06c5381532c36ca23944d64))
+* add live2d-widget ([#216](https://github.com/cnpm/unpkg-white-list/issues/216)) ([8cbf0a8](https://github.com/cnpm/unpkg-white-list/commit/8cbf0a88f959d3184e646cc0ed2d0f8d62b470f5))
+* add suimi-js-css ([#215](https://github.com/cnpm/unpkg-white-list/issues/215)) ([51a8b57](https://github.com/cnpm/unpkg-white-list/commit/51a8b57da7caa8d1428c8a989dac0be35c9895b8))
+* add vue-draggable-plus ([#219](https://github.com/cnpm/unpkg-white-list/issues/219)) ([dd4fcd9](https://github.com/cnpm/unpkg-white-list/commit/dd4fcd9c3c7f75118bc9d8b6a5657b85203903d3))
+* add zw-lowcode-preset-plugin ([#220](https://github.com/cnpm/unpkg-white-list/issues/220)) ([1418db9](https://github.com/cnpm/unpkg-white-list/commit/1418db9003245b08404840781877fa41a6fbffa7))
+
 ## [1.102.0](https://github.com/cnpm/unpkg-white-list/compare/v1.101.0...v1.102.0) (2024-07-14)
 
 
