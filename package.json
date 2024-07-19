@@ -18427,6 +18427,9 @@
     "ufo": {
       "version": "*"
     },
+    "vue-draggable-plus": {
+      "version": "*"
+    },
     "suimi-js-css": {
       "version": "*"
     }
