@@ -18412,6 +18412,21 @@
     "@tiptap/extension-link": {
       "version": "*"
     },
+    "@tiptap/vue-3": {
+      "version": "*"
+    },
+    "vue3-marquee": {
+      "version": "*"
+    },
+    "vue3-popper": {
+      "version": "*"
+    },
+    "vue3-guides": {
+      "version": "*"
+    },
+    "vue3-datepicker-ui": {
+      "version": "*"
+    },
     "cookie-es": {
       "version": "*"
     },
@@ -18430,7 +18445,7 @@
     "@docsearch/css": {
       "version": "*"
     },
-    "ufo":{
+    "ufo": {
       "version": "*"
     },
     "live2d-widget": {
