@@ -18424,7 +18424,22 @@
     "vue-record-audio": {
       "version": "*"
     },
+    "suimi-fonts": {
+      "version": "*"
+    },
+    "@docsearch/css": {
+      "version": "*"
+    },
     "ufo":{
+      "version": "*"
+    },
+    "live2d-widget": {
+      "version": "*"
+    },
+    "vue-draggable-plus": {
+      "version": "*"
+    },
+    "suimi-js-css": {
       "version": "*"
     }
   }
