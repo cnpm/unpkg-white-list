@@ -265,6 +265,9 @@
     "@itchenliang/picture-rollup-local-plugin": {
       "version": "*"
     },
+    "@imagemagick/magick-wasm": {
+      "version": "*"
+    },
     "twikoo": {
       "version": "*"
     },
