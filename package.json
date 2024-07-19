@@ -265,6 +265,9 @@
     "@itchenliang/picture-rollup-local-plugin": {
       "version": "*"
     },
+    "@imagemagick/magick-wasm": {
+      "version": "*"
+    },
     "twikoo": {
       "version": "*"
     },
@@ -18001,6 +18004,9 @@
     "zw-lowcode-plugin-code-editor": {
       "version": "*"
     },
+    "zw-lowcode-preset-plugin":{
+      "version": "*"
+    },
     "jspdf-pro": {
       "version": "*"
     },
@@ -18421,10 +18427,19 @@
     "suimi-fonts": {
       "version": "*"
     },
+    "@docsearch/css": {
+      "version": "*"
+    },
     "ufo": {
       "version": "*"
     },
     "live2d-widget": {
+      "version": "*"
+    },
+    "vue-draggable-plus": {
+      "version": "*"
+    },
+    "suimi-js-css": {
       "version": "*"
     }
   }
