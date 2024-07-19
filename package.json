@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.100.0",
+  "version": "1.103.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -12,7 +12,7 @@
   "devDependencies": {
     "eslint": "8",
     "eslint-config-egg": "14",
-    "semver": "^7.6.2"
+    "semver": "7"
   },
   "repository": {
     "type": "git",
@@ -231,7 +231,11 @@
     "@microfe.top",
     "@gitlab",
     "@minecraft",
-    "@tyllllll"
+    "@tyllllll",
+    "@imgly",
+    "@yuntijs",
+    "@chinese-fonts",
+    "@xterm"
   ],
   "allowPackages": {
     "oml2d-models": {
@@ -259,6 +263,9 @@
       "version": "*"
     },
     "@itchenliang/picture-rollup-local-plugin": {
+      "version": "*"
+    },
+    "@imagemagick/magick-wasm": {
       "version": "*"
     },
     "twikoo": {
@@ -17995,6 +18002,9 @@
       "version": "*"
     },
     "zw-lowcode-plugin-code-editor": {
+      "version": "*"
+    },
+    "zw-lowcode-preset-plugin": {
       "version": "*"
     },
     "jspdf-pro": {
