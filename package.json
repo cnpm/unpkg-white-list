@@ -559,6 +559,9 @@
     "@fal-works/esbuild-plugin-global-externals": {
       "version": "*"
     },
+    "@fancyapps/fancybox": {
+      "version": "*"
+    },
     "@fancyapps/ui": {
       "version": "*"
     },
