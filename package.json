@@ -253,6 +253,9 @@
     "papaparse": {
       "version": "*"
     },
+    "hexo-theme-cards": {
+      "version": "*"
+    },
     "hexo-theme-redefine": {
       "version": "*"
     },
