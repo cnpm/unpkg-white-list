@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.104.0](https://github.com/cnpm/unpkg-white-list/compare/v1.103.0...v1.104.0) (2024-07-21)
+
+
+### Features
+
+* add [@fontsource-variable](https://github.com/fontsource-variable) ([#224](https://github.com/cnpm/unpkg-white-list/issues/224)) ([8e1b821](https://github.com/cnpm/unpkg-white-list/commit/8e1b821484bcebab227e85ccb97b483fc328587d))
+* add [@tiptap](https://github.com/tiptap),marquee,popper,guides,datepicker-ui ([#222](https://github.com/cnpm/unpkg-white-list/issues/222)) ([f801550](https://github.com/cnpm/unpkg-white-list/commit/f80155011c847ab2bc888a680657773882958fa5))
+* add hexo-theme-cards, @fancyapps/fancybox ([#223](https://github.com/cnpm/unpkg-white-list/issues/223)) ([17a2f38](https://github.com/cnpm/unpkg-white-list/commit/17a2f385a5e391a7ac8eff8bd12166b7607dfbb1))
+
 ## [1.103.0](https://github.com/cnpm/unpkg-white-list/compare/v1.102.0...v1.103.0) (2024-07-19)
 
 
