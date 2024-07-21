@@ -253,6 +253,9 @@
     "papaparse": {
       "version": "*"
     },
+    "hexo-theme-cards": {
+      "version": "*"
+    },
     "hexo-theme-redefine": {
       "version": "*"
     },
@@ -554,6 +557,9 @@
       "version": "*"
     },
     "@fal-works/esbuild-plugin-global-externals": {
+      "version": "*"
+    },
+    "@fancyapps/fancybox": {
       "version": "*"
     },
     "@fancyapps/ui": {
