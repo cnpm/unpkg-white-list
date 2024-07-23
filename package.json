@@ -239,6 +239,9 @@
     "@xterm"
   ],
   "allowPackages": {
+    "plyr": {
+      "version": "*"
+    },
     "oml2d-models": {
       "version": "*"
     },
