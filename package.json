@@ -7061,6 +7061,9 @@
     "highlighter": {
       "version": "*"
     },
+    "highlightjs-copy": {
+      "version": "*"
+    },
     "highlightjs-solidity": {
       "version": "*"
     },
