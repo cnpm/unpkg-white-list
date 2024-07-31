@@ -239,6 +239,9 @@
     "@xterm"
   ],
   "allowPackages": {
+    "oh-my-live2d": {
+      "version": "*"
+    },
     "oml2d-models": {
       "version": "*"
     },
