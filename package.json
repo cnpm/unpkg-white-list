@@ -18373,6 +18373,18 @@
     },
     "vue-record-audio":{
       "version": "*"
+    },
+    "rough-viz":{
+      "version":"*"
+    },
+    "@vue-office/docx":{
+      "version":"*"
+    },
+    "@vue-office/excel":{
+      "version":"*"
+    },
+    "@vue-office/pdf":{
+      "version":"*"
     }
   }
 }
