@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.98.0",
+  "version": "1.104.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -12,7 +12,7 @@
   "devDependencies": {
     "eslint": "8",
     "eslint-config-egg": "14",
-    "semver": "^7.6.2"
+    "semver": "7"
   },
   "repository": {
     "type": "git",
@@ -70,6 +70,7 @@
     "@galacean",
     "@gedit",
     "@fontsource",
+    "@fontsource-variable",
     "@fortawesome",
     "@fullcalendar",
     "@goldfishjs",
@@ -230,7 +231,12 @@
     "@ruiyun",
     "@microfe.top",
     "@gitlab",
-    "@minecraft"
+    "@minecraft",
+    "@tyllllll",
+    "@imgly",
+    "@yuntijs",
+    "@chinese-fonts",
+    "@xterm"
   ],
   "allowPackages": {
     "oml2d-models": {
@@ -248,6 +254,9 @@
     "papaparse": {
       "version": "*"
     },
+    "hexo-theme-cards": {
+      "version": "*"
+    },
     "hexo-theme-redefine": {
       "version": "*"
     },
@@ -258,6 +267,9 @@
       "version": "*"
     },
     "@itchenliang/picture-rollup-local-plugin": {
+      "version": "*"
+    },
+    "@imagemagick/magick-wasm": {
       "version": "*"
     },
     "twikoo": {
@@ -546,6 +558,9 @@
       "version": "*"
     },
     "@fal-works/esbuild-plugin-global-externals": {
+      "version": "*"
+    },
+    "@fancyapps/fancybox": {
       "version": "*"
     },
     "@fancyapps/ui": {
@@ -1092,6 +1107,9 @@
       "version": "*"
     },
     "@tweenjs/tween.js": {
+      "version": "*"
+    },
+    "@tyllllll/gkd-subscription": {
       "version": "*"
     },
     "@typography-org/react": {
@@ -17993,6 +18011,9 @@
     "zw-lowcode-plugin-code-editor": {
       "version": "*"
     },
+    "zw-lowcode-preset-plugin": {
+      "version": "*"
+    },
     "jspdf-pro": {
       "version": "*"
     },
@@ -18371,7 +18392,76 @@
     "openapi-ts-request": {
       "version": "*"
     },
-    "vue-record-audio":{
+    "wot-design-uni-assets": {
+      "version": "*"
+    },
+    "vue3-perfect-scrollbar": {
+      "version": "*"
+    },
+    "perfect-scrollbar": {
+      "version": "*"
+    },
+    "@tiptap/extension-placeholder": {
+      "version": "*"
+    },
+    "@tiptap/extension-text-align": {
+      "version": "*"
+    },
+    "@tiptap/extension-underline": {
+      "version": "*"
+    },
+    "@tiptap/starter-kit": {
+      "version": "*"
+    },
+    "@tiptap/extension-image": {
+      "version": "*"
+    },
+    "@tiptap/extension-link": {
+      "version": "*"
+    },
+    "@tiptap/vue-3": {
+      "version": "*"
+    },
+    "vue3-marquee": {
+      "version": "*"
+    },
+    "vue3-popper": {
+      "version": "*"
+    },
+    "vue3-guides": {
+      "version": "*"
+    },
+    "vue3-datepicker-ui": {
+      "version": "*"
+    },
+    "cookie-es": {
+      "version": "*"
+    },
+    "vue-flatpickr-component": {
+      "version": "*"
+    },
+    "shikiji": {
+      "version": "*"
+    },
+    "vue-record-audio": {
+      "version": "*"
+    },
+    "suimi-fonts": {
+      "version": "*"
+    },
+    "@docsearch/css": {
+      "version": "*"
+    },
+    "ufo": {
+      "version": "*"
+    },
+    "live2d-widget": {
+      "version": "*"
+    },
+    "vue-draggable-plus": {
+      "version": "*"
+    },
+    "suimi-js-css": {
       "version": "*"
     },
     "rough-viz":{

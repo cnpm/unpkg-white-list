@@ -1,5 +1,61 @@
 # Changelog
 
+## [1.104.0](https://github.com/cnpm/unpkg-white-list/compare/v1.103.0...v1.104.0) (2024-07-21)
+
+
+### Features
+
+* add [@fontsource-variable](https://github.com/fontsource-variable) ([#224](https://github.com/cnpm/unpkg-white-list/issues/224)) ([8e1b821](https://github.com/cnpm/unpkg-white-list/commit/8e1b821484bcebab227e85ccb97b483fc328587d))
+* add [@tiptap](https://github.com/tiptap),marquee,popper,guides,datepicker-ui ([#222](https://github.com/cnpm/unpkg-white-list/issues/222)) ([f801550](https://github.com/cnpm/unpkg-white-list/commit/f80155011c847ab2bc888a680657773882958fa5))
+* add hexo-theme-cards, @fancyapps/fancybox ([#223](https://github.com/cnpm/unpkg-white-list/issues/223)) ([17a2f38](https://github.com/cnpm/unpkg-white-list/commit/17a2f385a5e391a7ac8eff8bd12166b7607dfbb1))
+
+## [1.103.0](https://github.com/cnpm/unpkg-white-list/compare/v1.102.0...v1.103.0) (2024-07-19)
+
+
+### Features
+
+* add @docsearch/css ([#217](https://github.com/cnpm/unpkg-white-list/issues/217)) ([cbefcab](https://github.com/cnpm/unpkg-white-list/commit/cbefcabedfe332a55a4e869fcd458c8774f791ad))
+* add @imagemagick/magick-wasm ([#218](https://github.com/cnpm/unpkg-white-list/issues/218)) ([ff4a229](https://github.com/cnpm/unpkg-white-list/commit/ff4a22997bfef02ed06c5381532c36ca23944d64))
+* add live2d-widget ([#216](https://github.com/cnpm/unpkg-white-list/issues/216)) ([8cbf0a8](https://github.com/cnpm/unpkg-white-list/commit/8cbf0a88f959d3184e646cc0ed2d0f8d62b470f5))
+* add suimi-js-css ([#215](https://github.com/cnpm/unpkg-white-list/issues/215)) ([51a8b57](https://github.com/cnpm/unpkg-white-list/commit/51a8b57da7caa8d1428c8a989dac0be35c9895b8))
+* add vue-draggable-plus ([#219](https://github.com/cnpm/unpkg-white-list/issues/219)) ([dd4fcd9](https://github.com/cnpm/unpkg-white-list/commit/dd4fcd9c3c7f75118bc9d8b6a5657b85203903d3))
+* add zw-lowcode-preset-plugin ([#220](https://github.com/cnpm/unpkg-white-list/issues/220)) ([1418db9](https://github.com/cnpm/unpkg-white-list/commit/1418db9003245b08404840781877fa41a6fbffa7))
+
+## [1.102.0](https://github.com/cnpm/unpkg-white-list/compare/v1.101.0...v1.102.0) (2024-07-14)
+
+
+### Features
+
+* add [@chinese-fonts](https://github.com/chinese-fonts) ([#213](https://github.com/cnpm/unpkg-white-list/issues/213)) ([b850759](https://github.com/cnpm/unpkg-white-list/commit/b850759b7bbac0efed7b0a8790d06416c2fe1842))
+* add [@xterm](https://github.com/xterm) ([#214](https://github.com/cnpm/unpkg-white-list/issues/214)) ([3f8031a](https://github.com/cnpm/unpkg-white-list/commit/3f8031a36a216fb2c91e67cc8f768219582cb7fc))
+
+## [1.101.0](https://github.com/cnpm/unpkg-white-list/compare/v1.100.0...v1.101.0) (2024-07-13)
+
+
+### Features
+
+* add [@imgly](https://github.com/imgly) ([#212](https://github.com/cnpm/unpkg-white-list/issues/212)) ([6138bdc](https://github.com/cnpm/unpkg-white-list/commit/6138bdc2c9ab1342a8c05cbadcacdda28b9171f1))
+* add [@yuntijs](https://github.com/yuntijs) scope ([#209](https://github.com/cnpm/unpkg-white-list/issues/209)) ([98bd59b](https://github.com/cnpm/unpkg-white-list/commit/98bd59bc4964bfae2a05cbad798a68966243d196))
+* add suimi-fonts ([#205](https://github.com/cnpm/unpkg-white-list/issues/205)) ([892ff7f](https://github.com/cnpm/unpkg-white-list/commit/892ff7faff54fb2e75eac52369b544090ad216cc))
+* add ufo ([#204](https://github.com/cnpm/unpkg-white-list/issues/204)) ([c727e63](https://github.com/cnpm/unpkg-white-list/commit/c727e63cff3f8a2b00edb92b312979dfaaa68340))
+
+## [1.100.0](https://github.com/cnpm/unpkg-white-list/compare/v1.99.0...v1.100.0) (2024-07-11)
+
+
+### Features
+
+* add [@tyllllll](https://github.com/tyllllll) ([#201](https://github.com/cnpm/unpkg-white-list/issues/201)) ([dfdf4bc](https://github.com/cnpm/unpkg-white-list/commit/dfdf4bc4ac8dfe0f3fb589ebc485d35c57bd2e01))
+* add @tiptap/extension-image, @tiptap/extension-link and cookie-es ([#202](https://github.com/cnpm/unpkg-white-list/issues/202)) ([6097cff](https://github.com/cnpm/unpkg-white-list/commit/6097cffdf5d360cb94e55685b9cffad362ee17d6))
+
+## [1.99.0](https://github.com/cnpm/unpkg-white-list/compare/v1.98.0...v1.99.0) (2024-07-09)
+
+
+### Features
+
+* add vue-record-audio ([#197](https://github.com/cnpm/unpkg-white-list/issues/197)) ([a679bc8](https://github.com/cnpm/unpkg-white-list/commit/a679bc86379fa018b663cf87f8252ddd35b31cb8))
+* add vue3-perfect-scrollbar and more ([#199](https://github.com/cnpm/unpkg-white-list/issues/199)) ([206bf4f](https://github.com/cnpm/unpkg-white-list/commit/206bf4fc1ed0e815730e679f419cd70427909317))
+* add wot-design-uni-assets ([#195](https://github.com/cnpm/unpkg-white-list/issues/195)) ([2e28ada](https://github.com/cnpm/unpkg-white-list/commit/2e28ada4850773fc4556ab465063b654ab140c8d))
+
 ## [1.98.0](https://github.com/cnpm/unpkg-white-list/compare/v1.97.0...v1.98.0) (2024-07-08)
 
 
