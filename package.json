@@ -239,6 +239,9 @@
     "@xterm"
   ],
   "allowPackages": {
+    "xingzhengqu": {
+      "version": "*"
+    },
     "oml2d-models": {
       "version": "*"
     },
