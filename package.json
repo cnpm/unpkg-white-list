@@ -1818,6 +1818,9 @@
     "apk-parser3": {
       "version": "*"
     },
+    "aplayer": {
+      "version": "*"
+    },
     "apmp": {
       "version": "*"
     },
@@ -9538,6 +9541,9 @@
       "version": "*"
     },
     "medium-zoom": {
+      "version": "*"
+    },
+    "meting": {
       "version": "*"
     },
     "mem": {
