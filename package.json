@@ -242,6 +242,9 @@
     "plyr": {
       "version": "*"
     },
+    "rapidoc": {
+      "version": "*"
+    },
     "oml2d-models": {
       "version": "*"
     },
