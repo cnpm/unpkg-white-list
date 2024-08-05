@@ -18036,6 +18036,9 @@
     "zw-lowcode-preset-plugin": {
       "version": "*"
     },
+    "adl-lowcode-preset-plugin": {
+      "version": "*"
+    },
     "jspdf-pro": {
       "version": "*"
     },
