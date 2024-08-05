@@ -18480,6 +18480,12 @@
     "suimi-js-css": {
       "version": "*"
     },
+    "jsyw-lowcode-material-antd": {
+      "version": "*"
+    },
+     "lowcode-simple-form": {
+       "version": "*"
+    },
     "mitang-cdn": {
       "version": "*"
     }
