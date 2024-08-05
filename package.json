@@ -18486,6 +18486,9 @@
     "suimi-js-css": {
       "version": "*"
     },
+    "altcha": {
+      "version":"*"
+    },
     "rough-viz": {
       "version":"*"
     },
