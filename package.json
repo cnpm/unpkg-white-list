@@ -18473,6 +18473,9 @@
     },
     "suimi-js-css": {
       "version": "*"
+    },
+    "mitang-cdn": {
+      "version": "*"
     }
   }
 }
