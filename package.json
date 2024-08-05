@@ -236,10 +236,20 @@
     "@imgly",
     "@yuntijs",
     "@chinese-fonts",
-    "@xterm"
+    "@xterm",
+    "@phosphor-icons"
   ],
   "allowPackages": {
     "xingzhengqu": {
+      "version": "*"
+    },
+    "oh-my-live2d": {
+      "version": "*"
+    },
+    "plyr": {
+      "version": "*"
+    },
+    "rapidoc": {
       "version": "*"
     },
     "oml2d-models": {
@@ -1812,6 +1822,9 @@
       "version": "*"
     },
     "apk-parser3": {
+      "version": "*"
+    },
+    "aplayer": {
       "version": "*"
     },
     "apmp": {
@@ -7064,6 +7077,9 @@
     "highlighter": {
       "version": "*"
     },
+    "highlightjs-copy": {
+      "version": "*"
+    },
     "highlightjs-solidity": {
       "version": "*"
     },
@@ -9531,6 +9547,9 @@
       "version": "*"
     },
     "medium-zoom": {
+      "version": "*"
+    },
+    "meting": {
       "version": "*"
     },
     "mem": {
@@ -18236,11 +18255,11 @@
     "roughjs": {
       "version": "*"
     },
-    "webcola": {
-      "version": "*"
+    "webcola":{
+      "version":"*"
     },
-    "cytoscape-cola": {
-      "version": "*"
+    "cytoscape-cola":{
+      "version":"*"
     },
     "console-browserify": {
       "version": "*"
@@ -18465,6 +18484,27 @@
       "version": "*"
     },
     "suimi-js-css": {
+      "version": "*"
+    },
+    "rough-viz": {
+      "version":"*"
+    },
+    "@vue-office/docx": {
+      "version":"*"
+    },
+    "@vue-office/excel": {
+      "version":"*"
+    },
+    "@vue-office/pdf": {
+      "version":"*"
+    },
+    "jsyw-lowcode-material-antd": {
+      "version": "*"
+    },
+    "lowcode-simple-form": {
+      "version": "*"
+    },
+    "mitang-cdn": {
       "version": "*"
     }
   }
