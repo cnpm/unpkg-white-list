@@ -236,9 +236,16 @@
     "@imgly",
     "@yuntijs",
     "@chinese-fonts",
-    "@xterm"
+    "@xterm",
+    "@phosphor-icons"
   ],
   "allowPackages": {
+    "plyr": {
+      "version": "*"
+    },
+    "rapidoc": {
+      "version": "*"
+    },
     "oml2d-models": {
       "version": "*"
     },
@@ -1809,6 +1816,9 @@
       "version": "*"
     },
     "apk-parser3": {
+      "version": "*"
+    },
+    "aplayer": {
       "version": "*"
     },
     "apmp": {
@@ -7061,6 +7071,9 @@
     "highlighter": {
       "version": "*"
     },
+    "highlightjs-copy": {
+      "version": "*"
+    },
     "highlightjs-solidity": {
       "version": "*"
     },
@@ -9528,6 +9541,9 @@
       "version": "*"
     },
     "medium-zoom": {
+      "version": "*"
+    },
+    "meting": {
       "version": "*"
     },
     "mem": {
@@ -18464,17 +18480,26 @@
     "suimi-js-css": {
       "version": "*"
     },
-    "rough-viz":{
+    "rough-viz": {
       "version":"*"
     },
-    "@vue-office/docx":{
+    "@vue-office/docx": {
       "version":"*"
     },
-    "@vue-office/excel":{
+    "@vue-office/excel": {
       "version":"*"
     },
-    "@vue-office/pdf":{
+    "@vue-office/pdf": {
       "version":"*"
+    },
+    "jsyw-lowcode-material-antd": {
+      "version": "*"
+    },
+    "lowcode-simple-form": {
+      "version": "*"
+    },
+    "mitang-cdn": {
+      "version": "*"
     }
   }
 }
