@@ -240,6 +240,9 @@
     "@phosphor-icons"
   ],
   "allowPackages": {
+    "xingzhengqu": {
+      "version": "*"
+    },
     "oh-my-live2d": {
       "version": "*"
     },
