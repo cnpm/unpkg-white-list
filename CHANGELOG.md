@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.105.0](https://github.com/cnpm/unpkg-white-list/compare/v1.104.0...v1.105.0) (2024-08-05)
+
+
+### Features
+
+* add adl-lowcode-preset-plugin ([#237](https://github.com/cnpm/unpkg-white-list/issues/237)) ([2eebeaf](https://github.com/cnpm/unpkg-white-list/commit/2eebeafc6b35c936e30e470d77545d785acc72dd))
+* add altcha ([#236](https://github.com/cnpm/unpkg-white-list/issues/236)) ([ad802b7](https://github.com/cnpm/unpkg-white-list/commit/ad802b7f441bacd703c8a9d820030127f7e36514))
+* add aplayer and meting ([#230](https://github.com/cnpm/unpkg-white-list/issues/230)) ([b359a69](https://github.com/cnpm/unpkg-white-list/commit/b359a69368e92f4cffc95864fd2e6026fad1623a))
+* add highlightjs-copy ([#228](https://github.com/cnpm/unpkg-white-list/issues/228)) ([603cf69](https://github.com/cnpm/unpkg-white-list/commit/603cf6947a669c749da1d836e45465f9521f32d9))
+* add lowcode-simple-form & jsyw-lowcode-material-antd ([#231](https://github.com/cnpm/unpkg-white-list/issues/231)) ([965543f](https://github.com/cnpm/unpkg-white-list/commit/965543fb27675efe282e97001d1e518e85faa667))
+* add mitang-cdn ([#229](https://github.com/cnpm/unpkg-white-list/issues/229)) ([cbac3cf](https://github.com/cnpm/unpkg-white-list/commit/cbac3cf1ba29d7ce22264cdc17a1191030d39885))
+* add oh-my-live2d ([#234](https://github.com/cnpm/unpkg-white-list/issues/234)) ([33532f8](https://github.com/cnpm/unpkg-white-list/commit/33532f8003c1f6c00f6e6df904c2691df8f297d1))
+* add phosphor-icons ([#227](https://github.com/cnpm/unpkg-white-list/issues/227)) ([78dc71e](https://github.com/cnpm/unpkg-white-list/commit/78dc71ef3941500ae75f5cb6fbf7aae2839482f0))
+* add plyr ([#226](https://github.com/cnpm/unpkg-white-list/issues/226)) ([b44ae5a](https://github.com/cnpm/unpkg-white-list/commit/b44ae5a482c3e5fcb88978b32fccc42bc431086e))
+* add rapidoc ([#225](https://github.com/cnpm/unpkg-white-list/issues/225)) ([5cf1fc9](https://github.com/cnpm/unpkg-white-list/commit/5cf1fc90ad3543519174975d8ae4f89ed6d1eb54))
+* add rough-viz、@vue-office/docx、@vue-office/excel、@vue-office/pdf ([#233](https://github.com/cnpm/unpkg-white-list/issues/233)) ([f2dcc82](https://github.com/cnpm/unpkg-white-list/commit/f2dcc82994bdaaa03add758b55b9918165c0f073))
+* add xingzhengqu ([#235](https://github.com/cnpm/unpkg-white-list/issues/235)) ([c69133e](https://github.com/cnpm/unpkg-white-list/commit/c69133ed1ddb00d33347613a714829ed23587dc8))
+
 ## [1.104.0](https://github.com/cnpm/unpkg-white-list/compare/v1.103.0...v1.104.0) (2024-07-21)
 
 
