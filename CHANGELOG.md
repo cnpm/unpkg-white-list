@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.106.0](https://github.com/cnpm/unpkg-white-list/compare/v1.105.0...v1.106.0) (2024-08-06)
+
+
+### Features
+
+* [@adpro](https://github.com/adpro) scope ([#238](https://github.com/cnpm/unpkg-white-list/issues/238)) ([fc9d71f](https://github.com/cnpm/unpkg-white-list/commit/fc9d71f93d94f08c026229f943d247e8fc130f1b))
+
 ## [1.105.0](https://github.com/cnpm/unpkg-white-list/compare/v1.104.0...v1.105.0) (2024-08-05)
 
 
