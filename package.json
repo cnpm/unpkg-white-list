@@ -237,7 +237,8 @@
     "@yuntijs",
     "@chinese-fonts",
     "@xterm",
-    "@phosphor-icons"
+    "@phosphor-icons",
+    "@adpro"
   ],
   "allowPackages": {
     "xingzhengqu": {
