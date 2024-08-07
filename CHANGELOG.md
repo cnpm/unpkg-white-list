@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.107.0](https://github.com/cnpm/unpkg-white-list/compare/v1.106.0...v1.107.0) (2024-08-07)
+
+
+### Features
+
+* add web-serial-polyfill ([#239](https://github.com/cnpm/unpkg-white-list/issues/239)) ([7788e30](https://github.com/cnpm/unpkg-white-list/commit/7788e30275194296e9d3acb9d845b5b1316f62b0))
+
 ## [1.106.0](https://github.com/cnpm/unpkg-white-list/compare/v1.105.0...v1.106.0) (2024-08-06)
 
 
