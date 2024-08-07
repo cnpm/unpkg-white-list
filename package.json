@@ -17386,6 +17386,9 @@
     "web-highlighter": {
       "version": "*"
     },
+    "web-serial-polyfill": {
+      "version": "*"
+    },
     "web-streams-polyfill": {
       "version": "*"
     },
