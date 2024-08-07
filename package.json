@@ -159,6 +159,7 @@
     "@octokit",
     "@okamjs",
     "@paciolan",
+    "@pagefind",
     "@pansy",
     "@parcel",
     "@patternfly",
@@ -6077,6 +6078,9 @@
       "version": "*"
     },
     "flex.css": {
+      "version": "*"
+    },
+    "flexsearch": {
       "version": "*"
     },
     "flipsnap": {
