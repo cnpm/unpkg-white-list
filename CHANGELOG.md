@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.108.0](https://github.com/cnpm/unpkg-white-list/compare/v1.107.0...v1.108.0) (2024-08-08)
+
+
+### Features
+
+* add `[@pagefind](https://github.com/pagefind)` and `flexsearch` ([#240](https://github.com/cnpm/unpkg-white-list/issues/240)) ([f270edf](https://github.com/cnpm/unpkg-white-list/commit/f270edf9815443ace34bb2ff251a5dcd969d7e81))
+
 ## [1.107.0](https://github.com/cnpm/unpkg-white-list/compare/v1.106.0...v1.107.0) (2024-08-07)
 
 
