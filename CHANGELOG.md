@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.109.0](https://github.com/cnpm/unpkg-white-list/compare/v1.108.0...v1.109.0) (2024-08-09)
+
+
+### Features
+
+* add `minisearch` ([#241](https://github.com/cnpm/unpkg-white-list/issues/241)) ([094857c](https://github.com/cnpm/unpkg-white-list/commit/094857cb19ac5e092eb86ed441e971889343434f))
+
 ## [1.108.0](https://github.com/cnpm/unpkg-white-list/compare/v1.107.0...v1.108.0) (2024-08-08)
 
 
