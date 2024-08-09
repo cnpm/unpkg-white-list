@@ -9725,6 +9725,9 @@
     "miniprogram-text-encoder": {
       "version": "*"
     },
+    "minisearch": {
+      "version": "*"
+    },
     "miniu": {
       "version": "*"
     },
