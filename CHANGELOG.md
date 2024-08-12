@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.111.0](https://github.com/cnpm/unpkg-white-list/compare/v1.110.0...v1.111.0) (2024-08-12)
+
+
+### Features
+
+* add disable-devtool ([#243](https://github.com/cnpm/unpkg-white-list/issues/243)) ([2e50956](https://github.com/cnpm/unpkg-white-list/commit/2e509568a134e17df194f30efd9b851a8238faa1))
+
 ## [1.110.0](https://github.com/cnpm/unpkg-white-list/compare/v1.109.0...v1.110.0) (2024-08-12)
 
 
