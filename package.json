@@ -239,7 +239,8 @@
     "@chinese-fonts",
     "@xterm",
     "@phosphor-icons",
-    "@adpro"
+    "@adpro",
+    "@hook-js"
   ],
   "allowPackages": {
     "xingzhengqu": {
