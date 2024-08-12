@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.110.0](https://github.com/cnpm/unpkg-white-list/compare/v1.109.0...v1.110.0) (2024-08-12)
+
+
+### Features
+
+* add [@hook-js](https://github.com/hook-js) ([#242](https://github.com/cnpm/unpkg-white-list/issues/242)) ([4055416](https://github.com/cnpm/unpkg-white-list/commit/40554160adfe07a2efc0ce25cc21dd4a42037259))
+
 ## [1.109.0](https://github.com/cnpm/unpkg-white-list/compare/v1.108.0...v1.109.0) (2024-08-09)
 
 
