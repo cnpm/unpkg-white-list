@@ -18528,5 +18528,8 @@
     "disable-devtool": {
       "version": "*"
     }
+    "trzsz": {
+      "version": "*"
+    }
   }
 }
