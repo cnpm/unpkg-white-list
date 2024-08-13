@@ -18527,6 +18527,9 @@
     },
     "disable-devtool": {
       "version": "*"
-    }
+    },
+    "single-test-setter": {
+      "version": "*"
+    },
   }
 }
