@@ -18531,5 +18531,8 @@
     "single-test-setter": {
       "version": "*"
     },
+    "trzsz": {
+      "version": "*"
+    }
   }
 }
