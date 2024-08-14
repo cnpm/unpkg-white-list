@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.112.0](https://github.com/cnpm/unpkg-white-list/compare/v1.111.0...v1.112.0) (2024-08-14)
+
+
+### Features
+
+* add single-test-setter ([#245](https://github.com/cnpm/unpkg-white-list/issues/245)) ([aaeb632](https://github.com/cnpm/unpkg-white-list/commit/aaeb632d5af783c63b2e7a259307f95e29a9a593))
+* add trzsz ([#244](https://github.com/cnpm/unpkg-white-list/issues/244)) ([51d129c](https://github.com/cnpm/unpkg-white-list/commit/51d129ccadddae4716c8a3be1bf15a674c80dd30))
+
 ## [1.111.0](https://github.com/cnpm/unpkg-white-list/compare/v1.110.0...v1.111.0) (2024-08-12)
 
 
