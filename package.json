@@ -18533,6 +18533,9 @@
     },
     "trzsz": {
       "version": "*"
+    },
+    "speedtouch": {
+      "version": "*"
     }
   }
 }
