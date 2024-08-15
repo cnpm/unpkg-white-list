@@ -18534,8 +18534,8 @@
     "trzsz": {
       "version": "*"
     },
-    "urllib": {
-      "speedfox_npmmirror": "*"
+    "speedfox_npmmirror": {
+      "version": "*"
     }
   }
 }
