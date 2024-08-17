@@ -261,6 +261,9 @@
     "jspreadsheet-ce": {
       "version": "*"
     },
+    "gpt-tokenizer": {
+      "version": "*"
+    },
     "jsuites": {
       "version": "*"
     },
