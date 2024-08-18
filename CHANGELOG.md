@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.113.0](https://github.com/cnpm/unpkg-white-list/compare/v1.112.0...v1.113.0) (2024-08-18)
+
+
+### Features
+
+* add gpt-tokenizer ([#251](https://github.com/cnpm/unpkg-white-list/issues/251)) ([d76d145](https://github.com/cnpm/unpkg-white-list/commit/d76d145bb54688bec62c773dd3ccf59a9d1a86c1))
+* add speedtouch ([#248](https://github.com/cnpm/unpkg-white-list/issues/248)) ([99e09ae](https://github.com/cnpm/unpkg-white-list/commit/99e09ae5c9780a02e482c1b074ca53012c4e31fe))
+
 ## [1.112.0](https://github.com/cnpm/unpkg-white-list/compare/v1.111.0...v1.112.0) (2024-08-14)
 
 
