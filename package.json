@@ -18540,6 +18540,9 @@
     },
     "speedtouch": {
       "version": "*"
+    },
+    "@adonisjs/encryption": {
+      "version": "*"
     }
   }
 }
