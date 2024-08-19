@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.114.0](https://github.com/cnpm/unpkg-white-list/compare/v1.113.0...v1.114.0) (2024-08-19)
+
+
+### Features
+
+* add [@standardnotes](https://github.com/standardnotes) ([#249](https://github.com/cnpm/unpkg-white-list/issues/249)) ([54e3c6b](https://github.com/cnpm/unpkg-white-list/commit/54e3c6b7326c053c861d2288e2cca928e8fe9a9b))
+* add @adonisjs/encryption ([#250](https://github.com/cnpm/unpkg-white-list/issues/250)) ([35ba240](https://github.com/cnpm/unpkg-white-list/commit/35ba240356e415969f13acaf865a5a1272a8a17d))
+
 ## [1.113.0](https://github.com/cnpm/unpkg-white-list/compare/v1.112.0...v1.113.0) (2024-08-18)
 
 
