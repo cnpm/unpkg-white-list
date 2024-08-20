@@ -241,7 +241,8 @@
     "@xterm",
     "@phosphor-icons",
     "@adpro",
-    "@hook-js"
+    "@hook-js",
+    "@pubinfo"
   ],
   "allowPackages": {
     "xingzhengqu": {
