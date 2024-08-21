@@ -18543,6 +18543,9 @@
     },
     "@adonisjs/encryption": {
       "version": "*"
+    },
+    "element-gui": {
+      "version": "*"
     }
   }
 }
