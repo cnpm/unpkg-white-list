@@ -18543,6 +18543,9 @@
     },
     "@adonisjs/encryption": {
       "version": "*"
+    },
+    "shed-fonts": {
+      "version": "*"
     }
   }
 }
