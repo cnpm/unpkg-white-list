@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/cnpm/unpkg-white-list#readme",
   "allowScopes": [
+    "@ztocwst",
     "@wangeditor-next",
     "@artalk",
     "@yuzhang134562",
