@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.115.0](https://github.com/cnpm/unpkg-white-list/compare/v1.114.0...v1.115.0) (2024-08-23)
+
+
+### Features
+
+* add [@pubfino](https://github.com/pubfino) ([#252](https://github.com/cnpm/unpkg-white-list/issues/252)) ([c6ed0b7](https://github.com/cnpm/unpkg-white-list/commit/c6ed0b70e7364b6b7704097fce33e98e485b464a))
+* add [@ztocwst](https://github.com/ztocwst) ([#254](https://github.com/cnpm/unpkg-white-list/issues/254)) ([4ffb71b](https://github.com/cnpm/unpkg-white-list/commit/4ffb71b999325d099a9489b637597459e1a60b66))
+* add element-gui ([#253](https://github.com/cnpm/unpkg-white-list/issues/253)) ([a4b8c5d](https://github.com/cnpm/unpkg-white-list/commit/a4b8c5d66727945c8fa4f1df287d584610ef5ec7))
+* add prcoords ([#257](https://github.com/cnpm/unpkg-white-list/issues/257)) ([3becd1a](https://github.com/cnpm/unpkg-white-list/commit/3becd1a4dfab63d83e58e8ff165d423eabc6f3e5))
+* add shed-fonts ([#256](https://github.com/cnpm/unpkg-white-list/issues/256)) ([0032665](https://github.com/cnpm/unpkg-white-list/commit/003266545048340860422b8efd6fcd78498fc57a))
+
 ## [1.114.0](https://github.com/cnpm/unpkg-white-list/compare/v1.113.0...v1.114.0) (2024-08-19)
 
 
