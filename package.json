@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/cnpm/unpkg-white-list#readme",
   "allowScopes": [
+    "@ztocwst",
     "@wangeditor-next",
     "@artalk",
     "@yuzhang134562",
@@ -241,7 +242,8 @@
     "@xterm",
     "@phosphor-icons",
     "@adpro",
-    "@hook-js"
+    "@hook-js",
+    "@pubinfo"
   ],
   "allowPackages": {
     "xingzhengqu": {
@@ -18545,6 +18547,9 @@
       "version": "*"
     },
     "shed-fonts": {
+      "version": "*"
+    },
+    "element-gui": {
       "version": "*"
     }
   }
