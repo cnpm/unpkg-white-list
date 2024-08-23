@@ -18546,6 +18546,9 @@
     "@adonisjs/encryption": {
       "version": "*"
     },
+    "shed-fonts": {
+      "version": "*"
+    },
     "element-gui": {
       "version": "*"
     }
