@@ -4092,6 +4092,9 @@
     "data-fns": {
       "version": "*"
     },
+    "dataformsjs": {
+      "version": "*"
+    },
     "datahub": {
       "version": "*"
     },
@@ -10539,6 +10542,9 @@
     "onnxruntime-web": {
       "version": "*"
     },
+    "onsenui": {
+      "version": "*"
+    },
     "open": {
       "version": "*"
     },
@@ -10729,6 +10735,9 @@
       "version": "*"
     },
     "parchment": {
+      "version": "*"
+    },
+    "parse": {
       "version": "*"
     },
     "parse-asn1": {
