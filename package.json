@@ -18554,6 +18554,9 @@
     },
     "element-gui": {
       "version": "*"
-    }
+    },
+    "eslint-plugin-gj-ts": {
+      "version": "*"
+    },
   }
 }
