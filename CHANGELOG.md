@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.116.0](https://github.com/cnpm/unpkg-white-list/compare/v1.115.0...v1.116.0) (2024-08-26)
+
+
+### Features
+
+* add eslint-plugin-gj-ts ([#259](https://github.com/cnpm/unpkg-white-list/issues/259)) ([6bc1d5a](https://github.com/cnpm/unpkg-white-list/commit/6bc1d5abb8085dfbd26d8cca73b2a30c54f3b290))
+
 ## [1.115.0](https://github.com/cnpm/unpkg-white-list/compare/v1.114.0...v1.115.0) (2024-08-23)
 
 
