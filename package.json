@@ -18557,6 +18557,6 @@
     },
     "eslint-plugin-gj-ts": {
       "version": "*"
-    },
+    }
   }
 }
