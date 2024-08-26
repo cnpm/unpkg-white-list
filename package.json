@@ -40,6 +40,7 @@
     "@alilc",
     "@alipay",
     "@alipay-inc",
+    "@alpinejs",
     "@amap",
     "@angular",
     "@ant-credit",
@@ -82,6 +83,7 @@
     "@iconify-icon",
     "@iconify-icons",
     "@iconify-json",
+    "@ionic",
     "@jupyterlab",
     "@koa",
     "@lerna",
@@ -90,6 +92,7 @@
     "@mapbox",
     "@maptalks",
     "@mas.io",
+    "@material-symbols",
     "@maybe-lab",
     "@microsoft",
     "@miniu",
@@ -4090,6 +4093,9 @@
       "version": "*"
     },
     "data-fns": {
+      "version": "*"
+    },
+    "dataformsjs": {
       "version": "*"
     },
     "datahub": {
@@ -10539,6 +10545,9 @@
     "onnxruntime-web": {
       "version": "*"
     },
+    "onsenui": {
+      "version": "*"
+    },
     "open": {
       "version": "*"
     },
@@ -10729,6 +10738,9 @@
       "version": "*"
     },
     "parchment": {
+      "version": "*"
+    },
+    "parse": {
       "version": "*"
     },
     "parse-asn1": {
