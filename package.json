@@ -15645,6 +15645,9 @@
     "tailwindcss-webpack-plugin": {
       "version": "*"
     },
+    "tailwindcss-utilities": {
+      "version": "*"
+    },
     "tango": {
       "version": "*"
     },
