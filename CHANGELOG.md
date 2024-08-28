@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.118.0](https://github.com/cnpm/unpkg-white-list/compare/v1.117.0...v1.118.0) (2024-08-28)
+
+
+### Features
+
+* add mx3d ([#261](https://github.com/cnpm/unpkg-white-list/issues/261)) ([dc0124c](https://github.com/cnpm/unpkg-white-list/commit/dc0124c7068d52817fe1d6520126cff811791f47))
+
 ## [1.117.0](https://github.com/cnpm/unpkg-white-list/compare/v1.116.0...v1.117.0) (2024-08-28)
 
 
