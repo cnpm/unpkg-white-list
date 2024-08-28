@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.117.0](https://github.com/cnpm/unpkg-white-list/compare/v1.116.0...v1.117.0) (2024-08-28)
+
+
+### Features
+
+* add tailwindcss-utilities ([#260](https://github.com/cnpm/unpkg-white-list/issues/260)) ([ce2994c](https://github.com/cnpm/unpkg-white-list/commit/ce2994ce08a739bb20efe1d8539c6b46072b7849))
+
 ## [1.116.0](https://github.com/cnpm/unpkg-white-list/compare/v1.115.0...v1.116.0) (2024-08-26)
 
 
