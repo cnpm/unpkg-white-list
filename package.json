@@ -249,6 +249,9 @@
     "@pubinfo"
   ],
   "allowPackages": {
+    "mx3d": {
+      "version": "*"
+    },
     "xingzhengqu": {
       "version": "*"
     },
