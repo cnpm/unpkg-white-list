@@ -249,6 +249,9 @@
     "@pubinfo"
   ],
   "allowPackages": {
+    "pixpro": {
+      "version": "*"
+    },
     "mx3d": {
       "version": "*"
     },
@@ -18574,9 +18577,6 @@
       "version": "*"
     },
     "eslint-plugin-gj-ts": {
-      "version": "*"
-    },
-    "pixpro": {
       "version": "*"
     }
   }
