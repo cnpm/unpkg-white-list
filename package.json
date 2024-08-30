@@ -18575,6 +18575,9 @@
     },
     "eslint-plugin-gj-ts": {
       "version": "*"
+    },
+    "pixpro": {
+      "version": "*"
     }
   }
 }
