@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.119.0](https://github.com/cnpm/unpkg-white-list/compare/v1.118.0...v1.119.0) (2024-08-31)
+
+
+### Features
+
+* add maptalks-gl ([#263](https://github.com/cnpm/unpkg-white-list/issues/263)) ([47ee067](https://github.com/cnpm/unpkg-white-list/commit/47ee067283232eed1d80b6a90a25ed81ec34ce46))
+* add pixpro ([#262](https://github.com/cnpm/unpkg-white-list/issues/262)) ([9117663](https://github.com/cnpm/unpkg-white-list/commit/911766352cb18a078c3220531f22820ad95df3bf))
+
 ## [1.118.0](https://github.com/cnpm/unpkg-white-list/compare/v1.117.0...v1.118.0) (2024-08-28)
 
 
