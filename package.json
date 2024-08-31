@@ -249,6 +249,9 @@
     "@pubinfo"
   ],
   "allowPackages": {
+    "pixpro": {
+      "version": "*"
+    },
     "mx3d": {
       "version": "*"
     },
