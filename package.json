@@ -9357,6 +9357,9 @@
     "maptalks": {
       "version": "*"
     },
+    "maptalks-gl": {
+      "version": "*"
+    },
     "mariadb": {
       "version": "*"
     },
