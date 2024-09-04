@@ -18581,6 +18581,9 @@
     },
     "eslint-plugin-gj-ts": {
       "version": "*"
+    },
+    "clipboard-event": {
+      "version": "*"
     }
   }
 }
