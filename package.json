@@ -18585,6 +18585,9 @@
     "eslint-plugin-gj-ts": {
       "version": "*"
     },
+    "vite-plugin-gj-ts-packs": {
+       "version": "*"
+    },
     "clipboard-event": {
       "version": "*"
     }
