@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.120.0](https://github.com/cnpm/unpkg-white-list/compare/v1.119.0...v1.120.0) (2024-09-05)
+
+
+### Features
+
+* add [@yarnpkg](https://github.com/yarnpkg) ([#266](https://github.com/cnpm/unpkg-white-list/issues/266)) ([605ab05](https://github.com/cnpm/unpkg-white-list/commit/605ab0578d061806dd1042b0f17b7451efdc61e8))
+* add @yangkeith/gkd_subscription ([#267](https://github.com/cnpm/unpkg-white-list/issues/267)) ([ce2a7fb](https://github.com/cnpm/unpkg-white-list/commit/ce2a7fbaff17d403a83dddc4f995b9fb256ade67))
+* add clipboard-event ([#264](https://github.com/cnpm/unpkg-white-list/issues/264)) ([f915cfa](https://github.com/cnpm/unpkg-white-list/commit/f915cfac777dfc74ae70d0077a5d7c143e307aee))
+* add vite-plugin-gj-ts-packs ([#265](https://github.com/cnpm/unpkg-white-list/issues/265)) ([1f83245](https://github.com/cnpm/unpkg-white-list/commit/1f83245a1ecda2dc56d821dab84f97a17b6013ef))
+
 ## [1.119.0](https://github.com/cnpm/unpkg-white-list/compare/v1.118.0...v1.119.0) (2024-08-31)
 
 
