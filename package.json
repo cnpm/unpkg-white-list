@@ -18360,6 +18360,9 @@
     "randomfill": {
       "version": "*"
     },
+    "@yangkeith/gkd_subscription": {
+      "version": "*"
+    },
     "core-util-is": {
       "version": "*"
     },
@@ -18583,6 +18586,9 @@
       "version": "*"
     },
     "vite-plugin-gj-ts-packs": {
+       "version": "*"
+    },
+    "clipboard-event": {
       "version": "*"
     }
   }
