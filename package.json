@@ -18591,6 +18591,9 @@
     },
     "clipboard-event": {
       "version": "*"
+    },
+    "zyaccimg": {
+      "version": "*"
     }
   }
 }
