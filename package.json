@@ -247,7 +247,8 @@
     "@phosphor-icons",
     "@adpro",
     "@hook-js",
-    "@pubinfo"
+    "@pubinfo",
+    "@zyaccorg"
   ],
   "allowPackages": {
     "pixpro": {
