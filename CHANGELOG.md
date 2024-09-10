@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.121.0](https://github.com/cnpm/unpkg-white-list/compare/v1.120.0...v1.121.0) (2024-09-10)
+
+
+### Features
+
+* add musicfree-plugins ([#272](https://github.com/cnpm/unpkg-white-list/issues/272)) ([df521d9](https://github.com/cnpm/unpkg-white-list/commit/df521d9fca9609cf33824b1e1fb6166898ffeafb))
+
 ## [1.120.0](https://github.com/cnpm/unpkg-white-list/compare/v1.119.0...v1.120.0) (2024-09-05)
 
 
