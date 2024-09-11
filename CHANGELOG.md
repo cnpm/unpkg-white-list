@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.122.0](https://github.com/cnpm/unpkg-white-list/compare/v1.121.0...v1.122.0) (2024-09-11)
+
+
+### Features
+
+* add mars3d and mars3d-cesium ([#273](https://github.com/cnpm/unpkg-white-list/issues/273)) ([b6e7aa9](https://github.com/cnpm/unpkg-white-list/commit/b6e7aa909a8980212d88fb4925fff95559f36c76))
+
 ## [1.121.0](https://github.com/cnpm/unpkg-white-list/compare/v1.120.0...v1.121.0) (2024-09-10)
 
 
