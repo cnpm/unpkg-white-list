@@ -18594,6 +18594,12 @@
     },
     "musicfree-plugins": {
       "version": "*"
+    },
+    "mars3d": {
+      "version": "*"
+    },
+    "mars3d-cesium": {
+      "version": "*"
     }
   }
 }
