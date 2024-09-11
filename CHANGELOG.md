@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.123.0](https://github.com/cnpm/unpkg-white-list/compare/v1.122.0...v1.123.0) (2024-09-11)
+
+
+### Features
+
+* add [@aria-packs](https://github.com/aria-packs) ([#274](https://github.com/cnpm/unpkg-white-list/issues/274)) ([d0dde88](https://github.com/cnpm/unpkg-white-list/commit/d0dde88dd1df8f28562f542b1032e4df4c2e662e))
+
 ## [1.122.0](https://github.com/cnpm/unpkg-white-list/compare/v1.121.0...v1.122.0) (2024-09-11)
 
 
