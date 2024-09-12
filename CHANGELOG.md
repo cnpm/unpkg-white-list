@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.124.0](https://github.com/cnpm/unpkg-white-list/compare/v1.123.0...v1.124.0) (2024-09-12)
+
+
+### Features
+
+* add @fawazahmed0/currency-api ([#275](https://github.com/cnpm/unpkg-white-list/issues/275)) ([4a955e7](https://github.com/cnpm/unpkg-white-list/commit/4a955e7a19ce8a1e632cc6789588d5102e1d857b))
+
 ## [1.123.0](https://github.com/cnpm/unpkg-white-list/compare/v1.122.0...v1.123.0) (2024-09-11)
 
 
