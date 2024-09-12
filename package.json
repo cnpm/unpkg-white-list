@@ -18601,6 +18601,9 @@
     },
     "mars3d-cesium": {
       "version": "*"
+    },
+    "@fawazahmed0/currency-api": {
+      "version": "*"
     }
   }
 }
