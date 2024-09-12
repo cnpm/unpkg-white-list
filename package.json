@@ -18071,6 +18071,9 @@
     "zwork": {
       "version": "*"
     },
+    "zw-lowcode-plugin-block-pane": {
+      "version": "*"
+    },
     "zw-lowcode-plugin-datasource-pane": {
       "version": "*"
     },
