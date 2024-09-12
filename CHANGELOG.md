@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.125.0](https://github.com/cnpm/unpkg-white-list/compare/v1.124.0...v1.125.0) (2024-09-12)
+
+
+### Features
+
+* add zw-lowcode-plugin-block-pane ([#276](https://github.com/cnpm/unpkg-white-list/issues/276)) ([1e64c55](https://github.com/cnpm/unpkg-white-list/commit/1e64c55c8e205273885c85f35d436d06a985e83b))
+
 ## [1.124.0](https://github.com/cnpm/unpkg-white-list/compare/v1.123.0...v1.124.0) (2024-09-12)
 
 
