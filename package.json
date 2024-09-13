@@ -18607,6 +18607,9 @@
     },
     "@fawazahmed0/currency-api": {
       "version": "*"
+    },
+    "cansin-blogdata": {
+      "version": "*"
     }
   }
 }
