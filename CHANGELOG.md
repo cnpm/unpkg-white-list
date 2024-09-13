@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.126.0](https://github.com/cnpm/unpkg-white-list/compare/v1.125.0...v1.126.0) (2024-09-13)
+
+
+### Features
+
+* add cansin-blogdata ([#277](https://github.com/cnpm/unpkg-white-list/issues/277)) ([90df533](https://github.com/cnpm/unpkg-white-list/commit/90df5333977477d3fbc6014af1c2adf5c2fa5b72))
+
 ## [1.125.0](https://github.com/cnpm/unpkg-white-list/compare/v1.124.0...v1.125.0) (2024-09-12)
 
 
