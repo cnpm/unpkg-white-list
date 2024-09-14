@@ -88,6 +88,7 @@
     "@jupyterlab",
     "@koa",
     "@lerna",
+    "@lincy",
     "@lingui",
     "@lobehub",
     "@mapbox",
