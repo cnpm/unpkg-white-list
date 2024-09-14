@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.127.0](https://github.com/cnpm/unpkg-white-list/compare/v1.126.0...v1.127.0) (2024-09-14)
+
+
+### Features
+
+* add [@lincy](https://github.com/lincy) ([#278](https://github.com/cnpm/unpkg-white-list/issues/278)) ([c3d98ce](https://github.com/cnpm/unpkg-white-list/commit/c3d98ced64ece2086acb3277ff480960286e3791))
+
 ## [1.126.0](https://github.com/cnpm/unpkg-white-list/compare/v1.125.0...v1.126.0) (2024-09-13)
 
 
