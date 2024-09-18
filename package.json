@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.111.0",
+  "version": "1.128.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -29,6 +29,8 @@
   },
   "homepage": "https://github.com/cnpm/unpkg-white-list#readme",
   "allowScopes": [
+    "@yarnpkg",
+    "@ztocwst",
     "@wangeditor-next",
     "@artalk",
     "@yuzhang134562",
@@ -39,6 +41,7 @@
     "@alilc",
     "@alipay",
     "@alipay-inc",
+    "@alpinejs",
     "@amap",
     "@angular",
     "@ant-credit",
@@ -81,14 +84,17 @@
     "@iconify-icon",
     "@iconify-icons",
     "@iconify-json",
+    "@ionic",
     "@jupyterlab",
     "@koa",
     "@lerna",
+    "@lincy",
     "@lingui",
     "@lobehub",
     "@mapbox",
     "@maptalks",
     "@mas.io",
+    "@material-symbols",
     "@maybe-lab",
     "@microsoft",
     "@miniu",
@@ -137,6 +143,7 @@
     "@waline",
     "@wangeditor",
     "@web-io",
+    "@aria-packs",
     "@webcomponents",
     "@zeit",
     "@jscpd",
@@ -174,6 +181,7 @@
     "@size-limit",
     "@splinetool",
     "@stackblitz",
+    "@standardnotes",
     "@stencil",
     "@stripe",
     "@sula-ruler",
@@ -240,9 +248,16 @@
     "@xterm",
     "@phosphor-icons",
     "@adpro",
-    "@hook-js"
+    "@hook-js",
+    "@pubinfo"
   ],
   "allowPackages": {
+    "pixpro": {
+      "version": "*"
+    },
+    "mx3d": {
+      "version": "*"
+    },
     "xingzhengqu": {
       "version": "*"
     },
@@ -259,6 +274,9 @@
       "version": "*"
     },
     "jspreadsheet-ce": {
+      "version": "*"
+    },
+    "gpt-tokenizer": {
       "version": "*"
     },
     "jsuites": {
@@ -4084,6 +4102,9 @@
       "version": "*"
     },
     "data-fns": {
+      "version": "*"
+    },
+    "dataformsjs": {
       "version": "*"
     },
     "datahub": {
@@ -9339,6 +9360,9 @@
     "maptalks": {
       "version": "*"
     },
+    "maptalks-gl": {
+      "version": "*"
+    },
     "mariadb": {
       "version": "*"
     },
@@ -10533,6 +10557,9 @@
     "onnxruntime-web": {
       "version": "*"
     },
+    "onsenui": {
+      "version": "*"
+    },
     "open": {
       "version": "*"
     },
@@ -10723,6 +10750,9 @@
       "version": "*"
     },
     "parchment": {
+      "version": "*"
+    },
+    "parse": {
       "version": "*"
     },
     "parse-asn1": {
@@ -11230,6 +11260,9 @@
       "version": "*"
     },
     "power-di": {
+      "version": "*"
+    },
+    "prcoords": {
       "version": "*"
     },
     "pre-commit": {
@@ -15624,6 +15657,9 @@
     "tailwindcss-webpack-plugin": {
       "version": "*"
     },
+    "tailwindcss-utilities": {
+      "version": "*"
+    },
     "tango": {
       "version": "*"
     },
@@ -18036,6 +18072,9 @@
     "zwork": {
       "version": "*"
     },
+    "zw-lowcode-plugin-block-pane": {
+      "version": "*"
+    },
     "zw-lowcode-plugin-datasource-pane": {
       "version": "*"
     },
@@ -18327,6 +18366,9 @@
     "randomfill": {
       "version": "*"
     },
+    "@yangkeith/gkd_subscription": {
+      "version": "*"
+    },
     "core-util-is": {
       "version": "*"
     },
@@ -18532,6 +18574,45 @@
       "version": "*"
     },
     "trzsz": {
+      "version": "*"
+    },
+    "speedtouch": {
+      "version": "*"
+    },
+    "pyodide": {
+      "version": "*"
+    },
+    "@adonisjs/encryption": {
+      "version": "*"
+    },
+    "shed-fonts": {
+      "version": "*"
+    },
+    "element-gui": {
+      "version": "*"
+    },
+    "eslint-plugin-gj-ts": {
+      "version": "*"
+    },
+    "vite-plugin-gj-ts-packs": {
+      "version": "*"
+    },
+    "clipboard-event": {
+      "version": "*"
+    },
+    "musicfree-plugins": {
+      "version": "*"
+    },
+    "mars3d": {
+      "version": "*"
+    },
+    "mars3d-cesium": {
+      "version": "*"
+    },
+    "@fawazahmed0/currency-api": {
+      "version": "*"
+    },
+    "cansin-blogdata": {
       "version": "*"
     }
   }
