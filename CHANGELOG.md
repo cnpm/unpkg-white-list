@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.129.0](https://github.com/cnpm/unpkg-white-list/compare/v1.128.0...v1.129.0) (2024-09-18)
+
+
+### Features
+
+* add lowcode-simple-table ([#280](https://github.com/cnpm/unpkg-white-list/issues/280)) ([dc30b5a](https://github.com/cnpm/unpkg-white-list/commit/dc30b5a9b9dbb22f3f0d68c974d96c019dccdffc))
+
 ## [1.128.0](https://github.com/cnpm/unpkg-white-list/compare/v1.127.0...v1.128.0) (2024-09-18)
 
 
