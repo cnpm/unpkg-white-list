@@ -18579,6 +18579,9 @@
     "speedtouch": {
       "version": "*"
     },
+    "pyodide": {
+      "version": "*"
+    },
     "@adonisjs/encryption": {
       "version": "*"
     },
