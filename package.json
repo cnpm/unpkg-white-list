@@ -18614,6 +18614,9 @@
     },
     "cansin-blogdata": {
       "version": "*"
+    },
+    "lowcode-simple-table": {
+      "version": "*"
     }
   }
 }
