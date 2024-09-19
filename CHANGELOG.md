@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.130.0](https://github.com/cnpm/unpkg-white-list/compare/v1.129.0...v1.130.0) (2024-09-19)
+
+
+### Features
+
+* add birpc, hookable and perfect-debounce ([#281](https://github.com/cnpm/unpkg-white-list/issues/281)) ([28b3ff9](https://github.com/cnpm/unpkg-white-list/commit/28b3ff93228b345671d915b2321660dacf50041c)), closes [/github.com/vuejs/devtools-next/blob/7891be1eb0f00594ebdf5f9f7b3a1a6e4fbc9154/packages/devtools-kit/package.json#L32-L35](https://github.com/cnpm//github.com/vuejs/devtools-next/blob/7891be1eb0f00594ebdf5f9f7b3a1a6e4fbc9154/packages/devtools-kit/package.json/issues/L32-L35)
+
 ## [1.129.0](https://github.com/cnpm/unpkg-white-list/compare/v1.128.0...v1.129.0) (2024-09-18)
 
 
