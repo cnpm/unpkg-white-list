@@ -18617,6 +18617,15 @@
     },
     "lowcode-simple-table": {
       "version": "*"
+    },
+    "birpc": {
+      "version": "*"
+    },
+    "hookable": {
+      "version": "*"
+    },
+    "perfect-debounce": {
+      "version": "*"
     }
   }
 }
