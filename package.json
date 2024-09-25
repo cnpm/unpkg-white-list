@@ -18626,6 +18626,15 @@
     },
     "perfect-debounce": {
       "version": "*"
+    },
+    "simple-jekyll-search": {
+      "version": "*"
+    },
+    "glightbox": {
+      "version": "*"
+    },
+    "loading-attribute-polyfill": {
+      "version": "*"
     }
   }
 }
