@@ -3927,6 +3927,9 @@
     "cu-lowcode-material-antd": {
       "version": "*"
     },
+    "cu-lowcode-multitablehead-setter":{
+      "version": "*"
+    },
     "cu-lowcode-antd-mobile": {
       "version": "*"
     },
