@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.131.0](https://github.com/cnpm/unpkg-white-list/compare/v1.130.0...v1.131.0) (2024-09-28)
+
+
+### Features
+
+* add cu-lowcode-multitablehead-setter ([#282](https://github.com/cnpm/unpkg-white-list/issues/282)) ([c7a4611](https://github.com/cnpm/unpkg-white-list/commit/c7a461174158fcfb21d51c99a7da2a950f7bb66f))
+* add simple-jekyll-search, glightbox and loading-attribute-polyfill ([#283](https://github.com/cnpm/unpkg-white-list/issues/283)) ([d244756](https://github.com/cnpm/unpkg-white-list/commit/d2447565b3c37f70783315414a6f43e1d8463146))
+
 ## [1.130.0](https://github.com/cnpm/unpkg-white-list/compare/v1.129.0...v1.130.0) (2024-09-19)
 
 
