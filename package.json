@@ -267,6 +267,9 @@
     "plyr": {
       "version": "*"
     },
+    "catnb/catnb-cdn": {
+      "version": "*"
+    },
     "rapidoc": {
       "version": "*"
     },
