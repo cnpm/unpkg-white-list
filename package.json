@@ -249,9 +249,14 @@
     "@phosphor-icons",
     "@adpro",
     "@hook-js",
-    "@pubinfo"
+    "@pubinfo",
+    "@ffmpeg",
+    "@scent"
   ],
   "allowPackages": {
+    "hexo-theme-butterfly": {
+      "version": "*"
+    },
     "pixpro": {
       "version": "*"
     },
@@ -1174,6 +1179,9 @@
       "version": "*"
     },
     "@vvfx/resource-detection": {
+      "version": "*"
+    },
+     "@windyy/gkd_subscription": {
       "version": "*"
     },
     "@walletconnect/web3-provider": {
@@ -18640,6 +18648,9 @@
       "version": "*"
     },
     "catnb-cdn": {
+      "version": "*"
+    },
+    "betterncm-packed-plugins": {
       "version": "*"
     }
   }
