@@ -250,6 +250,7 @@
     "@adpro",
     "@hook-js",
     "@pubinfo",
+    "@ffmpeg",
     "@scent"
   ],
   "allowPackages": {
