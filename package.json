@@ -14954,6 +14954,9 @@
     "sketch-types": {
       "version": "*"
     },
+    "skinview3d": {
+      "version": "*"
+    },
     "slash2": {
       "version": "*"
     },
