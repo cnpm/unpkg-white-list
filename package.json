@@ -249,9 +249,17 @@
     "@phosphor-icons",
     "@adpro",
     "@hook-js",
-    "@pubinfo"
+    "@pubinfo",
+    "@ffmpeg",
+    "@scent"
   ],
   "allowPackages": {
+    "sakana-widget": {
+      "version": "*"
+    },
+    "hexo-theme-butterfly": {
+      "version": "*"
+    },
     "pixpro": {
       "version": "*"
     },
@@ -1174,6 +1182,9 @@
       "version": "*"
     },
     "@vvfx/resource-detection": {
+      "version": "*"
+    },
+     "@windyy/gkd_subscription": {
       "version": "*"
     },
     "@walletconnect/web3-provider": {
@@ -14946,6 +14957,9 @@
     "sketch-types": {
       "version": "*"
     },
+    "skinview3d": {
+      "version": "*"
+    },
     "slash2": {
       "version": "*"
     },
@@ -18640,6 +18654,12 @@
       "version": "*"
     },
     "emoji-datasource-twitter": {
+       "version": "*"
+    },
+    "catnb-cdn": {
+      "version": "*"
+    },
+    "betterncm-packed-plugins": {
       "version": "*"
     }
   }
