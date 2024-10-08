@@ -18653,6 +18653,9 @@
     "loading-attribute-polyfill": {
       "version": "*"
     },
+    "emoji-datasource-twitter": {
+       "version": "*"
+    },
     "catnb-cdn": {
       "version": "*"
     },
