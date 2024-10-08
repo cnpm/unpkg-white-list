@@ -1179,6 +1179,9 @@
     "@vvfx/resource-detection": {
       "version": "*"
     },
+     "@windyy/gkd_subscription": {
+      "version": "*"
+    },
     "@walletconnect/web3-provider": {
       "version": "*"
     },
