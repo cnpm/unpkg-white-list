@@ -18650,6 +18650,9 @@
     "loading-attribute-polyfill": {
       "version": "*"
     },
+    "catnb-cdn": {
+      "version": "*"
+    },
     "betterncm-packed-plugins": {
       "version": "*"
     }
