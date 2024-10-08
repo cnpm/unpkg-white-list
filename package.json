@@ -250,9 +250,13 @@
     "@adpro",
     "@hook-js",
     "@pubinfo",
-    "@ffmpeg"
+    "@ffmpeg",
+    "@scent"
   ],
   "allowPackages": {
+    "hexo-theme-butterfly": {
+      "version": "*"
+    },
     "pixpro": {
       "version": "*"
     },
@@ -1175,6 +1179,9 @@
       "version": "*"
     },
     "@vvfx/resource-detection": {
+      "version": "*"
+    },
+     "@windyy/gkd_subscription": {
       "version": "*"
     },
     "@walletconnect/web3-provider": {
@@ -18638,6 +18645,9 @@
       "version": "*"
     },
     "loading-attribute-polyfill": {
+      "version": "*"
+    },
+    "betterncm-packed-plugins": {
       "version": "*"
     }
   }
