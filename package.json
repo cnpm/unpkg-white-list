@@ -254,6 +254,9 @@
     "@scent"
   ],
   "allowPackages": {
+    "sakana-widget": {
+      "version": "*"
+    },
     "hexo-theme-butterfly": {
       "version": "*"
     },
