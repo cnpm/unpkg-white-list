@@ -249,7 +249,8 @@
     "@phosphor-icons",
     "@adpro",
     "@hook-js",
-    "@pubinfo"
+    "@pubinfo",
+    "@scent"
   ],
   "allowPackages": {
     "hexo-theme-butterfly": {
