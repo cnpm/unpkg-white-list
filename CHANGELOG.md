@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.132.0](https://github.com/cnpm/unpkg-white-list/compare/v1.131.0...v1.132.0) (2024-10-08)
+
+
+### Features
+
+* add [@ffmpeg](https://github.com/ffmpeg) ([#288](https://github.com/cnpm/unpkg-white-list/issues/288)) ([09b25d4](https://github.com/cnpm/unpkg-white-list/commit/09b25d400db8ba26552c551e80c8bb0b5365df72))
+* add [@scent](https://github.com/scent) scope ([#286](https://github.com/cnpm/unpkg-white-list/issues/286)) ([bed767c](https://github.com/cnpm/unpkg-white-list/commit/bed767c748811177f1765bf0c6f9230205c17a13))
+* add @windyy/gkd_subscription ([#285](https://github.com/cnpm/unpkg-white-list/issues/285)) ([94c2b1c](https://github.com/cnpm/unpkg-white-list/commit/94c2b1ce7967304e7c69eac42a6e56bc8082cb4b))
+* add betterncm-packed-plugins ([#287](https://github.com/cnpm/unpkg-white-list/issues/287)) ([00c00b0](https://github.com/cnpm/unpkg-white-list/commit/00c00b0bd97eca05d726e411ab222d9b9273a76b))
+* add catnb-cdn ([#292](https://github.com/cnpm/unpkg-white-list/issues/292)) ([b6e7062](https://github.com/cnpm/unpkg-white-list/commit/b6e7062d3bf82ef3da1550ae77d5faf4c2778d61))
+* add emoji-datasource-twitter ([#293](https://github.com/cnpm/unpkg-white-list/issues/293)) ([4cfdaac](https://github.com/cnpm/unpkg-white-list/commit/4cfdaaca075327e6e600032d429e112ad8c85a84))
+* add hexo-theme-butterfly ([#284](https://github.com/cnpm/unpkg-white-list/issues/284)) ([c4c2a1e](https://github.com/cnpm/unpkg-white-list/commit/c4c2a1e3e655e2f37d60af670c89ea92a7bc419b))
+* add sakana-widget ([#290](https://github.com/cnpm/unpkg-white-list/issues/290)) ([48ec7a4](https://github.com/cnpm/unpkg-white-list/commit/48ec7a4d821fcc39eafad2b1ea40217b5d83b74f))
+* add skinview3d ([#289](https://github.com/cnpm/unpkg-white-list/issues/289)) ([fdd1852](https://github.com/cnpm/unpkg-white-list/commit/fdd18524e10a1fb10ca485f25aae6b902ce7df5d))
+
 ## [1.131.0](https://github.com/cnpm/unpkg-white-list/compare/v1.130.0...v1.131.0) (2024-09-28)
 
 
