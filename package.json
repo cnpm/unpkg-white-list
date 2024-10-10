@@ -17175,6 +17175,9 @@
     "url-join": {
       "version": "*"
     },
+    "weixin-js-sdk": {
+      "version": "*"
+    },
     "url-loader": {
       "version": "*"
     },
@@ -18183,9 +18186,7 @@
     "wechat-crypto": {
       "version": "*"
     },
-    "weixin-js-sdk": {
-      "version": "*"
-    },
+    
     "wellknown": {
       "version": "*"
     },
