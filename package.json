@@ -5,13 +5,16 @@
   "main": "index.js",
   "files": [],
   "scripts": {
-    "lint": "eslint test",
+    "lint": "eslint",
     "test": "node --test",
-    "ci": "npm test"
+    "ci": "npm test",
+    "add": "node scripts/generate.js"
   },
   "devDependencies": {
-    "eslint": "8",
-    "eslint-config-egg": "14",
+    "eslint": "^9.12.0",
+    "eslint-plugin-jsonc": "^2.16.0",
+    "fs-extra": "^11.2.0",
+    "jsonc-eslint-parser": "^2.4.0",
     "semver": "7"
   },
   "repository": {
@@ -29,12 +32,8 @@
   },
   "homepage": "https://github.com/cnpm/unpkg-white-list#readme",
   "allowScopes": [
-    "@yarnpkg",
-    "@ztocwst",
-    "@wangeditor-next",
-    "@artalk",
-    "@yuzhang134562",
-    "@eggjs",
+    "@8n",
+    "@adpro",
     "@ahooksjs",
     "@alicloud",
     "@alifd",
@@ -44,49 +43,88 @@
     "@alpinejs",
     "@amap",
     "@angular",
+    "@angular-devkit",
     "@ant-credit",
     "@ant-design",
     "@antchain",
-    "@antv",
     "@antfu",
+    "@antv",
+    "@ao-x",
     "@apidevtools",
+    "@aria-packs",
+    "@artalk",
     "@artus-cli",
     "@babel",
     "@better-scroll",
     "@chenyfan",
+    "@chevrotain",
+    "@chinese-fonts",
     "@ckeditor",
+    "@clicli",
     "@cnpmjs",
     "@codemirror",
     "@commitlint",
+    "@dashuaibi45678",
     "@dcloudio",
     "@designable",
     "@difizen",
     "@dnd-kit",
-    "@dashuaibi45678",
+    "@douyinfe",
+    "@eggjs",
+    "@electron",
     "@emotion",
     "@ephox",
     "@esbuild-plugins",
+    "@eslibs",
     "@eva",
+    "@felce",
+    "@fesjs",
+    "@ffmpeg",
+    "@figma",
     "@floating-ui",
-    "@formatjs",
-    "@formily",
-    "@galacean",
-    "@gedit",
+    "@floatsheep",
+    "@fluentui",
     "@fontsource",
     "@fontsource-variable",
+    "@formatjs",
+    "@formily",
+    "@formily-editor",
     "@fortawesome",
     "@fullcalendar",
+    "@galacean",
+    "@gedit",
+    "@gitlab",
+    "@gkd-kit",
     "@goldfishjs",
     "@googlemaps",
     "@highlightjs",
+    "@hkyhy",
+    "@hook-js",
+    "@i18n.alpha",
+    "@i18n.beta",
+    "@i18n.nightly",
+    "@i18n.rc",
+    "@i18n.site",
+    "@ice",
     "@icedesign",
     "@iconify",
     "@iconify-icon",
     "@iconify-icons",
     "@iconify-json",
+    "@ikrong",
+    "@imgly",
     "@ionic",
+    "@ironkinoko",
+    "@itchenliang",
+    "@iyawoqu",
+    "@jiakun-zhao",
+    "@js-preview",
+    "@jscpd",
     "@jupyterlab",
+    "@kne",
+    "@kne-components",
     "@koa",
+    "@latticexyz",
     "@lerna",
     "@lincy",
     "@lingui",
@@ -95,290 +133,135 @@
     "@maptalks",
     "@mas.io",
     "@material-symbols",
+    "@material-ui",
     "@maybe-lab",
+    "@microfe.top",
     "@microsoft",
+    "@minecraft",
     "@miniu",
+    "@muxunorg",
     "@napi-rs",
     "@npmcli",
-    "@oasis-engine-toolkit",
     "@oasis-engine",
+    "@oasis-engine-toolkit",
     "@oceanbase",
-    "@opensumi",
-    "@pixi-spine",
-    "@pixi",
-    "@playwright",
-    "@radix-ui",
-    "@rc-component",
-    "@react-hook",
-    "@react-pdf-viewer",
-    "@react-spring",
-    "@rollup",
-    "@smui",
-    "@storybook",
-    "@sula",
-    "@svgr",
-    "@swc",
-    "@tarojs",
-    "@tensorflow-models",
-    "@tensorflow",
-    "@tryghost",
-    "@tsconfig",
-    "@turf",
-    "@types",
-    "@typescript-eslint",
-    "@typescript",
-    "@udecode",
-    "@uiw",
-    "@umijs",
-    "@uni",
-    "@unocss",
-    "@vercel",
-    "@videojs-player",
-    "@vitejs",
-    "@vitest",
-    "@vscode",
-    "@vue",
-    "@vueuse",
-    "@vuepress",
-    "@waline",
-    "@wangeditor",
-    "@web-io",
-    "@aria-packs",
-    "@webcomponents",
-    "@zeit",
-    "@jscpd",
-    "@js-preview",
-    "@ice",
-    "@teamix",
-    "@testing-library",
-    "@tinymce",
-    "@toast-ui",
-    "@txdfe",
-    "@uform",
-    "@floatsheep",
-    "@fluentui",
-    "@formily-editor",
-    "@figma",
-    "@teambit",
-    "@latticexyz",
-    "@material-ui",
     "@oclif",
     "@octokit",
     "@okamjs",
+    "@opensumi",
+    "@opentiny",
+    "@orillusion",
+    "@otplib",
     "@paciolan",
     "@pagefind",
     "@pansy",
     "@parcel",
     "@patternfly",
+    "@phosphor",
+    "@phosphor-icons",
+    "@pisell",
+    "@pixi",
+    "@pixi-spine",
+    "@plasmohq",
+    "@playwright",
+    "@progress",
     "@projectstorm",
+    "@pubinfo",
+    "@qse",
+    "@radix-ui",
+    "@rc-component",
+    "@reach",
+    "@react-hook",
+    "@react-pdf-viewer",
+    "@react-spring",
     "@react-three",
     "@remax",
     "@rjsf",
+    "@rollup",
+    "@ruiyun",
     "@rushstack",
-    "@sentry",
+    "@scent",
+    "@sec-ant",
     "@secretflow",
+    "@sentry",
     "@shopify",
     "@size-limit",
+    "@smui",
     "@splinetool",
     "@stackblitz",
     "@standardnotes",
     "@stencil",
+    "@storybook",
     "@stripe",
+    "@sula",
     "@sula-ruler",
     "@sula-template",
+    "@svgr",
+    "@swc",
     "@swc-node",
     "@sxzz",
-    "@tanstack",
     "@tailwindcss",
+    "@tanstack",
+    "@tarojs",
     "@tauri-apps",
-    "@tinyjs-plugin-three",
+    "@teambit",
+    "@teamix",
+    "@tensorflow",
+    "@tensorflow-models",
+    "@testing-library",
     "@theia",
-    "@vanilla-extract",
-    "@vibrant",
-    "@valeera",
-    "@vnjuise",
-    "@xstate",
-    "@angular-devkit",
-    "@phosphor",
-    "@plasmohq",
-    "@progress",
-    "@reach",
-    "@jiakun-zhao",
-    "@iyawoqu",
-    "@opentiny",
-    "@electron",
-    "@pisell",
-    "@gkd-kit",
-    "@xlaoyu",
-    "@clicli",
-    "@yse",
-    "@muxunorg",
-    "@kne",
-    "@kne-components",
-    "@wener",
-    "@hkyhy",
+    "@tinyjs-plugin-three",
+    "@tinymce",
+    "@toast-ui",
     "@tomjs",
-    "@fesjs",
-    "@douyinfe",
-    "@qse",
-    "@ironkinoko",
-    "@ikrong",
-    "@eslibs",
-    "@itchenliang",
-    "@i18n.site",
-    "@i18n.alpha",
-    "@i18n.beta",
-    "@i18n.nightly",
-    "@i18n.rc",
-    "@8n",
-    "@otplib",
-    "@chevrotain",
-    "@orillusion",
-    "@sec-ant",
-    "@ao-x",
-    "@zxcvbn-ts",
-    "@ruiyun",
-    "@microfe.top",
-    "@gitlab",
-    "@minecraft",
+    "@tryghost",
+    "@tsconfig",
+    "@turf",
+    "@txdfe",
     "@tyllllll",
-    "@imgly",
-    "@yuntijs",
-    "@chinese-fonts",
+    "@types",
+    "@typescript",
+    "@typescript-eslint",
+    "@udecode",
+    "@uform",
+    "@uiw",
+    "@umijs",
+    "@uni",
+    "@unocss",
+    "@valeera",
+    "@vanilla-extract",
+    "@vercel",
+    "@vibrant",
+    "@videojs-player",
+    "@vitejs",
+    "@vitest",
+    "@vnjuise",
+    "@vscode",
+    "@vue",
+    "@vuepress",
+    "@vueuse",
+    "@waline",
+    "@wangeditor",
+    "@wangeditor-next",
+    "@web-io",
+    "@webcomponents",
+    "@wener",
+    "@xlaoyu",
+    "@xstate",
     "@xterm",
-    "@phosphor-icons",
-    "@adpro",
-    "@hook-js",
-    "@pubinfo",
-    "@ffmpeg",
-    "@scent",
-    "@felce"
+    "@yarnpkg",
+    "@yse",
+    "@yuntijs",
+    "@yuzhang134562",
+    "@zeit",
+    "@ztocwst",
+    "@zxcvbn-ts"
   ],
   "allowPackages": {
-    "sakana-widget": {
-      "version": "*"
-    },
-    "hexo-theme-butterfly": {
-      "version": "*"
-    },
-    "pixpro": {
-      "version": "*"
-    },
-    "mx3d": {
-      "version": "*"
-    },
-    "xingzhengqu": {
-      "version": "*"
-    },
-    "oh-my-live2d": {
-      "version": "*"
-    },
-    "plyr": {
-      "version": "*"
-    },
-    "rapidoc": {
-      "version": "*"
-    },
-    "oml2d-models": {
-      "version": "*"
-    },
-    "jspreadsheet-ce": {
-      "version": "*"
-    },
-    "gpt-tokenizer": {
-      "version": "*"
-    },
-    "jsuites": {
-      "version": "*"
-    },
-    "split-grid": {
-      "version": "*"
-    },
-    "papaparse": {
-      "version": "*"
-    },
-    "hexo-theme-cards": {
-      "version": "*"
-    },
-    "hexo-theme-redefine": {
-      "version": "*"
-    },
-    "surface-plus": {
-      "version": "*"
-    },
-    "artalk": {
-      "version": "*"
-    },
-    "@itchenliang/picture-rollup-local-plugin": {
-      "version": "*"
-    },
-    "@imagemagick/magick-wasm": {
-      "version": "*"
-    },
-    "twikoo": {
-      "version": "*"
-    },
-    "ionicons": {
-      "version": "*"
-    },
-    "fc3": {
+    "18s": {
       "version": "*"
     },
     "18x": {
-      "version": "*"
-    },
-    "alist-web": {
-      "version": "*"
-    },
-    "dash-table": {
-      "version": "*"
-    },
-    "dash-html-components": {
-      "version": "*"
-    },
-    "dash-core-components": {
-      "version": "*"
-    },
-    "dash-renderer": {
-      "version": "*"
-    },
-    "feffery_utils_components": {
-      "version": "*"
-    },
-    "feffery_leaflet_components": {
-      "version": "*"
-    },
-    "feffery_maplibre": {
-      "version": "*"
-    },
-    "feffery_antd_charts": {
-      "version": "*"
-    },
-    "feffery_antd_mobile_components": {
-      "version": "*"
-    },
-    "feffery_antd_components": {
-      "version": "*"
-    },
-    "feffery_markdown_components": {
-      "version": "*"
-    },
-    "985-manager-client": {
-      "version": "*"
-    },
-    "sky-manager-client": {
-      "version": "*"
-    },
-    "985-manager": {
-      "version": "*"
-    },
-    "sky-manager": {
-      "version": "*"
-    },
-    "zhaojiakun.com": {
-      "version": "*"
-    },
-    "954.im": {
       "version": "*"
     },
     "3d-force-graph": {
@@ -387,7 +270,28 @@
     "7zip-bin": {
       "version": "*"
     },
+    "954.im": {
+      "version": "*"
+    },
+    "985-manager": {
+      "version": "*"
+    },
+    "985-manager-client": {
+      "version": "*"
+    },
+    "9fit": {
+      "version": "*"
+    },
     "@accessible/popover": {
+      "version": "*"
+    },
+    "@adonisjs/encryption": {
+      "version": "*"
+    },
+    "@aisouler/gkd_subscription": {
+      "version": "*"
+    },
+    "@aisouler/subscription": {
       "version": "*"
     },
     "@akebifiky/remark-simple-plantuml": {
@@ -421,6 +325,9 @@
       "version": "*"
     },
     "@ant-basement/miniprogram-sdk": {
+      "version": "*"
+    },
+    "@aoguai/subscription": {
       "version": "*"
     },
     "@apollo/client": {
@@ -510,6 +417,9 @@
     "@clack/prompts": {
       "version": "*"
     },
+    "@clerk/clerk-js": {
+      "version": "*"
+    },
     "@cloud-annotations/object-tracking": {
       "version": "*"
     },
@@ -555,6 +465,9 @@
     "@discoveryjs/json-ext": {
       "version": "*"
     },
+    "@docsearch/css": {
+      "version": "*"
+    },
     "@docsearch/js": {
       "version": "*"
     },
@@ -571,6 +484,9 @@
       "version": "*"
     },
     "@elastic/elasticsearch": {
+      "version": "*"
+    },
+    "@element-plus/icons-vue": {
       "version": "*"
     },
     "@emoji-mart/data": {
@@ -597,6 +513,9 @@
     "@excalidraw/excalidraw": {
       "version": "*"
     },
+    "@f3ve/vue-markdown-it": {
+      "version": "*"
+    },
     "@faker-js/faker": {
       "version": "*"
     },
@@ -610,6 +529,9 @@
       "version": "*"
     },
     "@fast-csv/format": {
+      "version": "*"
+    },
+    "@fawazahmed0/currency-api": {
       "version": "*"
     },
     "@ffmpeg-installer/ffmpeg": {
@@ -633,7 +555,13 @@
     "@fullpage/react-fullpage": {
       "version": "*"
     },
+    "@ganlinte/gkd-subscription": {
+      "version": "*"
+    },
     "@gera2ld/jar-parser": {
+      "version": "*"
+    },
+    "@glidejs/glide": {
       "version": "*"
     },
     "@gltf-transform/core": {
@@ -696,6 +624,9 @@
     "@hazae41/symbol-dispose-polyfill": {
       "version": "*"
     },
+    "@hdzk-hel/pangu": {
+      "version": "*"
+    },
     "@headlessui/react": {
       "version": "*"
     },
@@ -706,6 +637,9 @@
       "version": "*"
     },
     "@hotoo/orderby": {
+      "version": "*"
+    },
+    "@hoythan/watermark-dom": {
       "version": "*"
     },
     "@ianvs/prettier-plugin-sort-imports": {
@@ -721,6 +655,9 @@
       "version": "*"
     },
     "@icons/material": {
+      "version": "*"
+    },
+    "@imagemagick/magick-wasm": {
       "version": "*"
     },
     "@imgcook/cli-utils": {
@@ -744,10 +681,16 @@
     "@intervolga/optimize-cssnano-plugin": {
       "version": "*"
     },
+    "@intlify/unplugin-vue-i18n": {
+      "version": "*"
+    },
     "@irim/cli-base": {
       "version": "*"
     },
     "@istanbuljs/nyc-config-typescript": {
+      "version": "*"
+    },
+    "@itchenliang/picture-rollup-local-plugin": {
       "version": "*"
     },
     "@jccr/unzipper": {
@@ -816,6 +759,9 @@
     "@juggle/resize-observer": {
       "version": "*"
     },
+    "@klinecharts/pro": {
+      "version": "*"
+    },
     "@knight-lab/timelinejs": {
       "version": "*"
     },
@@ -882,13 +828,13 @@
     "@material/material-color-utilities": {
       "version": "*"
     },
+    "@mdi/font": {
+      "version": "*"
+    },
     "@mdi/js": {
       "version": "*"
     },
     "@mdi/react": {
-      "version": "*"
-    },
-    "@mdi/font": {
       "version": "*"
     },
     "@mdn/browser-compat-data": {
@@ -960,9 +906,6 @@
     "@nuxtjs/friendly-errors-webpack-plugin": {
       "version": "*"
     },
-    "@hdzk-hel/pangu": {
-      "version": "*"
-    },
     "@oceanbase-odc/ob-intl-cli": {
       "version": "*"
     },
@@ -998,6 +941,9 @@
     },
     "@pmmmwh/react-refresh-webpack-plugin": {
       "version": "*"
+    },
+    "@popperjs/core": {
+      "version": "2.11.8"
     },
     "@qiankunjs/shared": {
       "version": "*"
@@ -1056,6 +1002,21 @@
     "@sbzen/re-cron": {
       "version": "*"
     },
+    "@selectize/selectize": {
+      "version": "*"
+    },
+    "@sigma/edge-curve": {
+      "version": "*"
+    },
+    "@sigma/node-border": {
+      "version": "*"
+    },
+    "@sigma/node-image": {
+      "version": "*"
+    },
+    "@sigma/node-piechart": {
+      "version": "*"
+    },
     "@silverage/table-custom": {
       "version": "*"
     },
@@ -1092,6 +1053,9 @@
     "@soda/friendly-errors-webpack-plugin": {
       "version": "*"
     },
+    "@splidejs/splide": {
+      "version": "*"
+    },
     "@sqltools/formatter": {
       "version": "*"
     },
@@ -1113,9 +1077,6 @@
     "@synvox/rehook": {
       "version": "*"
     },
-    "@selectize/selectize": {
-      "version": "*"
-    },
     "@tbminiapp/lottie-miniapp": {
       "version": "*"
     },
@@ -1135,6 +1096,27 @@
       "version": "*"
     },
     "@tippyjs/react": {
+      "version": "*"
+    },
+    "@tiptap/extension-image": {
+      "version": "*"
+    },
+    "@tiptap/extension-link": {
+      "version": "*"
+    },
+    "@tiptap/extension-placeholder": {
+      "version": "*"
+    },
+    "@tiptap/extension-text-align": {
+      "version": "*"
+    },
+    "@tiptap/extension-underline": {
+      "version": "*"
+    },
+    "@tiptap/starter-kit": {
+      "version": "*"
+    },
+    "@tiptap/vue-3": {
       "version": "*"
     },
     "@total-typescript/ts-reset": {
@@ -1173,6 +1155,12 @@
     "@use-it/event-listener": {
       "version": "*"
     },
+    "@vant/popperjs": {
+      "version": "*"
+    },
+    "@vant/use": {
+      "version": "*"
+    },
     "@videojs/themes": {
       "version": "*"
     },
@@ -1182,10 +1170,22 @@
     "@viz-js/viz": {
       "version": "*"
     },
+    "@vue-office/docx": {
+      "version": "*"
+    },
+    "@vue-office/excel": {
+      "version": "*"
+    },
+    "@vue-office/pdf": {
+      "version": "*"
+    },
+    "@vuepic/vue-datepicker": {
+      "version": "7.4.1"
+    },
     "@vvfx/resource-detection": {
       "version": "*"
     },
-    "@windyy/gkd_subscription": {
+    "@waline/client": {
       "version": "*"
     },
     "@walletconnect/web3-provider": {
@@ -1197,6 +1197,9 @@
     "@welldone-software/why-did-you-render": {
       "version": "*"
     },
+    "@wenbux/gkd_subscription": {
+      "version": "*"
+    },
     "@whale.io/common": {
       "version": "*"
     },
@@ -1206,6 +1209,9 @@
     "@whale.io/mini": {
       "version": "*"
     },
+    "@windyy/gkd_subscription": {
+      "version": "*"
+    },
     "@worker-tools/html-rewriter": {
       "version": "*"
     },
@@ -1213,6 +1219,9 @@
       "version": "*"
     },
     "@xzdarcy/react-timeline-editor": {
+      "version": "*"
+    },
+    "@yangkeith/gkd_subscription": {
       "version": "*"
     },
     "@yarnpkg/lockfile": {
@@ -1302,6 +1311,9 @@
     "address-parse": {
       "version": "*"
     },
+    "adl-lowcode-preset-plugin": {
+      "version": "*"
+    },
     "adm-zip": {
       "version": "*"
     },
@@ -1380,6 +1392,9 @@
     "algebra.js": {
       "version": "*"
     },
+    "algoliasearch": {
+      "version": "*"
+    },
     "ali": {
       "version": "*"
     },
@@ -1434,6 +1449,9 @@
     "aliplayer-react": {
       "version": "*"
     },
+    "alist-web": {
+      "version": "*"
+    },
     "aliyun-aliplayer": {
       "version": "*"
     },
@@ -1468,6 +1486,12 @@
       "version": "*"
     },
     "alpha": {
+      "version": "*"
+    },
+    "alpinejs": {
+      "version": "*"
+    },
+    "altcha": {
       "version": "*"
     },
     "am-editable": {
@@ -1992,6 +2016,15 @@
     "art-template-loader": {
       "version": "*"
     },
+    "artalk": {
+      "version": "*"
+    },
+    "artplayer": {
+      "version": "*"
+    },
+    "artplayer-plugin-danmuku": {
+      "version": "*"
+    },
     "asciinema-player": {
       "version": "*"
     },
@@ -2011,6 +2044,9 @@
       "version": "*"
     },
     "assets": {
+      "version": "*"
+    },
+    "assets-retry": {
       "version": "*"
     },
     "assign-deep": {
@@ -2098,6 +2134,9 @@
       "version": "*"
     },
     "autobind-decorator": {
+      "version": "*"
+    },
+    "autocomplete.js": {
       "version": "*"
     },
     "autod": {
@@ -2559,6 +2598,9 @@
     "baidu-translate": {
       "version": "*"
     },
+    "barcode-detector": {
+      "version": "*"
+    },
     "base": {
       "version": "*"
     },
@@ -2625,6 +2667,9 @@
     "better-xlsx": {
       "version": "*"
     },
+    "betterncm-packed-plugins": {
+      "version": "*"
+    },
     "bezier-easing": {
       "version": "*"
     },
@@ -2662,6 +2707,9 @@
       "version": "*"
     },
     "bip66": {
+      "version": "*"
+    },
+    "birpc": {
       "version": "*"
     },
     "bisheng": {
@@ -2718,6 +2766,9 @@
     "blockly": {
       "version": "*"
     },
+    "blog-qianxun-site": {
+      "version": "*"
+    },
     "bloom-filters": {
       "version": "*"
     },
@@ -2749,6 +2800,9 @@
       "version": "*"
     },
     "bootstrap-icons": {
+      "version": "*"
+    },
+    "bootstrap-select": {
       "version": "*"
     },
     "bowser": {
@@ -2832,10 +2886,16 @@
     "browserify": {
       "version": "*"
     },
+    "browserify-cipher": {
+      "version": "*"
+    },
     "browserify-fs": {
       "version": "*"
     },
     "browserify-istanbul": {
+      "version": "*"
+    },
+    "browserify-sign": {
       "version": "*"
     },
     "browserify-zlib": {
@@ -2928,6 +2988,12 @@
     "builtin-modules": {
       "version": "*"
     },
+    "builtin-status-codes": {
+      "version": "*"
+    },
+    "bulma": {
+      "version": "*"
+    },
     "bumpp": {
       "version": "*"
     },
@@ -2941,6 +3007,9 @@
       "version": "*"
     },
     "busboy": {
+      "version": "*"
+    },
+    "bwip-js": {
       "version": "*"
     },
     "bx-tooltip": {
@@ -2994,6 +3063,9 @@
     "calculate-aspect-ratio": {
       "version": "*"
     },
+    "call-bind": {
+      "version": "*"
+    },
     "callapp-lib": {
       "version": "*"
     },
@@ -3031,6 +3103,9 @@
       "version": "*"
     },
     "caniuse-lite": {
+      "version": "*"
+    },
+    "cansin-blogdata": {
       "version": "*"
     },
     "canvas": {
@@ -3073,6 +3148,9 @@
       "version": "*"
     },
     "cassandra-map": {
+      "version": "*"
+    },
+    "catnb-cdn": {
       "version": "*"
     },
     "chai": {
@@ -3138,6 +3216,9 @@
     "cherio": {
       "version": "*"
     },
+    "chevrotain": {
+      "version": "*"
+    },
     "chii": {
       "version": "*"
     },
@@ -3193,6 +3274,9 @@
       "version": "*"
     },
     "cidr-tools": {
+      "version": "*"
+    },
+    "cipher-base": {
       "version": "*"
     },
     "circular-dependency-plugin": {
@@ -3294,6 +3378,9 @@
     "clipboard-copy": {
       "version": "*"
     },
+    "clipboard-event": {
+      "version": "*"
+    },
     "clipboard-js": {
       "version": "*"
     },
@@ -3390,6 +3477,9 @@
     "code-inspector-plugin": {
       "version": "*"
     },
+    "code-prettify": {
+      "version": "*"
+    },
     "codecov": {
       "version": "*"
     },
@@ -3403,9 +3493,6 @@
       "version": "*"
     },
     "codemirror-solidity": {
-      "version": "*"
-    },
-    "code-prettify": {
       "version": "*"
     },
     "codql": {
@@ -3579,6 +3666,9 @@
     "console": {
       "version": "*"
     },
+    "console-browserify": {
+      "version": "*"
+    },
     "console-feed": {
       "version": "*"
     },
@@ -3592,6 +3682,9 @@
       "version": "*"
     },
     "console.table": {
+      "version": "*"
+    },
+    "constants-browserify": {
       "version": "*"
     },
     "constate": {
@@ -3634,6 +3727,9 @@
       "version": "*"
     },
     "cookie": {
+      "version": "*"
+    },
+    "cookie-es": {
       "version": "*"
     },
     "cookie-parser": {
@@ -3687,7 +3783,13 @@
     "core-js": {
       "version": "*"
     },
+    "core-js-bundle": {
+      "version": "*"
+    },
     "core-js-compat": {
+      "version": "*"
+    },
+    "core-util-is": {
       "version": "*"
     },
     "cors": {
@@ -3703,6 +3805,9 @@
       "version": "*"
     },
     "country-code-emoji": {
+      "version": "*"
+    },
+    "country-flag-emoji-json": {
       "version": "*"
     },
     "countup": {
@@ -3736,6 +3841,9 @@
       "version": "*"
     },
     "crc-32": {
+      "version": "*"
+    },
+    "create-ecdh": {
       "version": "*"
     },
     "create-emotion": {
@@ -3933,7 +4041,7 @@
     "csvtojson": {
       "version": "*"
     },
-    "cuid": {
+    "cu-lowcode-antd-mobile": {
       "version": "*"
     },
     "cu-lowcode-material-antd": {
@@ -3942,7 +4050,7 @@
     "cu-lowcode-multitablehead-setter": {
       "version": "*"
     },
-    "cu-lowcode-antd-mobile": {
+    "cuid": {
       "version": "*"
     },
     "curlrequest": {
@@ -3994,6 +4102,9 @@
       "version": "*"
     },
     "cytoscape": {
+      "version": "*"
+    },
+    "cytoscape-cola": {
       "version": "*"
     },
     "cytoscape-context-menus": {
@@ -4113,6 +4224,18 @@
     "daruk-exit-hook": {
       "version": "*"
     },
+    "dash-core-components": {
+      "version": "*"
+    },
+    "dash-html-components": {
+      "version": "*"
+    },
+    "dash-renderer": {
+      "version": "*"
+    },
+    "dash-table": {
+      "version": "*"
+    },
     "dat.gui": {
       "version": "*"
     },
@@ -4159,6 +4282,9 @@
       "version": "*"
     },
     "dateformat": {
+      "version": "*"
+    },
+    "daterangepicker": {
       "version": "*"
     },
     "dav": {
@@ -4260,6 +4386,9 @@
     "default-user-agent": {
       "version": "*"
     },
+    "define-properties": {
+      "version": "*"
+    },
     "dekko": {
       "version": "*"
     },
@@ -4338,6 +4467,9 @@
     "diagram-js-minimap": {
       "version": "*"
     },
+    "dialog-polyfill": {
+      "version": "*"
+    },
     "didyoumean": {
       "version": "*"
     },
@@ -4357,6 +4489,9 @@
       "version": "*"
     },
     "diff_match_patch": {
+      "version": "*"
+    },
+    "diffie-hellman": {
       "version": "*"
     },
     "dinero.js": {
@@ -4405,6 +4540,9 @@
       "version": "*"
     },
     "directory-named-webpack-plugin": {
+      "version": "*"
+    },
+    "disable-devtool": {
       "version": "*"
     },
     "dish": {
@@ -4476,6 +4614,9 @@
     "dom7": {
       "version": "*"
     },
+    "domain-browser": {
+      "version": "*"
+    },
     "domhandler": {
       "version": "*"
     },
@@ -4543,6 +4684,9 @@
       "version": "*"
     },
     "dotenv-webpack": {
+      "version": "*"
+    },
+    "doufree": {
       "version": "*"
     },
     "download": {
@@ -4630,6 +4774,9 @@
       "version": "*"
     },
     "dragula": {
+      "version": "*"
+    },
+    "drauu": {
       "version": "*"
     },
     "drbg.js": {
@@ -4755,6 +4902,9 @@
     "echarts-for-react": {
       "version": "*"
     },
+    "echarts-for-vue": {
+      "version": "*"
+    },
     "echarts-gl": {
       "version": "*"
     },
@@ -4777,6 +4927,9 @@
       "version": "*"
     },
     "ecmascript6": {
+      "version": "*"
+    },
+    "editor.md": {
       "version": "*"
     },
     "egg": {
@@ -5019,12 +5172,6 @@
     "einbahn": {
       "version": "*"
     },
-    "element-plus": {
-      "version": "*"
-    },
-    "@element-plus/icons-vue": {
-      "version": "*"
-    },
     "ejs": {
       "version": "*"
     },
@@ -5035,6 +5182,12 @@
       "version": "*"
     },
     "ejs-loader": {
+      "version": "*"
+    },
+    "el-table-fixed-header": {
+      "version": "*"
+    },
+    "el-table-fixed-scrollbar": {
       "version": "*"
     },
     "electron": {
@@ -5065,6 +5218,12 @@
       "version": "*"
     },
     "element-closest-polyfill": {
+      "version": "*"
+    },
+    "element-gui": {
+      "version": "*"
+    },
+    "element-plus": {
       "version": "*"
     },
     "element-react": {
@@ -5101,6 +5260,12 @@
       "version": "*"
     },
     "emittery": {
+      "version": "*"
+    },
+    "emoji-cst": {
+      "version": "*"
+    },
+    "emoji-datasource-twitter": {
       "version": "*"
     },
     "emoji-mart": {
@@ -5205,6 +5370,9 @@
     "eruda": {
       "version": "*"
     },
+    "eruda-dom": {
+      "version": "*"
+    },
     "es-abstract": {
       "version": "*"
     },
@@ -5215,6 +5383,9 @@
       "version": "*"
     },
     "es-module-lexer": {
+      "version": "*"
+    },
+    "es-module-shims": {
       "version": "*"
     },
     "es3ify-loader": {
@@ -5518,6 +5689,9 @@
       "version": "*"
     },
     "eslint-plugin-fp": {
+      "version": "*"
+    },
+    "eslint-plugin-gj-ts": {
       "version": "*"
     },
     "eslint-plugin-html": {
@@ -5931,10 +6105,34 @@
     "fbjs": {
       "version": "*"
     },
+    "fc3": {
+      "version": "*"
+    },
     "fcbuffer": {
       "version": "*"
     },
     "fecha": {
+      "version": "*"
+    },
+    "feffery_antd_charts": {
+      "version": "*"
+    },
+    "feffery_antd_components": {
+      "version": "*"
+    },
+    "feffery_antd_mobile_components": {
+      "version": "*"
+    },
+    "feffery_leaflet_components": {
+      "version": "*"
+    },
+    "feffery_maplibre": {
+      "version": "*"
+    },
+    "feffery_markdown_components": {
+      "version": "*"
+    },
+    "feffery_utils_components": {
       "version": "*"
     },
     "femo": {
@@ -6090,6 +6288,9 @@
     "fkill-cli": {
       "version": "*"
     },
+    "flag-icons": {
+      "version": "*"
+    },
     "flat": {
       "version": "*"
     },
@@ -6118,6 +6319,9 @@
       "version": "*"
     },
     "flexsearch": {
+      "version": "*"
+    },
+    "flickity": {
       "version": "*"
     },
     "flipsnap": {
@@ -6166,6 +6370,9 @@
       "version": "*"
     },
     "font-carrier": {
+      "version": "*"
+    },
+    "font-logos": {
       "version": "*"
     },
     "font-spider": {
@@ -6501,6 +6708,9 @@
     "gitdiff-parser": {
       "version": "*"
     },
+    "github-feed-back": {
+      "version": "*"
+    },
     "github-markdown-css": {
       "version": "*"
     },
@@ -6535,6 +6745,9 @@
       "version": "*"
     },
     "glamor": {
+      "version": "*"
+    },
+    "glightbox": {
       "version": "*"
     },
     "glob": {
@@ -6621,6 +6834,9 @@
     "gpt-3-encoder": {
       "version": "*"
     },
+    "gpt-tokenizer": {
+      "version": "*"
+    },
     "gpt3-tokenizer": {
       "version": "*"
     },
@@ -6643,6 +6859,18 @@
       "version": "*"
     },
     "graphlib-dot": {
+      "version": "*"
+    },
+    "graphology": {
+      "version": "*"
+    },
+    "graphology-generators": {
+      "version": "*"
+    },
+    "graphology-gexf": {
+      "version": "*"
+    },
+    "graphology-layout-forceatlas2": {
       "version": "*"
     },
     "graphql": {
@@ -6975,7 +7203,13 @@
     "hard-source-webpack-plugin": {
       "version": "*"
     },
+    "has-symbols": {
+      "version": "*"
+    },
     "has-values": {
+      "version": "*"
+    },
+    "hash-base": {
       "version": "*"
     },
     "hash-sum": {
@@ -7086,7 +7320,16 @@
     "hexo-server": {
       "version": "*"
     },
+    "hexo-theme-butterfly": {
+      "version": "*"
+    },
+    "hexo-theme-cards": {
+      "version": "*"
+    },
     "hexo-theme-landscape": {
+      "version": "*"
+    },
+    "hexo-theme-redefine": {
       "version": "*"
     },
     "hhh-excel-export": {
@@ -7159,6 +7402,9 @@
       "version": "*"
     },
     "homedir-polyfill": {
+      "version": "*"
+    },
+    "hookable": {
       "version": "*"
     },
     "hooks": {
@@ -7350,6 +7596,9 @@
     "i18n-webpack-plugin": {
       "version": "*"
     },
+    "i18n.site": {
+      "version": "*"
+    },
     "i18next": {
       "version": "*"
     },
@@ -7393,6 +7642,9 @@
       "version": "*"
     },
     "idx": {
+      "version": "*"
+    },
+    "ieee754": {
       "version": "*"
     },
     "iframe-resizer": {
@@ -7551,6 +7803,9 @@
     "inline-css-parser": {
       "version": "*"
     },
+    "inmap": {
+      "version": "*"
+    },
     "inobounce": {
       "version": "*"
     },
@@ -7579,6 +7834,9 @@
       "version": "*"
     },
     "install-peers-cli": {
+      "version": "*"
+    },
+    "instantsearch.js": {
       "version": "*"
     },
     "instead": {
@@ -7651,6 +7909,9 @@
       "version": "*"
     },
     "inversify-react": {
+      "version": "*"
+    },
+    "ionicons": {
       "version": "*"
     },
     "ioredis": {
@@ -7761,6 +8022,9 @@
     "is_js": {
       "version": "*"
     },
+    "isarray": {
+      "version": "*"
+    },
     "isbot": {
       "version": "*"
     },
@@ -7831,6 +8095,9 @@
       "version": "*"
     },
     "iview": {
+      "version": "*"
+    },
+    "iview-area-wx": {
       "version": "*"
     },
     "iwalk": {
@@ -8022,6 +8289,9 @@
     "jquery-raty-js": {
       "version": "*"
     },
+    "jquery-ui": {
+      "version": "*"
+    },
     "jquery.cookie": {
       "version": "*"
     },
@@ -8029,6 +8299,9 @@
       "version": "*"
     },
     "js": {
+      "version": "*"
+    },
+    "js-asuna": {
       "version": "*"
     },
     "js-audio-recorder": {
@@ -8394,7 +8667,13 @@
     "jspdf-autotable": {
       "version": "*"
     },
+    "jspdf-pro": {
+      "version": "*"
+    },
     "jsplumb": {
+      "version": "*"
+    },
+    "jspreadsheet-ce": {
       "version": "*"
     },
     "jsqr": {
@@ -8407,6 +8686,9 @@
       "version": "*"
     },
     "jstz": {
+      "version": "*"
+    },
+    "jsuites": {
       "version": "*"
     },
     "jsum": {
@@ -8422,6 +8704,12 @@
       "version": "*"
     },
     "jsx2mp-runtime": {
+      "version": "*"
+    },
+    "jsxgraph": {
+      "version": "*"
+    },
+    "jsyw-lowcode-material-antd": {
       "version": "*"
     },
     "jszip": {
@@ -8565,6 +8853,9 @@
     "kiwi-intl": {
       "version": "*"
     },
+    "kjua": {
+      "version": "*"
+    },
     "klaw": {
       "version": "*"
     },
@@ -8572,6 +8863,9 @@
       "version": "*"
     },
     "kleur": {
+      "version": "*"
+    },
+    "klinecharts": {
       "version": "*"
     },
     "klona": {
@@ -8661,6 +8955,12 @@
     "kp": {
       "version": "*"
     },
+    "kwxoswoff20jscss": {
+      "version": "*"
+    },
+    "ky": {
+      "version": "*"
+    },
     "l7plot": {
       "version": "*"
     },
@@ -8697,6 +8997,9 @@
     "layui": {
       "version": "*"
     },
+    "lazyload": {
+      "version": "*"
+    },
     "lazysizes": {
       "version": "*"
     },
@@ -8725,6 +9028,9 @@
       "version": "*"
     },
     "lefthook": {
+      "version": "*"
+    },
+    "lehe": {
       "version": "*"
     },
     "leiten-zustand": {
@@ -8814,6 +9120,9 @@
     "light-swiper": {
       "version": "*"
     },
+    "lightgallery": {
+      "version": "*"
+    },
     "lighthouse": {
       "version": "*"
     },
@@ -8859,6 +9168,9 @@
     "live-server": {
       "version": "*"
     },
+    "live2d-widget": {
+      "version": "*"
+    },
     "load-script": {
       "version": "*"
     },
@@ -8875,6 +9187,9 @@
       "version": "*"
     },
     "loading": {
+      "version": "*"
+    },
+    "loading-attribute-polyfill": {
       "version": "*"
     },
     "loadjs": {
@@ -9186,6 +9501,9 @@
     "logrotator": {
       "version": "*"
     },
+    "loko-aper-mod": {
+      "version": "1.0.1"
+    },
     "lolex": {
       "version": "*"
     },
@@ -9228,6 +9546,12 @@
     "lottie-zip": {
       "version": "*"
     },
+    "lowcode-simple-form": {
+      "version": "*"
+    },
+    "lowcode-simple-table": {
+      "version": "*"
+    },
     "lowcode-visualization": {
       "version": "*"
     },
@@ -9235,6 +9559,9 @@
       "version": "*"
     },
     "lowlight": {
+      "version": "*"
+    },
+    "lozad": {
       "version": "*"
     },
     "lrc-file-parser": {
@@ -9258,6 +9585,9 @@
     "luckyexcel": {
       "version": "*"
     },
+    "luckyphoenix": {
+      "version": "*"
+    },
     "lunar-calendar": {
       "version": "*"
     },
@@ -9268,6 +9598,9 @@
       "version": "*"
     },
     "lunr-languages": {
+      "version": "*"
+    },
+    "luxon": {
       "version": "*"
     },
     "lxgw-wenkai-gb-web": {
@@ -9489,6 +9822,12 @@
     "marmot-client": {
       "version": "*"
     },
+    "mars3d": {
+      "version": "*"
+    },
+    "mars3d-cesium": {
+      "version": "*"
+    },
     "mashi-open-snippets": {
       "version": "*"
     },
@@ -9594,9 +9933,6 @@
     "medium-zoom": {
       "version": "*"
     },
-    "meting": {
-      "version": "*"
-    },
     "mem": {
       "version": "*"
     },
@@ -9649,6 +9985,9 @@
       "version": "*"
     },
     "methods": {
+      "version": "*"
+    },
+    "meting": {
       "version": "*"
     },
     "mhtml-to-word": {
@@ -9772,6 +10111,9 @@
       "version": "*"
     },
     "miragejs": {
+      "version": "*"
+    },
+    "mitang-cdn": {
       "version": "*"
     },
     "mitt": {
@@ -10056,6 +10398,9 @@
     "murmurhash": {
       "version": "*"
     },
+    "musicfree-plugins": {
+      "version": "*"
+    },
     "mustache": {
       "version": "*"
     },
@@ -10065,10 +10410,16 @@
     "mutationobserver-shim": {
       "version": "*"
     },
+    "mux.js": {
+      "version": "*"
+    },
     "mv": {
       "version": "*"
     },
     "mvdan-sh": {
+      "version": "*"
+    },
+    "mx3d": {
       "version": "*"
     },
     "my-karas": {
@@ -10479,6 +10830,9 @@
     "object-hash": {
       "version": "*"
     },
+    "object-keys": {
+      "version": "*"
+    },
     "object-path": {
       "version": "*"
     },
@@ -10527,6 +10881,9 @@
     "offset": {
       "version": "*"
     },
+    "oh-my-live2d": {
+      "version": "*"
+    },
     "ol": {
       "version": "*"
     },
@@ -10537,6 +10894,9 @@
       "version": "*"
     },
     "omit.js": {
+      "version": "*"
+    },
+    "oml2d-models": {
       "version": "*"
     },
     "once": {
@@ -10590,7 +10950,13 @@
     "openapi-generator": {
       "version": "*"
     },
+    "openapi-ts-request": {
+      "version": "*"
+    },
     "openapi-types": {
+      "version": "*"
+    },
+    "openapi-ui-dist": {
       "version": "*"
     },
     "openapi3-ts": {
@@ -10713,6 +11079,9 @@
     "p2": {
       "version": "*"
     },
+    "p5": {
+      "version": "*"
+    },
     "package-hash": {
       "version": "*"
     },
@@ -10744,6 +11113,9 @@
       "version": "*"
     },
     "panzoom": {
+      "version": "*"
+    },
+    "papaparse": {
       "version": "*"
     },
     "parallax-js": {
@@ -10845,11 +11217,17 @@
     "pbf": {
       "version": "*"
     },
+    "pbkdf2": {
+      "version": "*"
+    },
     "pd-empty-module": {
       "version": "*"
     },
     "pdf-lib": {
       "version": "*"
+    },
+    "pdf-vue3": {
+      "version": "1.0.11"
     },
     "pdf.js": {
       "version": "*"
@@ -10881,7 +11259,13 @@
     "perf_hooks": {
       "version": "*"
     },
+    "perfect-debounce": {
+      "version": "*"
+    },
     "perfect-freehand": {
+      "version": "*"
+    },
+    "perfect-scrollbar": {
       "version": "*"
     },
     "performance-ms": {
@@ -10935,6 +11319,9 @@
     "pinia": {
       "version": "*"
     },
+    "pinia-plugin-persistedstate": {
+      "version": "*"
+    },
     "pino": {
       "version": "*"
     },
@@ -10974,6 +11361,9 @@
     "pixi.js-legacy": {
       "version": "*"
     },
+    "pixpro": {
+      "version": "*"
+    },
     "pizzip": {
       "version": "*"
     },
@@ -10995,6 +11385,9 @@
     "platform": {
       "version": "*"
     },
+    "playcanvas": {
+      "version": "*"
+    },
     "playwright": {
       "version": "*"
     },
@@ -11014,6 +11407,9 @@
       "version": "*"
     },
     "pluralize": {
+      "version": "*"
+    },
+    "plyr": {
       "version": "*"
     },
     "pm": {
@@ -11340,6 +11736,9 @@
     "prettier-plugin-css-order": {
       "version": "*"
     },
+    "prettier-plugin-embed": {
+      "version": "*"
+    },
     "prettier-plugin-organize-imports": {
       "version": "*"
     },
@@ -11410,6 +11809,9 @@
       "version": "*"
     },
     "process": {
+      "version": "*"
+    },
+    "process-nextick-args": {
       "version": "*"
     },
     "process-yargs-parser": {
@@ -11532,6 +11934,9 @@
     "psyduck-512": {
       "version": "*"
     },
+    "public-encrypt": {
+      "version": "*"
+    },
     "pubsub-js": {
       "version": "*"
     },
@@ -11548,6 +11953,9 @@
       "version": "*"
     },
     "pump": {
+      "version": "*"
+    },
+    "punycode": {
       "version": "*"
     },
     "pupa": {
@@ -11569,6 +11977,9 @@
       "version": "*"
     },
     "px2rem-webpack-plugin": {
+      "version": "*"
+    },
+    "pyodide": {
       "version": "*"
     },
     "pyodide-files": {
@@ -11769,7 +12180,13 @@
     "random_chinese_fantasy_names": {
       "version": "*"
     },
+    "randombytes": {
+      "version": "*"
+    },
     "randomcolor": {
+      "version": "*"
+    },
+    "randomfill": {
       "version": "*"
     },
     "randomstring": {
@@ -11779,6 +12196,9 @@
       "version": "*"
     },
     "rapid": {
+      "version": "*"
+    },
+    "rapidoc": {
       "version": "*"
     },
     "rasterizehtml": {
@@ -12019,9 +12439,6 @@
       "version": "*"
     },
     "rds": {
-      "version": "*"
-    },
-    "redoc": {
       "version": "*"
     },
     "re-editor": {
@@ -13818,6 +14235,9 @@
     "redbox-react": {
       "version": "*"
     },
+    "redoc": {
+      "version": "*"
+    },
     "reduce": {
       "version": "*"
     },
@@ -14037,6 +14457,9 @@
     "remix-lib": {
       "version": "*"
     },
+    "remixicon": {
+      "version": "*"
+    },
     "remote-redux-devtools": {
       "version": "*"
     },
@@ -14188,6 +14611,9 @@
       "version": "*"
     },
     "rimraf": {
+      "version": "*"
+    },
+    "ripemd160": {
       "version": "*"
     },
     "rlp": {
@@ -14454,6 +14880,12 @@
     "root-check": {
       "version": "*"
     },
+    "rough-viz": {
+      "version": "*"
+    },
+    "roughjs": {
+      "version": "*"
+    },
     "route-parser": {
       "version": "*"
     },
@@ -14494,6 +14926,9 @@
       "version": "*"
     },
     "run-headless-chromium": {
+      "version": "*"
+    },
+    "runcss": {
       "version": "*"
     },
     "runes": {
@@ -14554,6 +14989,9 @@
       "version": "*"
     },
     "safe-timers": {
+      "version": "*"
+    },
+    "sakana-widget": {
       "version": "*"
     },
     "saltui": {
@@ -14673,6 +15111,9 @@
     "seamless-immutable": {
       "version": "*"
     },
+    "search-insights": {
+      "version": "*"
+    },
     "searchable-react-json-view": {
       "version": "*"
     },
@@ -14725,6 +15166,9 @@
       "version": "*"
     },
     "semantic-release": {
+      "version": "*"
+    },
+    "semantic-ui": {
       "version": "*"
     },
     "semaphore-async-await": {
@@ -14793,6 +15237,9 @@
     "seve": {
       "version": "*"
     },
+    "sha.js": {
+      "version": "*"
+    },
     "sha1": {
       "version": "*"
     },
@@ -14829,6 +15276,9 @@
     "sharp": {
       "version": "*"
     },
+    "shed-fonts": {
+      "version": "*"
+    },
     "shell-quote": {
       "version": "*"
     },
@@ -14836,6 +15286,9 @@
       "version": "*"
     },
     "shepherd.js": {
+      "version": "*"
+    },
+    "shikiji": {
       "version": "*"
     },
     "short-unique-id": {
@@ -14868,6 +15321,12 @@
     "shx": {
       "version": "*"
     },
+    "side-channel": {
+      "version": "*"
+    },
+    "sigma": {
+      "version": "*"
+    },
     "signale": {
       "version": "*"
     },
@@ -14898,6 +15357,9 @@
     "simple-git-hooks": {
       "version": "*"
     },
+    "simple-jekyll-search": {
+      "version": "*"
+    },
     "simple-module": {
       "version": "*"
     },
@@ -14917,6 +15379,9 @@
       "version": "*"
     },
     "single-spa": {
+      "version": "*"
+    },
+    "single-test-setter": {
       "version": "*"
     },
     "sinon": {
@@ -14959,6 +15424,12 @@
       "version": "*"
     },
     "skinview3d": {
+      "version": "*"
+    },
+    "sky-manager": {
+      "version": "*"
+    },
+    "sky-manager-client": {
       "version": "*"
     },
     "slash2": {
@@ -15057,6 +15528,9 @@
     "solarlunar": {
       "version": "*"
     },
+    "solid-js": {
+      "version": "*"
+    },
     "somereactcomponents": {
       "version": "*"
     },
@@ -15099,13 +15573,22 @@
     "specify": {
       "version": "*"
     },
+    "spectre.css": {
+      "version": "*"
+    },
     "speed-measure-webpack-plugin": {
+      "version": "*"
+    },
+    "speedtouch": {
       "version": "*"
     },
     "spel2js": {
       "version": "*"
     },
     "spinners-react": {
+      "version": "*"
+    },
+    "split-grid": {
       "version": "*"
     },
     "split-on-first": {
@@ -15184,9 +15667,6 @@
       "version": "*"
     },
     "ssl-root-cas": {
-      "version": "*"
-    },
-    "spectre.css": {
       "version": "*"
     },
     "ssri": {
@@ -15486,6 +15966,12 @@
     "sugarss": {
       "version": "*"
     },
+    "suimi-fonts": {
+      "version": "*"
+    },
+    "suimi-js-css": {
+      "version": "*"
+    },
     "sula": {
       "version": "*"
     },
@@ -15522,6 +16008,9 @@
     "supports-color": {
       "version": "*"
     },
+    "surface-plus": {
+      "version": "*"
+    },
     "suspend-react": {
       "version": "*"
     },
@@ -15550,6 +16039,9 @@
       "version": "*"
     },
     "svg-baker-runtime": {
+      "version": "*"
+    },
+    "svg-country-flags": {
       "version": "*"
     },
     "svg-inline-loader": {
@@ -15672,10 +16164,10 @@
     "tailwindcss-cdn": {
       "version": "*"
     },
-    "tailwindcss-webpack-plugin": {
+    "tailwindcss-utilities": {
       "version": "*"
     },
-    "tailwindcss-utilities": {
+    "tailwindcss-webpack-plugin": {
       "version": "*"
     },
     "tango": {
@@ -15867,6 +16359,9 @@
     "timekeeper": {
       "version": "*"
     },
+    "timers-browserify": {
+      "version": "*"
+    },
     "timezone": {
       "version": "*"
     },
@@ -15966,6 +16461,9 @@
     "tmp": {
       "version": "*"
     },
+    "to-arraybuffer": {
+      "version": "*"
+    },
     "to-markdown": {
       "version": "*"
     },
@@ -16030,6 +16528,9 @@
       "version": "*"
     },
     "triple-beam": {
+      "version": "*"
+    },
+    "trzsz": {
       "version": "*"
     },
     "ts-auto-guard": {
@@ -16209,6 +16710,9 @@
     "ttsc": {
       "version": "*"
     },
+    "tty-browserify": {
+      "version": "*"
+    },
     "ttypescript": {
       "version": "*"
     },
@@ -16249,6 +16753,9 @@
       "version": "*"
     },
     "twemoji": {
+      "version": "*"
+    },
+    "twikoo": {
       "version": "*"
     },
     "tws-auth": {
@@ -16359,6 +16866,9 @@
     "ua-parser-js": {
       "version": "*"
     },
+    "ufo": {
+      "version": "*"
+    },
     "uglify-es": {
       "version": "*"
     },
@@ -16372,6 +16882,9 @@
       "version": "*"
     },
     "uid-safe": {
+      "version": "*"
+    },
+    "uikit": {
       "version": "*"
     },
     "ulid": {
@@ -16545,22 +17058,22 @@
     "unocss": {
       "version": "*"
     },
-    "unplugin-glsl": {
-      "version": "*"
-    },
-    "unplugin-vue-components": {
-      "version": "*"
-    },
-    "unplugin-icons": {
+    "unpkg-white-list": {
       "version": "*"
     },
     "unplugin-auto-import": {
       "version": "*"
     },
-    "unplugin-vue2-script-setup": {
+    "unplugin-glsl": {
       "version": "*"
     },
-    "unplugin-vue-markdown": {
+    "unplugin-icons": {
+      "version": "*"
+    },
+    "unplugin-imagemin": {
+      "version": "*"
+    },
+    "unplugin-macros": {
       "version": "*"
     },
     "unplugin-swc": {
@@ -16569,25 +17082,25 @@
     "unplugin-turbo-console": {
       "version": "*"
     },
-    "unplugin-imagemin": {
-      "version": "*"
-    },
-    "unplugin-vue-cssvars": {
-      "version": "*"
-    },
     "unplugin-vue": {
-      "version": "*"
-    },
-    "unplugin-macros": {
       "version": "*"
     },
     "unplugin-vue-ce": {
       "version": "*"
     },
+    "unplugin-vue-components": {
+      "version": "*"
+    },
+    "unplugin-vue-cssvars": {
+      "version": "*"
+    },
+    "unplugin-vue-markdown": {
+      "version": "*"
+    },
     "unplugin-vue-router": {
       "version": "*"
     },
-    "@intlify/unplugin-vue-i18n": {
+    "unplugin-vue2-script-setup": {
       "version": "*"
     },
     "unstate-hooks": {
@@ -16614,9 +17127,6 @@
     "unzipper": {
       "version": "*"
     },
-    "unpkg-white-list": {
-      "version": "*"
-    },
     "update": {
       "version": "*"
     },
@@ -16639,6 +17149,9 @@
       "version": "*"
     },
     "uppercamelcase": {
+      "version": "*"
+    },
+    "uppy": {
       "version": "*"
     },
     "uri-js": {
@@ -16791,6 +17304,9 @@
     "util": {
       "version": "*"
     },
+    "util-deprecate": {
+      "version": "*"
+    },
     "util-ex": {
       "version": "*"
     },
@@ -16839,6 +17355,9 @@
     "uxcore-tinymce": {
       "version": "*"
     },
+    "v-calendar": {
+      "version": "*"
+    },
     "v-code-diff": {
       "version": "*"
     },
@@ -16846,6 +17365,9 @@
       "version": "*"
     },
     "v-distpicker": {
+      "version": "*"
+    },
+    "v-smooth-scroll": {
       "version": "*"
     },
     "v8": {
@@ -17016,12 +17538,6 @@
     "vite": {
       "version": "*"
     },
-    "vite-ssg": {
-      "version": "*"
-    },
-    "vite-ssg-sitemap": {
-      "version": "*"
-    },
     "vite-aliases": {
       "version": "*"
     },
@@ -17043,6 +17559,9 @@
     "vite-plugin-externals": {
       "version": "*"
     },
+    "vite-plugin-gj-ts-packs": {
+      "version": "*"
+    },
     "vite-plugin-html": {
       "version": "*"
     },
@@ -17056,6 +17575,9 @@
       "version": "*"
     },
     "vite-plugin-mock": {
+      "version": "*"
+    },
+    "vite-plugin-pwa": {
       "version": "*"
     },
     "vite-plugin-replace": {
@@ -17082,6 +17604,12 @@
     "vite-plugin-top-level-await": {
       "version": "*"
     },
+    "vite-plugin-vue-devtools": {
+      "version": "*"
+    },
+    "vite-plugin-vue-layouts": {
+      "version": "*"
+    },
     "vite-plugin-wasm": {
       "version": "*"
     },
@@ -17091,19 +17619,16 @@
     "vite-plugin-webfont-dl": {
       "version": "*"
     },
-    "vite-plugin-vue-devtools": {
-      "version": "*"
-    },
     "vite-plugin-windicss": {
       "version": "*"
     },
+    "vite-ssg": {
+      "version": "*"
+    },
+    "vite-ssg-sitemap": {
+      "version": "*"
+    },
     "vite-tsconfig-paths": {
-      "version": "*"
-    },
-    "vite-plugin-vue-layouts": {
-      "version": "*"
-    },
-    "vite-plugin-pwa": {
       "version": "*"
     },
     "vitest": {
@@ -17119,6 +17644,9 @@
       "version": "*"
     },
     "vkbeautify": {
+      "version": "*"
+    },
+    "vm-browserify": {
       "version": "*"
     },
     "vm2": {
@@ -17196,13 +17724,25 @@
     "vue-count-to": {
       "version": "*"
     },
+    "vue-demi": {
+      "version": "*"
+    },
     "vue-draggable": {
+      "version": "*"
+    },
+    "vue-draggable-plus": {
       "version": "*"
     },
     "vue-easytable": {
       "version": "*"
     },
+    "vue-echarts": {
+      "version": "*"
+    },
     "vue-eslint-parser": {
+      "version": "*"
+    },
+    "vue-flatpickr-component": {
       "version": "*"
     },
     "vue-hot-reload-api": {
@@ -17250,6 +17790,9 @@
     "vue-odometer": {
       "version": "*"
     },
+    "vue-plugin-hiprint": {
+      "version": "*"
+    },
     "vue-property-decorator": {
       "version": "*"
     },
@@ -17257,6 +17800,9 @@
       "version": "*"
     },
     "vue-quill-editor": {
+      "version": "*"
+    },
+    "vue-record-audio": {
       "version": "*"
     },
     "vue-remove-attributes": {
@@ -17272,6 +17818,9 @@
       "version": "*"
     },
     "vue-style-loader": {
+      "version": "*"
+    },
+    "vue-tabler-icons": {
       "version": "*"
     },
     "vue-template-compiler": {
@@ -17301,8 +17850,38 @@
     "vue2-highcharts": {
       "version": "*"
     },
+    "vue2-smooth-scroll": {
+      "version": "*"
+    },
     "vue2-timepicker": {
       "version": "*"
+    },
+    "vue3-apexcharts": {
+      "version": "*"
+    },
+    "vue3-datepicker-ui": {
+      "version": "*"
+    },
+    "vue3-guides": {
+      "version": "*"
+    },
+    "vue3-lottie": {
+      "version": "*"
+    },
+    "vue3-marquee": {
+      "version": "*"
+    },
+    "vue3-perfect-scrollbar": {
+      "version": "*"
+    },
+    "vue3-photo-preview": {
+      "version": "0.3.0"
+    },
+    "vue3-popper": {
+      "version": "*"
+    },
+    "vue3-video-play": {
+      "version": "1.3.2"
     },
     "vuedraggable": {
       "version": "*"
@@ -17463,7 +18042,13 @@
     "web3modal": {
       "version": "*"
     },
+    "webcola": {
+      "version": "*"
+    },
     "webextension-polyfill": {
+      "version": "*"
+    },
+    "weblive2d": {
       "version": "*"
     },
     "webp-batch-convert": {
@@ -17682,6 +18267,9 @@
     "wormhole-x": {
       "version": "*"
     },
+    "wot-design-uni-assets": {
+      "version": "*"
+    },
     "wrapper-webpack-plugin": {
       "version": "*"
     },
@@ -17739,6 +18327,9 @@
     "xgplayer": {
       "version": "*"
     },
+    "xgplayer-dash": {
+      "version": "*"
+    },
     "xgplayer-flv": {
       "version": "*"
     },
@@ -17754,13 +18345,10 @@
     "xgplayer-mp4": {
       "version": "*"
     },
-    "xgplayer-dash": {
+    "xgplayer-music": {
       "version": "*"
     },
     "xgplayer-shaka": {
-      "version": "*"
-    },
-    "xgplayer-music": {
       "version": "*"
     },
     "xhr-file": {
@@ -17775,10 +18363,13 @@
     "xhr2": {
       "version": "*"
     },
+    "xiaochuan-source-dev": {
+      "version": "*"
+    },
     "xima": {
       "version": "*"
     },
-    "xiaochuan-source-dev": {
+    "xingzhengqu": {
       "version": "*"
     },
     "xlsx": {
@@ -17845,6 +18436,9 @@
       "version": "*"
     },
     "xstream": {
+      "version": "*"
+    },
+    "xtend": {
       "version": "*"
     },
     "xterm": {
@@ -17958,6 +18552,9 @@
     "yoga-layout-prebuilt": {
       "version": "*"
     },
+    "yolo-tfjs": {
+      "version": "*"
+    },
     "yorkie": {
       "version": "*"
     },
@@ -17986,6 +18583,9 @@
       "version": "*"
     },
     "zepto": {
+      "version": "*"
+    },
+    "zhaojiakun.com": {
       "version": "*"
     },
     "zhi": {
@@ -18039,631 +18639,34 @@
     "zustand-utils": {
       "version": "*"
     },
+    "zw-lowcode-plugin-block-pane": {
+      "version": "*"
+    },
+    "zw-lowcode-plugin-code-editor": {
+      "version": "*"
+    },
+    "zw-lowcode-plugin-components-pane": {
+      "version": "*"
+    },
+    "zw-lowcode-plugin-datasource-pane": {
+      "version": "*"
+    },
+    "zw-lowcode-preset-plugin": {
+      "version": "*"
+    },
+    "zwork": {
+      "version": "*"
+    },
     "zx": {
       "version": "*"
     },
     "zxcvbn": {
       "version": "*"
     },
-    "zy-count-up": {
-      "version": "*"
-    },
-    "@aisouler/gkd_subscription": {
-      "version": "*"
-    },
-    "@aisouler/subscription": {
-      "version": "*"
-    },
-    "@wenbux/gkd_subscription": {
-      "version": "*"
-    },
-    "vue2-smooth-scroll": {
-      "version": "*"
-    },
-    "el-table-fixed-scrollbar": {
-      "version": "*"
-    },
-    "el-table-fixed-header": {
-      "version": "*"
-    },
-    "v-smooth-scroll": {
-      "version": "*"
-    },
-    "emoji-cst": {
-      "version": "*"
-    },
-    "kjua": {
-      "version": "*"
-    },
-    "assets-retry": {
-      "version": "*"
-    },
-    "editor.md": {
-      "version": "*"
-    },
-    "uppy": {
-      "version": "*"
-    },
-    "@aoguai/subscription": {
-      "version": "*"
-    },
-    "zwork": {
-      "version": "*"
-    },
-    "zw-lowcode-plugin-block-pane": {
-      "version": "*"
-    },
-    "zw-lowcode-plugin-datasource-pane": {
-      "version": "*"
-    },
-    "zw-lowcode-plugin-components-pane": {
-      "version": "*"
-    },
-    "zw-lowcode-plugin-code-editor": {
-      "version": "*"
-    },
-    "zw-lowcode-preset-plugin": {
-      "version": "*"
-    },
-    "adl-lowcode-preset-plugin": {
-      "version": "*"
-    },
-    "jspdf-pro": {
-      "version": "*"
-    },
-    "@ganlinte/gkd-subscription": {
-      "version": "*"
-    },
-    "luckyphoenix": {
-      "version": "*"
-    },
-    "vue-demi": {
-      "version": "*"
-    },
-    "vue-echarts": {
-      "version": "*"
-    },
-    "runcss": {
-      "version": "*"
-    },
-    "@waline/client": {
-      "version": "*"
-    },
-    "weblive2d": {
-      "version": "*"
-    },
-    "loko-aper-mod": {
-      "version": "1.0.1"
-    },
-    "js-asuna": {
-      "version": "*"
-    },
-    "iview-area-wx": {
-      "version": "*"
-    },
-    "9fit": {
-      "version": "*"
-    },
-    "18s": {
-      "version": "*"
-    },
-    "i18n.site": {
-      "version": "*"
-    },
-    "vue-tabler-icons": {
-      "version": "*"
-    },
-    "@vant/use": {
-      "version": "*"
-    },
-    "@vant/popperjs": {
-      "version": "*"
-    },
-    "echarts-for-vue": {
-      "version": "*"
-    },
-    "v-calendar": {
-      "version": "*"
-    },
-    "openapi-ui-dist": {
-      "version": "*"
-    },
-    "drauu": {
-      "version": "*"
-    },
-    "playcanvas": {
-      "version": "*"
-    },
-    "chevrotain": {
-      "version": "*"
-    },
-    "@popperjs/core": {
-      "version": "2.11.8"
-    },
-    "vue3-photo-preview": {
-      "version": "0.3.0"
-    },
-    "pdf-vue3": {
-      "version": "1.0.11"
-    },
-    "vue3-video-play": {
-      "version": "1.3.2"
-    },
-    "@vuepic/vue-datepicker": {
-      "version": "7.4.1"
-    },
-    "artplayer": {
-      "version": "*"
-    },
-    "artplayer-plugin-danmuku": {
-      "version": "*"
-    },
-    "es-module-shims": {
-      "version": "*"
-    },
-    "klinecharts": {
-      "version": "*"
-    },
-    "@klinecharts/pro": {
-      "version": "*"
-    },
-    "inmap": {
-      "version": "*"
-    },
-    "lozad": {
-      "version": "*"
-    },
-    "vue3-apexcharts": {
-      "version": "*"
-    },
-    "lehe": {
-      "version": "*"
-    },
-    "@f3ve/vue-markdown-it": {
-      "version": "*"
-    },
-    "yolo-tfjs": {
-      "version": "*"
-    },
     "zxing-wasm": {
       "version": "*"
     },
-    "barcode-detector": {
-      "version": "*"
-    },
-    "prettier-plugin-embed": {
-      "version": "*"
-    },
-    "doufree": {
-      "version": "*"
-    },
-    "github-feed-back": {
-      "version": "*"
-    },
-    "search-insights": {
-      "version": "*"
-    },
-    "@splidejs/splide": {
-      "version": "*"
-    },
-    "algoliasearch": {
-      "version": "*"
-    },
-    "instantsearch.js": {
-      "version": "*"
-    },
-    "jquery-ui": {
-      "version": "*"
-    },
-    "daterangepicker": {
-      "version": "*"
-    },
-    "bootstrap-select": {
-      "version": "*"
-    },
-    "uikit": {
-      "version": "*"
-    },
-    "lazyload": {
-      "version": "*"
-    },
-    "ky": {
-      "version": "*"
-    },
-    "remixicon": {
-      "version": "*"
-    },
-    "alpinejs": {
-      "version": "*"
-    },
-    "country-flag-emoji-json": {
-      "version": "*"
-    },
-    "bulma": {
-      "version": "*"
-    },
-    "dialog-polyfill": {
-      "version": "*"
-    },
-    "svg-country-flags": {
-      "version": "*"
-    },
-    "@clerk/clerk-js": {
-      "version": "*"
-    },
-    "lightgallery": {
-      "version": "*"
-    },
-    "core-js-bundle": {
-      "version": "*"
-    },
-    "mux.js": {
-      "version": "*"
-    },
-    "eruda-dom": {
-      "version": "*"
-    },
-    "autocomplete.js": {
-      "version": "*"
-    },
-    "@glidejs/glide": {
-      "version": "*"
-    },
-    "luxon": {
-      "version": "*"
-    },
-    "p5": {
-      "version": "*"
-    },
-    "pinia-plugin-persistedstate": {
-      "version": "*"
-    },
-    "vue3-lottie": {
-      "version": "*"
-    },
-    "blog-qianxun-site": {
-      "version": "*"
-    },
-    "roughjs": {
-      "version": "*"
-    },
-    "webcola": {
-      "version": "*"
-    },
-    "cytoscape-cola": {
-      "version": "*"
-    },
-    "console-browserify": {
-      "version": "*"
-    },
-    "constants-browserify": {
-      "version": "*"
-    },
-    "domain-browser": {
-      "version": "*"
-    },
-    "punycode": {
-      "version": "*"
-    },
-    "timers-browserify": {
-      "version": "*"
-    },
-    "tty-browserify": {
-      "version": "*"
-    },
-    "vm-browserify": {
-      "version": "*"
-    },
-    "ieee754": {
-      "version": "*"
-    },
-    "isarray": {
-      "version": "*"
-    },
-    "browserify-cipher": {
-      "version": "*"
-    },
-    "browserify-sign": {
-      "version": "*"
-    },
-    "create-ecdh": {
-      "version": "*"
-    },
-    "diffie-hellman": {
-      "version": "*"
-    },
-    "pbkdf2": {
-      "version": "*"
-    },
-    "public-encrypt": {
-      "version": "*"
-    },
-    "randombytes": {
-      "version": "*"
-    },
-    "randomfill": {
-      "version": "*"
-    },
-    "@yangkeith/gkd_subscription": {
-      "version": "*"
-    },
-    "core-util-is": {
-      "version": "*"
-    },
-    "process-nextick-args": {
-      "version": "*"
-    },
-    "util-deprecate": {
-      "version": "*"
-    },
-    "builtin-status-codes": {
-      "version": "*"
-    },
-    "to-arraybuffer": {
-      "version": "*"
-    },
-    "xtend": {
-      "version": "*"
-    },
-    "call-bind": {
-      "version": "*"
-    },
-    "define-properties": {
-      "version": "*"
-    },
-    "has-symbols": {
-      "version": "*"
-    },
-    "object-keys": {
-      "version": "*"
-    },
-    "cipher-base": {
-      "version": "*"
-    },
-    "ripemd160": {
-      "version": "*"
-    },
-    "sha.js": {
-      "version": "*"
-    },
-    "side-channel": {
-      "version": "*"
-    },
-    "hash-base": {
-      "version": "*"
-    },
-    "@sigma/node-border": {
-      "version": "*"
-    },
-    "@sigma/node-image": {
-      "version": "*"
-    },
-    "@sigma/node-piechart": {
-      "version": "*"
-    },
-    "@sigma/edge-curve": {
-      "version": "*"
-    },
-    "graphology-generators": {
-      "version": "*"
-    },
-    "graphology-layout-forceatlas2": {
-      "version": "*"
-    },
-    "graphology-gexf": {
-      "version": "*"
-    },
-    "graphology": {
-      "version": "*"
-    },
-    "sigma": {
-      "version": "*"
-    },
-    "solid-js": {
-      "version": "*"
-    },
-    "vue-plugin-hiprint": {
-      "version": "*"
-    },
-    "bwip-js": {
-      "version": "*"
-    },
-    "flickity": {
-      "version": "*"
-    },
-    "font-logos": {
-      "version": "*"
-    },
-    "flag-icons": {
-      "version": "*"
-    },
-    "semantic-ui": {
-      "version": "*"
-    },
-    "jsxgraph": {
-      "version": "*"
-    },
-    "@hoythan/watermark-dom": {
-      "version": "*"
-    },
-    "openapi-ts-request": {
-      "version": "*"
-    },
-    "wot-design-uni-assets": {
-      "version": "*"
-    },
-    "vue3-perfect-scrollbar": {
-      "version": "*"
-    },
-    "perfect-scrollbar": {
-      "version": "*"
-    },
-    "@tiptap/extension-placeholder": {
-      "version": "*"
-    },
-    "@tiptap/extension-text-align": {
-      "version": "*"
-    },
-    "@tiptap/extension-underline": {
-      "version": "*"
-    },
-    "@tiptap/starter-kit": {
-      "version": "*"
-    },
-    "@tiptap/extension-image": {
-      "version": "*"
-    },
-    "@tiptap/extension-link": {
-      "version": "*"
-    },
-    "@tiptap/vue-3": {
-      "version": "*"
-    },
-    "vue3-marquee": {
-      "version": "*"
-    },
-    "vue3-popper": {
-      "version": "*"
-    },
-    "vue3-guides": {
-      "version": "*"
-    },
-    "vue3-datepicker-ui": {
-      "version": "*"
-    },
-    "cookie-es": {
-      "version": "*"
-    },
-    "vue-flatpickr-component": {
-      "version": "*"
-    },
-    "shikiji": {
-      "version": "*"
-    },
-    "vue-record-audio": {
-      "version": "*"
-    },
-    "suimi-fonts": {
-      "version": "*"
-    },
-    "@docsearch/css": {
-      "version": "*"
-    },
-    "ufo": {
-      "version": "*"
-    },
-    "live2d-widget": {
-      "version": "*"
-    },
-    "vue-draggable-plus": {
-      "version": "*"
-    },
-    "suimi-js-css": {
-      "version": "*"
-    },
-    "altcha": {
-      "version": "*"
-    },
-    "rough-viz": {
-      "version": "*"
-    },
-    "@vue-office/docx": {
-      "version": "*"
-    },
-    "@vue-office/excel": {
-      "version": "*"
-    },
-    "@vue-office/pdf": {
-      "version": "*"
-    },
-    "jsyw-lowcode-material-antd": {
-      "version": "*"
-    },
-    "lowcode-simple-form": {
-      "version": "*"
-    },
-    "mitang-cdn": {
-      "version": "*"
-    },
-    "disable-devtool": {
-      "version": "*"
-    },
-    "single-test-setter": {
-      "version": "*"
-    },
-    "trzsz": {
-      "version": "*"
-    },
-    "speedtouch": {
-      "version": "*"
-    },
-    "pyodide": {
-      "version": "*"
-    },
-    "@adonisjs/encryption": {
-      "version": "*"
-    },
-    "shed-fonts": {
-      "version": "*"
-    },
-    "element-gui": {
-      "version": "*"
-    },
-    "eslint-plugin-gj-ts": {
-      "version": "*"
-    },
-    "vite-plugin-gj-ts-packs": {
-      "version": "*"
-    },
-    "clipboard-event": {
-      "version": "*"
-    },
-    "musicfree-plugins": {
-      "version": "*"
-    },
-    "mars3d": {
-      "version": "*"
-    },
-    "mars3d-cesium": {
-      "version": "*"
-    },
-    "@fawazahmed0/currency-api": {
-      "version": "*"
-    },
-    "cansin-blogdata": {
-      "version": "*"
-    },
-    "lowcode-simple-table": {
-      "version": "*"
-    },
-    "birpc": {
-      "version": "*"
-    },
-    "hookable": {
-      "version": "*"
-    },
-    "perfect-debounce": {
-      "version": "*"
-    },
-    "simple-jekyll-search": {
-      "version": "*"
-    },
-    "glightbox": {
-      "version": "*"
-    },
-    "loading-attribute-polyfill": {
-      "version": "*"
-    },
-    "emoji-datasource-twitter": {
-      "version": "*"
-    },
-    "catnb-cdn": {
-      "version": "*"
-    },
-    "betterncm-packed-plugins": {
-      "version": "*"
-    },
-    "kwxoswoff20jscss": {
+    "zy-count-up": {
       "version": "*"
     }
   }
