@@ -75,6 +75,7 @@
     "@esbuild-plugins",
     "@eslibs",
     "@eva",
+    "@felce",
     "@fesjs",
     "@ffmpeg",
     "@figma",
@@ -18656,7 +18657,7 @@
     },
     "zx": {
       "version": "*"
-    },  
+    },
     "zxcvbn": {
       "version": "*"
     },
