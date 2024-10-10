@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 const fs = require('fs-extra');
 const path = require('path');
+const semverValidRange = require('semver/ranges/valid');
 
 /**
  * 用 CLI 方式添加新的包或者 scope
@@ -21,8 +22,12 @@ const path = require('path');
  */
 const HELP = `
 Usage:
-  npm run add --package={package name}:{version range}
-  npm run add --scope=@{scope name}
+  npm run add -- --package={package name}:{version range}
+  npm run add -- --scope=@{scope name}
+
+Debug mode:
+  Set DEBUG=true environment variable to use draft output and enable debug logging.
+  eg: DEBUG=true npm run add -- "--package=urllib:*"
 `;
 
 const DEBUG = !!process.env.DEBUG
@@ -45,6 +50,8 @@ function addPkg(input) {
   // exits
   if (PKG.allowPackages[name]) {
     throw new Error(`Package ${name} already exists`);
+  } else if (!semverValidRange(version)) {
+    throw new Error(`Invalid version range: ${version}`);
   }
 
   DEBUG && console.log(`Add package: ${name}@${version}`);
