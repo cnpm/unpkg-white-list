@@ -4,7 +4,7 @@ import parserJsonc from "jsonc-eslint-parser";
 export default [
   ...pluginJsonc.configs['flat/recommended-with-json'],
   {
-    files: ["package.json"],
+    files: ["package{_draft,}.json"],
     languageOptions: {
       parser: parserJsonc,
     },
