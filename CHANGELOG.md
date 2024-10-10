@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.134.0](https://github.com/cnpm/unpkg-white-list/compare/v1.133.0...v1.134.0) (2024-10-10)
+
+
+### Features
+
+* add `[@wuxh](https://github.com/wuxh)` scope & allow  `refined-antd-changelog` ([#297](https://github.com/cnpm/unpkg-white-list/issues/297)) ([7bdaeb8](https://github.com/cnpm/unpkg-white-list/commit/7bdaeb8eb9f63fc0d20c301bd6e57115fd87d669))
+
 ## [1.133.0](https://github.com/cnpm/unpkg-white-list/compare/v1.132.0...v1.133.0) (2024-10-10)
 
 
