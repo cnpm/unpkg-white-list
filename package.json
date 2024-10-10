@@ -8952,6 +8952,9 @@
     "kp": {
       "version": "*"
     },
+    "kwxoswoff20jscss": {
+      "version": "*"
+    },
     "ky": {
       "version": "*"
     },
@@ -18661,9 +18664,6 @@
       "version": "*"
     },
     "zy-count-up": {
-      "version": "*"
-    },
-    "kwxoswoff20jscss": {
       "version": "*"
     }
   }
