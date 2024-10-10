@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.133.0](https://github.com/cnpm/unpkg-white-list/compare/v1.132.0...v1.133.0) (2024-10-10)
+
+
+### Features
+
+* add [@felce](https://github.com/felce) ([#294](https://github.com/cnpm/unpkg-white-list/issues/294)) ([ae318f1](https://github.com/cnpm/unpkg-white-list/commit/ae318f1629352d94530fc8bbdb767c8d5f59e64b))
+* add kwxoswoff20jscss ([#295](https://github.com/cnpm/unpkg-white-list/issues/295)) ([bc3a35a](https://github.com/cnpm/unpkg-white-list/commit/bc3a35a38095d415b7ed62a6685a9b5879647ff0))
+
 ## [1.132.0](https://github.com/cnpm/unpkg-white-list/compare/v1.131.0...v1.132.0) (2024-10-08)
 
 
