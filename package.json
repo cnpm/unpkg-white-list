@@ -251,7 +251,8 @@
     "@hook-js",
     "@pubinfo",
     "@ffmpeg",
-    "@scent"
+    "@scent",
+    "@felce"
   ],
   "allowPackages": {
     "sakana-widget": {
