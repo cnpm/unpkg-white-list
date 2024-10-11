@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.134.1](https://github.com/cnpm/unpkg-white-list/compare/v1.134.0...v1.134.1) (2024-10-11)
+
+
+### Bug Fixes
+
+* remove duplicated packages ([#299](https://github.com/cnpm/unpkg-white-list/issues/299)) ([e59dcca](https://github.com/cnpm/unpkg-white-list/commit/e59dcca276543775a37e1e951d815d4eae9ca1b0))
+
 ## [1.134.0](https://github.com/cnpm/unpkg-white-list/compare/v1.133.0...v1.134.0) (2024-10-10)
 
 
