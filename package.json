@@ -538,9 +538,6 @@
     "@ffmpeg-installer/ffmpeg": {
       "version": "*"
     },
-    "@ffmpeg/ffmpeg": {
-      "version": "*"
-    },
     "@ffprobe-installer/ffprobe": {
       "version": "*"
     },
@@ -689,9 +686,6 @@
       "version": "*"
     },
     "@istanbuljs/nyc-config-typescript": {
-      "version": "*"
-    },
-    "@itchenliang/picture-rollup-local-plugin": {
       "version": "*"
     },
     "@jccr/unzipper": {
@@ -1135,9 +1129,6 @@
     "@tweenjs/tween.js": {
       "version": "*"
     },
-    "@tyllllll/gkd-subscription": {
-      "version": "*"
-    },
     "@typography-org/react": {
       "version": "*"
     },
@@ -1186,9 +1177,6 @@
     "@vvfx/resource-detection": {
       "version": "*"
     },
-    "@waline/client": {
-      "version": "*"
-    },
     "@walletconnect/web3-provider": {
       "version": "*"
     },
@@ -1223,9 +1211,6 @@
       "version": "*"
     },
     "@yangkeith/gkd_subscription": {
-      "version": "*"
-    },
-    "@yarnpkg/lockfile": {
       "version": "*"
     },
     "@yrobot/react-mobile-table": {
