@@ -47,3 +47,27 @@ test('should pkg.allowScopes work', () => {
   assert(scopes > 0);
 });
 
+// 解析 allowPackages 的每个包的组织和包名，如果该组织已存在 allowScopes 中，则不需要再添加具名包
+// 例如：@babel 已存在，那么 @babel/core 就不需要再添加
+test('check allowPackages and allowScopes', () => {
+  const duplicatedPackages = new Map();
+  for (const name in pkg.allowPackages) {
+    if (name.startsWith('@')) {
+      const [scope] = name.split('/');
+      if (pkg.allowScopes.includes(scope)) {
+        duplicatedPackages.set(scope, [
+          ...(duplicatedPackages.get(scope) || []),
+          name
+        ]);
+      }
+    }
+  }
+
+  if (duplicatedPackages.size > 0) {
+    console.log('Duplicated packages in allowScopes:');
+    for (const [scope, packages] of duplicatedPackages) {
+      console.log(` - ${scope}: ${packages.join(', ')}`);
+    }
+    assert.fail('Duplicated packages in allowScopes');
+  }
+});
