@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.135.0](https://github.com/cnpm/unpkg-white-list/compare/v1.134.1...v1.135.0) (2024-10-15)
+
+
+### Features
+
+* add [@windyy](https://github.com/windyy) ([#300](https://github.com/cnpm/unpkg-white-list/issues/300)) ([61c76a1](https://github.com/cnpm/unpkg-white-list/commit/61c76a1112af81cfb0b75b970c5f84b103a50354))
+
 ## [1.134.1](https://github.com/cnpm/unpkg-white-list/compare/v1.134.0...v1.134.1) (2024-10-11)
 
 
