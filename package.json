@@ -6713,6 +6713,9 @@
     "giturl": {
       "version": "*"
     },
+    "gkd-mrlc": {
+      "version": "*"
+    },
     "gkd-subscription": {
       "version": "*"
     },
