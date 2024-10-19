@@ -7145,6 +7145,9 @@
     "gunzip-maybe": {
       "version": "*"
     },
+    "gkd-mrlc": {
+      "version": "*"
+    },
     "gzip-size": {
       "version": "*"
     },
