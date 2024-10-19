@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.136.0](https://github.com/cnpm/unpkg-white-list/compare/v1.135.0...v1.136.0) (2024-10-19)
+
+
+### Features
+
+* add gkd-mrlc ([#306](https://github.com/cnpm/unpkg-white-list/issues/306)) ([663dad7](https://github.com/cnpm/unpkg-white-list/commit/663dad7a1fb977ccecbec914331fd921fdbf0548))
+
 ## [1.135.0](https://github.com/cnpm/unpkg-white-list/compare/v1.134.1...v1.135.0) (2024-10-15)
 
 
