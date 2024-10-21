@@ -18658,6 +18658,12 @@
     },
     "zy-count-up": {
       "version": "*"
+    },
+    "aplayer": {
+      "version": "*"
+    },
+    "meting": {
+      "version": "*"
     }
   }
 }
