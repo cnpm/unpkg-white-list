@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.137.0](https://github.com/cnpm/unpkg-white-list/compare/v1.136.0...v1.137.0) (2024-10-21)
+
+
+### Features
+
+* add [@scalar](https://github.com/scalar) ([#307](https://github.com/cnpm/unpkg-white-list/issues/307)) ([9d2872e](https://github.com/cnpm/unpkg-white-list/commit/9d2872e479a5f403a2261ab4cc2374fe019ef861))
+
 ## [1.136.0](https://github.com/cnpm/unpkg-white-list/compare/v1.135.0...v1.136.0) (2024-10-19)
 
 
