@@ -3651,6 +3651,9 @@
     "console": {
       "version": "*"
     },
+    "console-ban": {
+      "version": ">=4.0.0"
+    },
     "console-browserify": {
       "version": "*"
     },
@@ -17919,6 +17922,9 @@
     "vux-loader": {
       "version": "*"
     },
+    "vxe-table": {
+      "version": ">=3.0.0"
+    },
     "wait-for-expect": {
       "version": "*"
     },
@@ -18314,6 +18320,9 @@
     },
     "xe-clipboard": {
       "version": "*"
+    },
+    "xe-utils": {
+      "version": ">=3.0.0"
     },
     "xgplayer": {
       "version": "*"
