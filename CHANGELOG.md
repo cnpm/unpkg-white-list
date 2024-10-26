@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.138.0](https://github.com/cnpm/unpkg-white-list/compare/v1.137.0...v1.138.0) (2024-10-26)
+
+
+### Features
+
+* add pkg mpresources ([#311](https://github.com/cnpm/unpkg-white-list/issues/311)) ([8760287](https://github.com/cnpm/unpkg-white-list/commit/8760287a70a2f24552280b2c99b8d4b7c0d1e8ab))
+* add vxe-table xe-utils console-ban ([#309](https://github.com/cnpm/unpkg-white-list/issues/309)) ([82a37fd](https://github.com/cnpm/unpkg-white-list/commit/82a37fd78acf4f5e65879bbb130e279749c4cbfa))
+
 ## [1.137.0](https://github.com/cnpm/unpkg-white-list/compare/v1.136.0...v1.137.0) (2024-10-21)
 
 
