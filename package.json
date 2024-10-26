@@ -3652,7 +3652,7 @@
       "version": "*"
     },
     "console-ban": {
-      "version": ">=4.0.0"
+      "version": "*"
     },
     "console-browserify": {
       "version": "*"
@@ -17923,7 +17923,7 @@
       "version": "*"
     },
     "vxe-table": {
-      "version": ">=3.0.0"
+      "version": "*"
     },
     "wait-for-expect": {
       "version": "*"
@@ -18322,7 +18322,7 @@
       "version": "*"
     },
     "xe-utils": {
-      "version": ">=3.0.0"
+      "version": "*"
     },
     "xgplayer": {
       "version": "*"
