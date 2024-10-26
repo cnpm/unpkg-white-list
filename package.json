@@ -10351,7 +10351,7 @@
       "version": "*"
     },
     "mpresources": {
-      "version": ">=1.0.0"
+      "version": "*"
     },
     "mpx-es-check": {
       "version": "*"
