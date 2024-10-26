@@ -10350,6 +10350,9 @@
     "mpegts.js": {
       "version": "*"
     },
+    "mpresources": {
+      "version": "*"
+    },
     "mpx-es-check": {
       "version": "*"
     },
