@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.139.0](https://github.com/cnpm/unpkg-white-list/compare/v1.138.0...v1.139.0) (2024-10-30)
+
+
+### Features
+
+* add embla-carousel and embla-carousel plugins ([#313](https://github.com/cnpm/unpkg-white-list/issues/313)) ([4186325](https://github.com/cnpm/unpkg-white-list/commit/418632566448d5ba4e097a78fe8a7033a3ba4397))
+* add mars3d plugins ([#312](https://github.com/cnpm/unpkg-white-list/issues/312)) ([dd2ad7c](https://github.com/cnpm/unpkg-white-list/commit/dd2ad7c3304de6e1d5afe83520f169c41f342fc6))
+* add misans ([#314](https://github.com/cnpm/unpkg-white-list/issues/314)) ([e3c51c7](https://github.com/cnpm/unpkg-white-list/commit/e3c51c77261a1578fc7d5e48b155cef252eee19d))
+
 ## [1.138.0](https://github.com/cnpm/unpkg-white-list/compare/v1.137.0...v1.138.0) (2024-10-26)
 
 
