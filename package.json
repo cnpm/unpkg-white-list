@@ -9819,6 +9819,24 @@
     "mars3d-cesium": {
       "version": "*"
     },
+    "mars3d-echarts": {
+      "version": "*"
+    },
+    "mars3d-heatmap": {
+      "version": "*"
+    },
+    "mars3d-mapv": {
+      "version": "*"
+    },
+    "mars3d-space": {
+      "version": "*"
+    },
+    "mars3d-tdt": {
+      "version": "*"
+    },
+    "mars3d-wind": {
+      "version": "*"
+    },
     "mashi-open-snippets": {
       "version": "*"
     },
