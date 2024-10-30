@@ -5244,6 +5244,21 @@
     "emailjs": {
       "version": "*"
     },
+    "embla-carousel": {
+      "version": "*"
+    },
+    "embla-carousel-auto-height": {
+      "version": "*"
+    },
+    "embla-carousel-auto-scroll": {
+      "version": "*"
+    },
+    "embla-carousel-autoplay": {
+      "version": "*"
+    },
+    "embla-carousel-fade": {
+      "version": "*"
+    },
     "emitter": {
       "version": "*"
     },
