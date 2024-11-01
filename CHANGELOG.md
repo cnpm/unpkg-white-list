@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.140.0](https://github.com/cnpm/unpkg-white-list/compare/v1.139.0...v1.140.0) (2024-11-01)
+
+
+### Features
+
+* add sweetalert2 ([#315](https://github.com/cnpm/unpkg-white-list/issues/315)) ([ba11a96](https://github.com/cnpm/unpkg-white-list/commit/ba11a96b1521df77a501c496fbd1b1cf38704bec))
+
 ## [1.139.0](https://github.com/cnpm/unpkg-white-list/compare/v1.138.0...v1.139.0) (2024-10-30)
 
 
