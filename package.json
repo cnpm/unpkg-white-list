@@ -16131,6 +16131,9 @@
     "swc-plugin-auto-css-modules": {
       "version": "*"
     },
+    "sweetalert2": {
+      "version": "*"
+    },
     "swipe-js-iso": {
       "version": "*"
     },
