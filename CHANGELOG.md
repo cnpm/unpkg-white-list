@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.142.0](https://github.com/cnpm/unpkg-white-list/compare/v1.141.0...v1.142.0) (2024-11-05)
+
+
+### Features
+
+* add 3dmol ([#318](https://github.com/cnpm/unpkg-white-list/issues/318)) ([2d7fd22](https://github.com/cnpm/unpkg-white-list/commit/2d7fd22e6730bbe6de50843416a823aa192cf12a))
+
 ## [1.141.0](https://github.com/cnpm/unpkg-white-list/compare/v1.140.0...v1.141.0) (2024-11-05)
 
 
