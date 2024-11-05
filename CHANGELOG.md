@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.141.0](https://github.com/cnpm/unpkg-white-list/compare/v1.140.0...v1.141.0) (2024-11-05)
+
+
+### Features
+
+* add qrcanvas ([#317](https://github.com/cnpm/unpkg-white-list/issues/317)) ([f479ace](https://github.com/cnpm/unpkg-white-list/commit/f479acece36518f3c1c62e120dd854679b89a7c1))
+
 ## [1.140.0](https://github.com/cnpm/unpkg-white-list/compare/v1.139.0...v1.140.0) (2024-11-01)
 
 
