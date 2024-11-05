@@ -7,10 +7,22 @@
 
 ## 添加白名单方式
 
-1、直接在线修改 [package.json](https://github.com/cnpm/unpkg-white-list/edit/master/package.json) 中的 `allowPackages` 字段，
-添加你想开启 unpkg 文件同步的 npm 包名和版本号，全量同步版本号可以设置为 `*`。
+> [!NOTE]
+> 尽量使用 CLI 添加白名单，它可以确保字段顺序和格式正确，避免手动修改 `package.json` 文件。
 
-以同步 [urllib](https://npmmirror.com/package/urllib) 为示例，配置如下：
+### 添加指定包名和版本号
+
+用 CLI 添加你想开启 unpkg 文件同步的 npm 包名和版本号，全量同步版本号可以设置为 `*`，以同步 [urllib](https://npmmirror.com/package/urllib) 为示例：
+
+```bash
+npm run add -- --pkg=urllib:* # 同步 urllib 所有版本
+# or
+npm run add -- --pkg=urllib:1.0.0 # 同步 urllib 1.0.0 版本
+# or
+npm run add -- "--pkg=urllib:>=1.0.0" # 同步 urllib 大于等于 1.0.0 版本
+```
+
+_你将会看到 package.json 文件中的 `allowPackages` 字段被更新，如下所示：_
 
 ```json
 "allowPackages": {
@@ -22,7 +34,15 @@
 }
 ```
 
-当然你发布的是 scoped package，可以直接添加 scope 到白名单 `allowScopes`：
+### 添加指定 scope
+
+当然你发布的是 scoped package，可以用 CLI 添加 scope 到白名单 `allowScopes`：
+
+```bash
+npm run add -- --scope=@eggjs
+```
+
+_你将会看到 package.json 文件中的 `allowPackages` 字段被更新，如下所示：_
 
 ```json
 "allowScopes": [

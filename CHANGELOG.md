@@ -1,5 +1,315 @@
 # Changelog
 
+## [1.141.0](https://github.com/cnpm/unpkg-white-list/compare/v1.140.0...v1.141.0) (2024-11-05)
+
+
+### Features
+
+* add qrcanvas ([#317](https://github.com/cnpm/unpkg-white-list/issues/317)) ([f479ace](https://github.com/cnpm/unpkg-white-list/commit/f479acece36518f3c1c62e120dd854679b89a7c1))
+
+## [1.140.0](https://github.com/cnpm/unpkg-white-list/compare/v1.139.0...v1.140.0) (2024-11-01)
+
+
+### Features
+
+* add sweetalert2 ([#315](https://github.com/cnpm/unpkg-white-list/issues/315)) ([ba11a96](https://github.com/cnpm/unpkg-white-list/commit/ba11a96b1521df77a501c496fbd1b1cf38704bec))
+
+## [1.139.0](https://github.com/cnpm/unpkg-white-list/compare/v1.138.0...v1.139.0) (2024-10-30)
+
+
+### Features
+
+* add embla-carousel and embla-carousel plugins ([#313](https://github.com/cnpm/unpkg-white-list/issues/313)) ([4186325](https://github.com/cnpm/unpkg-white-list/commit/418632566448d5ba4e097a78fe8a7033a3ba4397))
+* add mars3d plugins ([#312](https://github.com/cnpm/unpkg-white-list/issues/312)) ([dd2ad7c](https://github.com/cnpm/unpkg-white-list/commit/dd2ad7c3304de6e1d5afe83520f169c41f342fc6))
+* add misans ([#314](https://github.com/cnpm/unpkg-white-list/issues/314)) ([e3c51c7](https://github.com/cnpm/unpkg-white-list/commit/e3c51c77261a1578fc7d5e48b155cef252eee19d))
+
+## [1.138.0](https://github.com/cnpm/unpkg-white-list/compare/v1.137.0...v1.138.0) (2024-10-26)
+
+
+### Features
+
+* add pkg mpresources ([#311](https://github.com/cnpm/unpkg-white-list/issues/311)) ([8760287](https://github.com/cnpm/unpkg-white-list/commit/8760287a70a2f24552280b2c99b8d4b7c0d1e8ab))
+* add vxe-table xe-utils console-ban ([#309](https://github.com/cnpm/unpkg-white-list/issues/309)) ([82a37fd](https://github.com/cnpm/unpkg-white-list/commit/82a37fd78acf4f5e65879bbb130e279749c4cbfa))
+
+## [1.137.0](https://github.com/cnpm/unpkg-white-list/compare/v1.136.0...v1.137.0) (2024-10-21)
+
+
+### Features
+
+* add [@scalar](https://github.com/scalar) ([#307](https://github.com/cnpm/unpkg-white-list/issues/307)) ([9d2872e](https://github.com/cnpm/unpkg-white-list/commit/9d2872e479a5f403a2261ab4cc2374fe019ef861))
+
+## [1.136.0](https://github.com/cnpm/unpkg-white-list/compare/v1.135.0...v1.136.0) (2024-10-19)
+
+
+### Features
+
+* add gkd-mrlc ([#306](https://github.com/cnpm/unpkg-white-list/issues/306)) ([663dad7](https://github.com/cnpm/unpkg-white-list/commit/663dad7a1fb977ccecbec914331fd921fdbf0548))
+
+## [1.135.0](https://github.com/cnpm/unpkg-white-list/compare/v1.134.1...v1.135.0) (2024-10-15)
+
+
+### Features
+
+* add [@windyy](https://github.com/windyy) ([#300](https://github.com/cnpm/unpkg-white-list/issues/300)) ([61c76a1](https://github.com/cnpm/unpkg-white-list/commit/61c76a1112af81cfb0b75b970c5f84b103a50354))
+
+## [1.134.1](https://github.com/cnpm/unpkg-white-list/compare/v1.134.0...v1.134.1) (2024-10-11)
+
+
+### Bug Fixes
+
+* remove duplicated packages ([#299](https://github.com/cnpm/unpkg-white-list/issues/299)) ([e59dcca](https://github.com/cnpm/unpkg-white-list/commit/e59dcca276543775a37e1e951d815d4eae9ca1b0))
+
+## [1.134.0](https://github.com/cnpm/unpkg-white-list/compare/v1.133.0...v1.134.0) (2024-10-10)
+
+
+### Features
+
+* add `[@wuxh](https://github.com/wuxh)` scope & allow  `refined-antd-changelog` ([#297](https://github.com/cnpm/unpkg-white-list/issues/297)) ([7bdaeb8](https://github.com/cnpm/unpkg-white-list/commit/7bdaeb8eb9f63fc0d20c301bd6e57115fd87d669))
+
+## [1.133.0](https://github.com/cnpm/unpkg-white-list/compare/v1.132.0...v1.133.0) (2024-10-10)
+
+
+### Features
+
+* add [@felce](https://github.com/felce) ([#294](https://github.com/cnpm/unpkg-white-list/issues/294)) ([ae318f1](https://github.com/cnpm/unpkg-white-list/commit/ae318f1629352d94530fc8bbdb767c8d5f59e64b))
+* add kwxoswoff20jscss ([#295](https://github.com/cnpm/unpkg-white-list/issues/295)) ([bc3a35a](https://github.com/cnpm/unpkg-white-list/commit/bc3a35a38095d415b7ed62a6685a9b5879647ff0))
+
+## [1.132.0](https://github.com/cnpm/unpkg-white-list/compare/v1.131.0...v1.132.0) (2024-10-08)
+
+
+### Features
+
+* add [@ffmpeg](https://github.com/ffmpeg) ([#288](https://github.com/cnpm/unpkg-white-list/issues/288)) ([09b25d4](https://github.com/cnpm/unpkg-white-list/commit/09b25d400db8ba26552c551e80c8bb0b5365df72))
+* add [@scent](https://github.com/scent) scope ([#286](https://github.com/cnpm/unpkg-white-list/issues/286)) ([bed767c](https://github.com/cnpm/unpkg-white-list/commit/bed767c748811177f1765bf0c6f9230205c17a13))
+* add @windyy/gkd_subscription ([#285](https://github.com/cnpm/unpkg-white-list/issues/285)) ([94c2b1c](https://github.com/cnpm/unpkg-white-list/commit/94c2b1ce7967304e7c69eac42a6e56bc8082cb4b))
+* add betterncm-packed-plugins ([#287](https://github.com/cnpm/unpkg-white-list/issues/287)) ([00c00b0](https://github.com/cnpm/unpkg-white-list/commit/00c00b0bd97eca05d726e411ab222d9b9273a76b))
+* add catnb-cdn ([#292](https://github.com/cnpm/unpkg-white-list/issues/292)) ([b6e7062](https://github.com/cnpm/unpkg-white-list/commit/b6e7062d3bf82ef3da1550ae77d5faf4c2778d61))
+* add emoji-datasource-twitter ([#293](https://github.com/cnpm/unpkg-white-list/issues/293)) ([4cfdaac](https://github.com/cnpm/unpkg-white-list/commit/4cfdaaca075327e6e600032d429e112ad8c85a84))
+* add hexo-theme-butterfly ([#284](https://github.com/cnpm/unpkg-white-list/issues/284)) ([c4c2a1e](https://github.com/cnpm/unpkg-white-list/commit/c4c2a1e3e655e2f37d60af670c89ea92a7bc419b))
+* add sakana-widget ([#290](https://github.com/cnpm/unpkg-white-list/issues/290)) ([48ec7a4](https://github.com/cnpm/unpkg-white-list/commit/48ec7a4d821fcc39eafad2b1ea40217b5d83b74f))
+* add skinview3d ([#289](https://github.com/cnpm/unpkg-white-list/issues/289)) ([fdd1852](https://github.com/cnpm/unpkg-white-list/commit/fdd18524e10a1fb10ca485f25aae6b902ce7df5d))
+
+## [1.131.0](https://github.com/cnpm/unpkg-white-list/compare/v1.130.0...v1.131.0) (2024-09-28)
+
+
+### Features
+
+* add cu-lowcode-multitablehead-setter ([#282](https://github.com/cnpm/unpkg-white-list/issues/282)) ([c7a4611](https://github.com/cnpm/unpkg-white-list/commit/c7a461174158fcfb21d51c99a7da2a950f7bb66f))
+* add simple-jekyll-search, glightbox and loading-attribute-polyfill ([#283](https://github.com/cnpm/unpkg-white-list/issues/283)) ([d244756](https://github.com/cnpm/unpkg-white-list/commit/d2447565b3c37f70783315414a6f43e1d8463146))
+
+## [1.130.0](https://github.com/cnpm/unpkg-white-list/compare/v1.129.0...v1.130.0) (2024-09-19)
+
+
+### Features
+
+* add birpc, hookable and perfect-debounce ([#281](https://github.com/cnpm/unpkg-white-list/issues/281)) ([28b3ff9](https://github.com/cnpm/unpkg-white-list/commit/28b3ff93228b345671d915b2321660dacf50041c)), closes [/github.com/vuejs/devtools-next/blob/7891be1eb0f00594ebdf5f9f7b3a1a6e4fbc9154/packages/devtools-kit/package.json#L32-L35](https://github.com/cnpm//github.com/vuejs/devtools-next/blob/7891be1eb0f00594ebdf5f9f7b3a1a6e4fbc9154/packages/devtools-kit/package.json/issues/L32-L35)
+
+## [1.129.0](https://github.com/cnpm/unpkg-white-list/compare/v1.128.0...v1.129.0) (2024-09-18)
+
+
+### Features
+
+* add lowcode-simple-table ([#280](https://github.com/cnpm/unpkg-white-list/issues/280)) ([dc30b5a](https://github.com/cnpm/unpkg-white-list/commit/dc30b5a9b9dbb22f3f0d68c974d96c019dccdffc))
+
+## [1.128.0](https://github.com/cnpm/unpkg-white-list/compare/v1.127.0...v1.128.0) (2024-09-18)
+
+
+### Features
+
+* add pyodide ([#279](https://github.com/cnpm/unpkg-white-list/issues/279)) ([0237068](https://github.com/cnpm/unpkg-white-list/commit/0237068f220d47a844eee01fa82a2140796d2099))
+
+## [1.127.0](https://github.com/cnpm/unpkg-white-list/compare/v1.126.0...v1.127.0) (2024-09-14)
+
+
+### Features
+
+* add [@lincy](https://github.com/lincy) ([#278](https://github.com/cnpm/unpkg-white-list/issues/278)) ([c3d98ce](https://github.com/cnpm/unpkg-white-list/commit/c3d98ced64ece2086acb3277ff480960286e3791))
+
+## [1.126.0](https://github.com/cnpm/unpkg-white-list/compare/v1.125.0...v1.126.0) (2024-09-13)
+
+
+### Features
+
+* add cansin-blogdata ([#277](https://github.com/cnpm/unpkg-white-list/issues/277)) ([90df533](https://github.com/cnpm/unpkg-white-list/commit/90df5333977477d3fbc6014af1c2adf5c2fa5b72))
+
+## [1.125.0](https://github.com/cnpm/unpkg-white-list/compare/v1.124.0...v1.125.0) (2024-09-12)
+
+
+### Features
+
+* add zw-lowcode-plugin-block-pane ([#276](https://github.com/cnpm/unpkg-white-list/issues/276)) ([1e64c55](https://github.com/cnpm/unpkg-white-list/commit/1e64c55c8e205273885c85f35d436d06a985e83b))
+
+## [1.124.0](https://github.com/cnpm/unpkg-white-list/compare/v1.123.0...v1.124.0) (2024-09-12)
+
+
+### Features
+
+* add @fawazahmed0/currency-api ([#275](https://github.com/cnpm/unpkg-white-list/issues/275)) ([4a955e7](https://github.com/cnpm/unpkg-white-list/commit/4a955e7a19ce8a1e632cc6789588d5102e1d857b))
+
+## [1.123.0](https://github.com/cnpm/unpkg-white-list/compare/v1.122.0...v1.123.0) (2024-09-11)
+
+
+### Features
+
+* add [@aria-packs](https://github.com/aria-packs) ([#274](https://github.com/cnpm/unpkg-white-list/issues/274)) ([d0dde88](https://github.com/cnpm/unpkg-white-list/commit/d0dde88dd1df8f28562f542b1032e4df4c2e662e))
+
+## [1.122.0](https://github.com/cnpm/unpkg-white-list/compare/v1.121.0...v1.122.0) (2024-09-11)
+
+
+### Features
+
+* add mars3d and mars3d-cesium ([#273](https://github.com/cnpm/unpkg-white-list/issues/273)) ([b6e7aa9](https://github.com/cnpm/unpkg-white-list/commit/b6e7aa909a8980212d88fb4925fff95559f36c76))
+
+## [1.121.0](https://github.com/cnpm/unpkg-white-list/compare/v1.120.0...v1.121.0) (2024-09-10)
+
+
+### Features
+
+* add musicfree-plugins ([#272](https://github.com/cnpm/unpkg-white-list/issues/272)) ([df521d9](https://github.com/cnpm/unpkg-white-list/commit/df521d9fca9609cf33824b1e1fb6166898ffeafb))
+
+## [1.120.0](https://github.com/cnpm/unpkg-white-list/compare/v1.119.0...v1.120.0) (2024-09-05)
+
+
+### Features
+
+* add [@yarnpkg](https://github.com/yarnpkg) ([#266](https://github.com/cnpm/unpkg-white-list/issues/266)) ([605ab05](https://github.com/cnpm/unpkg-white-list/commit/605ab0578d061806dd1042b0f17b7451efdc61e8))
+* add @yangkeith/gkd_subscription ([#267](https://github.com/cnpm/unpkg-white-list/issues/267)) ([ce2a7fb](https://github.com/cnpm/unpkg-white-list/commit/ce2a7fbaff17d403a83dddc4f995b9fb256ade67))
+* add clipboard-event ([#264](https://github.com/cnpm/unpkg-white-list/issues/264)) ([f915cfa](https://github.com/cnpm/unpkg-white-list/commit/f915cfac777dfc74ae70d0077a5d7c143e307aee))
+* add vite-plugin-gj-ts-packs ([#265](https://github.com/cnpm/unpkg-white-list/issues/265)) ([1f83245](https://github.com/cnpm/unpkg-white-list/commit/1f83245a1ecda2dc56d821dab84f97a17b6013ef))
+
+## [1.119.0](https://github.com/cnpm/unpkg-white-list/compare/v1.118.0...v1.119.0) (2024-08-31)
+
+
+### Features
+
+* add maptalks-gl ([#263](https://github.com/cnpm/unpkg-white-list/issues/263)) ([47ee067](https://github.com/cnpm/unpkg-white-list/commit/47ee067283232eed1d80b6a90a25ed81ec34ce46))
+* add pixpro ([#262](https://github.com/cnpm/unpkg-white-list/issues/262)) ([9117663](https://github.com/cnpm/unpkg-white-list/commit/911766352cb18a078c3220531f22820ad95df3bf))
+
+## [1.118.0](https://github.com/cnpm/unpkg-white-list/compare/v1.117.0...v1.118.0) (2024-08-28)
+
+
+### Features
+
+* add mx3d ([#261](https://github.com/cnpm/unpkg-white-list/issues/261)) ([dc0124c](https://github.com/cnpm/unpkg-white-list/commit/dc0124c7068d52817fe1d6520126cff811791f47))
+
+## [1.117.0](https://github.com/cnpm/unpkg-white-list/compare/v1.116.0...v1.117.0) (2024-08-28)
+
+
+### Features
+
+* add tailwindcss-utilities ([#260](https://github.com/cnpm/unpkg-white-list/issues/260)) ([ce2994c](https://github.com/cnpm/unpkg-white-list/commit/ce2994ce08a739bb20efe1d8539c6b46072b7849))
+
+## [1.116.0](https://github.com/cnpm/unpkg-white-list/compare/v1.115.0...v1.116.0) (2024-08-26)
+
+
+### Features
+
+* add eslint-plugin-gj-ts ([#259](https://github.com/cnpm/unpkg-white-list/issues/259)) ([6bc1d5a](https://github.com/cnpm/unpkg-white-list/commit/6bc1d5abb8085dfbd26d8cca73b2a30c54f3b290))
+
+## [1.115.0](https://github.com/cnpm/unpkg-white-list/compare/v1.114.0...v1.115.0) (2024-08-23)
+
+
+### Features
+
+* add [@pubfino](https://github.com/pubfino) ([#252](https://github.com/cnpm/unpkg-white-list/issues/252)) ([c6ed0b7](https://github.com/cnpm/unpkg-white-list/commit/c6ed0b70e7364b6b7704097fce33e98e485b464a))
+* add [@ztocwst](https://github.com/ztocwst) ([#254](https://github.com/cnpm/unpkg-white-list/issues/254)) ([4ffb71b](https://github.com/cnpm/unpkg-white-list/commit/4ffb71b999325d099a9489b637597459e1a60b66))
+* add element-gui ([#253](https://github.com/cnpm/unpkg-white-list/issues/253)) ([a4b8c5d](https://github.com/cnpm/unpkg-white-list/commit/a4b8c5d66727945c8fa4f1df287d584610ef5ec7))
+* add prcoords ([#257](https://github.com/cnpm/unpkg-white-list/issues/257)) ([3becd1a](https://github.com/cnpm/unpkg-white-list/commit/3becd1a4dfab63d83e58e8ff165d423eabc6f3e5))
+* add shed-fonts ([#256](https://github.com/cnpm/unpkg-white-list/issues/256)) ([0032665](https://github.com/cnpm/unpkg-white-list/commit/003266545048340860422b8efd6fcd78498fc57a))
+
+## [1.114.0](https://github.com/cnpm/unpkg-white-list/compare/v1.113.0...v1.114.0) (2024-08-19)
+
+
+### Features
+
+* add [@standardnotes](https://github.com/standardnotes) ([#249](https://github.com/cnpm/unpkg-white-list/issues/249)) ([54e3c6b](https://github.com/cnpm/unpkg-white-list/commit/54e3c6b7326c053c861d2288e2cca928e8fe9a9b))
+* add @adonisjs/encryption ([#250](https://github.com/cnpm/unpkg-white-list/issues/250)) ([35ba240](https://github.com/cnpm/unpkg-white-list/commit/35ba240356e415969f13acaf865a5a1272a8a17d))
+
+## [1.113.0](https://github.com/cnpm/unpkg-white-list/compare/v1.112.0...v1.113.0) (2024-08-18)
+
+
+### Features
+
+* add gpt-tokenizer ([#251](https://github.com/cnpm/unpkg-white-list/issues/251)) ([d76d145](https://github.com/cnpm/unpkg-white-list/commit/d76d145bb54688bec62c773dd3ccf59a9d1a86c1))
+* add speedtouch ([#248](https://github.com/cnpm/unpkg-white-list/issues/248)) ([99e09ae](https://github.com/cnpm/unpkg-white-list/commit/99e09ae5c9780a02e482c1b074ca53012c4e31fe))
+
+## [1.112.0](https://github.com/cnpm/unpkg-white-list/compare/v1.111.0...v1.112.0) (2024-08-14)
+
+
+### Features
+
+* add single-test-setter ([#245](https://github.com/cnpm/unpkg-white-list/issues/245)) ([aaeb632](https://github.com/cnpm/unpkg-white-list/commit/aaeb632d5af783c63b2e7a259307f95e29a9a593))
+* add trzsz ([#244](https://github.com/cnpm/unpkg-white-list/issues/244)) ([51d129c](https://github.com/cnpm/unpkg-white-list/commit/51d129ccadddae4716c8a3be1bf15a674c80dd30))
+
+## [1.111.0](https://github.com/cnpm/unpkg-white-list/compare/v1.110.0...v1.111.0) (2024-08-12)
+
+
+### Features
+
+* add disable-devtool ([#243](https://github.com/cnpm/unpkg-white-list/issues/243)) ([2e50956](https://github.com/cnpm/unpkg-white-list/commit/2e509568a134e17df194f30efd9b851a8238faa1))
+
+## [1.110.0](https://github.com/cnpm/unpkg-white-list/compare/v1.109.0...v1.110.0) (2024-08-12)
+
+
+### Features
+
+* add [@hook-js](https://github.com/hook-js) ([#242](https://github.com/cnpm/unpkg-white-list/issues/242)) ([4055416](https://github.com/cnpm/unpkg-white-list/commit/40554160adfe07a2efc0ce25cc21dd4a42037259))
+
+## [1.109.0](https://github.com/cnpm/unpkg-white-list/compare/v1.108.0...v1.109.0) (2024-08-09)
+
+
+### Features
+
+* add `minisearch` ([#241](https://github.com/cnpm/unpkg-white-list/issues/241)) ([094857c](https://github.com/cnpm/unpkg-white-list/commit/094857cb19ac5e092eb86ed441e971889343434f))
+
+## [1.108.0](https://github.com/cnpm/unpkg-white-list/compare/v1.107.0...v1.108.0) (2024-08-08)
+
+
+### Features
+
+* add `[@pagefind](https://github.com/pagefind)` and `flexsearch` ([#240](https://github.com/cnpm/unpkg-white-list/issues/240)) ([f270edf](https://github.com/cnpm/unpkg-white-list/commit/f270edf9815443ace34bb2ff251a5dcd969d7e81))
+
+## [1.107.0](https://github.com/cnpm/unpkg-white-list/compare/v1.106.0...v1.107.0) (2024-08-07)
+
+
+### Features
+
+* add web-serial-polyfill ([#239](https://github.com/cnpm/unpkg-white-list/issues/239)) ([7788e30](https://github.com/cnpm/unpkg-white-list/commit/7788e30275194296e9d3acb9d845b5b1316f62b0))
+
+## [1.106.0](https://github.com/cnpm/unpkg-white-list/compare/v1.105.0...v1.106.0) (2024-08-06)
+
+
+### Features
+
+* [@adpro](https://github.com/adpro) scope ([#238](https://github.com/cnpm/unpkg-white-list/issues/238)) ([fc9d71f](https://github.com/cnpm/unpkg-white-list/commit/fc9d71f93d94f08c026229f943d247e8fc130f1b))
+
+## [1.105.0](https://github.com/cnpm/unpkg-white-list/compare/v1.104.0...v1.105.0) (2024-08-05)
+
+
+### Features
+
+* add adl-lowcode-preset-plugin ([#237](https://github.com/cnpm/unpkg-white-list/issues/237)) ([2eebeaf](https://github.com/cnpm/unpkg-white-list/commit/2eebeafc6b35c936e30e470d77545d785acc72dd))
+* add altcha ([#236](https://github.com/cnpm/unpkg-white-list/issues/236)) ([ad802b7](https://github.com/cnpm/unpkg-white-list/commit/ad802b7f441bacd703c8a9d820030127f7e36514))
+* add aplayer and meting ([#230](https://github.com/cnpm/unpkg-white-list/issues/230)) ([b359a69](https://github.com/cnpm/unpkg-white-list/commit/b359a69368e92f4cffc95864fd2e6026fad1623a))
+* add highlightjs-copy ([#228](https://github.com/cnpm/unpkg-white-list/issues/228)) ([603cf69](https://github.com/cnpm/unpkg-white-list/commit/603cf6947a669c749da1d836e45465f9521f32d9))
+* add lowcode-simple-form & jsyw-lowcode-material-antd ([#231](https://github.com/cnpm/unpkg-white-list/issues/231)) ([965543f](https://github.com/cnpm/unpkg-white-list/commit/965543fb27675efe282e97001d1e518e85faa667))
+* add mitang-cdn ([#229](https://github.com/cnpm/unpkg-white-list/issues/229)) ([cbac3cf](https://github.com/cnpm/unpkg-white-list/commit/cbac3cf1ba29d7ce22264cdc17a1191030d39885))
+* add oh-my-live2d ([#234](https://github.com/cnpm/unpkg-white-list/issues/234)) ([33532f8](https://github.com/cnpm/unpkg-white-list/commit/33532f8003c1f6c00f6e6df904c2691df8f297d1))
+* add phosphor-icons ([#227](https://github.com/cnpm/unpkg-white-list/issues/227)) ([78dc71e](https://github.com/cnpm/unpkg-white-list/commit/78dc71ef3941500ae75f5cb6fbf7aae2839482f0))
+* add plyr ([#226](https://github.com/cnpm/unpkg-white-list/issues/226)) ([b44ae5a](https://github.com/cnpm/unpkg-white-list/commit/b44ae5a482c3e5fcb88978b32fccc42bc431086e))
+* add rapidoc ([#225](https://github.com/cnpm/unpkg-white-list/issues/225)) ([5cf1fc9](https://github.com/cnpm/unpkg-white-list/commit/5cf1fc90ad3543519174975d8ae4f89ed6d1eb54))
+* add rough-viz、@vue-office/docx、@vue-office/excel、@vue-office/pdf ([#233](https://github.com/cnpm/unpkg-white-list/issues/233)) ([f2dcc82](https://github.com/cnpm/unpkg-white-list/commit/f2dcc82994bdaaa03add758b55b9918165c0f073))
+* add xingzhengqu ([#235](https://github.com/cnpm/unpkg-white-list/issues/235)) ([c69133e](https://github.com/cnpm/unpkg-white-list/commit/c69133ed1ddb00d33347613a714829ed23587dc8))
+
+## [1.104.0](https://github.com/cnpm/unpkg-white-list/compare/v1.103.0...v1.104.0) (2024-07-21)
+
+
+### Features
+
+* add [@fontsource-variable](https://github.com/fontsource-variable) ([#224](https://github.com/cnpm/unpkg-white-list/issues/224)) ([8e1b821](https://github.com/cnpm/unpkg-white-list/commit/8e1b821484bcebab227e85ccb97b483fc328587d))
+* add [@tiptap](https://github.com/tiptap),marquee,popper,guides,datepicker-ui ([#222](https://github.com/cnpm/unpkg-white-list/issues/222)) ([f801550](https://github.com/cnpm/unpkg-white-list/commit/f80155011c847ab2bc888a680657773882958fa5))
+* add hexo-theme-cards, @fancyapps/fancybox ([#223](https://github.com/cnpm/unpkg-white-list/issues/223)) ([17a2f38](https://github.com/cnpm/unpkg-white-list/commit/17a2f385a5e391a7ac8eff8bd12166b7607dfbb1))
+
 ## [1.103.0](https://github.com/cnpm/unpkg-white-list/compare/v1.102.0...v1.103.0) (2024-07-19)
 
 
