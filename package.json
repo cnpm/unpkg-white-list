@@ -12045,6 +12045,9 @@
     "qr-scanner": {
       "version": "*"
     },
+    "qrcanvas": {
+      "version": "*"
+    },
     "qrcode": {
       "version": "*"
     },
