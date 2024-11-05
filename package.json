@@ -270,6 +270,9 @@
     "3d-force-graph": {
       "version": "*"
     },
+    "3dmol":{
+      "version": "*"
+    },
     "7zip-bin": {
       "version": "*"
     },
