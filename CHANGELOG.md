@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.143.0](https://github.com/cnpm/unpkg-white-list/compare/v1.142.0...v1.143.0) (2024-11-07)
+
+
+### Features
+
+* add shiki ([#319](https://github.com/cnpm/unpkg-white-list/issues/319)) ([9eb0bb4](https://github.com/cnpm/unpkg-white-list/commit/9eb0bb4e6122c0ebcb015b7e1856b4f52b6276c1))
+
 ## [1.142.0](https://github.com/cnpm/unpkg-white-list/compare/v1.141.0...v1.142.0) (2024-11-05)
 
 
