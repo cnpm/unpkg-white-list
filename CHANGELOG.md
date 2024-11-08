@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.144.0](https://github.com/cnpm/unpkg-white-list/compare/v1.143.0...v1.144.0) (2024-11-08)
+
+
+### Features
+
+* add [@puffer0315](https://github.com/puffer0315) ([#322](https://github.com/cnpm/unpkg-white-list/issues/322)) ([8bcc245](https://github.com/cnpm/unpkg-white-list/commit/8bcc24597f56956686b596a3d3b998ed43a35090))
+* add valine ([#320](https://github.com/cnpm/unpkg-white-list/issues/320)) ([8cdb858](https://github.com/cnpm/unpkg-white-list/commit/8cdb858323e99a50b3672f8b4324bc08f1fdd0cb))
+
 ## [1.143.0](https://github.com/cnpm/unpkg-white-list/compare/v1.142.0...v1.143.0) (2024-11-07)
 
 
