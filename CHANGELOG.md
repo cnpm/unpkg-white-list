@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.145.0](https://github.com/cnpm/unpkg-white-list/compare/v1.144.0...v1.145.0) (2024-11-15)
+
+
+### Features
+
+* add elykia elykia-img elykia-video ([#324](https://github.com/cnpm/unpkg-white-list/issues/324)) ([79485c3](https://github.com/cnpm/unpkg-white-list/commit/79485c3f1827a86c81dd91e03380fa1f800a5452))
+
 ## [1.144.0](https://github.com/cnpm/unpkg-white-list/compare/v1.143.0...v1.144.0) (2024-11-08)
 
 
