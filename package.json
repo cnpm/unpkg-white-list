@@ -72,6 +72,9 @@
     "@douyinfe",
     "@eggjs",
     "@electron",
+    "@elykia",
+    "@elykia-img",
+    "@elykia-video",
     "@emotion",
     "@ephox",
     "@esbuild-plugins",
@@ -5243,6 +5246,15 @@
       "version": "*"
     },
     "elliptic": {
+      "version": "*"
+    },
+    "elykia": {
+      "version": "*"
+    },
+    "elykia-img": {
+      "version": "*"
+    },
+    "elykia-video": {
       "version": "*"
     },
     "emailjs": {
