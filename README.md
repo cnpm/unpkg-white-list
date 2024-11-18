@@ -42,7 +42,7 @@ _你将会看到 package.json 文件中的 `allowPackages` 字段被更新，如
 npm run add -- --scope=@eggjs
 ```
 
-_你将会看到 package.json 文件中的 `allowPackages` 字段被更新，如下所示：_
+_你将会看到 package.json 文件中的 `allowScopes` 字段被更新，如下所示：_
 
 ```json
 "allowScopes": [
