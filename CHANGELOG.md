@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.146.0](https://github.com/cnpm/unpkg-white-list/compare/v1.145.0...v1.146.0) (2024-11-19)
+
+
+### Features
+
+* add [@jx3box](https://github.com/jx3box) ([#325](https://github.com/cnpm/unpkg-white-list/issues/325)) ([80e5dd9](https://github.com/cnpm/unpkg-white-list/commit/80e5dd9ee04b7fbdb7c0f3d940dcecc86d2240e1))
+
 ## [1.145.0](https://github.com/cnpm/unpkg-white-list/compare/v1.144.0...v1.145.0) (2024-11-15)
 
 
