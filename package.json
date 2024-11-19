@@ -124,6 +124,7 @@
     "@js-preview",
     "@jscpd",
     "@jupyterlab",
+    "@jx3box",
     "@kne",
     "@kne-components",
     "@koa",
