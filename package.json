@@ -3428,6 +3428,9 @@
     "cnchar": {
       "version": "*"
     },
+    "cnchar-data": {
+      "version": "*"
+    },
     "cnpmcore": {
       "version": "*"
     },
