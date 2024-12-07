@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.148.0](https://github.com/cnpm/unpkg-white-list/compare/v1.147.0...v1.148.0) (2024-12-07)
+
+
+### Features
+
+* add butterfly-extsrc ([#327](https://github.com/cnpm/unpkg-white-list/issues/327)) ([38205f2](https://github.com/cnpm/unpkg-white-list/commit/38205f22e0814c32456f788deeb7ae95b6d70170))
+
 ## [1.147.0](https://github.com/cnpm/unpkg-white-list/compare/v1.146.0...v1.147.0) (2024-11-21)
 
 
