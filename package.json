@@ -3002,6 +3002,9 @@
     "busboy": {
       "version": "*"
     },
+    "butterfly-extsrc": {
+      "version": "*"
+    },
     "bwip-js": {
       "version": "*"
     },
