@@ -128,6 +128,7 @@
     "@kne",
     "@kne-components",
     "@koa",
+    "@koishijs",
     "@latticexyz",
     "@lerna",
     "@lincy",
@@ -263,8 +264,7 @@
     "@yuzhang134562",
     "@zeit",
     "@ztocwst",
-    "@zxcvbn-ts",
-    "@koishijs"
+    "@zxcvbn-ts"
   ],
   "allowPackages": {
     "18s": {
@@ -442,6 +442,9 @@
       "version": "*"
     },
     "@commander-js/extra-typings": {
+      "version": "*"
+    },
+    "cosmokit": {
       "version": "*"
     },
     "@cspell/eslint-plugin": {
@@ -8967,6 +8970,9 @@
     "koa2-ratelimit": {
       "version": "*"
     },
+    "koishi": {
+      "version": "*"
+    },
     "kolorist": {
       "version": "*"
     },
@@ -15114,6 +15120,9 @@
     "scorpio-menu": {
       "version": "*"
     },
+    "schemastery": {
+      "version": "*"
+    },
     "scp2": {
       "version": "*"
     },
@@ -18742,15 +18751,6 @@
       "version": "*"
     },
     "zy-count-up": {
-      "version": "*"
-    },
-    "koishi": {
-      "version": "*"
-    },
-    "schemastery": {
-      "version": "*"
-    },
-    "cosmokit": {
       "version": "*"
     }
   }
