@@ -263,7 +263,8 @@
     "@yuzhang134562",
     "@zeit",
     "@ztocwst",
-    "@zxcvbn-ts"
+    "@zxcvbn-ts",
+    "@koishijs"
   ],
   "allowPackages": {
     "18s": {
@@ -18741,6 +18742,15 @@
       "version": "*"
     },
     "zy-count-up": {
+      "version": "*"
+    },
+    "koishi": {
+      "version": "*"
+    },
+    "schemastery": {
+      "version": "*"
+    },
+    "cosmokit": {
       "version": "*"
     }
   }
