@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.149.0](https://github.com/cnpm/unpkg-white-list/compare/v1.148.0...v1.149.0) (2024-12-12)
+
+
+### Features
+
+* add [@gsc-basic](https://github.com/gsc-basic) ([#329](https://github.com/cnpm/unpkg-white-list/issues/329)) ([02b433f](https://github.com/cnpm/unpkg-white-list/commit/02b433f4393007614244c7ebde23fe9eddf18d43))
+
 ## [1.148.0](https://github.com/cnpm/unpkg-white-list/compare/v1.147.0...v1.148.0) (2024-12-07)
 
 
