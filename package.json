@@ -130,6 +130,7 @@
     "@kne",
     "@kne-components",
     "@koa",
+    "@koishijs",
     "@latticexyz",
     "@lerna",
     "@lincy",
@@ -443,6 +444,9 @@
       "version": "*"
     },
     "@commander-js/extra-typings": {
+      "version": "*"
+    },
+    "cosmokit": {
       "version": "*"
     },
     "@cspell/eslint-plugin": {
@@ -8968,6 +8972,9 @@
     "koa2-ratelimit": {
       "version": "*"
     },
+    "koishi": {
+      "version": "*"
+    },
     "kolorist": {
       "version": "*"
     },
@@ -15113,6 +15120,12 @@
       "version": "*"
     },
     "scorpio-menu": {
+      "version": "*"
+    },
+    "scp2": {
+      "version": "*"
+    },
+    "schemastery": {
       "version": "*"
     },
     "scp2": {
