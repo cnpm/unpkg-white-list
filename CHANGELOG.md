@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.150.0](https://github.com/cnpm/unpkg-white-list/compare/v1.149.0...v1.150.0) (2024-12-15)
+
+
+### Features
+
+* add `[@electric-sql](https://github.com/electric-sql)` scope package ([#330](https://github.com/cnpm/unpkg-white-list/issues/330)) ([a67064d](https://github.com/cnpm/unpkg-white-list/commit/a67064d672e51de343843ba29028ebfb7ccf5ba6))
+
 ## [1.149.0](https://github.com/cnpm/unpkg-white-list/compare/v1.148.0...v1.149.0) (2024-12-12)
 
 
