@@ -175,6 +175,7 @@
     "@pubinfo",
     "@puffer0315",
     "@qse",
+    "@quasar",
     "@radix-ui",
     "@rc-component",
     "@reach",
@@ -12131,6 +12132,9 @@
       "version": "*"
     },
     "quantize": {
+      "version": "*"
+    },
+    "quasar": {
       "version": "*"
     },
     "query-string": {
