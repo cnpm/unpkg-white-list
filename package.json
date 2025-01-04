@@ -10501,6 +10501,9 @@
     "nacos-sdk-rust-binding-node": {
       "version": "*"
     },
+    "naive-ui": {
+      "version": "*"
+    },
     "name-storage": {
       "version": "*"
     },
