@@ -1216,6 +1216,9 @@
     "@xenova/transformers": {
       "version": "*"
     },
+    "@xiaochuan-dev/source": {
+      "version": "*"
+    },
     "@xzdarcy/react-timeline-editor": {
       "version": "*"
     },
