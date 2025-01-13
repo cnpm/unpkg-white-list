@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.152.0](https://github.com/cnpm/unpkg-white-list/compare/v1.151.0...v1.152.0) (2025-01-13)
+
+
+### Features
+
+* add @xiaochuan-dev/source ([#333](https://github.com/cnpm/unpkg-white-list/issues/333)) ([6f9c527](https://github.com/cnpm/unpkg-white-list/commit/6f9c527be6bfb101410cba78f44e4fd4ecc31a14)), closes [/github.com/cnpm/unpkg-white-list/blob/master/package.json#L18442](https://github.com/cnpm//github.com/cnpm/unpkg-white-list/blob/master/package.json/issues/L18442)
+
 ## [1.151.0](https://github.com/cnpm/unpkg-white-list/compare/v1.150.0...v1.151.0) (2025-01-13)
 
 
