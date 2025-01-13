@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.151.0](https://github.com/cnpm/unpkg-white-list/compare/v1.150.0...v1.151.0) (2025-01-13)
+
+
+### Features
+
+* add scope [@toco-design](https://github.com/toco-design) ([#334](https://github.com/cnpm/unpkg-white-list/issues/334)) ([8af8e6d](https://github.com/cnpm/unpkg-white-list/commit/8af8e6d337532b1b0aed575ba4c0456db6b93891))
+
 ## [1.150.0](https://github.com/cnpm/unpkg-white-list/compare/v1.149.0...v1.150.0) (2024-12-15)
 
 
