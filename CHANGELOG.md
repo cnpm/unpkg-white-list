@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.153.0](https://github.com/cnpm/unpkg-white-list/compare/v1.152.0...v1.153.0) (2025-01-13)
+
+
+### Features
+
+* add naive-ui and quasar framework ([#332](https://github.com/cnpm/unpkg-white-list/issues/332)) ([df4c41a](https://github.com/cnpm/unpkg-white-list/commit/df4c41ac5cdc457455b06bd41f0b7792c0beb265))
+
 ## [1.152.0](https://github.com/cnpm/unpkg-white-list/compare/v1.151.0...v1.152.0) (2025-01-13)
 
 
