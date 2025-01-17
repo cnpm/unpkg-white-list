@@ -12058,6 +12058,9 @@
     "q": {
       "version": "*"
     },
+    "qexo-static": {
+      "version": "*"
+    },
     "qhistory": {
       "version": "*"
     },
