@@ -16423,6 +16423,9 @@
     "through2": {
       "version": "*"
     },
+    "tianshu-components": {
+      "version": "*"
+    },
     "tiktoken": {
       "version": "*"
     },
