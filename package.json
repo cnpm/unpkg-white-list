@@ -11530,6 +11530,9 @@
     "post-messenger": {
       "version": "*"
     },
+    "postal-mime": {
+      "version": "*"
+    },
     "postcss": {
       "version": "*"
     },
