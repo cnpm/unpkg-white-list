@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.154.0](https://github.com/cnpm/unpkg-white-list/compare/v1.153.0...v1.154.0) (2025-01-17)
+
+
+### Features
+
+* add tianshu-components ([#336](https://github.com/cnpm/unpkg-white-list/issues/336)) ([b3ebd15](https://github.com/cnpm/unpkg-white-list/commit/b3ebd159026389762f562020836513dc347da2d4))
+
 ## [1.153.0](https://github.com/cnpm/unpkg-white-list/compare/v1.152.0...v1.153.0) (2025-01-13)
 
 
