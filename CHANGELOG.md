@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.155.0](https://github.com/cnpm/unpkg-white-list/compare/v1.154.0...v1.155.0) (2025-01-17)
+
+
+### Features
+
+* add `postal-mime` ([#335](https://github.com/cnpm/unpkg-white-list/issues/335)) ([31396e2](https://github.com/cnpm/unpkg-white-list/commit/31396e2d3ea1f2688bc9a70682ec31a7bbfe2c0c))
+
 ## [1.154.0](https://github.com/cnpm/unpkg-white-list/compare/v1.153.0...v1.154.0) (2025-01-17)
 
 
