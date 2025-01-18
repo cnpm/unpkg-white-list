@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.156.0](https://github.com/cnpm/unpkg-white-list/compare/v1.155.0...v1.156.0) (2025-01-18)
+
+
+### Features
+
+* add qexo-static ([#337](https://github.com/cnpm/unpkg-white-list/issues/337)) ([70ca53d](https://github.com/cnpm/unpkg-white-list/commit/70ca53d6356f04cdc3c3e2d1100fa712e990c26d)), closes [/#diff-7ae45ad102eab3b6d7e7896acd08c427a9b25b346470d7bc6507b6481575d519R12061-R12063](https://github.com/cnpm///issues/diff-7ae45ad102eab3b6d7e7896acd08c427a9b25b346470d7bc6507b6481575d519R12061-R12063)
+
 ## [1.155.0](https://github.com/cnpm/unpkg-white-list/compare/v1.154.0...v1.155.0) (2025-01-17)
 
 
