@@ -7336,6 +7336,9 @@
     "hexo": {
       "version": "*"
     },
+    "hexo-butterfly-tag-plugins-plus": {
+      "version": "*"
+    },
     "hexo-generator-archive": {
       "version": "*"
     },
