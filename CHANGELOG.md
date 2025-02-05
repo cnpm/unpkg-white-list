@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.157.0](https://github.com/cnpm/unpkg-white-list/compare/v1.156.0...v1.157.0) (2025-02-05)
+
+
+### Features
+
+* add hexo-butterfly-tag-plugins-plus ([#339](https://github.com/cnpm/unpkg-white-list/issues/339)) ([08b5910](https://github.com/cnpm/unpkg-white-list/commit/08b5910b00659985f279f0e09000508e2e4586df))
+
 ## [1.156.0](https://github.com/cnpm/unpkg-white-list/compare/v1.155.0...v1.156.0) (2025-01-18)
 
 
