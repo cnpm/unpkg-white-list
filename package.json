@@ -158,6 +158,7 @@
     "@opentiny",
     "@orillusion",
     "@otplib",
+    "@oven",
     "@paciolan",
     "@pagefind",
     "@pansy",
@@ -2999,6 +3000,9 @@
       "version": "*"
     },
     "bumpp": {
+      "version": "*"
+    },
+    "bun": {
       "version": "*"
     },
     "bunchee": {
