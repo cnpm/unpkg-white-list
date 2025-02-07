@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.160.0](https://github.com/cnpm/unpkg-white-list/compare/v1.159.0...v1.160.0) (2025-02-07)
+
+
+### Features
+
+* add [@yookue](https://github.com/yookue) ([#341](https://github.com/cnpm/unpkg-white-list/issues/341)) ([06705ec](https://github.com/cnpm/unpkg-white-list/commit/06705ec2fa39406ddc3a6c00e26cf624ef52aaf4))
+
 ## [1.159.0](https://github.com/cnpm/unpkg-white-list/compare/v1.158.0...v1.159.0) (2025-02-07)
 
 
