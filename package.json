@@ -11180,6 +11180,9 @@
     "pako": {
       "version": "*"
     },
+    "pandown": {
+      "version": "*"
+    },
     "panel-manager": {
       "version": "*"
     },
