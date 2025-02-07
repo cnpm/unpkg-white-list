@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.158.0](https://github.com/cnpm/unpkg-white-list/compare/v1.157.0...v1.158.0) (2025-02-07)
+
+
+### Features
+
+* add bun and its platform-specified packages ([#340](https://github.com/cnpm/unpkg-white-list/issues/340)) ([68fab54](https://github.com/cnpm/unpkg-white-list/commit/68fab5456de1f85f0f949073a77ff17106e63b6a))
+
 ## [1.157.0](https://github.com/cnpm/unpkg-white-list/compare/v1.156.0...v1.157.0) (2025-02-05)
 
 
