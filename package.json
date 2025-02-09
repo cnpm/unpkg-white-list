@@ -912,6 +912,9 @@
     "@multiavatar/multiavatar": {
       "version": "*"
     },
+    "@next-theme": {
+      "version": "*"
+    },
     "@novnc/novnc": {
       "version": "*"
     },
@@ -7380,6 +7383,9 @@
     "hexo-theme-redefine": {
       "version": "*"
     },
+    "hexo-generator-searchdb": {
+      "version": "*"
+    },
     "hhh-excel-export": {
       "version": "*"
     },
@@ -11157,6 +11163,9 @@
     "p5": {
       "version": "*"
     },
+    "pace-js": {
+      "version": "*"
+    },
     "package-hash": {
       "version": "*"
     },
@@ -12178,6 +12187,9 @@
       "version": "*"
     },
     "queue": {
+      "version": "*"
+    },
+    "quicklink": {
       "version": "*"
     },
     "quicktype-core": {
