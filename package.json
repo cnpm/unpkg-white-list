@@ -7356,6 +7356,9 @@
     "hexo-generator-index": {
       "version": "*"
     },
+    "hexo-generator-searchdb": {
+      "version": "*"
+    },
     "hexo-generator-tag": {
       "version": "*"
     },
@@ -7381,9 +7384,6 @@
       "version": "*"
     },
     "hexo-theme-redefine": {
-      "version": "*"
-    },
-    "hexo-generator-searchdb": {
       "version": "*"
     },
     "hhh-excel-export": {
