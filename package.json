@@ -912,6 +912,9 @@
     "@multiavatar/multiavatar": {
       "version": "*"
     },
+    "@next-theme": {
+      "version": "*"
+    },
     "@novnc/novnc": {
       "version": "*"
     },
@@ -7353,6 +7356,9 @@
     "hexo-generator-index": {
       "version": "*"
     },
+    "hexo-generator-searchdb": {
+      "version": "*"
+    },
     "hexo-generator-tag": {
       "version": "*"
     },
@@ -11157,6 +11163,9 @@
     "p5": {
       "version": "*"
     },
+    "pace-js": {
+      "version": "*"
+    },
     "package-hash": {
       "version": "*"
     },
@@ -12178,6 +12187,9 @@
       "version": "*"
     },
     "queue": {
+      "version": "*"
+    },
+    "quicklink": {
       "version": "*"
     },
     "quicktype-core": {
