@@ -18033,6 +18033,9 @@
     "vux-loader": {
       "version": "*"
     },
+    "vxe-pc-ui": {
+      "version": "*"
+    },
     "vxe-table": {
       "version": "*"
     },
