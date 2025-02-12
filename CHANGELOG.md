@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.162.0](https://github.com/cnpm/unpkg-white-list/compare/v1.161.0...v1.162.0) (2025-02-12)
+
+
+### Features
+
+* add vxe-pc-ui ([#343](https://github.com/cnpm/unpkg-white-list/issues/343)) ([9f53fe5](https://github.com/cnpm/unpkg-white-list/commit/9f53fe59c51d5e8be0c6294d83601a2f627c8f36))
+
 ## [1.161.0](https://github.com/cnpm/unpkg-white-list/compare/v1.160.0...v1.161.0) (2025-02-12)
 
 
