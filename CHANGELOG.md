@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.161.0](https://github.com/cnpm/unpkg-white-list/compare/v1.160.0...v1.161.0) (2025-02-12)
+
+
+### Features
+
+* add quicklink, [@next-theme](https://github.com/next-theme), hexo-generator-searchdb, pace-js ([#342](https://github.com/cnpm/unpkg-white-list/issues/342)) ([5fcd373](https://github.com/cnpm/unpkg-white-list/commit/5fcd373a4f7a86c4872b0d795e3a9d3116395411))
+
 ## [1.160.0](https://github.com/cnpm/unpkg-white-list/compare/v1.159.0...v1.160.0) (2025-02-07)
 
 
