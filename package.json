@@ -915,6 +915,9 @@
     "@next-theme": {
       "version": "*"
     },
+    "@next-theme/pjax": {
+      "version": "*"
+    },
     "@novnc/novnc": {
       "version": "*"
     },
@@ -11452,6 +11455,9 @@
       "version": "*"
     },
     "pizzip": {
+      "version": "*"
+    },
+    "pjax": {
       "version": "*"
     },
     "pkg": {
