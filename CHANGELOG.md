@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.163.0](https://github.com/cnpm/unpkg-white-list/compare/v1.162.0...v1.163.0) (2025-02-15)
+
+
+### Features
+
+* add pjax ([#345](https://github.com/cnpm/unpkg-white-list/issues/345)) ([24d3ebe](https://github.com/cnpm/unpkg-white-list/commit/24d3ebe9994d6e901eca3c8b0c492f4e136e17fc))
+
 ## [1.162.0](https://github.com/cnpm/unpkg-white-list/compare/v1.161.0...v1.162.0) (2025-02-12)
 
 
