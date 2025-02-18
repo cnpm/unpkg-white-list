@@ -738,6 +738,9 @@
     "@jitsi/sdp-simulcast": {
       "version": "*"
     },
+    "@jiuqianyuan/aisouler_gkd_subscription": {
+      "version": "*"
+    },
     "@jorgeferrero/stream-to-buffer": {
       "version": "*"
     },
