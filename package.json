@@ -18800,6 +18800,9 @@
     },
     "zy-count-up": {
       "version": "*"
+    },
+    "browser-tool": {
+      "version": "*"
     }
   }
 }
