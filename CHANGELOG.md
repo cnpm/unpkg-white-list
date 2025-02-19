@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.164.0](https://github.com/cnpm/unpkg-white-list/compare/v1.163.0...v1.164.0) (2025-02-19)
+
+
+### Features
+
+* add @jiuqianyuan/aisouler_gkd_subscription ([#346](https://github.com/cnpm/unpkg-white-list/issues/346)) ([94663b4](https://github.com/cnpm/unpkg-white-list/commit/94663b456a2ba8ec73557196e6b3d61db4d6e599))
+
 ## [1.163.0](https://github.com/cnpm/unpkg-white-list/compare/v1.162.0...v1.163.0) (2025-02-15)
 
 
