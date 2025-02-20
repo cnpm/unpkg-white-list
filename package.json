@@ -18807,6 +18807,9 @@
     "zxing-wasm": {
       "version": "*"
     },
+    "browser-tool": {
+      "version": "*"
+    },
     "zy-count-up": {
       "version": "*"
     }
