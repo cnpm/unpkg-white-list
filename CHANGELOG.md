@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.165.0](https://github.com/cnpm/unpkg-white-list/compare/v1.164.0...v1.165.0) (2025-02-20)
+
+
+### Features
+
+* add @egjs/infinitegrid and instant.page ([#347](https://github.com/cnpm/unpkg-white-list/issues/347)) ([841718d](https://github.com/cnpm/unpkg-white-list/commit/841718d0306d8595022587885db6c5bfeb70a86c))
+
 ## [1.164.0](https://github.com/cnpm/unpkg-white-list/compare/v1.163.0...v1.164.0) (2025-02-19)
 
 
