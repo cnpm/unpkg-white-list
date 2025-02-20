@@ -504,6 +504,9 @@
     "@ef-carbon/tspm": {
       "version": "*"
     },
+    "@egjs/infinitegrid": {
+      "version": "*"
+    },
     "@elastic/elasticsearch": {
       "version": "*"
     },
@@ -7894,6 +7897,9 @@
       "version": "*"
     },
     "install-peers-cli": {
+      "version": "*"
+    },
+    "instant.page": {
       "version": "*"
     },
     "instantsearch.js": {
