@@ -18809,6 +18809,9 @@
     },
     "zy-count-up": {
       "version": "*"
+    },
+    "gt4-css-js": {
+      "version": "*"
     }
   }
 }
