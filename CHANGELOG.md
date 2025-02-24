@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.166.0](https://github.com/cnpm/unpkg-white-list/compare/v1.165.0...v1.166.0) (2025-02-24)
+
+
+### Features
+
+* add gt4-css-js ([#349](https://github.com/cnpm/unpkg-white-list/issues/349)) ([c3cacd9](https://github.com/cnpm/unpkg-white-list/commit/c3cacd9971c0f20947f3524caf274f0c24f3872c))
+
 ## [1.165.0](https://github.com/cnpm/unpkg-white-list/compare/v1.164.0...v1.165.0) (2025-02-20)
 
 
