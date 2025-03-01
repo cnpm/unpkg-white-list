@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.167.0](https://github.com/cnpm/unpkg-white-list/compare/v1.166.0...v1.167.0) (2025-03-01)
+
+
+### Features
+
+* add layer-src ([#350](https://github.com/cnpm/unpkg-white-list/issues/350)) ([959fff7](https://github.com/cnpm/unpkg-white-list/commit/959fff7727f589d06e1cee3424773d4f27ad3626))
+
 ## [1.166.0](https://github.com/cnpm/unpkg-white-list/compare/v1.165.0...v1.166.0) (2025-02-24)
 
 
