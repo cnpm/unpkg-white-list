@@ -7059,6 +7059,9 @@
     "gsap": {
       "version": "*"
     },
+    "gt4-css-js": {
+      "version": "*"
+    },
     "gts": {
       "version": "*"
     },
@@ -9052,6 +9055,9 @@
       "version": "*"
     },
     "launch-editor-middleware": {
+      "version": "*"
+    },
+    "layer-src": {
       "version": "*"
     },
     "layotto": {
@@ -18808,9 +18814,6 @@
       "version": "*"
     },
     "zy-count-up": {
-      "version": "*"
-    },
-    "gt4-css-js": {
       "version": "*"
     }
   }
