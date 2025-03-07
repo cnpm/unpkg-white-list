@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.168.0](https://github.com/cnpm/unpkg-white-list/compare/v1.167.0...v1.168.0) (2025-03-07)
+
+
+### Features
+
+* add daisyui ([#351](https://github.com/cnpm/unpkg-white-list/issues/351)) ([fc29389](https://github.com/cnpm/unpkg-white-list/commit/fc29389064e9c0b9e252b1edd08c9885668f0b58))
+
 ## [1.167.0](https://github.com/cnpm/unpkg-white-list/compare/v1.166.0...v1.167.0) (2025-03-01)
 
 
