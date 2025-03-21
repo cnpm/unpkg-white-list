@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.169.0](https://github.com/cnpm/unpkg-white-list/compare/v1.168.0...v1.169.0) (2025-03-21)
+
+
+### Features
+
+* add [@creativecommons](https://github.com/creativecommons) and hexo-theme-next ([#352](https://github.com/cnpm/unpkg-white-list/issues/352)) ([9814187](https://github.com/cnpm/unpkg-white-list/commit/9814187dc2601699b06a982c2347248bf56d98d8))
+
 ## [1.168.0](https://github.com/cnpm/unpkg-white-list/compare/v1.167.0...v1.168.0) (2025-03-07)
 
 
