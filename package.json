@@ -64,6 +64,7 @@
     "@cnpmjs",
     "@codemirror",
     "@commitlint",
+    "@creativecommons",
     "@dashuaibi45678",
     "@dcloudio",
     "@designable",
@@ -7396,6 +7397,9 @@
       "version": "*"
     },
     "hexo-theme-landscape": {
+      "version": "*"
+    },
+    "hexo-theme-next": {
       "version": "*"
     },
     "hexo-theme-redefine": {
