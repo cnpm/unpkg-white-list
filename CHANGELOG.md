@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.170.0](https://github.com/cnpm/unpkg-white-list/compare/v1.169.0...v1.170.0) (2025-03-27)
+
+
+### Features
+
+* add splayer-js ([#353](https://github.com/cnpm/unpkg-white-list/issues/353)) ([5705829](https://github.com/cnpm/unpkg-white-list/commit/570582959ff528b4008736a4afdfd83c1960472d))
+
 ## [1.169.0](https://github.com/cnpm/unpkg-white-list/compare/v1.168.0...v1.169.0) (2025-03-21)
 
 
