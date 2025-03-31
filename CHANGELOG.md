@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.171.0](https://github.com/cnpm/unpkg-white-list/compare/v1.170.0...v1.171.0) (2025-03-31)
+
+
+### Features
+
+* add xiao-xm support ([#355](https://github.com/cnpm/unpkg-white-list/issues/355)) ([2b587ec](https://github.com/cnpm/unpkg-white-list/commit/2b587ec0080eaea2aea55e0dae0ab6ebcd044fc0))
+
 ## [1.170.0](https://github.com/cnpm/unpkg-white-list/compare/v1.169.0...v1.170.0) (2025-03-27)
 
 
