@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.171.1](https://github.com/cnpm/unpkg-white-list/compare/v1.171.0...v1.171.1) (2025-04-01)
+
+
+### Bug Fixes
+
+* remove xiao-xm and wot-design-uni-assets ([#356](https://github.com/cnpm/unpkg-white-list/issues/356)) ([9b2adf1](https://github.com/cnpm/unpkg-white-list/commit/9b2adf1c67e8682e27608bbe289129b15fd0c012))
+
 ## [1.171.0](https://github.com/cnpm/unpkg-white-list/compare/v1.170.0...v1.171.0) (2025-03-31)
 
 
