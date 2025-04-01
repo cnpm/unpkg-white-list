@@ -4379,6 +4379,9 @@
     "decompress": {
       "version": "*"
     },
+    "dede-xm": {
+      "version": "*"
+    },
     "dedent": {
       "version": "*"
     },
