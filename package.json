@@ -9104,10 +9104,10 @@
     "leaflet.markercluster": {
       "version": "*"
     },
-    "leancloud-storage": {
+    "leancloud-realtime": {
       "version": "*"
     },
-    "leancloud-realtime": {
+    "leancloud-storage": {
       "version": "*"
     },
     "left-pad": {
