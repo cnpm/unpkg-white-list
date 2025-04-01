@@ -132,6 +132,7 @@
     "@kne-components",
     "@koa",
     "@latticexyz",
+    "@leancloud",
     "@lerna",
     "@lincy",
     "@lingui",
@@ -9101,6 +9102,12 @@
       "version": "*"
     },
     "leaflet.markercluster": {
+      "version": "*"
+    },
+    "leancloud-storage": {
+      "version": "*"
+    },
+    "leancloud-realtime": {
       "version": "*"
     },
     "left-pad": {
