@@ -18421,9 +18421,6 @@
     "wormhole-x": {
       "version": "*"
     },
-    "wot-design-uni-assets": {
-      "version": "*"
-    },
     "wrapper-webpack-plugin": {
       "version": "*"
     },
@@ -18518,9 +18515,6 @@
       "version": "*"
     },
     "xhr2": {
-      "version": "*"
-    },
-    "xiao-xm": {
       "version": "*"
     },
     "xiaochuan-source-dev": {
