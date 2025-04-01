@@ -1,5 +1,40 @@
 # Changelog
 
+## [1.171.1](https://github.com/cnpm/unpkg-white-list/compare/v1.171.0...v1.171.1) (2025-04-01)
+
+
+### Bug Fixes
+
+* remove xiao-xm and wot-design-uni-assets ([#356](https://github.com/cnpm/unpkg-white-list/issues/356)) ([9b2adf1](https://github.com/cnpm/unpkg-white-list/commit/9b2adf1c67e8682e27608bbe289129b15fd0c012))
+
+## [1.171.0](https://github.com/cnpm/unpkg-white-list/compare/v1.170.0...v1.171.0) (2025-03-31)
+
+
+### Features
+
+* add xiao-xm support ([#355](https://github.com/cnpm/unpkg-white-list/issues/355)) ([2b587ec](https://github.com/cnpm/unpkg-white-list/commit/2b587ec0080eaea2aea55e0dae0ab6ebcd044fc0))
+
+## [1.170.0](https://github.com/cnpm/unpkg-white-list/compare/v1.169.0...v1.170.0) (2025-03-27)
+
+
+### Features
+
+* add splayer-js ([#353](https://github.com/cnpm/unpkg-white-list/issues/353)) ([5705829](https://github.com/cnpm/unpkg-white-list/commit/570582959ff528b4008736a4afdfd83c1960472d))
+
+## [1.169.0](https://github.com/cnpm/unpkg-white-list/compare/v1.168.0...v1.169.0) (2025-03-21)
+
+
+### Features
+
+* add [@creativecommons](https://github.com/creativecommons) and hexo-theme-next ([#352](https://github.com/cnpm/unpkg-white-list/issues/352)) ([9814187](https://github.com/cnpm/unpkg-white-list/commit/9814187dc2601699b06a982c2347248bf56d98d8))
+
+## [1.168.0](https://github.com/cnpm/unpkg-white-list/compare/v1.167.0...v1.168.0) (2025-03-07)
+
+
+### Features
+
+* add daisyui ([#351](https://github.com/cnpm/unpkg-white-list/issues/351)) ([fc29389](https://github.com/cnpm/unpkg-white-list/commit/fc29389064e9c0b9e252b1edd08c9885668f0b58))
+
 ## [1.167.0](https://github.com/cnpm/unpkg-white-list/compare/v1.166.0...v1.167.0) (2025-03-01)
 
 
