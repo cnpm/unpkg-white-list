@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.172.0](https://github.com/cnpm/unpkg-white-list/compare/v1.171.1...v1.172.0) (2025-04-01)
+
+
+### Features
+
+* add leancloud js sdk to cnpm cdn ([#358](https://github.com/cnpm/unpkg-white-list/issues/358)) ([e8f8b73](https://github.com/cnpm/unpkg-white-list/commit/e8f8b73110882246239b674ec8ca45b027928e08))
+
 ## [1.171.1](https://github.com/cnpm/unpkg-white-list/compare/v1.171.0...v1.171.1) (2025-04-01)
 
 
