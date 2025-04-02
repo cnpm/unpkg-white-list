@@ -5519,6 +5519,9 @@
     "esbuild-register": {
       "version": "*"
     },
+    "esbuild-wasm": {
+      "version": "*"
+    },
     "esbuild-webpack-plugin": {
       "version": "*"
     },
