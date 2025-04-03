@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.175.0](https://github.com/cnpm/unpkg-white-list/compare/v1.174.0...v1.175.0) (2025-04-03)
+
+
+### Features
+
+* add "@ebiz/lowcode-components" package ([#354](https://github.com/cnpm/unpkg-white-list/issues/354)) ([daca11a](https://github.com/cnpm/unpkg-white-list/commit/daca11a838df8cb6c6b8c3d26751fc3a4a16b432))
+
 ## [1.174.0](https://github.com/cnpm/unpkg-white-list/compare/v1.173.0...v1.174.0) (2025-04-03)
 
 
