@@ -497,6 +497,9 @@
     "@ebay/nice-modal-react": {
       "version": "*"
     },
+    "@ebiz/lowcode-components": {
+      "version": "*"
+    },
     "@ecomfe/eslint-config": {
       "version": "*"
     },
