@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.174.0](https://github.com/cnpm/unpkg-white-list/compare/v1.173.0...v1.174.0) (2025-04-03)
+
+
+### Features
+
+* add skulpt ([#361](https://github.com/cnpm/unpkg-white-list/issues/361)) ([8fbfa85](https://github.com/cnpm/unpkg-white-list/commit/8fbfa85e8b158c0543860a53a24ec5fb8e11a9d4))
+
 ## [1.173.0](https://github.com/cnpm/unpkg-white-list/compare/v1.172.0...v1.173.0) (2025-04-03)
 
 
