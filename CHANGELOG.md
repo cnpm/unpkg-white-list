@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.173.0](https://github.com/cnpm/unpkg-white-list/compare/v1.172.0...v1.173.0) (2025-04-03)
+
+
+### Features
+
+* add esbuild-wasm ([#362](https://github.com/cnpm/unpkg-white-list/issues/362)) ([a5f302f](https://github.com/cnpm/unpkg-white-list/commit/a5f302fa5075d42ade9c4607fb469939cc5b8d39))
+
 ## [1.172.0](https://github.com/cnpm/unpkg-white-list/compare/v1.171.1...v1.172.0) (2025-04-01)
 
 
