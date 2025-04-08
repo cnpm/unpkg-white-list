@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.176.0](https://github.com/cnpm/unpkg-white-list/compare/v1.175.0...v1.176.0) (2025-04-08)
+
+
+### Features
+
+* add [@ziuchen](https://github.com/ziuchen) scope ([#364](https://github.com/cnpm/unpkg-white-list/issues/364)) ([c3d621a](https://github.com/cnpm/unpkg-white-list/commit/c3d621adf65cefc290aa2e3812874b25281ad175))
+
 ## [1.175.0](https://github.com/cnpm/unpkg-white-list/compare/v1.174.0...v1.175.0) (2025-04-03)
 
 
