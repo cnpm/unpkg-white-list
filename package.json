@@ -7260,6 +7260,9 @@
     "handlebars-template-loader": {
       "version": "*"
     },
+    "handsome-cdn": {
+      "version": "*"
+    },
     "handsontable": {
       "version": "*"
     },
