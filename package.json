@@ -18839,6 +18839,9 @@
     },
     "zy-count-up": {
       "version": "*"
+    },
+    "handsome-cdn": {
+      "version": "*"
     }
   }
 }
