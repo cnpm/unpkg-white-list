@@ -3183,6 +3183,9 @@
     "catnb-cdn": {
       "version": "*"
     },
+    "cesium": {
+      "version": "*"
+    },
     "chai": {
       "version": "*"
     },
