@@ -10230,6 +10230,9 @@
     "misans": {
       "version": "*"
     },
+    "misans-webfont": {
+      "version": "*"
+    },
     "mitang-cdn": {
       "version": "*"
     },
