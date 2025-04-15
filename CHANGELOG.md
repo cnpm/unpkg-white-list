@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.177.0](https://github.com/cnpm/unpkg-white-list/compare/v1.176.0...v1.177.0) (2025-04-15)
+
+
+### Features
+
+* add cesium ([#365](https://github.com/cnpm/unpkg-white-list/issues/365)) ([5ba74bd](https://github.com/cnpm/unpkg-white-list/commit/5ba74bd8b710ebdc48c64d532e8291db0027dc56))
+* add misans-webfont dependency ([#368](https://github.com/cnpm/unpkg-white-list/issues/368)) ([e5ed011](https://github.com/cnpm/unpkg-white-list/commit/e5ed0118581234c65889d8655095d5392f9c902f))
+
 ## [1.176.0](https://github.com/cnpm/unpkg-white-list/compare/v1.175.0...v1.176.0) (2025-04-08)
 
 
