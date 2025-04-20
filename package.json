@@ -669,6 +669,9 @@
     "@hoythan/watermark-dom": {
       "version": "*"
     },
+    "@hx384/gkd_subscription": {
+      "version": "*"
+    },
     "@ianvs/prettier-plugin-sort-imports": {
       "version": "*"
     },
@@ -18844,9 +18847,6 @@
       "version": "*"
     },
     "zy-count-up": {
-      "version": "*"
-    },
-    "@hx384/gkd_subscription": {
       "version": "*"
     }
   }
