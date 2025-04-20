@@ -18845,6 +18845,9 @@
     },
     "zy-count-up": {
       "version": "*"
+    },
+    "@hx384/gkd_subscription": {
+      "version": "*"
     }
   }
 }
