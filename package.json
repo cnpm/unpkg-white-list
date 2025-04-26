@@ -2829,6 +2829,9 @@
     "bootstrap-select": {
       "version": "*"
     },
+    "boqi-cdn": {
+      "version": "*"
+    },
     "bowser": {
       "version": "*"
     },
@@ -9265,6 +9268,9 @@
       "version": "*"
     },
     "live2d-widget": {
+      "version": "*"
+    },
+    "llqplayer": {
       "version": "*"
     },
     "load-script": {
