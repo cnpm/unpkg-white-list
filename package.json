@@ -6819,6 +6819,9 @@
     "glamor": {
       "version": "*"
     },
+    "glaze-ui-for-pc": {
+      "version": "*"
+    },
     "glightbox": {
       "version": "*"
     },
