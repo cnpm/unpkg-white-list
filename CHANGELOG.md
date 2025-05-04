@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.178.0](https://github.com/cnpm/unpkg-white-list/compare/v1.177.0...v1.178.0) (2025-05-04)
+
+
+### Features
+
+* add cliclimde ([#372](https://github.com/cnpm/unpkg-white-list/issues/372)) ([9795b94](https://github.com/cnpm/unpkg-white-list/commit/9795b94bfaa0bfcf3147bdb1031d888ff0b66db5))
+
 ## [1.177.0](https://github.com/cnpm/unpkg-white-list/compare/v1.176.0...v1.177.0) (2025-04-15)
 
 
