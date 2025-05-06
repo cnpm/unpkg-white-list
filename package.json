@@ -502,9 +502,6 @@
     "@ebiz/designer-components-mobile": {
       "version": "*"
     },
-    "@ebiz/lowcode-components": {
-      "version": "*"
-    },
     "@ecomfe/eslint-config": {
       "version": "*"
     },
