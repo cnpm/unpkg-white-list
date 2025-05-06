@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.179.0](https://github.com/cnpm/unpkg-white-list/compare/v1.178.0...v1.179.0) (2025-05-06)
+
+
+### Features
+
+* add chinese-days ([#374](https://github.com/cnpm/unpkg-white-list/issues/374)) ([7b28d37](https://github.com/cnpm/unpkg-white-list/commit/7b28d376c35de9028757009ffa5c9d7588445c82))
+* add llqplayer and boqi-cdn ([#370](https://github.com/cnpm/unpkg-white-list/issues/370)) ([e89c405](https://github.com/cnpm/unpkg-white-list/commit/e89c4055b8b11641572252c4a21b0a6829fb6773))
+
 ## [1.178.0](https://github.com/cnpm/unpkg-white-list/compare/v1.177.0...v1.178.0) (2025-05-04)
 
 
