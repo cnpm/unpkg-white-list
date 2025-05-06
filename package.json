@@ -3264,6 +3264,9 @@
     "chinese-conv": {
       "version": "*"
     },
+    "chinese-days": {
+      "version": "*"
+    },
     "chinese-holidays": {
       "version": "*"
     },
