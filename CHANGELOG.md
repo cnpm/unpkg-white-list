@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.180.0](https://github.com/cnpm/unpkg-white-list/compare/v1.179.0...v1.180.0) (2025-05-09)
+
+
+### Features
+
+* add [@opentinyvue](https://github.com/opentinyvue) to allowScopes ([#375](https://github.com/cnpm/unpkg-white-list/issues/375)) ([c06391f](https://github.com/cnpm/unpkg-white-list/commit/c06391f750a3380df59ba3a393c085ed3db91b68))
+
 ## [1.179.0](https://github.com/cnpm/unpkg-white-list/compare/v1.178.0...v1.179.0) (2025-05-06)
 
 
