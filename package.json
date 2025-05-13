@@ -9727,6 +9727,9 @@
     "lz-string": {
       "version": "*"
     },
+    "lzma": {
+      "version": "*"
+    },
     "m-share": {
       "version": "*"
     },
