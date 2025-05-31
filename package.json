@@ -667,6 +667,9 @@
     "@hotoo/orderby": {
       "version": "*"
     },
+    "@hotwired/turbo": {
+      "version": "*"
+    },
     "@hoythan/watermark-dom": {
       "version": "*"
     },
