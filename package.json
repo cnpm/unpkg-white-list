@@ -499,6 +499,12 @@
     "@ebay/nice-modal-react": {
       "version": "*"
     },
+    "@ebiz/designer-components": {
+      "version": "*"
+    },
+    "@ebiz/designer-components-mobile": {
+      "version": "*"
+    },
     "@ebiz/lowcode-components": {
       "version": "*"
     },
