@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.183.0](https://github.com/cnpm/unpkg-white-list/compare/v1.182.0...v1.183.0) (2025-06-03)
+
+
+### Features
+
+* add @hotwired/turbo ([#378](https://github.com/cnpm/unpkg-white-list/issues/378)) ([db7bdfc](https://github.com/cnpm/unpkg-white-list/commit/db7bdfc449b94182a1a8bc5f7765201fa59f18d9))
+
 ## [1.182.0](https://github.com/cnpm/unpkg-white-list/compare/v1.181.0...v1.182.0) (2025-06-03)
 
 
