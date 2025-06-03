@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.181.0](https://github.com/cnpm/unpkg-white-list/compare/v1.180.0...v1.181.0) (2025-06-03)
+
+
+### Features
+
+* add lzma ([#376](https://github.com/cnpm/unpkg-white-list/issues/376)) ([c18a2b1](https://github.com/cnpm/unpkg-white-list/commit/c18a2b11fe74d8e7fc2b9c9dc382cab7ba49de63))
+
 ## [1.180.0](https://github.com/cnpm/unpkg-white-list/compare/v1.179.0...v1.180.0) (2025-05-09)
 
 
