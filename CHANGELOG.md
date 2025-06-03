@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.182.0](https://github.com/cnpm/unpkg-white-list/compare/v1.181.0...v1.182.0) (2025-06-03)
+
+
+### Features
+
+* add @ebiz/designer-components and @ebiz/designer-components-mobile ([#377](https://github.com/cnpm/unpkg-white-list/issues/377)) ([135b1d7](https://github.com/cnpm/unpkg-white-list/commit/135b1d7d48cc48cbd911f1cb95d49c0cddae266f))
+
 ## [1.181.0](https://github.com/cnpm/unpkg-white-list/compare/v1.180.0...v1.181.0) (2025-06-03)
 
 
