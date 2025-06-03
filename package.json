@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.170.0",
+  "version": "1.181.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -132,6 +132,7 @@
     "@kne-components",
     "@koa",
     "@latticexyz",
+    "@leancloud",
     "@lerna",
     "@lincy",
     "@lingui",
@@ -157,6 +158,7 @@
     "@okamjs",
     "@opensumi",
     "@opentiny",
+    "@opentinyvue",
     "@orillusion",
     "@otplib",
     "@oven",
@@ -273,6 +275,7 @@
     "@yuntijs",
     "@yuzhang134562",
     "@zeit",
+    "@ziuchen",
     "@ztocwst",
     "@zxcvbn-ts"
   ],
@@ -500,6 +503,9 @@
       "version": "*"
     },
     "@ebiz/designer-components-mobile": {
+      "version": "*"
+    },
+    "@ebiz/lowcode-components": {
       "version": "*"
     },
     "@ecomfe/eslint-config": {
@@ -2830,6 +2836,9 @@
     "bootstrap-select": {
       "version": "*"
     },
+    "boqi-cdn": {
+      "version": "*"
+    },
     "bowser": {
       "version": "*"
     },
@@ -3184,6 +3193,9 @@
     "catnb-cdn": {
       "version": "*"
     },
+    "cesium": {
+      "version": "*"
+    },
     "chai": {
       "version": "*"
     },
@@ -3260,6 +3272,9 @@
       "version": "*"
     },
     "chinese-conv": {
+      "version": "*"
+    },
+    "chinese-days": {
       "version": "*"
     },
     "chinese-holidays": {
@@ -3398,6 +3413,9 @@
       "version": "*"
     },
     "cli-ux": {
+      "version": "*"
+    },
+    "cliclimde": {
       "version": "*"
     },
     "clientworker": {
@@ -5522,6 +5540,9 @@
       "version": "*"
     },
     "esbuild-register": {
+      "version": "*"
+    },
+    "esbuild-wasm": {
       "version": "*"
     },
     "esbuild-webpack-plugin": {
@@ -9109,6 +9130,12 @@
     "leaflet.markercluster": {
       "version": "*"
     },
+    "leancloud-realtime": {
+      "version": "*"
+    },
+    "leancloud-storage": {
+      "version": "*"
+    },
     "left-pad": {
       "version": "*"
     },
@@ -9254,6 +9281,9 @@
       "version": "*"
     },
     "live2d-widget": {
+      "version": "*"
+    },
+    "llqplayer": {
       "version": "*"
     },
     "load-script": {
@@ -9701,6 +9731,9 @@
       "version": "*"
     },
     "lz-string": {
+      "version": "*"
+    },
+    "lzma": {
       "version": "*"
     },
     "m-share": {
@@ -10217,6 +10250,9 @@
       "version": "*"
     },
     "misans": {
+      "version": "*"
+    },
+    "misans-webfont": {
       "version": "*"
     },
     "mitang-cdn": {
@@ -15568,6 +15604,9 @@
     "skinview3d": {
       "version": "*"
     },
+    "skulpt": {
+      "version": "*"
+    },
     "sky-manager": {
       "version": "*"
     },
@@ -18425,9 +18464,6 @@
       "version": "*"
     },
     "wormhole-x": {
-      "version": "*"
-    },
-    "wot-design-uni-assets": {
       "version": "*"
     },
     "wrapper-webpack-plugin": {

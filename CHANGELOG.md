@@ -1,5 +1,91 @@
 # Changelog
 
+## [1.181.0](https://github.com/cnpm/unpkg-white-list/compare/v1.180.0...v1.181.0) (2025-06-03)
+
+
+### Features
+
+* add lzma ([#376](https://github.com/cnpm/unpkg-white-list/issues/376)) ([c18a2b1](https://github.com/cnpm/unpkg-white-list/commit/c18a2b11fe74d8e7fc2b9c9dc382cab7ba49de63))
+
+## [1.180.0](https://github.com/cnpm/unpkg-white-list/compare/v1.179.0...v1.180.0) (2025-05-09)
+
+
+### Features
+
+* add [@opentinyvue](https://github.com/opentinyvue) to allowScopes ([#375](https://github.com/cnpm/unpkg-white-list/issues/375)) ([c06391f](https://github.com/cnpm/unpkg-white-list/commit/c06391f750a3380df59ba3a393c085ed3db91b68))
+
+## [1.179.0](https://github.com/cnpm/unpkg-white-list/compare/v1.178.0...v1.179.0) (2025-05-06)
+
+
+### Features
+
+* add chinese-days ([#374](https://github.com/cnpm/unpkg-white-list/issues/374)) ([7b28d37](https://github.com/cnpm/unpkg-white-list/commit/7b28d376c35de9028757009ffa5c9d7588445c82))
+* add llqplayer and boqi-cdn ([#370](https://github.com/cnpm/unpkg-white-list/issues/370)) ([e89c405](https://github.com/cnpm/unpkg-white-list/commit/e89c4055b8b11641572252c4a21b0a6829fb6773))
+
+## [1.178.0](https://github.com/cnpm/unpkg-white-list/compare/v1.177.0...v1.178.0) (2025-05-04)
+
+
+### Features
+
+* add cliclimde ([#372](https://github.com/cnpm/unpkg-white-list/issues/372)) ([9795b94](https://github.com/cnpm/unpkg-white-list/commit/9795b94bfaa0bfcf3147bdb1031d888ff0b66db5))
+
+## [1.177.0](https://github.com/cnpm/unpkg-white-list/compare/v1.176.0...v1.177.0) (2025-04-15)
+
+
+### Features
+
+* add cesium ([#365](https://github.com/cnpm/unpkg-white-list/issues/365)) ([5ba74bd](https://github.com/cnpm/unpkg-white-list/commit/5ba74bd8b710ebdc48c64d532e8291db0027dc56))
+* add misans-webfont dependency ([#368](https://github.com/cnpm/unpkg-white-list/issues/368)) ([e5ed011](https://github.com/cnpm/unpkg-white-list/commit/e5ed0118581234c65889d8655095d5392f9c902f))
+
+## [1.176.0](https://github.com/cnpm/unpkg-white-list/compare/v1.175.0...v1.176.0) (2025-04-08)
+
+
+### Features
+
+* add [@ziuchen](https://github.com/ziuchen) scope ([#364](https://github.com/cnpm/unpkg-white-list/issues/364)) ([c3d621a](https://github.com/cnpm/unpkg-white-list/commit/c3d621adf65cefc290aa2e3812874b25281ad175))
+
+## [1.175.0](https://github.com/cnpm/unpkg-white-list/compare/v1.174.0...v1.175.0) (2025-04-03)
+
+
+### Features
+
+* add "@ebiz/lowcode-components" package ([#354](https://github.com/cnpm/unpkg-white-list/issues/354)) ([daca11a](https://github.com/cnpm/unpkg-white-list/commit/daca11a838df8cb6c6b8c3d26751fc3a4a16b432))
+
+## [1.174.0](https://github.com/cnpm/unpkg-white-list/compare/v1.173.0...v1.174.0) (2025-04-03)
+
+
+### Features
+
+* add skulpt ([#361](https://github.com/cnpm/unpkg-white-list/issues/361)) ([8fbfa85](https://github.com/cnpm/unpkg-white-list/commit/8fbfa85e8b158c0543860a53a24ec5fb8e11a9d4))
+
+## [1.173.0](https://github.com/cnpm/unpkg-white-list/compare/v1.172.0...v1.173.0) (2025-04-03)
+
+
+### Features
+
+* add esbuild-wasm ([#362](https://github.com/cnpm/unpkg-white-list/issues/362)) ([a5f302f](https://github.com/cnpm/unpkg-white-list/commit/a5f302fa5075d42ade9c4607fb469939cc5b8d39))
+
+## [1.172.0](https://github.com/cnpm/unpkg-white-list/compare/v1.171.1...v1.172.0) (2025-04-01)
+
+
+### Features
+
+* add leancloud js sdk to cnpm cdn ([#358](https://github.com/cnpm/unpkg-white-list/issues/358)) ([e8f8b73](https://github.com/cnpm/unpkg-white-list/commit/e8f8b73110882246239b674ec8ca45b027928e08))
+
+## [1.171.1](https://github.com/cnpm/unpkg-white-list/compare/v1.171.0...v1.171.1) (2025-04-01)
+
+
+### Bug Fixes
+
+* remove xiao-xm and wot-design-uni-assets ([#356](https://github.com/cnpm/unpkg-white-list/issues/356)) ([9b2adf1](https://github.com/cnpm/unpkg-white-list/commit/9b2adf1c67e8682e27608bbe289129b15fd0c012))
+
+## [1.171.0](https://github.com/cnpm/unpkg-white-list/compare/v1.170.0...v1.171.0) (2025-03-31)
+
+
+### Features
+
+* add xiao-xm support ([#355](https://github.com/cnpm/unpkg-white-list/issues/355)) ([2b587ec](https://github.com/cnpm/unpkg-white-list/commit/2b587ec0080eaea2aea55e0dae0ab6ebcd044fc0))
+
 ## [1.170.0](https://github.com/cnpm/unpkg-white-list/compare/v1.169.0...v1.170.0) (2025-03-27)
 
 
