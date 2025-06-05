@@ -17902,6 +17902,9 @@
     "vue-awesome-swiper": {
       "version": "*"
     },
+    "vue-advanced-chat": {
+      "version": "*"
+    },
     "vue-clamp": {
       "version": "*"
     },
