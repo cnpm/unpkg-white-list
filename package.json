@@ -17899,6 +17899,9 @@
     "vue": {
       "version": "*"
     },
+    "vue-advanced-chat": {
+      "version": "*"
+    },
     "vue-awesome-swiper": {
       "version": "*"
     },
