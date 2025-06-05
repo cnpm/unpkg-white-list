@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.184.0](https://github.com/cnpm/unpkg-white-list/compare/v1.183.0...v1.184.0) (2025-06-05)
+
+
+### Features
+
+* add vue-advanced-chat ([#379](https://github.com/cnpm/unpkg-white-list/issues/379)) ([dfe20b8](https://github.com/cnpm/unpkg-white-list/commit/dfe20b8e389b5dabe4caeaf52cffcb75eba5f900))
+
 ## [1.183.0](https://github.com/cnpm/unpkg-white-list/compare/v1.182.0...v1.183.0) (2025-06-03)
 
 
