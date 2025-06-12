@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.186.0](https://github.com/cnpm/unpkg-white-list/compare/v1.185.0...v1.186.0) (2025-06-12)
+
+
+### Features
+
+* add docsify-related packages ([#380](https://github.com/cnpm/unpkg-white-list/issues/380)) ([e1e8609](https://github.com/cnpm/unpkg-white-list/commit/e1e860960181e54040caa90e5c1e3885245934b2))
+
 ## [1.185.0](https://github.com/cnpm/unpkg-white-list/compare/v1.184.0...v1.185.0) (2025-06-12)
 
 
