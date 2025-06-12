@@ -5356,6 +5356,9 @@
     "emoji-mart": {
       "version": "*"
     },
+    "emoji-picker-element-data": {
+      "version": "*"
+    },
     "emoji-reader": {
       "version": "*"
     },
