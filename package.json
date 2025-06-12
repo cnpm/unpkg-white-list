@@ -4633,6 +4633,12 @@
     "docsearch.js": {
       "version": "*"
     },
+    "docsify": {
+      "version": "*"
+    },
+    "docsify-count": {
+      "version": "*"
+    },
     "docsify-sidebar-collapse": {
       "version": "*"
     },
