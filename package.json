@@ -961,6 +961,9 @@
     "@open-wc/webpack-import-meta-loader": {
       "version": "*"
     },
+    "@openlist-frontend/openlist-frontend": {
+      "version": "*"
+    },
     "@opentelemetry/sdk-trace-base": {
       "version": "*"
     },
