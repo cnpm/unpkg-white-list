@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.187.0](https://github.com/cnpm/unpkg-white-list/compare/v1.186.0...v1.187.0) (2025-06-16)
+
+
+### Features
+
+* add @openlist-frontend/openlist-frontend ([#382](https://github.com/cnpm/unpkg-white-list/issues/382)) ([deb1a62](https://github.com/cnpm/unpkg-white-list/commit/deb1a62b29b6dbb317e4481dd6e8085364070fe9))
+
 ## [1.186.0](https://github.com/cnpm/unpkg-white-list/compare/v1.185.0...v1.186.0) (2025-06-12)
 
 
