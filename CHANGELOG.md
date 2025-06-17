@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.188.0](https://github.com/cnpm/unpkg-white-list/compare/v1.187.0...v1.188.0) (2025-06-17)
+
+
+### Features
+
+* add `[@univerjs](https://github.com/univerjs)` & `[@univerjs-pro](https://github.com/univerjs-pro)` scope ([#383](https://github.com/cnpm/unpkg-white-list/issues/383)) ([205e470](https://github.com/cnpm/unpkg-white-list/commit/205e470ca8615aaffab52e098e9900ff6820bd91))
+
 ## [1.187.0](https://github.com/cnpm/unpkg-white-list/compare/v1.186.0...v1.187.0) (2025-06-16)
 
 
