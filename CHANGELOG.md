@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.189.0](https://github.com/cnpm/unpkg-white-list/compare/v1.188.0...v1.189.0) (2025-06-20)
+
+
+### Features
+
+* add simple-keyboard ([#384](https://github.com/cnpm/unpkg-white-list/issues/384)) ([e3fa818](https://github.com/cnpm/unpkg-white-list/commit/e3fa818a92762b09e00359f96636ef5dfb0d3c01))
+
 ## [1.188.0](https://github.com/cnpm/unpkg-white-list/compare/v1.187.0...v1.188.0) (2025-06-17)
 
 
