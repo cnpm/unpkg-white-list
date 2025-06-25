@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.190.0](https://github.com/cnpm/unpkg-white-list/compare/v1.189.0...v1.190.0) (2025-06-25)
+
+
+### Features
+
+* add [@nutui](https://github.com/nutui) ([#386](https://github.com/cnpm/unpkg-white-list/issues/386)) ([51cddf5](https://github.com/cnpm/unpkg-white-list/commit/51cddf596b8158eb28d69b3d0413bf95130ba862))
+
 ## [1.189.0](https://github.com/cnpm/unpkg-white-list/compare/v1.188.0...v1.189.0) (2025-06-20)
 
 
