@@ -949,9 +949,6 @@
     "@npkg/tinymce-plugins": {
       "version": "*"
     },
-    "@nutui/nutui": {
-      "version": "4.3.13"
-    },
     "@nuxtjs/friendly-errors-webpack-plugin": {
       "version": "*"
     },
