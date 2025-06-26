@@ -4390,6 +4390,9 @@
     "decamelize": {
       "version": "*"
     },
+    "decap-cms": {
+      "version": "*"
+    },
     "decimal": {
       "version": "*"
     },
