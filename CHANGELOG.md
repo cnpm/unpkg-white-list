@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.191.0](https://github.com/cnpm/unpkg-white-list/compare/v1.190.0...v1.191.0) (2025-06-26)
+
+
+### Features
+
+* add decap-cms ([#387](https://github.com/cnpm/unpkg-white-list/issues/387)) ([b19ddf0](https://github.com/cnpm/unpkg-white-list/commit/b19ddf0d96da828df3bd209c6d1e0492acb16ed4))
+
 ## [1.190.0](https://github.com/cnpm/unpkg-white-list/compare/v1.189.0...v1.190.0) (2025-06-25)
 
 
