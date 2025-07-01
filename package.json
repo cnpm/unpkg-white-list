@@ -5491,6 +5491,9 @@
     "es-module-shims": {
       "version": "*"
     },
+    "es-toolkit": {
+      "version": "*"
+    },
     "es3ify-loader": {
       "version": "*"
     },
