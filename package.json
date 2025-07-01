@@ -11140,7 +11140,7 @@
     "opener": {
       "version": "*"
     },
-    "openlist-frontend": {
+    "openlist-frontend/openlist-frontend": {
       "version": "*"
     },
     "openpgp": {
