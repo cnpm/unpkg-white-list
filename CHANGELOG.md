@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.192.0](https://github.com/cnpm/unpkg-white-list/compare/v1.191.0...v1.192.0) (2025-07-01)
+
+
+### Features
+
+* add es-toolkit ([#391](https://github.com/cnpm/unpkg-white-list/issues/391)) ([8ffa533](https://github.com/cnpm/unpkg-white-list/commit/8ffa53330f1caafcc6e5ade625c3d98f005af584))
+
 ## [1.191.0](https://github.com/cnpm/unpkg-white-list/compare/v1.190.0...v1.191.0) (2025-06-26)
 
 
