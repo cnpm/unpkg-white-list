@@ -10588,6 +10588,9 @@
     "mvdan-sh": {
       "version": "*"
     },
+    "mvpofficweb": {
+      "version": "*"
+    },
     "mx3d": {
       "version": "*"
     },
