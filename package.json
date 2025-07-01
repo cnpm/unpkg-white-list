@@ -11140,6 +11140,9 @@
     "opener": {
       "version": "*"
     },
+    "openlist-frontend": {
+      "version": "*"
+    },
     "openpgp": {
       "version": "*"
     },
