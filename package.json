@@ -9211,6 +9211,9 @@
     "less2js": {
       "version": "*"
     },
+    "less_browser_fix": {
+      "version": "*"
+    },
     "lessc": {
       "version": "*"
     },
