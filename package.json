@@ -9745,10 +9745,22 @@
     "lxgw-wenkai-gb-web": {
       "version": "*"
     },
+    "lxgw-wenkai-lite-webfont": {
+      "version": "*"
+    },
     "lxgw-wenkai-screen-web": {
       "version": "*"
     },
+    "lxgw-wenkai-screen-webfont": {
+      "version": "*"
+    },
     "lxgw-wenkai-tc-web": {
+      "version": "*"
+    },
+    "lxgw-wenkai-tc-webfont": {
+      "version": "*"
+    },
+    "lxgw-wenkai-webfont": {
       "version": "*"
     },
     "lyn-conventional-changelog": {
