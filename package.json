@@ -18911,10 +18911,10 @@
     "zxing-wasm": {
       "version": "*"
     },
-    "zy-count-up": {
+    "oes": {
       "version": "*"
     },
-    "oes": {
+    "zy-count-up": {
       "version": "*"
     }
   }
