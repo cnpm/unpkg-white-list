@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.193.0](https://github.com/cnpm/unpkg-white-list/compare/v1.192.0...v1.193.0) (2025-07-30)
+
+
+### Features
+
+* add `lxgw-wenkai-webfont`, `lxgw-wenkai-lite-webfont`, `lxgw-wenkai-tc-webfont`, and `lxgw-wenkai-screen-webfont` ([#398](https://github.com/cnpm/unpkg-white-list/issues/398)) ([226e744](https://github.com/cnpm/unpkg-white-list/commit/226e7441b27b1e286aa055ef1211ebca6ca7d1bf))
+
 ## [1.192.0](https://github.com/cnpm/unpkg-white-list/compare/v1.191.0...v1.192.0) (2025-07-01)
 
 
