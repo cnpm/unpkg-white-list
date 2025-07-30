@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.194.0](https://github.com/cnpm/unpkg-white-list/compare/v1.193.0...v1.194.0) (2025-07-30)
+
+
+### Features
+
+* add `[@shikijs](https://github.com/shikijs)` to allowScopes ([#396](https://github.com/cnpm/unpkg-white-list/issues/396)) ([a77192a](https://github.com/cnpm/unpkg-white-list/commit/a77192ab84931006749fec3a9f9731e42adaa8e5))
+
 ## [1.193.0](https://github.com/cnpm/unpkg-white-list/compare/v1.192.0...v1.193.0) (2025-07-30)
 
 
