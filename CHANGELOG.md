@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.196.0](https://github.com/cnpm/unpkg-white-list/compare/v1.195.0...v1.196.0) (2025-07-30)
+
+
+### Features
+
+* add mui-player ([#401](https://github.com/cnpm/unpkg-white-list/issues/401)) ([cca154c](https://github.com/cnpm/unpkg-white-list/commit/cca154c6fc3e2908bd83f5dbd669d7bd928c0c8d))
+
 ## [1.195.0](https://github.com/cnpm/unpkg-white-list/compare/v1.194.0...v1.195.0) (2025-07-30)
 
 

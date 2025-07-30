@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.195.0",
+  "version": "1.196.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -10563,6 +10563,9 @@
       "version": "*"
     },
     "msw-storybook-addon": {
+      "version": "*"
+    },
+    "mui-player": {
       "version": "*"
     },
     "muk-prop": {
