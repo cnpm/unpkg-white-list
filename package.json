@@ -10565,6 +10565,9 @@
     "msw-storybook-addon": {
       "version": "*"
     },
+    "mui-player": {
+      "version": "*"
+    },
     "muk-prop": {
       "version": "*"
     },
