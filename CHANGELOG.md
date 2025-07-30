@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.195.0](https://github.com/cnpm/unpkg-white-list/compare/v1.194.0...v1.195.0) (2025-07-30)
+
+
+### Features
+
+* add package less_browser_fix ([#397](https://github.com/cnpm/unpkg-white-list/issues/397)) ([d6ce6f6](https://github.com/cnpm/unpkg-white-list/commit/d6ce6f63120792da2ceb934351c322a711ba1d4f))
+
 ## [1.194.0](https://github.com/cnpm/unpkg-white-list/compare/v1.193.0...v1.194.0) (2025-07-30)
 
 
