@@ -11066,6 +11066,9 @@
     "odux": {
       "version": "*"
     },
+    "oes": {
+      "version": "*"
+    },
     "offset": {
       "version": "*"
     },
@@ -18909,9 +18912,6 @@
       "version": "*"
     },
     "zxing-wasm": {
-      "version": "*"
-    },
-    "oes": {
       "version": "*"
     },
     "zy-count-up": {
