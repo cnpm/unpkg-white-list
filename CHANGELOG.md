@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.197.0](https://github.com/cnpm/unpkg-white-list/compare/v1.196.0...v1.197.0) (2025-07-31)
+
+
+### Features
+
+* add `[@material](https://github.com/material)` scope ([#402](https://github.com/cnpm/unpkg-white-list/issues/402)) ([04a5767](https://github.com/cnpm/unpkg-white-list/commit/04a576745c3423562d95ea81ade75e94a456f1ff))
+
 ## [1.196.0](https://github.com/cnpm/unpkg-white-list/compare/v1.195.0...v1.196.0) (2025-07-30)
 
 
