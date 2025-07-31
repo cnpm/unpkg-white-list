@@ -140,6 +140,7 @@
     "@mapbox",
     "@maptalks",
     "@mas.io",
+    "@material",
     "@material-symbols",
     "@material-ui",
     "@maybe-lab",
@@ -864,9 +865,6 @@
       "version": "*"
     },
     "@matejmazur/react-katex": {
-      "version": "*"
-    },
-    "@material/material-color-utilities": {
       "version": "*"
     },
     "@mdi/font": {
