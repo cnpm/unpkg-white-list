@@ -867,9 +867,6 @@
     "@matejmazur/react-katex": {
       "version": "*"
     },
-    "@material/material-color-utilities": {
-      "version": "*"
-    },
     "@mdi/font": {
       "version": "*"
     },
