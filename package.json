@@ -18437,6 +18437,9 @@
     "westore": {
       "version": "*"
     },
+    "weui": {
+      "version": "*"
+    },
     "whatwg-fetch": {
       "version": "*"
     },
