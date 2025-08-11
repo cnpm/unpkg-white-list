@@ -36,6 +36,9 @@ _你将会看到 package.json 文件中的 `allowPackages` 字段被更新，如
 
 ### 添加指定 scope
 
+> [!WARNING]
+> 为避免滥用，申请添加的 scope 必须已包含热门包（如周下载量超过 1 万）。我们不接受为刚创建且无热门包的 scope 添加白名单。
+
 当然你发布的是 scoped package，可以用 CLI 添加 scope 到白名单 `allowScopes`：
 
 ```bash
