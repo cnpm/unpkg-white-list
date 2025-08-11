@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.198.0 (2025-08-11)
+
+* feat: add weui (#404) ([2b31872](https://github.com/cnpm/unpkg-white-list/commit/2b31872)), closes [#404](https://github.com/cnpm/unpkg-white-list/issues/404)
+
 ## <small>1.197.1 (2025-08-11)</small>
 
 * fix: remove @muxunorg (#406) ([63493c6](https://github.com/cnpm/unpkg-white-list/commit/63493c6)), closes [#406](https://github.com/cnpm/unpkg-white-list/issues/406)
