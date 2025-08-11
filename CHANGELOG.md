@@ -1,5 +1,9 @@
 # Changelog
 
+## <small>1.197.1 (2025-08-11)</small>
+
+* fix: remove @muxunorg (#406) ([63493c6](https://github.com/cnpm/unpkg-white-list/commit/63493c6)), closes [#406](https://github.com/cnpm/unpkg-white-list/issues/406)
+
 ## [1.197.0](https://github.com/cnpm/unpkg-white-list/compare/v1.196.0...v1.197.0) (2025-07-31)
 
 
