@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.199.0 (2025-08-21)
+
+* feat: add package tiny-segmenter (#407) ([a77a016](https://github.com/cnpm/unpkg-white-list/commit/a77a016)), closes [#407](https://github.com/cnpm/unpkg-white-list/issues/407)
+
 ## 1.198.0 (2025-08-11)
 
 * feat: add weui (#404) ([2b31872](https://github.com/cnpm/unpkg-white-list/commit/2b31872)), closes [#404](https://github.com/cnpm/unpkg-white-list/issues/404)
