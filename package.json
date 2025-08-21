@@ -11,11 +11,11 @@
     "add": "node scripts/generate.js"
   },
   "devDependencies": {
-    "eslint": "^9.12.0",
-    "eslint-plugin-jsonc": "^2.16.0",
-    "fs-extra": "^11.2.0",
+    "eslint": "^9.33.0",
+    "eslint-plugin-jsonc": "^2.20.1",
+    "fs-extra": "^11.3.1",
     "jsonc-eslint-parser": "^2.4.0",
-    "semver": "7"
+    "semver": "^7.7.2"
   },
   "repository": {
     "type": "git",
@@ -16617,6 +16617,9 @@
       "version": "*"
     },
     "tiny-pinyin": {
+      "version": "*"
+    },
+    "tiny-segmenter": {
       "version": "*"
     },
     "tiny-svg": {
