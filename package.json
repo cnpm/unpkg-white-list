@@ -1904,6 +1904,9 @@
     "aos": {
       "version": "*"
     },
+    "aowubrowser": {
+      "version": "*"
+    },
     "ap-mini-ui": {
       "version": "*"
     },
