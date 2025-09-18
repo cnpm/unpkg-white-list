@@ -32,6 +32,7 @@
   },
   "homepage": "https://github.com/cnpm/unpkg-white-list#readme",
   "allowScopes": [
+    "@iyui",
     "@8n",
     "@adpro",
     "@ahooksjs",
