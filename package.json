@@ -1121,6 +1121,9 @@
     "@svgdotjs/svg.js": {
       "version": "*"
     },
+    "@swup/plugin": {
+      "version": "*"
+    },
     "@synvox/rehook": {
       "version": "*"
     },
@@ -16338,6 +16341,9 @@
       "version": "*"
     },
     "swr": {
+      "version": "*"
+    },
+    "swup": {
       "version": "*"
     },
     "symlink-dir": {
