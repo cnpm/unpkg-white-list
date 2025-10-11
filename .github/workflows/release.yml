@@ -9,3 +9,9 @@ jobs:
     uses: cnpm/github-actions/.github/workflows/npm-release.yml@master
     secrets:
       GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
+    permissions:
+      contents: write
+      id-token: write
+      deployments: write
+      issues: write
+      pull-requests: write
