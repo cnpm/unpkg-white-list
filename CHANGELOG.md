@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.200.0 (2025-10-11)
+
+* chore: Add GitHub pull request template to enforce whitelist submission guidelines (#414) ([d11f75b](https://github.com/cnpm/unpkg-white-list/commit/d11f75b)), closes [#414](https://github.com/cnpm/unpkg-white-list/issues/414)
+* chore: fix auto release ([32bfc03](https://github.com/cnpm/unpkg-white-list/commit/32bfc03))
+* chore: remove unuse file ([3275b45](https://github.com/cnpm/unpkg-white-list/commit/3275b45))
+* feat: add swup and @swup/plugin (#417) ([a6e7afe](https://github.com/cnpm/unpkg-white-list/commit/a6e7afe)), closes [#417](https://github.com/cnpm/unpkg-white-list/issues/417)
+* docs: Create GitHub Copilot instructions for unpkg-white-list repository (#416) ([0fe6891](https://github.com/cnpm/unpkg-white-list/commit/0fe6891)), closes [#416](https://github.com/cnpm/unpkg-white-list/issues/416) [#415](https://github.com/cnpm/unpkg-white-list/issues/415)
+
 ## 1.199.0 (2025-08-21)
 
 * feat: add package tiny-segmenter (#407) ([a77a016](https://github.com/cnpm/unpkg-white-list/commit/a77a016)), closes [#407](https://github.com/cnpm/unpkg-white-list/issues/407)
