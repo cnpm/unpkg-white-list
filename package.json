@@ -10530,6 +10530,9 @@
     "mousetrap": {
       "version": "*"
     },
+    "mouse-firework": {
+      "version": "*"
+    },
     "mp-html": {
       "version": "*"
     },
