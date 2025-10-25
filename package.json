@@ -216,6 +216,7 @@
     "@svgr",
     "@swc",
     "@swc-node",
+    "@swup",
     "@sxzz",
     "@tailwindcss",
     "@tanstack",
@@ -1119,9 +1120,6 @@
       "version": "*"
     },
     "@svgdotjs/svg.js": {
-      "version": "*"
-    },
-    "@swup/plugin": {
       "version": "*"
     },
     "@synvox/rehook": {
@@ -16341,9 +16339,6 @@
       "version": "*"
     },
     "swr": {
-      "version": "*"
-    },
-    "swup": {
       "version": "*"
     },
     "symlink-dir": {
