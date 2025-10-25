@@ -1124,6 +1124,72 @@
     "@swup/plugin": {
       "version": "*"
     },
+    "@swup/a11y-plugin": {
+      "version": "*"
+    },
+    "@swup/prettier-config": {
+      "version": "*"
+    },
+    "@swup/theme": {
+      "version": "*"
+    },
+    "@swup/scripts-plugin": {
+      "version": "*"
+    },
+    "@swup/preload-plugin": {
+      "version": "*"
+    },
+    "@swup/forms-plugin": {
+      "version": "*"
+    },
+    "@swup/fade-theme": {
+      "version": "*"
+    },
+    "@swup/progress-plugin": {
+      "version": "*"
+    },
+    "@swup/overlay-theme": {
+      "version": "*"
+    },
+    "@swup/scroll-plugin": {
+      "version": "*"
+    },
+    "@swup/slide-theme": {
+      "version": "*"
+    },
+    "@swup/debug-plugin": {
+      "version": "*"
+    },
+    "@swup/body-class-plugin": {
+      "version": "*"
+    },
+    "@swup/route-name-plugin": {
+      "version": "*"
+    },
+    "@swup/fragment-plugin": {
+      "version": "*"
+    },
+    "@swup/head-plugin": {
+      "version": "*"
+    },
+    "@swup/parallel-plugin": {
+      "version": "*"
+    },
+    "@swup/browserslist-config": {
+      "version": "*"
+    },
+    "@swup/js-plugin": {
+      "version": "*"
+    },
+    "@swup/gtm-plugin": {
+      "version": "*"
+    },
+    "@swup/cli": {
+      "version": "*"
+    },
+    "@swup/ga-plugin": {
+      "version": "*"
+    },
     "@synvox/rehook": {
       "version": "*"
     },
@@ -10527,6 +10593,9 @@
       "version": "*"
     },
     "morphdom": {
+      "version": "*"
+    },
+    "mouse-firework": {
       "version": "*"
     },
     "mousetrap": {
