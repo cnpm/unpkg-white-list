@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.201.0 (2025-11-06)
+
+* feat: add emoji-datasource-apple (#420) ([e5a0796](https://github.com/cnpm/unpkg-white-list/commit/e5a0796)), closes [#420](https://github.com/cnpm/unpkg-white-list/issues/420)
+
 ## 1.200.0 (2025-10-11)
 
 * chore: Add GitHub pull request template to enforce whitelist submission guidelines (#414) ([d11f75b](https://github.com/cnpm/unpkg-white-list/commit/d11f75b)), closes [#414](https://github.com/cnpm/unpkg-white-list/issues/414)
