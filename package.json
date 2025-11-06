@@ -5366,6 +5366,9 @@
     "emoji-cst": {
       "version": "*"
     },
+    "emoji-datasource-apple": {
+      "version": "*"
+    },
     "emoji-datasource-twitter": {
       "version": "*"
     },
