@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.202.0 (2025-11-14)
+
+* feat: add `@simplewebauthn` scope (#421) ([24ec2ef](https://github.com/cnpm/unpkg-white-list/commit/24ec2ef)), closes [#421](https://github.com/cnpm/unpkg-white-list/issues/421)
+
 ## 1.201.0 (2025-11-06)
 
 * feat: add emoji-datasource-apple (#420) ([e5a0796](https://github.com/cnpm/unpkg-white-list/commit/e5a0796)), closes [#420](https://github.com/cnpm/unpkg-white-list/issues/420)
