@@ -217,6 +217,7 @@
     "@svgr",
     "@swc",
     "@swc-node",
+    "@swup",
     "@sxzz",
     "@tailwindcss",
     "@tanstack",
@@ -1120,9 +1121,6 @@
       "version": "*"
     },
     "@svgdotjs/svg.js": {
-      "version": "*"
-    },
-    "@swup/plugin": {
       "version": "*"
     },
     "@synvox/rehook": {
@@ -10533,6 +10531,9 @@
     "morphdom": {
       "version": "*"
     },
+    "mouse-firework": {
+      "version": "*"
+    },
     "mousetrap": {
       "version": "*"
     },
@@ -16345,9 +16346,6 @@
       "version": "*"
     },
     "swr": {
-      "version": "*"
-    },
-    "swup": {
       "version": "*"
     },
     "symlink-dir": {
