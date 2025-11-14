@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.203.0 (2025-11-14)
+
+* feat: add '@swup' and remove 'swup' (#419) ([0dd7870](https://github.com/cnpm/unpkg-white-list/commit/0dd7870)), closes [#419](https://github.com/cnpm/unpkg-white-list/issues/419)
+
 ## 1.202.0 (2025-11-14)
 
 * feat: add `@simplewebauthn` scope (#421) ([24ec2ef](https://github.com/cnpm/unpkg-white-list/commit/24ec2ef)), closes [#421](https://github.com/cnpm/unpkg-white-list/issues/421)
