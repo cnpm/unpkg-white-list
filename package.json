@@ -18927,6 +18927,12 @@
     },
     "zy-count-up": {
       "version": "*"
+    },
+    "@plugin-web-update-notification/webpack": {
+      "version": "*"
+    },
+    "@plugin-web-update-notification/vite": {
+      "version": "*"
     }
   }
 }
