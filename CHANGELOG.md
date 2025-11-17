@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.204.0 (2025-11-17)
+
+* feat: add @plugin-web-update-notification/vite, @plugin-web-update-notification/webpack (#424) ([3719e00](https://github.com/cnpm/unpkg-white-list/commit/3719e00)), closes [#424](https://github.com/cnpm/unpkg-white-list/issues/424)
+
 ## 1.203.0 (2025-11-14)
 
 * feat: add '@swup' and remove 'swup' (#419) ([0dd7870](https://github.com/cnpm/unpkg-white-list/commit/0dd7870)), closes [#419](https://github.com/cnpm/unpkg-white-list/issues/419)
