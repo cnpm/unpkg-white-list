@@ -988,6 +988,12 @@
     "@pixiv/three-vrm": {
       "version": "*"
     },
+    "@plugin-web-update-notification/vite": {
+      "version": "*"
+    },
+    "@plugin-web-update-notification/webpack": {
+      "version": "*"
+    },
     "@pmmmwh/react-refresh-webpack-plugin": {
       "version": "*"
     },
@@ -18926,12 +18932,6 @@
       "version": "*"
     },
     "zy-count-up": {
-      "version": "*"
-    },
-    "@plugin-web-update-notification/vite": {
-      "version": "*"
-    },
-    "@plugin-web-update-notification/webpack": {
       "version": "*"
     }
   }
