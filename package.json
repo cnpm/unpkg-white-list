@@ -18928,10 +18928,10 @@
     "zy-count-up": {
       "version": "*"
     },
-    "@plugin-web-update-notification/webpack": {
+    "@plugin-web-update-notification/vite": {
       "version": "*"
     },
-    "@plugin-web-update-notification/vite": {
+    "@plugin-web-update-notification/webpack": {
       "version": "*"
     }
   }
