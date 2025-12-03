@@ -9730,6 +9730,9 @@
     "lscache": {
       "version": "*"
     },
+    "lucide": {
+      "version": "*"
+    },
     "lucide-react": {
       "version": "*"
     },
