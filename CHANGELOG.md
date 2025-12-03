@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.205.0 (2025-12-03)
+
+* feat: add lucide pkg (#425) ([ee96116](https://github.com/cnpm/unpkg-white-list/commit/ee96116)), closes [#425](https://github.com/cnpm/unpkg-white-list/issues/425)
+
 ## 1.204.0 (2025-11-17)
 
 * feat: add @plugin-web-update-notification/vite, @plugin-web-update-notification/webpack (#424) ([3719e00](https://github.com/cnpm/unpkg-white-list/commit/3719e00)), closes [#424](https://github.com/cnpm/unpkg-white-list/issues/424)
