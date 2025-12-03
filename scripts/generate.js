@@ -9,25 +9,25 @@ const semverValidRange = require('semver/ranges/valid');
  * ### 添加一个新的包
  * 
  * ```bash
- * # npm run add --pkg={package name}:{version range}
- * npm run add --pkg=urllib:*
+ * # npm run add -- --pkg={package name}:{version range}
+ * npm run add -- "--pkg=urllib:*"
  * ```
  * ---
  * ### 添加一个新的 scope
  * 
  * ```bash
- * # npm run add --scope={scope name}
- * npm run add --scope=@ant-design
+ * # npm run add -- --scope={scope name}
+ * npm run add -- --scope=@ant-design
  * ```
  */
 const HELP = `
 Usage:
-  npm run add -- --package={package name}:{version range}
+  npm run add -- --pkg={package name}:{version range}
   npm run add -- --scope=@{scope name}
 
 Debug mode:
   Set DEBUG=true environment variable to use draft output and enable debug logging.
-  eg: DEBUG=true npm run add -- "--package=urllib:*"
+  eg: DEBUG=true npm run add -- "--pkg=urllib:*"
 `;
 
 const DEBUG = !!process.env.DEBUG

@@ -15,7 +15,7 @@
 用 CLI 添加你想开启 unpkg 文件同步的 npm 包名和版本号，全量同步版本号可以设置为 `*`，以同步 [urllib](https://npmmirror.com/package/urllib) 为示例：
 
 ```bash
-npm run add -- --pkg=urllib:* # 同步 urllib 所有版本
+npm run add -- "--pkg=urllib:*" # 同步 urllib 所有版本
 # or
 npm run add -- --pkg=urllib:1.0.0 # 同步 urllib 1.0.0 版本
 # or
