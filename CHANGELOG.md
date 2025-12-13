@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.206.0 (2025-12-13)
+
+* feat: support large packages and scopes (#427) ([b85474c](https://github.com/cnpm/unpkg-white-list/commit/b85474c)), closes [#427](https://github.com/cnpm/unpkg-white-list/issues/427) [hi#level](https://github.com/hi/issues/level)
+* docs: add quotes requirement for CLI arguments with wildcards (#426) ([e3f6064](https://github.com/cnpm/unpkg-white-list/commit/e3f6064)), closes [#426](https://github.com/cnpm/unpkg-white-list/issues/426) [hi#level](https://github.com/hi/issues/level)
+
 ## 1.205.0 (2025-12-03)
 
 * feat: add lucide pkg (#425) ([ee96116](https://github.com/cnpm/unpkg-white-list/commit/ee96116)), closes [#425](https://github.com/cnpm/unpkg-white-list/issues/425)
