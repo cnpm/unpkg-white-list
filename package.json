@@ -18954,22 +18954,22 @@
     "@sdjkals"
   ],
   "blockSyncPackages": [
+    "@npm-torg/public-scoped-free-org-test-package-2",
+    "asciimo",
+    "big",
     "colors",
-    "pdf",
-    "resources",
-    "view",
-    "resource",
+    "hook.io",
     "mschema",
     "mschema-rpc",
     "nexpect",
-    "resource-http",
-    "big",
-    "say",
-    "hook.io",
-    "resource-mesh",
-    "asciimo",
-    "@npm-torg/public-scoped-free-org-test-package-2",
+    "node-ipc",
+    "pdf",
     "public-unscoped-test-package",
-    "node-ipc"
+    "resource",
+    "resource-http",
+    "resource-mesh",
+    "resources",
+    "say",
+    "view"
   ]
 }
