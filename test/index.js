@@ -71,3 +71,61 @@ test('check allowPackages and allowScopes', () => {
     assert.fail('Duplicated packages in allowScopes');
   }
 });
+
+test('should pkg.allowLargePackages work', () => {
+  assert(pkg.allowLargePackages);
+  assert.equal(typeof pkg.allowLargePackages, 'object');
+  let packages = 0;
+  for (const name in pkg.allowLargePackages) {
+    packages++;
+    assert(name);
+    assert.equal(typeof name, 'string');
+    const config = pkg.allowLargePackages[name];
+    assert(config);
+    assert.equal(typeof config, 'object');
+    assert(config.version);
+    assert.equal(typeof config.version, 'string', `${name} version(${config.version}) type should be string`);
+    config.versionRange = semverValidRange(config.version);
+    assert(config.versionRange, `${name} version(${config.version}) should match semver range format`);
+    // console.log(' - %o => %j', name, config);
+  }
+  console.log('Total %d large packages', packages);
+  assert(packages > 0);
+});
+
+test('should pkg.allowLargeScopes work', () => {
+  assert(pkg.allowLargeScopes);
+  assert.equal(typeof pkg.allowLargeScopes, 'object');
+  let scopes = 0;
+  for (const name of pkg.allowLargeScopes) {
+    scopes++;
+    assert(name);
+    assert.equal(typeof name, 'string');
+    assert.match(name, /^@.+/);
+    assert.equal(pkg.allowLargeScopes.filter(n => n === name).length, 1, `"${name}" is duplicate`);
+  }
+  console.log('Total %d large scopes', scopes);
+  assert(scopes > 0);
+});
+
+test('check allowLargePackages and allowLargeScopes', () => {
+  const duplicatedPackages = new Map();
+  for (const name in pkg.allowLargePackages) {
+    if (name.startsWith('@')) {
+      const [scope] = name.split('/');
+      if (pkg.allowLargeScopes.includes(scope)) {
+        duplicatedPackages.set(scope, [
+          ...(duplicatedPackages.get(scope) || []),
+          name
+        ]);
+      }
+    }
+  }
+  if (duplicatedPackages.size > 0) {
+    console.log('Duplicated packages in allowLargeScopes:');
+    for (const [scope, packages] of duplicatedPackages) {
+      console.log(` - ${scope}: ${packages.join(', ')}`);
+    }
+    assert.fail('Duplicated packages in allowLargeScopes');
+  }
+});
