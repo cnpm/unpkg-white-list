@@ -1,5 +1,9 @@
 # Changelog
 
+## <small>1.206.1 (2025-12-13)</small>
+
+* fix: remove @iyawoqu scope (#428) ([66e4151](https://github.com/cnpm/unpkg-white-list/commit/66e4151)), closes [#428](https://github.com/cnpm/unpkg-white-list/issues/428)
+
 ## 1.206.0 (2025-12-13)
 
 * feat: support large packages and scopes (#427) ([b85474c](https://github.com/cnpm/unpkg-white-list/commit/b85474c)), closes [#427](https://github.com/cnpm/unpkg-white-list/issues/427) [hi#level](https://github.com/hi/issues/level)
