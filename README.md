@@ -142,6 +142,15 @@ _你将会看到 package.json 文件中的 `allowLargeScopes` 字段被更新，
 
 修改完成后提交一个 `Pull Request` 合并到 master 分支，等待 Review，合并后会自动发布，预计最长 5 分钟后会全网生效。
 
+## for admins
+
+block sync packages and scopes:
+
+```bash
+npm run add -- --block-sync-pkg=colors
+npm run add -- --block-sync-scope=@sdjkals
+```
+
 ## License
 
 [MIT](LICENSE)

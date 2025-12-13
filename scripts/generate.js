@@ -60,6 +60,8 @@ const PKG_REGEX = /^--pkg=(.+)$/;
 const SCOPE_REGEX = /^--scope=\@(.+)$/;
 const LARGE_PKG_REGEX = /^--large-pkg=(.+)$/;
 const LARGE_SCOPE_REGEX = /^--large-scope=\@(.+)$/;
+const BLOCK_SYNC_PKG_REGEX = /^--block-sync-pkg=(.+)$/;
+const BLOCK_SYNC_SCOPE_REGEX = /^--block-sync-scope=\@(.+)$/;
 
 function addPkg(input) {
   if (typeof input !== 'string' || input.length === 0) {
@@ -197,6 +199,60 @@ function addLargeScope(input) {
   console.log(`✅ Add large scope ${input} success`);
 }
 
+function addBlockSyncPkg(input) {
+  if (typeof input !== 'string' || input.length === 0) {
+    return console.log('💥 Invalid package name');
+  }
+  
+  DEBUG && console.log(`Add block sync package: ${input}`);
+
+  // exits
+  if (PKG.blockSyncPackages.includes(input)) {
+    throw new Error(`Block sync package ${input} already exists`);
+  }
+  
+  const nextBlockSyncPackages = [...PKG.blockSyncPackages, input].sort();
+
+  fs.writeJsonSync(
+    OUTPUT_PATH,
+    {
+      ...PKG,
+      blockSyncPackages: nextBlockSyncPackages,
+    },
+    { spaces: 2 }
+  );
+
+  console.log(`✅ Add block sync package ${input} success`);
+}
+
+function addBlockSyncScope(input) {
+  if (typeof input !== 'string' || input.length === 0) {
+    return console.log('💥 Invalid scope name');
+  } else if (!input.startsWith('@')) {
+    input = '@' + input;
+  }
+
+  DEBUG && console.log(`Add block sync scope: ${input}`);
+
+  // exits
+  if (PKG.blockSyncScopes.includes(input)) {
+    throw new Error(`Block sync scope ${input} already exists`);
+  }
+
+  const nextBlockSyncScopes = [...PKG.blockSyncScopes, input].sort();
+
+  fs.writeJsonSync(
+    OUTPUT_PATH,
+    {
+      ...PKG,
+      blockSyncScopes: nextBlockSyncScopes,
+    },
+    { spaces: 2 }
+  );
+
+  console.log(`✅ Add block sync scope ${input} success`);
+}
+
 function main() {
   const args = process.argv.slice(2);
   const firstArg = args[0];
@@ -205,6 +261,8 @@ function main() {
   const isScope = SCOPE_REGEX.exec(firstArg);
   const isLargePkg = LARGE_PKG_REGEX.exec(firstArg);
   const isLargeScope = LARGE_SCOPE_REGEX.exec(firstArg);
+  const isBlockSyncPkg = BLOCK_SYNC_PKG_REGEX.exec(firstArg);
+  const isBlockSyncScope = BLOCK_SYNC_SCOPE_REGEX.exec(firstArg);
 
   DEBUG && console.log({
     args,
@@ -212,12 +270,14 @@ function main() {
     isScope,
     isLargePkg,
     isLargeScope,
+    isBlockSyncPkg,
+    isBlockSyncScope,
     OUTPUT_PATH,
   });
 
   if (
     args.length === 0 ||
-    [isPkg, isScope, isLargePkg, isLargeScope].every(v => !v) ||
+    [isPkg, isScope, isLargePkg, isLargeScope, isBlockSyncPkg, isBlockSyncScope].every(v => !v) ||
     [firstArg === '--help', firstArg === '-h'].some(Boolean)
   ) {
     console.log(HELP);
@@ -232,6 +292,10 @@ function main() {
     addLargePkg(isLargePkg[1]);
   } else if (isLargeScope) {
     addLargeScope(isLargeScope[1]);
+  } else if (isBlockSyncPkg) {
+    addBlockSyncPkg(isBlockSyncPkg[1]);
+  } else if (isBlockSyncScope) {
+    addBlockSyncScope(isBlockSyncScope[1]);
   }
 }
 
