@@ -55,7 +55,7 @@
 ```bash
 npm run add -- "--pkg=urllib:*" # 同步 urllib 所有版本
 # or
-npm run add -- --pkg=urllib:1.0.0 # 同步 urllib 1.0.0 版本
+npm run add -- "--pkg=urllib:1.0.0" # 同步 urllib 1.0.0 版本
 # or
 npm run add -- "--pkg=urllib:>=1.0.0" # 同步 urllib 大于等于 1.0.0 版本
 ```
@@ -100,7 +100,7 @@ _你将会看到 package.json 文件中的 `allowScopes` 字段被更新，如�
 ```bash
 npm run add -- "--large-pkg=aws-cdk-lib:*" # 同步 aws-cdk-lib 所有版本
 # or
-npm run add -- --large-pkg=aws-cdk-lib:1.0.0 # 同步 aws-cdk-lib 1.0.0 版本
+npm run add -- "--large-pkg=aws-cdk-lib:1.0.0" # 同步 aws-cdk-lib 1.0.0 版本
 # or
 npm run add -- "--large-pkg=aws-cdk-lib:>=1.0.0" # 同步 aws-cdk-lib 大于等于 1.0.0 版本
 ```
