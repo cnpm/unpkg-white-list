@@ -18937,5 +18937,17 @@
     "zy-count-up": {
       "version": "*"
     }
+  },
+  "allowLargeScopes": [
+    "@next",
+    "@swc"
+  ],
+  "allowLargePackages": {
+    "aws-cdk-lib": {
+      "version": "*"
+    },
+    "ant-design-vue": {
+      "version": "*"
+    }
   }
 }

@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+
 const fs = require('fs-extra');
 const path = require('path');
 const semverValidRange = require('semver/ranges/valid');
@@ -19,15 +20,33 @@ const semverValidRange = require('semver/ranges/valid');
  * # npm run add -- --scope={scope name}
  * npm run add -- --scope=@ant-design
  * ```
+ * ---
+ * ### 添加一个新的超大文件包
+ * 
+ * ```bash
+ * # npm run add -- --large-pkg={package name}:{version range}
+ * npm run add -- "--large-pkg=aws-cdk-lib:*"
+ * ```
+ * ---
+ * ### 添加一个新的超大文件 scope
+ * 
+ * ```bash
+ * # npm run add -- --large-scope={scope name}
+ * npm run add -- --large-scope=@next
+ * ```
  */
 const HELP = `
 Usage:
   npm run add -- --pkg={package name}:{version range}
   npm run add -- --scope=@{scope name}
+  npm run add -- --large-pkg={package name}:{version range}
+  npm run add -- --large-scope={scope name}
 
 Debug mode:
   Set DEBUG=true environment variable to use draft output and enable debug logging.
   eg: DEBUG=true npm run add -- "--pkg=urllib:*"
+  eg: DEBUG=true npm run add -- "--large-pkg=aws-cdk-lib:*"
+  eg: DEBUG=true npm run add -- "--large-scope=@next"
 `;
 
 const DEBUG = !!process.env.DEBUG
@@ -39,6 +58,8 @@ const OUTPUT_PATH = path.resolve(
 const PKG = require('../package.json');
 const PKG_REGEX = /^--pkg=(.+)$/;
 const SCOPE_REGEX = /^--scope=\@(.+)$/;
+const LARGE_PKG_REGEX = /^--large-pkg=(.+)$/;
+const LARGE_SCOPE_REGEX = /^--large-scope=\@(.+)$/;
 
 function addPkg(input) {
   if (typeof input !== 'string' || input.length === 0) {
@@ -108,23 +129,95 @@ function addScope(input) {
   console.log(`✅ Add scope ${input} success`);
 }
 
+function addLargePkg(input) {
+  if (typeof input !== 'string' || input.length === 0) {
+    return console.log('💥 Invalid package name');
+  }
+
+  const [name, version] = input.split(':');
+
+  // exits
+  if (PKG.allowLargePackages[name]) {
+    throw new Error(`Large package ${name} already exists`);
+  } else if (!semverValidRange(version)) {
+    throw new Error(`Invalid version range: ${version}`);
+  }
+
+  DEBUG && console.log(`Add large package: ${name}@${version}`);
+
+  const nextAllowLargePackages = {
+    ...PKG.allowLargePackages,
+    [name]: { version, },
+  }
+  
+  const sortedAllowLargePackages = Object.keys(nextAllowLargePackages)
+    .sort()
+    .reduce((acc, key) => {
+      acc[key] = nextAllowLargePackages[key];
+      return acc;
+    }, {});
+
+  fs.writeJsonSync(
+    OUTPUT_PATH,
+    {
+      ...PKG,
+      allowLargePackages: sortedAllowLargePackages,
+    },
+    { spaces: 2 }
+  );
+
+  console.log(`✅ Add large package ${name}@${version} success`);
+}
+
+function addLargeScope(input) {
+  if (typeof input !== 'string' || input.length === 0) {
+    return console.log('💥 Invalid scope name');
+  } else if (!input.startsWith('@')) {
+    input = '@' + input;
+  }
+
+  DEBUG && console.log(`Add large package: ${input}`);
+
+  // exits
+  if (PKG.allowLargeScopes.includes(input)) {
+    throw new Error(`Large package ${input} already exists`);
+  }
+
+  const nextAllowLargeScopes = [...PKG.allowLargeScopes, input].sort();
+
+  fs.writeJsonSync(
+    OUTPUT_PATH,
+    {
+      ...PKG,
+      allowLargeScopes: nextAllowLargeScopes,
+    },
+    { spaces: 2 }
+  );
+
+  console.log(`✅ Add large scope ${input} success`);
+}
+
 function main() {
   const args = process.argv.slice(2);
   const firstArg = args[0];
 
   const isPkg = PKG_REGEX.exec(firstArg);
   const isScope = SCOPE_REGEX.exec(firstArg);
+  const isLargePkg = LARGE_PKG_REGEX.exec(firstArg);
+  const isLargeScope = LARGE_SCOPE_REGEX.exec(firstArg);
 
   DEBUG && console.log({
     args,
     isPkg,
     isScope,
+    isLargePkg,
+    isLargeScope,
     OUTPUT_PATH,
   });
 
   if (
     args.length === 0 ||
-    [isPkg, isScope].every(v => !v) ||
+    [isPkg, isScope, isLargePkg, isLargeScope].every(v => !v) ||
     [firstArg === '--help', firstArg === '-h'].some(Boolean)
   ) {
     console.log(HELP);
@@ -135,6 +228,10 @@ function main() {
     addPkg(isPkg[1]);
   } else if (isScope) {
     addScope(isScope[1]);
+  } else if (isLargePkg) {
+    addLargePkg(isLargePkg[1]);
+  } else if (isLargeScope) {
+    addLargeScope(isLargeScope[1]);
   }
 }
 
