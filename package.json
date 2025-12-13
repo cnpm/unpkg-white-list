@@ -18948,5 +18948,28 @@
     "ant-design-vue": {
       "version": "*"
     }
-  }
+  },
+  "blockSyncScopes": [
+    "@sadasdsdw2",
+    "@sdjkals"
+  ],
+  "blockSyncPackages": [
+    "colors",
+    "pdf",
+    "resources",
+    "view",
+    "resource",
+    "mschema",
+    "mschema-rpc",
+    "nexpect",
+    "resource-http",
+    "big",
+    "say",
+    "hook.io",
+    "resource-mesh",
+    "asciimo",
+    "@npm-torg/public-scoped-free-org-test-package-2",
+    "public-unscoped-test-package",
+    "node-ipc"
+  ]
 }

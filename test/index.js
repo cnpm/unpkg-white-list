@@ -129,3 +129,55 @@ test('check allowLargePackages and allowLargeScopes', () => {
     assert.fail('Duplicated packages in allowLargeScopes');
   }
 });
+
+test('should pkg.blockSyncScopes work', () => {
+  assert(pkg.blockSyncScopes);
+  assert.equal(typeof pkg.blockSyncScopes, 'object');
+  let scopes = 0;
+  for (const name of pkg.blockSyncScopes) {
+    scopes++;
+    assert(name);
+    assert.equal(typeof name, 'string');
+    assert.match(name, /^@.+/);
+    assert.equal(pkg.blockSyncScopes.filter(n => n === name).length, 1, `"${name}" is duplicate`);
+  }
+  console.log('Total %d block sync scopes', scopes);
+  assert(scopes > 0);
+});
+
+test('should pkg.blockSyncPackages work', () => {
+  assert(pkg.blockSyncPackages);
+  assert.equal(typeof pkg.blockSyncPackages, 'object');
+  let packages = 0;
+  for (const name of pkg.blockSyncPackages) {
+    packages++;
+    assert(name);
+    assert.equal(typeof name, 'string');
+    assert.equal(pkg.blockSyncPackages.filter(n => n === name).length, 1, `"${name}" is duplicate`);
+  }
+  console.log('Total %d block sync packages', packages);
+  assert(packages > 0);
+  assert(pkg.blockSyncPackages.length === packages, 'blockSyncPackages length should be equal to packages length');
+});
+
+test('check blockSyncPackages and blockSyncScopes', () => {
+  const duplicatedPackages = new Map();
+  for (const name in pkg.blockSyncPackages) {
+    if (name.startsWith('@')) {
+      const [scope] = name.split('/');
+      if (pkg.blockSyncScopes.includes(scope)) {
+        duplicatedPackages.set(scope, [
+          ...(duplicatedPackages.get(scope) || []),
+          name
+        ]);
+      }
+    }
+  }
+  if (duplicatedPackages.size > 0) {
+    console.log('Duplicated packages in blockSyncScopes:');
+    for (const [scope, packages] of duplicatedPackages) {
+      console.log(` - ${scope}: ${packages.join(', ')}`);
+    }
+    assert.fail('Duplicated packages in blockSyncScopes');
+  }
+});
