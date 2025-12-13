@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.207.0 (2025-12-13)
+
+* feat: add sync package block list (#429) ([58d44db](https://github.com/cnpm/unpkg-white-list/commit/58d44db)), closes [#429](https://github.com/cnpm/unpkg-white-list/issues/429) [hi#level](https://github.com/hi/issues/level)
+
 ## <small>1.206.1 (2025-12-13)</small>
 
 * fix: remove @iyawoqu scope (#428) ([66e4151](https://github.com/cnpm/unpkg-white-list/commit/66e4151)), closes [#428](https://github.com/cnpm/unpkg-white-list/issues/428)
