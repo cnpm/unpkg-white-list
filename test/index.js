@@ -162,7 +162,7 @@ test('should pkg.blockSyncPackages work', () => {
 
 test('check blockSyncPackages and blockSyncScopes', () => {
   const duplicatedPackages = new Map();
-  for (const name in pkg.blockSyncPackages) {
+  for (const name of pkg.blockSyncPackages) {
     if (name.startsWith('@')) {
       const [scope] = name.split('/');
       if (pkg.blockSyncScopes.includes(scope)) {
