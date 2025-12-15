@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.209.0 (2025-12-15)
+
+* feat: add package  `page-agent` (#431) ([f2acbb0](https://github.com/cnpm/unpkg-white-list/commit/f2acbb0)), closes [#431](https://github.com/cnpm/unpkg-white-list/issues/431)
+
 ## 1.208.0 (2025-12-15)
 
 * feat: add @utoo to allowLargeScopes (#430) ([7c4b3df](https://github.com/cnpm/unpkg-white-list/commit/7c4b3df)), closes [#430](https://github.com/cnpm/unpkg-white-list/issues/430)
