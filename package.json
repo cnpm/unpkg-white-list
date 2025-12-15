@@ -11298,6 +11298,9 @@
     "pacote": {
       "version": "*"
     },
+    "page-agent": {
+      "version": "*"
+    },
     "page-flip": {
       "version": "*"
     },
