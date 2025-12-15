@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.208.0 (2025-12-15)
+
+* feat: add @utoo to allowLargeScopes (#430) ([7c4b3df](https://github.com/cnpm/unpkg-white-list/commit/7c4b3df)), closes [#430](https://github.com/cnpm/unpkg-white-list/issues/430)
+
 ## 1.207.0 (2025-12-13)
 
 * feat: add sync package block list (#429) ([58d44db](https://github.com/cnpm/unpkg-white-list/commit/58d44db)), closes [#429](https://github.com/cnpm/unpkg-white-list/issues/429) [hi#level](https://github.com/hi/issues/level)
