@@ -18939,7 +18939,8 @@
   },
   "allowLargeScopes": [
     "@next",
-    "@swc"
+    "@swc",
+    "@utoo"
   ],
   "allowLargePackages": {
     "aws-cdk-lib": {
