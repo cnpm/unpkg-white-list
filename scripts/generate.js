@@ -10,8 +10,11 @@ const semverValidRange = require('semver/ranges/valid');
  * ### 添加一个新的包
  * 
  * ```bash
- * # npm run add -- --pkg={package name}:{version range}
- * npm run add -- "--pkg=urllib:*"
+ * # npm run add -- --pkg={package name}[:{version range}]
+ * npm run add -- "--pkg=urllib" # 同步 urllib 所有版本
+ * npm run add -- "--pkg=urllib:*" # 同步 urllib 所有版本
+ * npm run add -- "--pkg=urllib:>=1.0.0" # 同步 urllib 大于等于 1.0.0 版本
+ * npm run add -- "--pkg=urllib:1.0.0" # 同步 urllib 1.0.0 版本
  * ```
  * ---
  * ### 添加一个新的 scope
@@ -24,8 +27,11 @@ const semverValidRange = require('semver/ranges/valid');
  * ### 添加一个新的超大文件包
  * 
  * ```bash
- * # npm run add -- --large-pkg={package name}:{version range}
- * npm run add -- "--large-pkg=aws-cdk-lib:*"
+ * # npm run add -- --large-pkg={package name}[:{version range}]
+ * npm run add -- "--large-pkg=aws-cdk-lib" # 同步 aws-cdk-lib 所有版本
+ * npm run add -- "--large-pkg=aws-cdk-lib:*" # 同步 aws-cdk-lib 所有版本
+ * npm run add -- "--large-pkg=aws-cdk-lib:>=1.0.0" # 同步 aws-cdk-lib 大于等于 1.0.0 版本
+ * npm run add -- "--large-pkg=aws-cdk-lib:1.0.0" # 同步 aws-cdk-lib 1.0.0 版本
  * ```
  * ---
  * ### 添加一个新的超大文件 scope
@@ -37,15 +43,15 @@ const semverValidRange = require('semver/ranges/valid');
  */
 const HELP = `
 Usage:
-  npm run add -- --pkg={package name}:{version range}
+  npm run add -- --pkg={package name}[:{version range}]
   npm run add -- --scope=@{scope name}
-  npm run add -- --large-pkg={package name}:{version range}
+  npm run add -- --large-pkg={package name}[:{version range}]
   npm run add -- --large-scope={scope name}
 
 Debug mode:
   Set DEBUG=true environment variable to use draft output and enable debug logging.
-  eg: DEBUG=true npm run add -- "--pkg=urllib:*"
-  eg: DEBUG=true npm run add -- "--large-pkg=aws-cdk-lib:*"
+  eg: DEBUG=true npm run add -- "--pkg=urllib"
+  eg: DEBUG=true npm run add -- "--large-pkg=aws-cdk-lib"
   eg: DEBUG=true npm run add -- "--large-scope=@next"
 `;
 
@@ -68,7 +74,10 @@ function addPkg(input) {
     return console.log('💥 Invalid package name');
   }
 
-  const [name, version] = input.split(':');
+  let [name, version] = input.split(':');
+  if (!version) {
+    version = '*';
+  }
 
   // exits
   if (PKG.allowPackages[name]) {
@@ -136,7 +145,10 @@ function addLargePkg(input) {
     return console.log('💥 Invalid package name');
   }
 
-  const [name, version] = input.split(':');
+  let [name, version] = input.split(':');
+  if (!version) {
+    version = '*';
+  }
 
   // exits
   if (PKG.allowLargePackages[name]) {
