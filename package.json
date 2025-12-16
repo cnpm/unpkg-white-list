@@ -1272,6 +1272,9 @@
     "@yangkeith/gkd_subscription": {
       "version": "*"
     },
+    "@ydyfe/lowcode-forwarder-huopingtai": {
+      "version": "*"
+    },
     "@yrobot/react-mobile-table": {
       "version": "*"
     },
