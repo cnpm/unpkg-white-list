@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.210.0 (2025-12-16)
+
+* feat: add @ydyfe/lowcode-forwarder-huopingtai (#433) ([0325f19](https://github.com/cnpm/unpkg-white-list/commit/0325f19)), closes [#433](https://github.com/cnpm/unpkg-white-list/issues/433)
+
 ## 1.209.0 (2025-12-15)
 
 * feat: add package  `page-agent` (#431) ([f2acbb0](https://github.com/cnpm/unpkg-white-list/commit/f2acbb0)), closes [#431](https://github.com/cnpm/unpkg-white-list/issues/431)
