@@ -18949,10 +18949,13 @@
     "@utoo"
   ],
   "allowLargePackages": {
+    "ant-design-vue": {
+      "version": "*"
+    },
     "aws-cdk-lib": {
       "version": "*"
     },
-    "ant-design-vue": {
+    "viewport-cli": {
       "version": "*"
     }
   },
