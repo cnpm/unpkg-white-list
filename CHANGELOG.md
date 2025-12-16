@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.211.0 (2025-12-16)
+
+* feat: add viewport-cli to allowLargePackages (#434) ([73e885b](https://github.com/cnpm/unpkg-white-list/commit/73e885b)), closes [#434](https://github.com/cnpm/unpkg-white-list/issues/434) [hi#level](https://github.com/hi/issues/level)
+
 ## 1.210.0 (2025-12-16)
 
 * feat: add @ydyfe/lowcode-forwarder-huopingtai (#433) ([0325f19](https://github.com/cnpm/unpkg-white-list/commit/0325f19)), closes [#433](https://github.com/cnpm/unpkg-white-list/issues/433)
