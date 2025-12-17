@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.212.0 (2025-12-17)
+
+* feat: add `@fonixtree` and `@openai` to allowLargeScopes (#435) ([eb48804](https://github.com/cnpm/unpkg-white-list/commit/eb48804)), closes [#435](https://github.com/cnpm/unpkg-white-list/issues/435) [hi#level](https://github.com/hi/issues/level)
+
 ## 1.211.0 (2025-12-16)
 
 * feat: add viewport-cli to allowLargePackages (#434) ([73e885b](https://github.com/cnpm/unpkg-white-list/commit/73e885b)), closes [#434](https://github.com/cnpm/unpkg-white-list/issues/434) [hi#level](https://github.com/hi/issues/level)
