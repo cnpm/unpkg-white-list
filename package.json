@@ -18944,7 +18944,9 @@
     }
   },
   "allowLargeScopes": [
+    "@fonixtree",
     "@next",
+    "@openai",
     "@swc",
     "@utoo"
   ],
