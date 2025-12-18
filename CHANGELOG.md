@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.213.0 (2025-12-18)
+
+* feat: add rx-compo to allowLargePackages (#437) ([69411f8](https://github.com/cnpm/unpkg-white-list/commit/69411f8)), closes [#437](https://github.com/cnpm/unpkg-white-list/issues/437) [hi#level](https://github.com/hi/issues/level)
+* feat(allowPackages): add tdesign-react and tdesign-vue-next (#436) ([dfc27ce](https://github.com/cnpm/unpkg-white-list/commit/dfc27ce)), closes [#436](https://github.com/cnpm/unpkg-white-list/issues/436)
+
 ## 1.212.0 (2025-12-17)
 
 * feat: add `@fonixtree` and `@openai` to allowLargeScopes (#435) ([eb48804](https://github.com/cnpm/unpkg-white-list/commit/eb48804)), closes [#435](https://github.com/cnpm/unpkg-white-list/issues/435) [hi#level](https://github.com/hi/issues/level)
