@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.214.0 (2025-12-18)
+
+* feat: add typo.css (#438) ([b0e24e9](https://github.com/cnpm/unpkg-white-list/commit/b0e24e9)), closes [#438](https://github.com/cnpm/unpkg-white-list/issues/438)
+
 ## 1.213.0 (2025-12-18)
 
 * feat: add rx-compo to allowLargePackages (#437) ([69411f8](https://github.com/cnpm/unpkg-white-list/commit/69411f8)), closes [#437](https://github.com/cnpm/unpkg-white-list/issues/437) [hi#level](https://github.com/hi/issues/level)
