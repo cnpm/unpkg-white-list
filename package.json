@@ -16455,6 +16455,12 @@
     "tb-icons": {
       "version": "*"
     },
+    "tdesign-react": {
+      "version": "*"
+    },
+    "tdesign-vue-next": {
+      "version": "*"
+    },
     "teamix": {
       "version": "*"
     },
