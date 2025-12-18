@@ -17121,6 +17121,9 @@
     "typings-for-css-modules-loader": {
       "version": "*"
     },
+    "typo.css": {
+      "version": "*"
+    },
     "u-basscss": {
       "version": "*"
     },
