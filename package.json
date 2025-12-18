@@ -18957,6 +18957,9 @@
     "aws-cdk-lib": {
       "version": "*"
     },
+    "rx-compo": {
+      "version": "*"
+    },
     "viewport-cli": {
       "version": "*"
     }
