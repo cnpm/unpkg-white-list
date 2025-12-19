@@ -18966,6 +18966,9 @@
     "aws-cdk-lib": {
       "version": "*"
     },
+    "next": {
+      "version": "*"
+    },
     "rx-compo": {
       "version": "*"
     },
