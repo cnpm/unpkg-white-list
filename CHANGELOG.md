@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.216.0 (2025-12-19)
+
+* feat: add `@oven` to allowLargeScopes (#440) ([3c61b69](https://github.com/cnpm/unpkg-white-list/commit/3c61b69)), closes [#440](https://github.com/cnpm/unpkg-white-list/issues/440)
+
 ## 1.215.0 (2025-12-19)
 
 * feat: add next to allowLargePackages (#439) ([738ad9f](https://github.com/cnpm/unpkg-white-list/commit/738ad9f)), closes [#439](https://github.com/cnpm/unpkg-white-list/issues/439)
