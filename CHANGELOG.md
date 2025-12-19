@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.215.0 (2025-12-19)
+
+* feat: add next to allowLargePackages (#439) ([738ad9f](https://github.com/cnpm/unpkg-white-list/commit/738ad9f)), closes [#439](https://github.com/cnpm/unpkg-white-list/issues/439)
+
 ## 1.214.0 (2025-12-18)
 
 * feat: add typo.css (#438) ([b0e24e9](https://github.com/cnpm/unpkg-white-list/commit/b0e24e9)), closes [#438](https://github.com/cnpm/unpkg-white-list/issues/438)
