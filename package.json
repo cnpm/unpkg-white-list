@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.212.0",
+  "version": "1.216.0",
   "description": "npmmirror 允许开启 unpkg 功能的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题",
   "main": "index.js",
   "files": [],
@@ -16456,6 +16456,12 @@
       "version": "*"
     },
     "tdesign-mobile-vue": {
+       "version": "*"
+    },
+    "tdesign-react": {
+      "version": "*"
+    },
+    "tdesign-vue-next": {
       "version": "*"
     },
     "teamix": {
@@ -17116,6 +17122,9 @@
       "version": "*"
     },
     "typings-for-css-modules-loader": {
+      "version": "*"
+    },
+    "typo.css": {
       "version": "*"
     },
     "u-basscss": {
@@ -18950,6 +18959,7 @@
     "@fonixtree",
     "@next",
     "@openai",
+    "@oven",
     "@swc",
     "@utoo"
   ],
@@ -18958,6 +18968,12 @@
       "version": "*"
     },
     "aws-cdk-lib": {
+      "version": "*"
+    },
+    "next": {
+      "version": "*"
+    },
+    "rx-compo": {
       "version": "*"
     },
     "viewport-cli": {
