@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.220.0 (2025-12-22)
+
+* feat: add package wetrade-design to allowLargePackages (#444) ([ded999a](https://github.com/cnpm/unpkg-white-list/commit/ded999a)), closes [#444](https://github.com/cnpm/unpkg-white-list/issues/444)
+
 ## 1.219.0 (2025-12-22)
 
 * feat: add @codeblitzjs/ide-core allowLargePackages (#443) ([1043520](https://github.com/cnpm/unpkg-white-list/commit/1043520)), closes [#443](https://github.com/cnpm/unpkg-white-list/issues/443)
