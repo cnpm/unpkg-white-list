@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.221.0 (2025-12-22)
+
+* feat: add `@cloudflare` to allowLargeScopes (#445) ([5714299](https://github.com/cnpm/unpkg-white-list/commit/5714299)), closes [#445](https://github.com/cnpm/unpkg-white-list/issues/445)
+
 ## 1.220.0 (2025-12-22)
 
 * feat: add package wetrade-design to allowLargePackages (#444) ([ded999a](https://github.com/cnpm/unpkg-white-list/commit/ded999a)), closes [#444](https://github.com/cnpm/unpkg-white-list/issues/444)
