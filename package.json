@@ -453,6 +453,9 @@
     "@cloud-annotations/object-tracking": {
       "version": "*"
     },
+    "@codeblitzjs/ide-core": {
+      "version": "*"
+    },
     "@codesandbox/sandpack-react": {
       "version": "*"
     },
