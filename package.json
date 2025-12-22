@@ -16455,6 +16455,9 @@
     "tb-icons": {
       "version": "*"
     },
+    "tdesign-mobile-vue": {
+       "version": "*"
+    },
     "tdesign-react": {
       "version": "*"
     },
