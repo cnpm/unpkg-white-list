@@ -18982,6 +18982,9 @@
     },
     "viewport-cli": {
       "version": "*"
+    },
+    "wetrade-design": {
+      "version": "*"
     }
   },
   "blockSyncScopes": [
