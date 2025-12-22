@@ -62,6 +62,7 @@
     "@ckeditor",
     "@clicli",
     "@cnpmjs",
+    "@codeblitzjs",
     "@codemirror",
     "@commitlint",
     "@creativecommons",
@@ -451,9 +452,6 @@
       "version": "*"
     },
     "@cloud-annotations/object-tracking": {
-      "version": "*"
-    },
-    "@codeblitzjs/ide-core": {
       "version": "*"
     },
     "@codesandbox/sandpack-react": {
