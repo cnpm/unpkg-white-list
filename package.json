@@ -18965,6 +18965,9 @@
     "@utoo"
   ],
   "allowLargePackages": {
+    "@codeblitzjs/ide-core": {
+      "version": "*"
+    },
     "ant-design-vue": {
       "version": "*"
     },
