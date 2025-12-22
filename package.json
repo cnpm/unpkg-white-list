@@ -18956,6 +18956,7 @@
     }
   },
   "allowLargeScopes": [
+    "@cloudflare",
     "@fonixtree",
     "@next",
     "@openai",
