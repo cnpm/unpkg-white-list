@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.218.0 (2025-12-22)
+
+* feat: add `@pnpm` scope to allowLargeScopes (#442) ([5404595](https://github.com/cnpm/unpkg-white-list/commit/5404595)), closes [#442](https://github.com/cnpm/unpkg-white-list/issues/442)
+
 ## 1.217.0 (2025-12-22)
 
 * feat(allowPackages): add tdesign-mobile-vue (#441) ([a36fa9f](https://github.com/cnpm/unpkg-white-list/commit/a36fa9f)), closes [#441](https://github.com/cnpm/unpkg-white-list/issues/441)
