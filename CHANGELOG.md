@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.219.0 (2025-12-22)
+
+* feat: add @codeblitzjs/ide-core allowLargePackages (#443) ([1043520](https://github.com/cnpm/unpkg-white-list/commit/1043520)), closes [#443](https://github.com/cnpm/unpkg-white-list/issues/443)
+
 ## 1.218.0 (2025-12-22)
 
 * feat: add `@pnpm` scope to allowLargeScopes (#442) ([5404595](https://github.com/cnpm/unpkg-white-list/commit/5404595)), closes [#442](https://github.com/cnpm/unpkg-white-list/issues/442)
