@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.217.0 (2025-12-22)
+
+* feat(allowPackages): add tdesign-mobile-vue (#441) ([a36fa9f](https://github.com/cnpm/unpkg-white-list/commit/a36fa9f)), closes [#441](https://github.com/cnpm/unpkg-white-list/issues/441)
+
 ## 1.216.0 (2025-12-19)
 
 * feat: add `@oven` to allowLargeScopes (#440) ([3c61b69](https://github.com/cnpm/unpkg-white-list/commit/3c61b69)), closes [#440](https://github.com/cnpm/unpkg-white-list/issues/440)
