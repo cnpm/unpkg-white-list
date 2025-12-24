@@ -3,9 +3,6 @@ name: Commit Message Check
 on:
   pull_request:
     types: [opened, edited, synchronize, reopened]
-  push:
-    branches:
-      - master
 
 jobs:
   commitlint:
@@ -27,10 +24,5 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Validate current commit (push)
-        if: github.event_name == 'push'
-        run: npx commitlint --from HEAD~1 --to HEAD --verbose
-
       - name: Validate PR commits
-        if: github.event_name == 'pull_request'
         run: npx commitlint --from ${{ github.event.pull_request.base.sha }} --to ${{ github.event.pull_request.head.sha }} --verbose
