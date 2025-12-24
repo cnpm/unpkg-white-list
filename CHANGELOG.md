@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.222.0 (2025-12-24)
+
+* feat: add @baidumap/mapv-three to largepkg whitelist (#448) ([8333a92](https://github.com/cnpm/unpkg-white-list/commit/8333a92)), closes [#448](https://github.com/cnpm/unpkg-white-list/issues/448)
+
 ## 1.221.0 (2025-12-22)
 
 * feat: add `@cloudflare` to allowLargeScopes (#445) ([5714299](https://github.com/cnpm/unpkg-white-list/commit/5714299)), closes [#445](https://github.com/cnpm/unpkg-white-list/issues/445)
