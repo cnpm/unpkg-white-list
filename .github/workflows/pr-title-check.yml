@@ -1,12 +1,12 @@
-name: Commit Message Check
+name: PR Title Check
 
 on:
   pull_request:
     types: [opened, edited, synchronize, reopened]
 
 jobs:
-  commitlint:
-    name: Validate Commit Messages
+  pr-title-check:
+    name: Validate PR Title
     runs-on: ubuntu-latest
     permissions:
       contents: read
