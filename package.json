@@ -18966,6 +18966,9 @@
     "@utoo"
   ],
   "allowLargePackages": {
+    "@baidumap/mapv-three": {
+      "version": "*"
+    },
     "@codeblitzjs/ide-core": {
       "version": "*"
     },
