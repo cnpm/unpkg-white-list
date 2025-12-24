@@ -25,4 +25,6 @@ jobs:
         run: npm install
 
       - name: Validate PR title
-        run: echo "${{ github.event.pull_request.title }}" | npx commitlint --verbose
+        env:
+          PR_TITLE: ${{ github.event.pull_request.title }}
+        run: echo "$PR_TITLE" | npx commitlint --verbose
