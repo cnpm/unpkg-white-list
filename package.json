@@ -9840,6 +9840,9 @@
     "make-event-props": {
       "version": "*"
     },
+    "makecoder": {
+      "version": "*"
+    },
     "malfurion": {
       "version": "*"
     },
