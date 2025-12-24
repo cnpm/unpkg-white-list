@@ -18978,6 +18978,9 @@
     "aws-cdk-lib": {
       "version": "*"
     },
+    "makecoder": {
+      "version": "*"
+    },
     "next": {
       "version": "*"
     },
