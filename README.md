@@ -144,11 +144,11 @@ _你将会看到 package.json 文件中的 `allowLargeScopes` 字段被更新，
 
 修改完成后提交一个 `Pull Request` 合并到 master 分支，等待 Review，合并后会自动发布，预计最长 5 分钟后会全网生效。
 
-### Commit Message 规范
+### Pull Request 标题规范
 
-本项目使用 [Conventional Commits](https://www.conventionalcommits.org/) 规范，所有提交的 commit message 必须符合 [semantic-release](https://semantic-release.gitbook.io/) 要求。
+本项目使用 [Conventional Commits](https://www.conventionalcommits.org/) 规范，所有 Pull Request 的标题必须符合 [semantic-release](https://semantic-release.gitbook.io/) 要求。
 
-Commit message 格式如下：
+由于本项目使用 squash 合并方式，最终的 commit message 会基于 PR 标题生成，因此 PR 标题格式如下：
 
 ```
 <type>(<scope>): <subject>
@@ -193,7 +193,7 @@ feat: add new feature
 BREAKING CHANGE: This removes the old API
 ```
 
-CI 会自动检查所有 commit message 是否符合规范，不符合规范的提交将无法通过检查。
+CI 会自动检查 Pull Request 标题是否符合规范，不符合规范的 PR 将无法通过检查。
 
 ## for admins
 
