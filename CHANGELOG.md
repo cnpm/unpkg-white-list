@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.223.0 (2025-12-24)
+
+* feat: add makecoder to allowLargePackages ([d290b7b](https://github.com/cnpm/unpkg-white-list/commit/d290b7b))
+* ✨ feat: add makecoder to package whitelist (#449) ([02f1f39](https://github.com/cnpm/unpkg-white-list/commit/02f1f39)), closes [#449](https://github.com/cnpm/unpkg-white-list/issues/449)
+
 ## 1.222.0 (2025-12-24)
 
 * feat: add @baidumap/mapv-three to largepkg whitelist (#448) ([8333a92](https://github.com/cnpm/unpkg-white-list/commit/8333a92)), closes [#448](https://github.com/cnpm/unpkg-white-list/issues/448)
