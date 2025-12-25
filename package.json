@@ -7640,6 +7640,9 @@
     "html2canvas": {
       "version": "*"
     },
+    "html2canvas-pro": {
+      "version": "*"
+    },
     "html2canvas-stroke": {
       "version": "*"
     },
