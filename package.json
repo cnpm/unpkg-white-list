@@ -18962,6 +18962,7 @@
   },
   "allowLargeScopes": [
     "@cloudflare",
+    "@deno",
     "@fonixtree",
     "@next",
     "@openai",
