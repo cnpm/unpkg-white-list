@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.224.0 (2025-12-25)
+
+* feat: add html2canvas-pro to allowPackages (#452) ([2f31723](https://github.com/cnpm/unpkg-white-list/commit/2f31723)), closes [#452](https://github.com/cnpm/unpkg-white-list/issues/452)
+* ci: add PR title validation workflow for semantic-release compliance (#451) ([ef966c8](https://github.com/cnpm/unpkg-white-list/commit/ef966c8)), closes [#451](https://github.com/cnpm/unpkg-white-list/issues/451)
+
 ## 1.223.0 (2025-12-24)
 
 * feat: add makecoder to allowLargePackages ([d290b7b](https://github.com/cnpm/unpkg-white-list/commit/d290b7b))
