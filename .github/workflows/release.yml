@@ -5,8 +5,13 @@ on:
 
 jobs:
   release:
-    name: Node.js
-    uses: cnpm/github-actions/.github/workflows/node-release.yml@master
+    name: NPM
+    uses: cnpm/github-actions/.github/workflows/npm-release.yml@master
     secrets:
-      NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
       GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
+    permissions:
+      contents: write
+      id-token: write
+      deployments: write
+      issues: write
+      pull-requests: write
