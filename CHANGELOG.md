@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.225.0 (2025-12-25)
+
+* feat: add @deno to allowLargeScopes (#453) ([e7c0517](https://github.com/cnpm/unpkg-white-list/commit/e7c0517)), closes [#453](https://github.com/cnpm/unpkg-white-list/issues/453)
+
 ## 1.224.0 (2025-12-25)
 
 * feat: add html2canvas-pro to allowPackages (#452) ([2f31723](https://github.com/cnpm/unpkg-white-list/commit/2f31723)), closes [#452](https://github.com/cnpm/unpkg-white-list/issues/452)
