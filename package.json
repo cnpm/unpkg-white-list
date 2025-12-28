@@ -18984,6 +18984,9 @@
     "aws-cdk-lib": {
       "version": "*"
     },
+    "element-ai-vue": {
+      "version": "*"
+    },
     "makecoder": {
       "version": "*"
     },
