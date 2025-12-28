@@ -5300,6 +5300,9 @@
     "eleme-openapi-sdk": {
       "version": "*"
     },
+    "element-ai-vue": {
+      "version": "*"
+    },
     "element-china-area-data": {
       "version": "*"
     },
@@ -18982,6 +18985,9 @@
       "version": "*"
     },
     "aws-cdk-lib": {
+      "version": "*"
+    },
+    "element-ai-vue": {
       "version": "*"
     },
     "makecoder": {
