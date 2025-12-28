@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.226.0 (2025-12-28)
+
+* feat: add element-ai-vue to allowLargePackages (#454) ([02fe196](https://github.com/cnpm/unpkg-white-list/commit/02fe196)), closes [#454](https://github.com/cnpm/unpkg-white-list/issues/454)
+
 ## 1.225.0 (2025-12-25)
 
 * feat: add @deno to allowLargeScopes (#453) ([e7c0517](https://github.com/cnpm/unpkg-white-list/commit/e7c0517)), closes [#453](https://github.com/cnpm/unpkg-white-list/issues/453)
