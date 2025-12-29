@@ -18999,6 +18999,9 @@
     "makecoder": {
       "version": "*"
     },
+    "ms-vue-elet": {
+      "version": "*"
+    },
     "next": {
       "version": "*"
     },
