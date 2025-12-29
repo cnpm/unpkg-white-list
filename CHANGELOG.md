@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.228.0 (2025-12-29)
+
+* feat: add ms-vue-elet to allowLargePackages (#457) ([3f3f2de](https://github.com/cnpm/unpkg-white-list/commit/3f3f2de)), closes [#457](https://github.com/cnpm/unpkg-white-list/issues/457)
+
 ## 1.227.0 (2025-12-29)
 
 * feat: add tdesign-miniprogram,tdesign-mobile-react and tdesign-vue to allowPackages (#455) ([0e91b34](https://github.com/cnpm/unpkg-white-list/commit/0e91b34)), closes [#455](https://github.com/cnpm/unpkg-white-list/issues/455)
