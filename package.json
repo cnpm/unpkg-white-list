@@ -16460,10 +16460,19 @@
     "tb-icons": {
       "version": "*"
     },
+    "tdesign-miniprogram": {
+      "version": "*"
+    },
+    "tdesign-mobile-react": {
+      "version": "*"
+    },
     "tdesign-mobile-vue": {
       "version": "*"
     },
     "tdesign-react": {
+      "version": "*"
+    },
+    "tdesign-vue": {
       "version": "*"
     },
     "tdesign-vue-next": {
