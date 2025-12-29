@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.227.0 (2025-12-29)
+
+* feat: add tdesign-miniprogram,tdesign-mobile-react and tdesign-vue to allowPackages (#455) ([0e91b34](https://github.com/cnpm/unpkg-white-list/commit/0e91b34)), closes [#455](https://github.com/cnpm/unpkg-white-list/issues/455)
+
 ## 1.226.0 (2025-12-28)
 
 * feat: add element-ai-vue to allowLargePackages (#454) ([02fe196](https://github.com/cnpm/unpkg-white-list/commit/02fe196)), closes [#454](https://github.com/cnpm/unpkg-white-list/issues/454)
