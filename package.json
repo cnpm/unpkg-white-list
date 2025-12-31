@@ -359,9 +359,6 @@
     "@ant-basement/miniprogram-sdk": {
       "version": "*"
     },
-    "@aoguai/subscription": {
-      "version": "*"
-    },
     "@apollo/client": {
       "version": "*"
     },
