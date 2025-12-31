@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.229.0 (2025-12-31)
+
+* feat: update (#460) ([ac9cbc0](https://github.com/cnpm/unpkg-white-list/commit/ac9cbc0)), closes [#460](https://github.com/cnpm/unpkg-white-list/issues/460)
+* chore: remove @aoguai/subscription (#459) ([1fb48eb](https://github.com/cnpm/unpkg-white-list/commit/1fb48eb)), closes [#459](https://github.com/cnpm/unpkg-white-list/issues/459)
+
 ## 1.228.0 (2025-12-29)
 
 * feat: add ms-vue-elet to allowLargePackages (#457) ([3f3f2de](https://github.com/cnpm/unpkg-white-list/commit/3f3f2de)), closes [#457](https://github.com/cnpm/unpkg-white-list/issues/457)
