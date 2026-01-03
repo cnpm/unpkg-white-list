@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.230.0 (2026-01-03)
+
+* feat: add justifiedGallery to allowPackages (#461) ([e804dc8](https://github.com/cnpm/unpkg-white-list/commit/e804dc8)), closes [#461](https://github.com/cnpm/unpkg-white-list/issues/461)
+
 ## 1.229.0 (2025-12-31)
 
 * feat: update (#460) ([ac9cbc0](https://github.com/cnpm/unpkg-white-list/commit/ac9cbc0)), closes [#460](https://github.com/cnpm/unpkg-white-list/issues/460)
