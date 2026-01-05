@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.232.0 (2026-01-05)
+
+* feat: add `@rollup` to allowLargeScopes (#463) ([228a32b](https://github.com/cnpm/unpkg-white-list/commit/228a32b)), closes [#463](https://github.com/cnpm/unpkg-white-list/issues/463)
+
 ## 1.231.0 (2026-01-05)
 
 * feat: add z3-solver to allowPackages (#462) ([e037d62](https://github.com/cnpm/unpkg-white-list/commit/e037d62)), closes [#462](https://github.com/cnpm/unpkg-white-list/issues/462)
