@@ -1043,6 +1043,9 @@
     "@rollup-extras/plugin-clean": {
       "version": "*"
     },
+    "@rollup/rollup-openbsd-x64": {
+      "version": "*"
+    },
     "@rooks/use-interval": {
       "version": "*"
     },
