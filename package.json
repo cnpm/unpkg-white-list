@@ -18875,6 +18875,9 @@
     "yurine-pie": {
       "version": "*"
     },
+    "z3-solver": {
+      "version": "*"
+    },
     "zarm": {
       "version": "*"
     },
