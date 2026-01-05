@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.231.0 (2026-01-05)
+
+* feat: add z3-solver to allowPackages (#462) ([e037d62](https://github.com/cnpm/unpkg-white-list/commit/e037d62)), closes [#462](https://github.com/cnpm/unpkg-white-list/issues/462)
+
 ## 1.230.0 (2026-01-03)
 
 * feat: add justifiedGallery to allowPackages (#461) ([e804dc8](https://github.com/cnpm/unpkg-white-list/commit/e804dc8)), closes [#461](https://github.com/cnpm/unpkg-white-list/issues/461)
