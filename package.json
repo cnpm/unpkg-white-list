@@ -19013,6 +19013,9 @@
     },
     "wetrade-design": {
       "version": "*"
+    },
+    "z3-solver": {
+      "version": "*"
     }
   },
   "blockSyncScopes": [
