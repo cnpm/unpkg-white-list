@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.233.0 (2026-01-06)
+
+* feat: add `@tntd/dll` to allowLargePackages (#464) ([2a3de9e](https://github.com/cnpm/unpkg-white-list/commit/2a3de9e)), closes [#464](https://github.com/cnpm/unpkg-white-list/issues/464)
+
 ## 1.232.0 (2026-01-05)
 
 * feat: add `@rollup` to allowLargeScopes (#463) ([228a32b](https://github.com/cnpm/unpkg-white-list/commit/228a32b)), closes [#463](https://github.com/cnpm/unpkg-white-list/issues/463)
