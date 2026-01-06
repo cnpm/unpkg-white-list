@@ -18992,7 +18992,7 @@
       "version": "*"
     },
     "@tntd/dll": {
-      "version": ">=3.2.0"
+      "version": "*"
     },
     "ant-design-vue": {
       "version": "*"
