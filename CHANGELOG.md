@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.235.0 (2026-01-08)
+
+* feat: add `@github` to allowLargeScopes (#467) ([642dbc2](https://github.com/cnpm/unpkg-white-list/commit/642dbc2)), closes [#467](https://github.com/cnpm/unpkg-white-list/issues/467)
+
 ## 1.234.0 (2026-01-08)
 
 * feat: add `@github/copilot` to allowLargePackages (#465) ([6fddc6f](https://github.com/cnpm/unpkg-white-list/commit/6fddc6f)), closes [#465](https://github.com/cnpm/unpkg-white-list/issues/465)

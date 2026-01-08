@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.234.0",
+  "version": "1.235.0",
   "description": "npmmirror 允许开启 unpkg 和 sync package tgz 超大文件功能的白名单列表",
   "main": "index.js",
   "files": [],
