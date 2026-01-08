@@ -18991,6 +18991,9 @@
     "@codeblitzjs/ide-core": {
       "version": "*"
     },
+    "@github/copilot": {
+      "version": "*"
+    },
     "@tntd/dll": {
       "version": "*"
     },
