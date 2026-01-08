@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.234.0 (2026-01-08)
+
+* feat: add `@github/copilot` to allowLargePackages (#465) ([6fddc6f](https://github.com/cnpm/unpkg-white-list/commit/6fddc6f)), closes [#465](https://github.com/cnpm/unpkg-white-list/issues/465)
+
 ## 1.233.0 (2026-01-06)
 
 * feat: add `@tntd/dll` to allowLargePackages (#464) ([2a3de9e](https://github.com/cnpm/unpkg-white-list/commit/2a3de9e)), closes [#464](https://github.com/cnpm/unpkg-white-list/issues/464)
