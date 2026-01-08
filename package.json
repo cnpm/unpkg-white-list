@@ -18976,11 +18976,12 @@
     "@cloudflare",
     "@deno",
     "@fonixtree",
-    "@rollup",
+    "@github",
     "@next",
     "@openai",
     "@oven",
     "@pnpm",
+    "@rollup",
     "@swc",
     "@utoo"
   ],
@@ -18989,9 +18990,6 @@
       "version": "*"
     },
     "@codeblitzjs/ide-core": {
-      "version": "*"
-    },
-    "@github/copilot": {
       "version": "*"
     },
     "@tntd/dll": {
