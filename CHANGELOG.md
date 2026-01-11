@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.236.0 (2026-01-11)
+
+* feat: add `@iconify` to allowLargeScopes (#468) ([c27f78f](https://github.com/cnpm/unpkg-white-list/commit/c27f78f)), closes [#468](https://github.com/cnpm/unpkg-white-list/issues/468)
+
 ## 1.235.0 (2026-01-08)
 
 * feat: add `@github` to allowLargeScopes (#467) ([642dbc2](https://github.com/cnpm/unpkg-white-list/commit/642dbc2)), closes [#467](https://github.com/cnpm/unpkg-white-list/issues/467)
