@@ -6233,6 +6233,9 @@
     "fecha": {
       "version": "*"
     },
+    "feffery_infographic": {
+      "version": "*"
+    },
     "feffery_antd_charts": {
       "version": "*"
     },
