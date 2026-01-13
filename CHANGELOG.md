@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.237.0 (2026-01-13)
+
+* feat: add feffery_infographic to allowPackages (#470) ([24d603b](https://github.com/cnpm/unpkg-white-list/commit/24d603b)), closes [#470](https://github.com/cnpm/unpkg-white-list/issues/470)
+
 ## 1.236.0 (2026-01-11)
 
 * feat: add `@iconify` to allowLargeScopes (#468) ([c27f78f](https://github.com/cnpm/unpkg-white-list/commit/c27f78f)), closes [#468](https://github.com/cnpm/unpkg-white-list/issues/468)
