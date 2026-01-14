@@ -19018,6 +19018,39 @@
     "next": {
       "version": "*"
     },
+    "opencode-darwin-arm64": {
+      "version": "*"
+    },
+    "opencode-darwin-x64": {
+      "version": "*"
+    },
+    "opencode-darwin-x64-baseline": {
+      "version": "*"
+    },
+    "opencode-linux-arm64": {
+      "version": "*"
+    },
+    "opencode-linux-arm64-musl": {
+      "version": "*"
+    },
+    "opencode-linux-x64": {
+      "version": "*"
+    },
+    "opencode-linux-x64-baseline": {
+      "version": "*"
+    },
+    "opencode-linux-x64-baseline-musl": {
+      "version": "*"
+    },
+    "opencode-linux-x64-musl": {
+      "version": "*"
+    },
+    "opencode-windows-x64": {
+      "version": "*"
+    },
+    "opencode-windows-x64-baseline": {
+      "version": "*"
+    },
     "rx-compo": {
       "version": "*"
     },
