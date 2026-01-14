@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.239.0 (2026-01-14)
+
+* feat: add `opencode-*` packages to allowLargePackages whitelist (#473) ([d2fed51](https://github.com/cnpm/unpkg-white-list/commit/d2fed51)), closes [#473](https://github.com/cnpm/unpkg-white-list/issues/473)
+
 ## 1.238.0 (2026-01-14)
 
 * feat(allowScopes): add `@page-agent` scope (#471) ([e9c1e30](https://github.com/cnpm/unpkg-white-list/commit/e9c1e30)), closes [#471](https://github.com/cnpm/unpkg-white-list/issues/471) [#431](https://github.com/cnpm/unpkg-white-list/issues/431)
