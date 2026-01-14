@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.238.0 (2026-01-14)
+
+* feat(allowScopes): add `@page-agent` scope (#471) ([e9c1e30](https://github.com/cnpm/unpkg-white-list/commit/e9c1e30)), closes [#471](https://github.com/cnpm/unpkg-white-list/issues/471) [#431](https://github.com/cnpm/unpkg-white-list/issues/431)
+
 ## 1.237.0 (2026-01-13)
 
 * feat: add feffery_infographic to allowPackages (#470) ([24d603b](https://github.com/cnpm/unpkg-white-list/commit/24d603b)), closes [#470](https://github.com/cnpm/unpkg-white-list/issues/470)
