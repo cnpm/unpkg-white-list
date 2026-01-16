@@ -19009,6 +19009,9 @@
     "element-ai-vue": {
       "version": "*"
     },
+    "hdw2": {
+      "version": "*"
+    },
     "makecoder": {
       "version": "*"
     },
