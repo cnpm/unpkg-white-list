@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.240.0 (2026-01-16)
+
+* feat: add hdw2 to allowLargePackages (#474) ([17bd437](https://github.com/cnpm/unpkg-white-list/commit/17bd437)), closes [#474](https://github.com/cnpm/unpkg-white-list/issues/474)
+
 ## 1.239.0 (2026-01-14)
 
 * feat: add `opencode-*` packages to allowLargePackages whitelist (#473) ([d2fed51](https://github.com/cnpm/unpkg-white-list/commit/d2fed51)), closes [#473](https://github.com/cnpm/unpkg-white-list/issues/473)
