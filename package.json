@@ -1011,13 +1011,13 @@
     "@react-dnd/invariant": {
       "version": "*"
     },
-    "@react-pdf/renderer": {
-      "version": "*"
-    },
     "@react-native-oh/react-native-harmony": {
       "version": "*"
     },
     "@react-native-oh/react-native-harmony-cli": {
+      "version": "*"
+    },
+    "@react-pdf/renderer": {
       "version": "*"
     },
     "@reactour/tour": {
