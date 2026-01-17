@@ -1014,6 +1014,12 @@
     "@react-pdf/renderer": {
       "version": "*"
     },
+    "@react-native-oh/react-native-harmony": {
+      "version": "*"
+    },
+    "@react-native-oh/react-native-harmony-cli": {
+      "version": "*"
+    },
     "@reactour/tour": {
       "version": "*"
     },
