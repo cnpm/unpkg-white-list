@@ -1011,12 +1011,6 @@
     "@react-dnd/invariant": {
       "version": "*"
     },
-    "@react-native-oh/react-native-harmony": {
-      "version": "*"
-    },
-    "@react-native-oh/react-native-harmony-cli": {
-      "version": "*"
-    },
     "@react-pdf/renderer": {
       "version": "*"
     },
@@ -19001,6 +18995,12 @@
       "version": "*"
     },
     "@codeblitzjs/ide-core": {
+      "version": "*"
+    },
+    "@react-native-oh/react-native-harmony": {
+      "version": "*"
+    },
+    "@react-native-oh/react-native-harmony-cli": {
       "version": "*"
     },
     "@tntd/dll": {
