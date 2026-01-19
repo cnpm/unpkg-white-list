@@ -18998,12 +18998,6 @@
     "@codeblitzjs/ide-core": {
       "version": "*"
     },
-    "@react-native-oh/react-native-harmony": {
-      "version": "*"
-    },
-    "@react-native-oh/react-native-harmony-cli": {
-      "version": "*"
-    },
     "@tntd/dll": {
       "version": "*"
     },
@@ -19059,6 +19053,15 @@
       "version": "*"
     },
     "opencode-windows-x64-baseline": {
+      "version": "*"
+    },
+    "react-native-oh/react-native-harmony": {
+      "version": "*"
+    },
+    "react-native-oh/react-native-harmony-cli": {
+      "version": "*"
+    },
+    "react-native-oh/react-native-oh/react-native-harmony-cli": {
       "version": "*"
     },
     "rx-compo": {
