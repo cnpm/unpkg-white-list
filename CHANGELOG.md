@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.241.0 (2026-01-19)
+
+* feat: add `@react-native-oh` to allowLargeScopes (#475) ([7a89852](https://github.com/cnpm/unpkg-white-list/commit/7a89852)), closes [#475](https://github.com/cnpm/unpkg-white-list/issues/475)
+
 ## 1.240.0 (2026-01-16)
 
 * feat: add hdw2 to allowLargePackages (#474) ([17bd437](https://github.com/cnpm/unpkg-white-list/commit/17bd437)), closes [#474](https://github.com/cnpm/unpkg-white-list/issues/474)
