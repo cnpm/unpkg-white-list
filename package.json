@@ -300,6 +300,9 @@
     "3dmol": {
       "version": "*"
     },
+    "7.css": {
+      "version": "*"
+    },
     "7zip-bin": {
       "version": "*"
     },
