@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.242.0 (2026-01-19)
+
+* feat: add 7.css to allowPackages (#476) ([11ad2bd](https://github.com/cnpm/unpkg-white-list/commit/11ad2bd)), closes [#476](https://github.com/cnpm/unpkg-white-list/issues/476)
+
 ## 1.241.0 (2026-01-19)
 
 * feat: add `@react-native-oh` to allowLargeScopes (#475) ([7a89852](https://github.com/cnpm/unpkg-white-list/commit/7a89852)), closes [#475](https://github.com/cnpm/unpkg-white-list/issues/475)
