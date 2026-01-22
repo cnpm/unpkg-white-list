@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.243.0 (2026-01-22)
+
+* feat: add rari binary packages to allowLargePackages whitelist (#477) ([55e1130](https://github.com/cnpm/unpkg-white-list/commit/55e1130)), closes [#477](https://github.com/cnpm/unpkg-white-list/issues/477)
+
 ## 1.242.0 (2026-01-19)
 
 * feat: add 7.css to allowPackages (#476) ([11ad2bd](https://github.com/cnpm/unpkg-white-list/commit/11ad2bd)), closes [#476](https://github.com/cnpm/unpkg-white-list/issues/476)
