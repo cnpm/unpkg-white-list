@@ -19058,6 +19058,21 @@
     "opencode-windows-x64-baseline": {
       "version": "*"
     },
+    "rari-darwin-arm64": {
+      "version": "*"
+    },
+    "rari-darwin-x64": {
+      "version": "*"
+    },
+    "rari-linux-arm64": {
+      "version": "*"
+    },
+    "rari-linux-x64": {
+      "version": "*"
+    },
+    "rari-win32-x64": {
+      "version": "*"
+    },
     "rx-compo": {
       "version": "*"
     },
