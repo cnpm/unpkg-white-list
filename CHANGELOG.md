@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.244.0 (2026-01-23)
+
+* feat: add tdesign-icons-vue-next to allowLargePackages (#478) ([0990635](https://github.com/cnpm/unpkg-white-list/commit/0990635)), closes [#478](https://github.com/cnpm/unpkg-white-list/issues/478)
+
 ## 1.243.0 (2026-01-22)
 
 * feat: add rari binary packages to allowLargePackages whitelist (#477) ([55e1130](https://github.com/cnpm/unpkg-white-list/commit/55e1130)), closes [#477](https://github.com/cnpm/unpkg-white-list/issues/477)
