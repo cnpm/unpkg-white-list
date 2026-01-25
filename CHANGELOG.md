@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.245.0 (2026-01-25)
+
+* feat: add `@lezer/lr` to allowPackages (#479) ([c95f66d](https://github.com/cnpm/unpkg-white-list/commit/c95f66d)), closes [#479](https://github.com/cnpm/unpkg-white-list/issues/479)
+
 ## 1.244.0 (2026-01-23)
 
 * feat: add tdesign-icons-vue-next to allowLargePackages (#478) ([0990635](https://github.com/cnpm/unpkg-white-list/commit/0990635)), closes [#478](https://github.com/cnpm/unpkg-white-list/issues/478)
