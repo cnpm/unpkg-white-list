@@ -837,6 +837,9 @@
     "@lezer/javascript": {
       "version": "*"
     },
+    "@lezer/lr": {
+      "version": "*"
+    },
     "@lit-labs/react": {
       "version": "*"
     },
