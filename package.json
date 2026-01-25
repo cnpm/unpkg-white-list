@@ -829,18 +829,6 @@
     "@lexical/react": {
       "version": "*"
     },
-    "@lezer/common": {
-      "version": "*"
-    },
-    "@lezer/highlight": {
-      "version": "*"
-    },
-    "@lezer/javascript": {
-      "version": "*"
-    },
-    "@lezer/lr": {
-      "version": "*"
-    },
     "@lit-labs/react": {
       "version": "*"
     },
