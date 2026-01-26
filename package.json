@@ -19076,6 +19076,24 @@
     },
     "wetrade-design": {
       "version": "*"
+    },
+    "node-win-x86": {
+      "version": "*"
+    },
+    "node-win-x64": {
+      "version": "*"
+    },
+    "node-linux-x64": {
+      "version": "*"
+    },
+    "node-linux-arm64": {
+      "version": "*"
+    },
+    "node-darwin-x64": {
+      "version": "*"
+    },
+    "node-bin-darwin-arm64": {
+      "version": "*"
     }
   },
   "blockSyncScopes": [
