@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.247.0 (2026-01-26)
+
+* feat: add node binary config (#481) ([a53b9d1](https://github.com/cnpm/unpkg-white-list/commit/a53b9d1)), closes [#481](https://github.com/cnpm/unpkg-white-list/issues/481)
+
 ## 1.246.0 (2026-01-26)
 
 * feat: add `@lezer` to allowScopes (#480) ([5e51135](https://github.com/cnpm/unpkg-white-list/commit/5e51135)), closes [#480](https://github.com/cnpm/unpkg-white-list/issues/480)
