@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.246.0 (2026-01-26)
+
+* feat: add `@lezer` to allowScopes (#480) ([5e51135](https://github.com/cnpm/unpkg-white-list/commit/5e51135)), closes [#480](https://github.com/cnpm/unpkg-white-list/issues/480)
+
 ## 1.245.0 (2026-01-25)
 
 * feat: add `@lezer/lr` to allowPackages (#479) ([c95f66d](https://github.com/cnpm/unpkg-white-list/commit/c95f66d)), closes [#479](https://github.com/cnpm/unpkg-white-list/issues/479)
