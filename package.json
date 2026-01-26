@@ -135,6 +135,7 @@
     "@latticexyz",
     "@leancloud",
     "@lerna",
+    "@lezer",
     "@lincy",
     "@lingui",
     "@lobehub",
@@ -826,18 +827,6 @@
       "version": "*"
     },
     "@lexical/react": {
-      "version": "*"
-    },
-    "@lezer/common": {
-      "version": "*"
-    },
-    "@lezer/highlight": {
-      "version": "*"
-    },
-    "@lezer/javascript": {
-      "version": "*"
-    },
-    "@lezer/lr": {
       "version": "*"
     },
     "@lit-labs/react": {
