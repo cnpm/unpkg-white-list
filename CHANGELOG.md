@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.248.0 (2026-01-29)
+
+* feat: add `@shined` to allowLargeScopes (#482) ([39aa399](https://github.com/cnpm/unpkg-white-list/commit/39aa399)), closes [#482](https://github.com/cnpm/unpkg-white-list/issues/482)
+
 ## 1.247.0 (2026-01-26)
 
 * feat: add node binary config (#481) ([a53b9d1](https://github.com/cnpm/unpkg-white-list/commit/a53b9d1)), closes [#481](https://github.com/cnpm/unpkg-white-list/issues/481)
