@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.249.0 (2026-02-02)
+
+* feat: add koffi to allowLargePackages (#483) ([0e06df5](https://github.com/cnpm/unpkg-white-list/commit/0e06df5)), closes [#483](https://github.com/cnpm/unpkg-white-list/issues/483)
+
 ## 1.248.0 (2026-01-29)
 
 * feat: add `@shined` to allowLargeScopes (#482) ([39aa399](https://github.com/cnpm/unpkg-white-list/commit/39aa399)), closes [#482](https://github.com/cnpm/unpkg-white-list/issues/482)
