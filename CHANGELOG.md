@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.250.0 (2026-02-02)
+
+* feat: add dashjs to allowLargePackages (#484) ([e615021](https://github.com/cnpm/unpkg-white-list/commit/e615021)), closes [#484](https://github.com/cnpm/unpkg-white-list/issues/484)
+
 ## 1.249.0 (2026-02-02)
 
 * feat: add koffi to allowLargePackages (#483) ([0e06df5](https://github.com/cnpm/unpkg-white-list/commit/0e06df5)), closes [#483](https://github.com/cnpm/unpkg-white-list/issues/483)
