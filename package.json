@@ -19004,7 +19004,7 @@
       "version": "*"
     },
     "dashjs": {
-      "version": ">=5.1.1"
+      "version": "*"
     },
     "element-ai-vue": {
       "version": "*"
