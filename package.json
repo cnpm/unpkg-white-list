@@ -19003,6 +19003,9 @@
     "aws-cdk-lib": {
       "version": "*"
     },
+    "dashjs": {
+      "version": "*"
+    },
     "element-ai-vue": {
       "version": "*"
     },
