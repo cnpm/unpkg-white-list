@@ -11137,12 +11137,6 @@
     "only": {
       "version": "*"
     },
-    "onnxruntime-node": {
-      "version": "*"
-    },
-    "onnxruntime-web": {
-      "version": "*"
-    },
     "onsenui": {
       "version": "*"
     },
@@ -19040,6 +19034,12 @@
       "version": "*"
     },
     "node-win-x86": {
+      "version": "*"
+    },
+    "onnxruntime-node": {
+      "version": "*"
+    },
+    "onnxruntime-web": {
       "version": "*"
     },
     "opencode-darwin-arm64": {
