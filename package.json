@@ -11137,6 +11137,12 @@
     "only": {
       "version": "*"
     },
+    "onnxruntime-node": {
+      "version": "*"
+    },
+    "onnxruntime-web": {
+      "version": "*"
+    },
     "onsenui": {
       "version": "*"
     },
