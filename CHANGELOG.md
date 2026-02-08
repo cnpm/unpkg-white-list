@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.251.0 (2026-02-08)
+
+* feat: add onnxruntime-node and onnxruntime-web to allowLargePackages (#486) ([9a11d76](https://github.com/cnpm/unpkg-white-list/commit/9a11d76)), closes [#486](https://github.com/cnpm/unpkg-white-list/issues/486)
+
 ## 1.250.0 (2026-02-02)
 
 * feat: add dashjs to allowLargePackages (#484) ([e615021](https://github.com/cnpm/unpkg-white-list/commit/e615021)), closes [#484](https://github.com/cnpm/unpkg-white-list/issues/484)
