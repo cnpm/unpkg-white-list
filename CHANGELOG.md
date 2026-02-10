@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.252.0 (2026-02-10)
+
+* feat: add `@lancedb` scope (#487) ([3f0ab1d](https://github.com/cnpm/unpkg-white-list/commit/3f0ab1d)), closes [#487](https://github.com/cnpm/unpkg-white-list/issues/487)
+
 ## 1.251.0 (2026-02-08)
 
 * feat: add onnxruntime-node and onnxruntime-web to allowLargePackages (#486) ([9a11d76](https://github.com/cnpm/unpkg-white-list/commit/9a11d76)), closes [#486](https://github.com/cnpm/unpkg-white-list/issues/486)
