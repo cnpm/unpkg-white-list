@@ -862,6 +862,12 @@
     "@matejmazur/react-katex": {
       "version": "*"
     },
+    "@mchp-mcc/pic-16bit": {
+      "version": "*"
+    },
+    "@mchp-mcc/pic-8bit": {
+      "version": "*"
+    },
     "@mdi/font": {
       "version": "*"
     },
