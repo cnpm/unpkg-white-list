@@ -349,6 +349,9 @@
     "@aligov/global-string-format": {
       "version": "*"
     },
+    "@aliuscode/gkd-subscription-url": {
+      "version": "*"
+    },
     "@aliyun-sls/web-track-browser": {
       "version": "*"
     },
