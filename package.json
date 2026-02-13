@@ -829,6 +829,9 @@
     "@lexical/react": {
       "version": "*"
     },
+    "@lin_arm/gkd-rules": {
+      "version": "*"
+    },
     "@lit-labs/react": {
       "version": "*"
     },
