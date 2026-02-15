@@ -18995,6 +18995,9 @@
     "@codeblitzjs/ide-core": {
       "version": "*"
     },
+    "@qingchencloud/openclaw-zh": {
+      "version": "*"
+    },
     "@tntd/dll": {
       "version": "*"
     },
