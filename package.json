@@ -973,6 +973,9 @@
     "@phenomnomnominal/tsquery": {
       "version": "*"
     },
+    "@picocss/pico": {
+      "version": "*"
+    },
     "@pinging/dagrejs": {
       "version": "*"
     },
