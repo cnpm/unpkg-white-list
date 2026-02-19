@@ -7468,6 +7468,9 @@
     "hexo-theme-redefine": {
       "version": "*"
     },
+    "hexo-theme-redefine-x": {
+      "version": "*"
+    },
     "hhh-excel-export": {
       "version": "*"
     },
