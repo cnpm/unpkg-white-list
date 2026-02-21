@@ -19001,6 +19001,12 @@
     "@codeblitzjs/ide-core": {
       "version": "*"
     },
+    "@mchp-mcc/pic-16bit": {
+      "version": "*"
+    },
+    "@mchp-mcc/pic-8bit": {
+      "version": "*"
+    },
     "@qingchencloud/openclaw-zh": {
       "version": "*"
     },
