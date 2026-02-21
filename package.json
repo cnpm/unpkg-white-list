@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.252.0",
+  "version": "1.254.0",
   "description": "npmmirror 允许开启 unpkg 和 sync package tgz 超大文件功能的白名单列表",
   "main": "index.js",
   "files": [],
@@ -971,6 +971,9 @@
       "version": "*"
     },
     "@phenomnomnominal/tsquery": {
+      "version": "*"
+    },
+    "@picocss/pico": {
       "version": "*"
     },
     "@pinging/dagrejs": {
@@ -18999,6 +19002,9 @@
       "version": "*"
     },
     "@mchp-mcc/pic-8bit": {
+      "version": "*"
+    },
+    "@qingchencloud/openclaw-zh": {
       "version": "*"
     },
     "@tntd/dll": {

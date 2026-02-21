@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.254.0 (2026-02-16)
+
+* feat: add `@picocss/pico` to allowPackages (#492) ([1752fba](https://github.com/cnpm/unpkg-white-list/commit/1752fba)), closes [#492](https://github.com/cnpm/unpkg-white-list/issues/492)
+
+## 1.253.0 (2026-02-15)
+
+* feat(allowLargePackages): add @qingchencloud/openclaw-zh (#491) ([c849998](https://github.com/cnpm/unpkg-white-list/commit/c849998)), closes [#491](https://github.com/cnpm/unpkg-white-list/issues/491)
+
 ## 1.252.0 (2026-02-10)
 
 * feat: add `@lancedb` scope (#487) ([3f0ab1d](https://github.com/cnpm/unpkg-white-list/commit/3f0ab1d)), closes [#487](https://github.com/cnpm/unpkg-white-list/issues/487)
