@@ -19020,6 +19020,9 @@
     "aws-cdk-lib": {
       "version": "*"
     },
+    "cline": {
+      "version": "*"
+    },
     "dashjs": {
       "version": "*"
     },
