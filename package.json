@@ -10232,6 +10232,9 @@
     "min-evt": {
       "version": "*"
     },
+    "minecraft-data": {
+      "version": "*"
+    },
     "mini": {
       "version": "*"
     },
@@ -19036,6 +19039,9 @@
       "version": "*"
     },
     "makecoder": {
+      "version": "*"
+    },
+    "minecraft-data": {
       "version": "*"
     },
     "ms-vue-elet": {
