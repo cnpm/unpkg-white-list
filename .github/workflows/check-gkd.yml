@@ -17,23 +17,17 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
-          PR_TITLE: ${{ github.event.pull_request.title }}
         run: |
-          # Check PR title and package.json diff for gkd-related keywords
+          # Check added lines in package.json for gkd-related keywords
           GKD_PATTERN='gkd[-_]?(subscription|rules|kit)|gkd_|[-_]gkd|(^|[^a-zA-Z0-9])@?gkd([^a-zA-Z0-9]|$)'
 
           FOUND=""
-
-          # Check PR title
-          if echo "$PR_TITLE" | grep -iEq "$GKD_PATTERN"; then
-            FOUND="title"
-          fi
 
           # Only check added lines in package.json (not removals, not docs/workflow files)
           DIFF=$(gh pr diff "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" 2>/dev/null \
             | awk '/^diff --git a\/package\.json/,/^diff --git/' || true)
           if echo "$DIFF" | grep -iEq "^\+[^+].*($GKD_PATTERN)"; then
-            FOUND="${FOUND:+$FOUND and }package.json"
+            FOUND="package.json"
           fi
 
           if [ -n "$FOUND" ]; then
