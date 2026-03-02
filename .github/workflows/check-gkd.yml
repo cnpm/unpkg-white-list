@@ -1,7 +1,7 @@
 name: Check GKD Subscription
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, edited, synchronize, reopened]
 
 jobs:
@@ -11,10 +11,8 @@ jobs:
     permissions:
       contents: read
       pull-requests: write
+      issues: write
     steps:
-      - name: Checkout PR
-        uses: actions/checkout@v4
-
       - name: Check for GKD-related packages
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -22,7 +20,7 @@ jobs:
           PR_TITLE: ${{ github.event.pull_request.title }}
         run: |
           # Check PR title and package.json diff for gkd-related keywords
-          GKD_PATTERN='gkd[-_]?(subscription|rules|kit)|gkd_|[-_]gkd'
+          GKD_PATTERN='gkd[-_]?(subscription|rules|kit)|gkd_|[-_]gkd|(^|[^a-zA-Z0-9])@?gkd([^a-zA-Z0-9]|$)'
 
           FOUND=""
 
@@ -31,23 +29,26 @@ jobs:
             FOUND="title"
           fi
 
-          # Only check package.json changes (not docs/workflow files)
-          DIFF=$(gh pr diff "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" 2>/dev/null | awk '/^diff --git a\/package\.json/,/^diff --git/' || true)
-          if echo "$DIFF" | grep -iEq "^\+.*($GKD_PATTERN)"; then
+          # Only check added lines in package.json (not removals, not docs/workflow files)
+          DIFF=$(gh pr diff "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" 2>/dev/null \
+            | awk '/^diff --git a\/package\.json/,/^diff --git/' || true)
+          if echo "$DIFF" | grep -iEq "^\+[^+].*($GKD_PATTERN)"; then
             FOUND="${FOUND:+$FOUND and }package.json"
           fi
 
           if [ -n "$FOUND" ]; then
             echo "❌ Detected GKD subscription-related content in: $FOUND"
 
-            # Add comment
-            gh pr comment "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --body "🚫 **此 PR 包含 GKD 订阅规则相关的包，不符合本项目的白名单要求。**
+            # Add comment using heredoc to avoid indentation issues
+            cat > /tmp/gkd-comment.md << 'EOF'
+          🚫 **此 PR 包含 GKD 订阅规则相关的包，不符合本项目的白名单要求。**
 
           本项目 **不接受** 任何与 GKD（去广告/跳广告）订阅规则相关的包申请。这类包不是真正的 npm library，而是利用 npmmirror CDN 来分发广告屏蔽订阅规则文件，属于滥用 CDN 资源。
 
           详情请阅读 [README.md](https://github.com/cnpm/unpkg-white-list/blob/master/README.md) 中的说明。
+          EOF
 
-          此 PR 将被关闭。"
+            gh pr comment "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --body-file /tmp/gkd-comment.md
 
             exit 1
           fi
