@@ -1,7 +1,8 @@
 name: Check GKD Subscription
 
 on:
-  pull_request_target:
+  pull_request:
+    types: [opened, edited, synchronize, reopened]
 
 jobs:
   check-gkd:
