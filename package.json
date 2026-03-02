@@ -19080,6 +19080,9 @@
     "onnxruntime-web": {
       "version": "*"
     },
+    "openclaw": {
+      "version": "*"
+    },
     "opencode-darwin-arm64": {
       "version": "*"
     },
