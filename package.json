@@ -11183,6 +11183,9 @@
     "opencc-js": {
       "version": "*"
     },
+    "openclaw": {
+      "version": "*"
+    },
     "opendsl-editor-react": {
       "version": "*"
     },
