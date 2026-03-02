@@ -18999,6 +18999,9 @@
     "@baidumap/mapv-three": {
       "version": "*"
     },
+    "@belife/belife-bim-air": {
+      "version": "*"
+    },
     "@codeblitzjs/ide-core": {
       "version": "*"
     },
