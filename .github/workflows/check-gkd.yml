@@ -1,7 +1,7 @@
 name: Check GKD Subscription
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, edited, synchronize, reopened]
 
 jobs:
@@ -25,7 +25,7 @@ jobs:
 
           # Only check added lines in package.json (not removals, not docs/workflow files)
           DIFF=$(gh pr diff "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" 2>/dev/null \
-            | awk '/^diff --git a\/package\.json/,/^diff --git/' || true)
+            | awk 'found && /^diff --git/{exit} /^diff --git a\/package\.json/{found=1} found{print}' || true)
           if echo "$DIFF" | grep -iEq "^\+[^+].*($GKD_PATTERN)"; then
             FOUND="package.json"
           fi
