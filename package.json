@@ -602,6 +602,9 @@
     "@ganlinte/gkd-subscription": {
       "version": "*"
     },
+    "@soberis/gkd-subscription": {
+      "version": "*"
+    },
     "@gera2ld/jar-parser": {
       "version": "*"
     },
