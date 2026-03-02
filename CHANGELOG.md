@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.262.0 (2026-03-02)
+
+* feat: add @kilocode/cli to allowLargePackages (#513) ([36fb3cb](https://github.com/cnpm/unpkg-white-list/commit/36fb3cb)), closes [#513](https://github.com/cnpm/unpkg-white-list/issues/513)
+
 ## 1.261.0 (2026-03-02)
 
 * feat: add @belife/belife-bim-air to allowLargePackages (#506) ([903871f](https://github.com/cnpm/unpkg-white-list/commit/903871f)), closes [#506](https://github.com/cnpm/unpkg-white-list/issues/506)
