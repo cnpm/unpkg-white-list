@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.263.0 (2026-03-02)
+
+* feat: add openclaw to allowLargePackages whitelist (#514) ([fbe9597](https://github.com/cnpm/unpkg-white-list/commit/fbe9597)), closes [#514](https://github.com/cnpm/unpkg-white-list/issues/514)
+
 ## 1.262.0 (2026-03-02)
 
 * feat: add @kilocode/cli to allowLargePackages (#513) ([36fb3cb](https://github.com/cnpm/unpkg-white-list/commit/36fb3cb)), closes [#513](https://github.com/cnpm/unpkg-white-list/issues/513)
