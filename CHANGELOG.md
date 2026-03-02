@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.261.0 (2026-03-02)
+
+* feat: add @belife/belife-bim-air to allowLargePackages (#506) ([903871f](https://github.com/cnpm/unpkg-white-list/commit/903871f)), closes [#506](https://github.com/cnpm/unpkg-white-list/issues/506)
+
 ## <small>1.260.1 (2026-03-02)</small>
 
 * chore: switch check-gkd to pull_request_target for fork PR comment permissions (#512) ([751d75e](https://github.com/cnpm/unpkg-white-list/commit/751d75e)), closes [#512](https://github.com/cnpm/unpkg-white-list/issues/512)
