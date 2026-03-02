@@ -19005,6 +19005,9 @@
     "@codeblitzjs/ide-core": {
       "version": "*"
     },
+    "@kilocode/cli": {
+      "version": "*"
+    },
     "@mchp-mcc/pic-16bit": {
       "version": "*"
     },
