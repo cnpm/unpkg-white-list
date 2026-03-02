@@ -5,6 +5,7 @@
 ### ✅ 必须确认的条件
 
 - [ ] **遵循添加说明**：我已经按照 [README.md](https://github.com/cnpm/unpkg-white-list/blob/master/README.md) 中的说明正确添加了白名单条目
+- [ ] **非 GKD 订阅规则**：我添加的包 **不是** GKD 广告屏蔽订阅规则相关的包（包含 `gkd`、`gkd-subscription`、`gkd_subscription` 等关键词的包将被直接关闭）
 - [ ] **包类型和使用情况**：我添加的 package 是 **library**（而不是 application），并且有真实的公网用户正在依赖使用。我们不接受为刚创建且没有真实下载流量的 package 添加白名单
 - [ ] **Scope 要求**（如果申请添加 scope）：申请添加的 scope 必须已包含热门包（如周下载量超过 1 万）。我们不接受为刚创建且无热门包的 scope 添加白名单
 
