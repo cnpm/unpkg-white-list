@@ -1,0 +1,58 @@
+name: Check GKD Subscription
+
+on:
+  pull_request:
+    types: [opened, edited, synchronize, reopened]
+
+jobs:
+  check-gkd:
+    name: Block GKD Subscription PRs
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+    steps:
+      - name: Checkout PR
+        uses: actions/checkout@v4
+
+      - name: Check for GKD-related packages
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          PR_TITLE: ${{ github.event.pull_request.title }}
+        run: |
+          # Check PR title and diff for gkd-related keywords
+          GKD_PATTERN='gkd[-_]?(subscription|rules|kit)|gkd_|[-_]gkd'
+
+          FOUND=""
+
+          # Check PR title
+          if echo "$PR_TITLE" | grep -iEq "$GKD_PATTERN"; then
+            FOUND="title"
+          fi
+
+          # Check changed files content
+          DIFF=$(gh pr diff "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" 2>/dev/null || true)
+          if echo "$DIFF" | grep -iEq "$GKD_PATTERN"; then
+            FOUND="${FOUND:+$FOUND and }diff"
+          fi
+
+          if [ -n "$FOUND" ]; then
+            echo "❌ Detected GKD subscription-related content in: $FOUND"
+
+            # Add comment
+            gh pr comment "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --body "🚫 **此 PR 包含 GKD 订阅规则相关的包，不符合本项目的白名单要求。**
+
+          本项目 **不接受** 任何与 GKD（去广告/跳广告）订阅规则相关的包申请。这类包不是真正的 npm library，而是利用 npmmirror CDN 来分发广告屏蔽订阅规则文件，属于滥用 CDN 资源。
+
+          详情请阅读 [README.md](https://github.com/cnpm/unpkg-white-list/blob/master/README.md) 中的说明。
+
+          此 PR 将被关闭。"
+
+            # Close the PR
+            gh pr close "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --comment "" 2>/dev/null || true
+
+            exit 1
+          fi
+
+          echo "✅ No GKD subscription-related content detected."
