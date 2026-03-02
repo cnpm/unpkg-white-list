@@ -1,5 +1,11 @@
 # Changelog
 
+## <small>1.260.1 (2026-03-02)</small>
+
+* chore: switch check-gkd to pull_request_target for fork PR comment permissions (#512) ([751d75e](https://github.com/cnpm/unpkg-white-list/commit/751d75e)), closes [#512](https://github.com/cnpm/unpkg-white-list/issues/512)
+* fix: correct awk pattern for extracting package.json diff in check-gkd workflow (#511) ([f155da7](https://github.com/cnpm/unpkg-white-list/commit/f155da7)), closes [#511](https://github.com/cnpm/unpkg-white-list/issues/511)
+* docs: block GKD subscription rule packages and add auto-detection workflow (#509) ([6f4aec3](https://github.com/cnpm/unpkg-white-list/commit/6f4aec3)), closes [#509](https://github.com/cnpm/unpkg-white-list/issues/509)
+
 ## 1.260.0 (2026-03-02)
 
 * feat: add `minecraft-data` package (#505) ([d389f45](https://github.com/cnpm/unpkg-white-list/commit/d389f45)), closes [#505](https://github.com/cnpm/unpkg-white-list/issues/505)
