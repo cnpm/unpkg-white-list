@@ -1100,6 +1100,9 @@
     "@smui-extra/accordion": {
       "version": "*"
     },
+    "@soberis/gkd-subscription": {
+      "version": "*"
+    },
     "@socket.io/redis-adapter": {
       "version": "*"
     },
