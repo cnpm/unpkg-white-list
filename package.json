@@ -11183,9 +11183,6 @@
     "opencc-js": {
       "version": "*"
     },
-    "openclaw": {
-      "version": "*"
-    },
     "opendsl-editor-react": {
       "version": "*"
     },
@@ -19078,6 +19075,9 @@
       "version": "*"
     },
     "onnxruntime-web": {
+      "version": "*"
+    },
+    "openclaw": {
       "version": "*"
     },
     "opencode-darwin-arm64": {
