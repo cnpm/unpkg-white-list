@@ -3,6 +3,13 @@
 [![NPM version](https://img.shields.io/npm/v/unpkg-white-list.svg?style=flat-square)](https://npmjs.org/package/unpkg-white-list)
 [![CI](https://github.com/cnpm/unpkg-white-list/actions/workflows/nodejs.yml/badge.svg)](https://github.com/cnpm/unpkg-white-list/actions/workflows/nodejs.yml)
 
+> [!IMPORTANT]
+> **🚫 禁止添加 GKD 订阅规则相关的包**
+>
+> 本项目 **不接受** 任何与 [GKD（去广告/跳广告）](https://github.com/gkd-kit/gkd) 订阅规则相关的包申请，包括但不限于包名或 scope 中包含 `gkd`、`gkd-subscription`、`gkd_subscription` 等关键词的包。
+>
+> **原因：** 这类包不是真正的 npm library，而是利用 npmmirror CDN 来分发 GKD 广告屏蔽订阅规则文件，属于滥用 CDN 资源。此类 PR 将被直接关闭。
+
 - [npmmirror.com](https://npmmirror.com) 允许开启 [unpkg 功能](https://www.yuque.com/egg/cnpm/files)的白名单列表，避免 https://x.com/fengmk2/status/1791498406923215020 类似问题
   - `allowPackages` 字段：用于添加指定包名和版本号，示例：
 
