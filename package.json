@@ -130,7 +130,6 @@
     "@jscpd",
     "@jupyterlab",
     "@jx3box",
-    "@kilocode",
     "@kne",
     "@kne-components",
     "@koa",
@@ -19004,6 +19003,9 @@
       "version": "*"
     },
     "@codeblitzjs/ide-core": {
+      "version": "*"
+    },
+    "@kilocode/cli": {
       "version": "*"
     },
     "@mchp-mcc/pic-16bit": {
