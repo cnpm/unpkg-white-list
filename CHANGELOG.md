@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.264.0 (2026-03-05)
+
+* feat: add `@bufbuild` to allowLargeScopes (#515) ([6558a05](https://github.com/cnpm/unpkg-white-list/commit/6558a05)), closes [#515](https://github.com/cnpm/unpkg-white-list/issues/515)
+
 ## 1.263.0 (2026-03-02)
 
 * feat: add openclaw to allowLargePackages whitelist (#514) ([fbe9597](https://github.com/cnpm/unpkg-white-list/commit/fbe9597)), closes [#514](https://github.com/cnpm/unpkg-white-list/issues/514)
