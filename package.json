@@ -18979,6 +18979,7 @@
     }
   },
   "allowLargeScopes": [
+    "@bufbuild",
     "@cloudflare",
     "@deno",
     "@fonixtree",
