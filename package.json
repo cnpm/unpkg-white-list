@@ -19009,6 +19009,9 @@
     "@kilocode/cli": {
       "version": "*"
     },
+    "@mastra/deployer": {
+      "version": "*"
+    },
     "@mchp-mcc/pic-16bit": {
       "version": "*"
     },
