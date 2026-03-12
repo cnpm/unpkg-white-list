@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.265.0 (2026-03-12)
+
+* feat: add @mastra/deployer to allowLargePackages (#516) ([b7dafb8](https://github.com/cnpm/unpkg-white-list/commit/b7dafb8)), closes [#516](https://github.com/cnpm/unpkg-white-list/issues/516)
+
 ## 1.264.0 (2026-03-05)
 
 * feat: add `@bufbuild` to allowLargeScopes (#515) ([6558a05](https://github.com/cnpm/unpkg-white-list/commit/6558a05)), closes [#515](https://github.com/cnpm/unpkg-white-list/issues/515)
