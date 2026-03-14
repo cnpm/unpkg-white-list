@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.266.0 (2026-03-14)
+
+* feat: add `@node-llama-cpp` to `allowLargeScopes` (#518) ([d9b4ae5](https://github.com/cnpm/unpkg-white-list/commit/d9b4ae5)), closes [#518](https://github.com/cnpm/unpkg-white-list/issues/518)
+
 ## 1.265.0 (2026-03-12)
 
 * feat: add @mastra/deployer to allowLargePackages (#516) ([b7dafb8](https://github.com/cnpm/unpkg-white-list/commit/b7dafb8)), closes [#516](https://github.com/cnpm/unpkg-white-list/issues/516)
