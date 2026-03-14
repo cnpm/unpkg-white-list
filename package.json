@@ -7784,6 +7784,9 @@
     "identity-obj-proxy": {
       "version": "*"
     },
+    "idouge-ocr-assets": {
+      "version": "*"
+    },
     "idx": {
       "version": "*"
     },
