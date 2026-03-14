@@ -18987,6 +18987,7 @@
     "@iconify",
     "@lancedb",
     "@next",
+    "@node-llama-cpp",
     "@openai",
     "@oven",
     "@pnpm",
@@ -19067,6 +19068,9 @@
       "version": "*"
     },
     "node-linux-x64": {
+      "version": "*"
+    },
+    "node-llama-cpp": {
       "version": "*"
     },
     "node-red-node-rdk-tools": {
