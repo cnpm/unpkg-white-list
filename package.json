@@ -863,6 +863,9 @@
     "@matejmazur/react-katex": {
       "version": "*"
     },
+    "@mchp-mcc/dspic33a-uref": {
+      "version": "*"
+    },
     "@mdi/font": {
       "version": "*"
     },
