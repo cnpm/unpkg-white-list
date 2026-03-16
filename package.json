@@ -1140,9 +1140,6 @@
     "@techstark/opencv-js": {
       "version": "*"
     },
-    "@temporalio/core-bridge": {
-      "version": "*"
-    },
     "@terraformer/wkt": {
       "version": "*"
     },
