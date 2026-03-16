@@ -229,6 +229,7 @@
     "@tauri-apps",
     "@teambit",
     "@teamix",
+    "@temporalio",
     "@tensorflow",
     "@tensorflow-models",
     "@testing-library",
@@ -1137,6 +1138,9 @@
       "version": "*"
     },
     "@techstark/opencv-js": {
+      "version": "*"
+    },
+    "@temporalio/core-bridge": {
       "version": "*"
     },
     "@terraformer/wkt": {
