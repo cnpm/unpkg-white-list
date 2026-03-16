@@ -1,5 +1,47 @@
 # Changelog
 
+## 1.266.0 (2026-03-14)
+
+* feat: add `@node-llama-cpp` to `allowLargeScopes` (#518) ([d9b4ae5](https://github.com/cnpm/unpkg-white-list/commit/d9b4ae5)), closes [#518](https://github.com/cnpm/unpkg-white-list/issues/518)
+
+## 1.265.0 (2026-03-12)
+
+* feat: add @mastra/deployer to allowLargePackages (#516) ([b7dafb8](https://github.com/cnpm/unpkg-white-list/commit/b7dafb8)), closes [#516](https://github.com/cnpm/unpkg-white-list/issues/516)
+
+## 1.264.0 (2026-03-05)
+
+* feat: add `@bufbuild` to allowLargeScopes (#515) ([6558a05](https://github.com/cnpm/unpkg-white-list/commit/6558a05)), closes [#515](https://github.com/cnpm/unpkg-white-list/issues/515)
+
+## 1.263.0 (2026-03-02)
+
+* feat: add openclaw to allowLargePackages whitelist (#514) ([fbe9597](https://github.com/cnpm/unpkg-white-list/commit/fbe9597)), closes [#514](https://github.com/cnpm/unpkg-white-list/issues/514)
+
+## 1.262.0 (2026-03-02)
+
+* feat: add @kilocode/cli to allowLargePackages (#513) ([36fb3cb](https://github.com/cnpm/unpkg-white-list/commit/36fb3cb)), closes [#513](https://github.com/cnpm/unpkg-white-list/issues/513)
+
+## 1.261.0 (2026-03-02)
+
+* feat: add @belife/belife-bim-air to allowLargePackages (#506) ([903871f](https://github.com/cnpm/unpkg-white-list/commit/903871f)), closes [#506](https://github.com/cnpm/unpkg-white-list/issues/506)
+
+## <small>1.260.1 (2026-03-02)</small>
+
+* chore: switch check-gkd to pull_request_target for fork PR comment permissions (#512) ([751d75e](https://github.com/cnpm/unpkg-white-list/commit/751d75e)), closes [#512](https://github.com/cnpm/unpkg-white-list/issues/512)
+* fix: correct awk pattern for extracting package.json diff in check-gkd workflow (#511) ([f155da7](https://github.com/cnpm/unpkg-white-list/commit/f155da7)), closes [#511](https://github.com/cnpm/unpkg-white-list/issues/511)
+* docs: block GKD subscription rule packages and add auto-detection workflow (#509) ([6f4aec3](https://github.com/cnpm/unpkg-white-list/commit/6f4aec3)), closes [#509](https://github.com/cnpm/unpkg-white-list/issues/509)
+
+## 1.260.0 (2026-03-02)
+
+* feat: add `minecraft-data` package (#505) ([d389f45](https://github.com/cnpm/unpkg-white-list/commit/d389f45)), closes [#505](https://github.com/cnpm/unpkg-white-list/issues/505)
+
+## 1.259.0 (2026-02-28)
+
+* feat: add node-red-node-rdk-tools to allowLargePackages (#504) ([41e76ca](https://github.com/cnpm/unpkg-white-list/commit/41e76ca)), closes [#504](https://github.com/cnpm/unpkg-white-list/issues/504)
+
+## 1.258.0 (2026-02-26)
+
+* feat: add cline to allowLargePackages (#497) ([06eefda](https://github.com/cnpm/unpkg-white-list/commit/06eefda)), closes [#497](https://github.com/cnpm/unpkg-white-list/issues/497)
+
 ## 1.257.0 (2026-02-25)
 
 * feat: Add @cap.js to allowScopes (#496) ([d462206](https://github.com/cnpm/unpkg-white-list/commit/d462206)), closes [#496](https://github.com/cnpm/unpkg-white-list/issues/496)

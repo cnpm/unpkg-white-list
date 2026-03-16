@@ -1,6 +1,6 @@
 {
   "name": "unpkg-white-list",
-  "version": "1.257.0",
+  "version": "1.266.0",
   "description": "npmmirror 允许开启 unpkg 和 sync package tgz 超大文件功能的白名单列表",
   "main": "index.js",
   "files": [],
@@ -18979,6 +18979,7 @@
     }
   },
   "allowLargeScopes": [
+    "@bufbuild",
     "@cloudflare",
     "@deno",
     "@fonixtree",
@@ -18986,6 +18987,7 @@
     "@iconify",
     "@lancedb",
     "@next",
+    "@node-llama-cpp",
     "@openai",
     "@oven",
     "@pnpm",
@@ -18999,7 +19001,16 @@
     "@baidumap/mapv-three": {
       "version": "*"
     },
+    "@belife/belife-bim-air": {
+      "version": "*"
+    },
     "@codeblitzjs/ide-core": {
+      "version": "*"
+    },
+    "@kilocode/cli": {
+      "version": "*"
+    },
+    "@mastra/deployer": {
       "version": "*"
     },
     "@mchp-mcc/pic-16bit": {
@@ -19038,6 +19049,9 @@
     "makecoder": {
       "version": "*"
     },
+    "minecraft-data": {
+      "version": "*"
+    },
     "ms-vue-elet": {
       "version": "*"
     },
@@ -19056,6 +19070,12 @@
     "node-linux-x64": {
       "version": "*"
     },
+    "node-llama-cpp": {
+      "version": "*"
+    },
+    "node-red-node-rdk-tools": {
+      "version": "*"
+    },
     "node-win-x64": {
       "version": "*"
     },
@@ -19066,6 +19086,9 @@
       "version": "*"
     },
     "onnxruntime-web": {
+      "version": "*"
+    },
+    "openclaw": {
       "version": "*"
     },
     "opencode-darwin-arm64": {
