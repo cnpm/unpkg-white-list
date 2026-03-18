@@ -19119,6 +19119,9 @@
     "opencode-linux-x64-musl": {
       "version": "*"
     },
+    "opencode-windows-arm64": {
+      "version": "*"
+    },
     "opencode-windows-x64": {
       "version": "*"
     },
