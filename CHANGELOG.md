@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.268.0 (2026-03-18)
+
+* feat: add opencode-windows-arm64 to allowLargePackages (#520) ([93af1db](https://github.com/cnpm/unpkg-white-list/commit/93af1db)), closes [#520](https://github.com/cnpm/unpkg-white-list/issues/520)
+
 ## 1.267.0 (2026-03-18)
 
 * feat: add `@temporalio` to allowScopes (#521) ([93abd55](https://github.com/cnpm/unpkg-white-list/commit/93abd55)), closes [#521](https://github.com/cnpm/unpkg-white-list/issues/521)
