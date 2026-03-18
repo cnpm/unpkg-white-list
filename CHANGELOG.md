@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.267.0 (2026-03-18)
+
+* feat: add `@temporalio` to allowScopes (#521) ([93abd55](https://github.com/cnpm/unpkg-white-list/commit/93abd55)), closes [#521](https://github.com/cnpm/unpkg-white-list/issues/521)
+
 ## 1.266.0 (2026-03-14)
 
 * feat: add `@node-llama-cpp` to `allowLargeScopes` (#518) ([d9b4ae5](https://github.com/cnpm/unpkg-white-list/commit/d9b4ae5)), closes [#518](https://github.com/cnpm/unpkg-white-list/issues/518)
