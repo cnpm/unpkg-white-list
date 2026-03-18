@@ -229,6 +229,7 @@
     "@tauri-apps",
     "@teambit",
     "@teamix",
+    "@temporalio",
     "@tensorflow",
     "@tensorflow-models",
     "@testing-library",
