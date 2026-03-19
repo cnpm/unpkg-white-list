@@ -18996,6 +18996,7 @@
     "@rollup",
     "@shined",
     "@swc",
+    "@temporalio",
     "@utoo"
   ],
   "allowLargePackages": {
