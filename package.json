@@ -19009,6 +19009,9 @@
     "@codeblitzjs/ide-core": {
       "version": "*"
     },
+    "@comate/zulu": {
+      "version": "*"
+    },
     "@kilocode/cli": {
       "version": "*"
     },
