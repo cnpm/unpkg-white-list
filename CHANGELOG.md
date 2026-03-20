@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.270.0 (2026-03-20)
+
+* feat: add @comate/zulu to allowLargePackages (#523) ([188b248](https://github.com/cnpm/unpkg-white-list/commit/188b248)), closes [#523](https://github.com/cnpm/unpkg-white-list/issues/523)
+
 ## 1.269.0 (2026-03-19)
 
 * feat: add `@temporalio` to allowLargePackages (#522) ([b313e88](https://github.com/cnpm/unpkg-white-list/commit/b313e88)), closes [#522](https://github.com/cnpm/unpkg-white-list/issues/522)
