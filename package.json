@@ -19081,6 +19081,9 @@
     "node-red-node-rdk-tools": {
       "version": "*"
     },
+    "node-sql-parser": {
+      "version": "*"
+    },
     "node-win-x64": {
       "version": "*"
     },
