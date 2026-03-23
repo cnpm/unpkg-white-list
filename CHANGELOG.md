@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.271.0 (2026-03-23)
+
+* feat: add node-sql-parser to allowLargePackages (#524) ([7f8f083](https://github.com/cnpm/unpkg-white-list/commit/7f8f083)), closes [#524](https://github.com/cnpm/unpkg-white-list/issues/524)
+
 ## 1.270.0 (2026-03-20)
 
 * feat: add @comate/zulu to allowLargePackages (#523) ([188b248](https://github.com/cnpm/unpkg-white-list/commit/188b248)), closes [#523](https://github.com/cnpm/unpkg-white-list/issues/523)
