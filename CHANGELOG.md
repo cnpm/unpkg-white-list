@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.272.0 (2026-03-24)
+
+* feat: add googleapis to allowLargePackages (#526) ([adaee5c](https://github.com/cnpm/unpkg-white-list/commit/adaee5c)), closes [#526](https://github.com/cnpm/unpkg-white-list/issues/526)
+
 ## 1.271.0 (2026-03-23)
 
 * feat: add node-sql-parser to allowLargePackages (#524) ([7f8f083](https://github.com/cnpm/unpkg-white-list/commit/7f8f083)), closes [#524](https://github.com/cnpm/unpkg-white-list/issues/524)
