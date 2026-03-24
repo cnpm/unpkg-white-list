@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.273.0 (2026-03-24)
+
+* feat: add `@glyphix` to allowLargeScopes (#525) ([0ddab67](https://github.com/cnpm/unpkg-white-list/commit/0ddab67)), closes [#525](https://github.com/cnpm/unpkg-white-list/issues/525)
+
 ## 1.272.0 (2026-03-24)
 
 * feat: add googleapis to allowLargePackages (#526) ([adaee5c](https://github.com/cnpm/unpkg-white-list/commit/adaee5c)), closes [#526](https://github.com/cnpm/unpkg-white-list/issues/526)
