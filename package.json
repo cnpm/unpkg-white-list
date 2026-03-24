@@ -19045,6 +19045,9 @@
     "element-ai-vue": {
       "version": "*"
     },
+    "googleapis": {
+      "version": "*"
+    },
     "hdw2": {
       "version": "*"
     },
