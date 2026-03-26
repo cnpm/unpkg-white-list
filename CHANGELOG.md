@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.274.0 (2026-03-26)
+
+* feat: add gsd-pi to allowLargePackages (#527) ([d0aa69d](https://github.com/cnpm/unpkg-white-list/commit/d0aa69d)), closes [#527](https://github.com/cnpm/unpkg-white-list/issues/527)
+
 ## 1.273.0 (2026-03-24)
 
 * feat: add `@glyphix` to allowLargeScopes (#525) ([0ddab67](https://github.com/cnpm/unpkg-white-list/commit/0ddab67)), closes [#525](https://github.com/cnpm/unpkg-white-list/issues/525)
