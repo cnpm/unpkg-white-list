@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.275.0 (2026-03-29)
+
+* feat: add `@desirecore` to allowLargeScopes (#529) ([c504de0](https://github.com/cnpm/unpkg-white-list/commit/c504de0)), closes [#529](https://github.com/cnpm/unpkg-white-list/issues/529)
+
 ## 1.274.0 (2026-03-26)
 
 * feat: add gsd-pi to allowLargePackages (#527) ([d0aa69d](https://github.com/cnpm/unpkg-white-list/commit/d0aa69d)), closes [#527](https://github.com/cnpm/unpkg-white-list/issues/527)
