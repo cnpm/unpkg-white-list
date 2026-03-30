@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.277.0 (2026-03-30)
+
+* feat: add `@google` to allowLargeScopes (#533) ([66c57c6](https://github.com/cnpm/unpkg-white-list/commit/66c57c6)), closes [#533](https://github.com/cnpm/unpkg-white-list/issues/533)
+
 ## 1.276.0 (2026-03-30)
 
 * feat: add makecoder-codex platform-specific packages to allowList (#532) ([24bb509](https://github.com/cnpm/unpkg-white-list/commit/24bb509)), closes [#532](https://github.com/cnpm/unpkg-white-list/issues/532)
