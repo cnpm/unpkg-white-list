@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.276.0 (2026-03-30)
+
+* feat: add makecoder-codex platform-specific packages to allowList (#532) ([24bb509](https://github.com/cnpm/unpkg-white-list/commit/24bb509)), closes [#532](https://github.com/cnpm/unpkg-white-list/issues/532)
+
 ## 1.275.0 (2026-03-29)
 
 * feat: add `@desirecore` to allowLargeScopes (#529) ([c504de0](https://github.com/cnpm/unpkg-white-list/commit/c504de0)), closes [#529](https://github.com/cnpm/unpkg-white-list/issues/529)
