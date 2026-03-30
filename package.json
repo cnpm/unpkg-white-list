@@ -19062,6 +19062,15 @@
     "makecoder": {
       "version": "*"
     },
+    "makecoder-codex-linux-x64": {
+      "version": "*"
+    },
+    "makecoder-codex-darwin-arm64": {
+      "version": "*"
+    },
+    "makecoder-codex-win32-x64": {
+      "version": "*"
+    },
     "minecraft-data": {
       "version": "*"
     },
