@@ -19168,6 +19168,9 @@
     "rari-win32-x64": {
       "version": "*"
     },
+    "react-icons": {
+      "version": "*"
+    },
     "rx-compo": {
       "version": "*"
     },
