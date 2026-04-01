@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.278.0 (2026-04-01)
+
+* feat: add react-icons to allowLargePackages (#534) ([6abd4ab](https://github.com/cnpm/unpkg-white-list/commit/6abd4ab)), closes [#534](https://github.com/cnpm/unpkg-white-list/issues/534)
+
 ## 1.277.0 (2026-03-30)
 
 * feat: add `@google` to allowLargeScopes (#533) ([66c57c6](https://github.com/cnpm/unpkg-white-list/commit/66c57c6)), closes [#533](https://github.com/cnpm/unpkg-white-list/issues/533)
