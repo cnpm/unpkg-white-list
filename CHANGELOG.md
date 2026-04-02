@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.279.0 (2026-04-02)
+
+* feat: Add @duckdb to allowLargeScopes (#536) ([a41a25d](https://github.com/cnpm/unpkg-white-list/commit/a41a25d)), closes [#536](https://github.com/cnpm/unpkg-white-list/issues/536)
+
 ## 1.278.0 (2026-04-01)
 
 * feat: add react-icons to allowLargePackages (#534) ([6abd4ab](https://github.com/cnpm/unpkg-white-list/commit/6abd4ab)), closes [#534](https://github.com/cnpm/unpkg-white-list/issues/534)
