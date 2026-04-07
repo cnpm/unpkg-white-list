@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.281.0 (2026-04-07)
+
+* feat: add `@oh-my-pi` to allowLargeScopes (#542) ([c197467](https://github.com/cnpm/unpkg-white-list/commit/c197467)), closes [#542](https://github.com/cnpm/unpkg-white-list/issues/542)
+
+## 1.280.0 (2026-04-07)
+
+* feat: Add `@tencent-ai` to allowLargeScopes (#537) ([9b8927d](https://github.com/cnpm/unpkg-white-list/commit/9b8927d)), closes [#537](https://github.com/cnpm/unpkg-white-list/issues/537)
+
 ## 1.279.0 (2026-04-02)
 
 * feat: Add @duckdb to allowLargeScopes (#536) ([a41a25d](https://github.com/cnpm/unpkg-white-list/commit/a41a25d)), closes [#536](https://github.com/cnpm/unpkg-white-list/issues/536)
