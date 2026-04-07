@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.282.0 (2026-04-07)
+
+* feat: add heren-design-web-vue to allowLargePackages (#543) ([e303760](https://github.com/cnpm/unpkg-white-list/commit/e303760)), closes [#543](https://github.com/cnpm/unpkg-white-list/issues/543)
+
 ## 1.281.0 (2026-04-07)
 
 * feat: add `@oh-my-pi` to allowLargeScopes (#542) ([c197467](https://github.com/cnpm/unpkg-white-list/commit/c197467)), closes [#542](https://github.com/cnpm/unpkg-white-list/issues/542)
