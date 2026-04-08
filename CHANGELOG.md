@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.283.0 (2026-04-08)
+
+* feat: add `@zed-industries` and `@agentclientprotocol` to allowLargeScopes (#544) ([aa8037a](https://github.com/cnpm/unpkg-white-list/commit/aa8037a)), closes [#544](https://github.com/cnpm/unpkg-white-list/issues/544)
+
 ## 1.282.0 (2026-04-07)
 
 * feat: add heren-design-web-vue to allowLargePackages (#543) ([e303760](https://github.com/cnpm/unpkg-white-list/commit/e303760)), closes [#543](https://github.com/cnpm/unpkg-white-list/issues/543)
