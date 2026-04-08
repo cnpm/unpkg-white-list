@@ -18980,6 +18980,7 @@
     }
   },
   "allowLargeScopes": [
+    "@agentclientprotocol",
     "@bufbuild",
     "@cloudflare",
     "@deno",
