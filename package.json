@@ -19003,7 +19003,8 @@
     "@swc",
     "@temporalio",
     "@tencent-ai",
-    "@utoo"
+    "@utoo",
+    "@zed-industries"
   ],
   "allowLargePackages": {
     "@baidumap/mapv-three": {
