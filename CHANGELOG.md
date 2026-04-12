@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.285.0 (2026-04-12)
+
+* feat: add rolldown related packages to the whitelist (#545) ([964b708](https://github.com/cnpm/unpkg-white-list/commit/964b708)), closes [#545](https://github.com/cnpm/unpkg-white-list/issues/545)
+
 ## 1.284.0 (2026-04-12)
 
 * feat: add `@openlist-frontend/openlist-frontend` to allowLargePackages (#546) ([a191462](https://github.com/cnpm/unpkg-white-list/commit/a191462)), closes [#546](https://github.com/cnpm/unpkg-white-list/issues/546)
