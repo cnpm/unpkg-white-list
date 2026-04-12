@@ -195,6 +195,7 @@
     "@remax",
     "@ricons",
     "@rjsf",
+    "@rolldown",
     "@rollup",
     "@ruiyun",
     "@rushstack",
@@ -14925,6 +14926,12 @@
     "rollbar": {
       "version": "*"
     },
+    "rolldown": {
+      "version": "*"
+    },
+    "rolldown-plugin-dts": {
+      "version": "*"
+    },
     "rollup": {
       "version": "*"
     },
@@ -16924,6 +16931,9 @@
       "version": "*"
     },
     "tsd": {
+      "version": "*"
+    },
+    "tsdown": {
       "version": "*"
     },
     "tsdx": {
@@ -18999,6 +19009,7 @@
     "@oven",
     "@pnpm",
     "@react-native-oh",
+    "@rolldown",
     "@rollup",
     "@shined",
     "@swc",
@@ -19180,6 +19191,9 @@
       "version": "*"
     },
     "react-icons": {
+      "version": "*"
+    },
+    "rolldown": {
       "version": "*"
     },
     "rx-compo": {
