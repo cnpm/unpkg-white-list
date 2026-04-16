@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.286.0 (2026-04-16)
+
+* feat: add `lenis` to allowPackages (#547) ([d576b11](https://github.com/cnpm/unpkg-white-list/commit/d576b11)), closes [#547](https://github.com/cnpm/unpkg-white-list/issues/547)
+
 ## 1.285.0 (2026-04-12)
 
 * feat: add rolldown related packages to the whitelist (#545) ([964b708](https://github.com/cnpm/unpkg-white-list/commit/964b708)), closes [#545](https://github.com/cnpm/unpkg-white-list/issues/545)
