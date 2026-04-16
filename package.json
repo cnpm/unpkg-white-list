@@ -19032,9 +19032,6 @@
     "@codeblitzjs/ide-core": {
       "version": "*"
     },
-    "@codemod.com/cli-win32-x64-msvc": {
-      "version": "*"
-    },
     "@comate/zulu": {
       "version": "*"
     },
