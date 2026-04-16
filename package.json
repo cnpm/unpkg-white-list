@@ -18996,6 +18996,7 @@
     "@agentclientprotocol",
     "@bufbuild",
     "@cloudflare",
+    "@codemod.com",
     "@deno",
     "@desirecore",
     "@duckdb",
@@ -19029,6 +19030,9 @@
       "version": "*"
     },
     "@codeblitzjs/ide-core": {
+      "version": "*"
+    },
+    "@codemod.com/cli-win32-x64-msvc": {
       "version": "*"
     },
     "@comate/zulu": {
