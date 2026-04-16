@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.287.0 (2026-04-16)
+
+* feat: add `@codemod.com` to allowLargeScopes (#548) ([499c9ec](https://github.com/cnpm/unpkg-white-list/commit/499c9ec)), closes [#548](https://github.com/cnpm/unpkg-white-list/issues/548)
+
 ## 1.286.0 (2026-04-16)
 
 * feat: add `lenis` to allowPackages (#547) ([d576b11](https://github.com/cnpm/unpkg-white-list/commit/d576b11)), closes [#547](https://github.com/cnpm/unpkg-white-list/issues/547)
