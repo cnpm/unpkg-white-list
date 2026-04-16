@@ -9199,6 +9199,9 @@
     "lemon-mse": {
       "version": "*"
     },
+    "lenis": {
+      "version": "*"
+    },
     "leoric": {
       "version": "*"
     },
