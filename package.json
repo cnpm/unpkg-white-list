@@ -18996,6 +18996,7 @@
     "@agentclientprotocol",
     "@bufbuild",
     "@cloudflare",
+    "@codemod.com",
     "@deno",
     "@desirecore",
     "@duckdb",
