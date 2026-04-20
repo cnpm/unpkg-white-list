@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.288.0 (2026-04-20)
+
+* feat: add `@anthropic-ai` to allowLargeScopes (#549) ([f90e8ec](https://github.com/cnpm/unpkg-white-list/commit/f90e8ec)), closes [#549](https://github.com/cnpm/unpkg-white-list/issues/549)
+
 ## 1.287.0 (2026-04-16)
 
 * feat: add `@codemod.com` to allowLargeScopes (#548) ([499c9ec](https://github.com/cnpm/unpkg-white-list/commit/499c9ec)), closes [#548](https://github.com/cnpm/unpkg-white-list/issues/548)
