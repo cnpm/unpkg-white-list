@@ -18994,6 +18994,7 @@
   },
   "allowLargeScopes": [
     "@agentclientprotocol",
+    "@anthropic-ai",
     "@bufbuild",
     "@cloudflare",
     "@codemod.com",
