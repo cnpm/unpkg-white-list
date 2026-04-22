@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.289.0 (2026-04-22)
+
+* feat: add n20-common-lib to allowLargePackages (#551) ([a4ab8ad](https://github.com/cnpm/unpkg-white-list/commit/a4ab8ad)), closes [#551](https://github.com/cnpm/unpkg-white-list/issues/551)
+
 ## 1.288.0 (2026-04-20)
 
 * feat: add `@anthropic-ai` to allowLargeScopes (#549) ([f90e8ec](https://github.com/cnpm/unpkg-white-list/commit/f90e8ec)), closes [#549](https://github.com/cnpm/unpkg-white-list/issues/549)
