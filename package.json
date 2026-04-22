@@ -19215,6 +19215,9 @@
     },
     "wetrade-design": {
       "version": "*"
+    },
+    "n20-common-lib": { 
+      "version": "*" 
     }
   },
   "blockSyncScopes": [
