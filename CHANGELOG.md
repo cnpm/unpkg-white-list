@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.290.0 (2026-04-24)
+
+* feat: add `mqtt` to allowPackages (#552) ([0aa6e50](https://github.com/cnpm/unpkg-white-list/commit/0aa6e50)), closes [#552](https://github.com/cnpm/unpkg-white-list/issues/552)
+
 ## 1.289.0 (2026-04-22)
 
 * feat: add n20-common-lib to allowLargePackages (#551) ([a4ab8ad](https://github.com/cnpm/unpkg-white-list/commit/a4ab8ad)), closes [#551](https://github.com/cnpm/unpkg-white-list/issues/551)
