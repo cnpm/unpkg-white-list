@@ -10586,7 +10586,7 @@
       "version": "*"
     },
     "mqtt": {
-      "version": ">=4.3.8"
+      "version": "*"
     },
     "ms": {
       "version": "*"
