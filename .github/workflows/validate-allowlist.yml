@@ -1,0 +1,42 @@
+name: Validate Allowlist Request
+
+on:
+  pull_request_target:
+    types: [opened, edited, synchronize, reopened]
+    paths:
+      - package.json
+      - scripts/validate-allowlist-pr.js
+      - .github/workflows/validate-allowlist.yml
+
+jobs:
+  validate-allowlist:
+    name: Validate allowPackages and allowScopes
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+      pull-requests: read
+    steps:
+      - name: Checkout trusted validation script
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Validate allowlist request
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          PR_BASE_REPO: ${{ github.event.pull_request.base.repo.full_name }}
+          PR_HEAD_REPO: ${{ github.event.pull_request.head.repo.full_name }}
+          PR_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          PR_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          PACKAGE_MIN_WEEKLY_DOWNLOADS: '1'
+          SCOPE_MIN_WEEKLY_DOWNLOADS: '10000'
+        run: node scripts/validate-allowlist-pr.js
