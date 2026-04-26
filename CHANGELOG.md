@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.291.0 (2026-04-26)
+
+* feat: add `@mediapipe` (#556) ([089b13e](https://github.com/cnpm/unpkg-white-list/commit/089b13e)), closes [#556](https://github.com/cnpm/unpkg-white-list/issues/556)
+
 ## 1.290.0 (2026-04-24)
 
 * feat: add `mqtt` to allowPackages (#552) ([0aa6e50](https://github.com/cnpm/unpkg-white-list/commit/0aa6e50)), closes [#552](https://github.com/cnpm/unpkg-white-list/issues/552)
