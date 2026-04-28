@@ -18509,6 +18509,9 @@
     "wellknown": {
       "version": "*"
     },
+    "werewolf-judge-cdn": {
+      "version": "*"
+    },
     "westore": {
       "version": "*"
     },
