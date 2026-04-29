@@ -16781,6 +16781,9 @@
     "toggle-selection": {
       "version": "*"
     },
+    "tom-select": {
+      "version": "*"
+    },
     "topojson": {
       "version": "*"
     },
