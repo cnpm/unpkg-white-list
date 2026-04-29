@@ -19062,6 +19062,9 @@
     "@qingchencloud/openclaw-zh": {
       "version": "*"
     },
+    "@quasar/extras": {
+      "version": "*"
+    },
     "@tntd/dll": {
       "version": "*"
     },
