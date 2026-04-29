@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.293.0 (2026-04-29)
+
+* feat: add `@quasar/extras` to allowLargePackages (#557) ([caca83a](https://github.com/cnpm/unpkg-white-list/commit/caca83a)), closes [#557](https://github.com/cnpm/unpkg-white-list/issues/557)
+
 ## 1.292.0 (2026-04-28)
 
 * feat: add werewolf-judge-cdn to allowPackages (#555) ([f92281b](https://github.com/cnpm/unpkg-white-list/commit/f92281b)), closes [#555](https://github.com/cnpm/unpkg-white-list/issues/555) [#553](https://github.com/cnpm/unpkg-white-list/issues/553)
