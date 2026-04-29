@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.294.0 (2026-04-29)
+
+* feat: Add `tom-select` to allowPackages (#558) ([8ecb887](https://github.com/cnpm/unpkg-white-list/commit/8ecb887)), closes [#558](https://github.com/cnpm/unpkg-white-list/issues/558)
+
 ## 1.293.0 (2026-04-29)
 
 * feat: add `@quasar/extras` to allowLargePackages (#557) ([caca83a](https://github.com/cnpm/unpkg-white-list/commit/caca83a)), closes [#557](https://github.com/cnpm/unpkg-white-list/issues/557)
