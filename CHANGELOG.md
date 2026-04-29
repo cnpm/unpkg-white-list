@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.292.0 (2026-04-28)
+
+* feat: add werewolf-judge-cdn to allowPackages (#555) ([f92281b](https://github.com/cnpm/unpkg-white-list/commit/f92281b)), closes [#555](https://github.com/cnpm/unpkg-white-list/issues/555) [#553](https://github.com/cnpm/unpkg-white-list/issues/553)
+
 ## 1.291.0 (2026-04-26)
 
 * feat: add `@mediapipe` (#556) ([089b13e](https://github.com/cnpm/unpkg-white-list/commit/089b13e)), closes [#556](https://github.com/cnpm/unpkg-white-list/issues/556)
