@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.295.0 (2026-04-30)
+
+* feat: add n8n-editor-ui packages to allowLargePackages whitelist (#559) ([bbf2d7e](https://github.com/cnpm/unpkg-white-list/commit/bbf2d7e)), closes [#559](https://github.com/cnpm/unpkg-white-list/issues/559)
+
 ## 1.294.0 (2026-04-29)
 
 * feat: Add `tom-select` to allowPackages (#558) ([8ecb887](https://github.com/cnpm/unpkg-white-list/commit/8ecb887)), closes [#558](https://github.com/cnpm/unpkg-white-list/issues/558)
