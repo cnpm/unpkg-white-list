@@ -19068,6 +19068,9 @@
     "@quasar/extras": {
       "version": "*"
     },
+    "@teamolab/teamo-cli": {
+      "version": "*"
+    },
     "@tntd/dll": {
       "version": "*"
     },
