@@ -19122,6 +19122,9 @@
     "n20-common-lib": {
       "version": "*"
     },
+    "n8n-editor-ui": {
+      "version": "*"
+    },
     "next": {
       "version": "*"
     },
