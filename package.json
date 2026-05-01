@@ -146,6 +146,7 @@
     "@material",
     "@material-symbols",
     "@material-ui",
+    "@mathjax",
     "@maybe-lab",
     "@mediapipe",
     "@microfe.top",
