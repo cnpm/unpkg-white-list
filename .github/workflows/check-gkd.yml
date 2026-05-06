@@ -18,20 +18,20 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
         run: |
-          # Check added lines in package.json for gkd-related keywords
+          # Scan added lines in source-of-truth allowlist files for GKD keywords.
+          # Scope: package.json (defense-in-depth if lists ever creep back) and
+          # the four data/allow*.json files. data/blockSync*.json is intentionally
+          # excluded — adding a GKD-named entry to a block list is the right move.
           GKD_PATTERN='gkd[-_]?(subscription|rules|kit)|gkd_|[-_]gkd|(^|[^a-zA-Z0-9])@?gkd([^a-zA-Z0-9]|$)'
 
-          FOUND=""
+          DIFF=$(gh pr diff "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" 2>/dev/null | awk '
+            /^diff --git/ { in_target = 0 }
+            /^diff --git a\/(package\.json|data\/allow(Large)?(Packages|Scopes)\.json) / { in_target = 1 }
+            in_target { print }
+          ' || true)
 
-          # Only check added lines in package.json (not removals, not docs/workflow files)
-          DIFF=$(gh pr diff "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" 2>/dev/null \
-            | awk 'found && /^diff --git/{exit} /^diff --git a\/package\.json/{found=1} found{print}' || true)
           if echo "$DIFF" | grep -iEq "^\+[^+].*($GKD_PATTERN)"; then
-            FOUND="package.json"
-          fi
-
-          if [ -n "$FOUND" ]; then
-            echo "❌ Detected GKD subscription-related content in: $FOUND"
+            echo "❌ Detected GKD subscription-related content in allowlist files (package.json or data/allow*.json)"
 
             # Add comment using heredoc to avoid indentation issues
             cat > /tmp/gkd-comment.md << 'EOF'
