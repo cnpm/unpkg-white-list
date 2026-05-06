@@ -49,7 +49,10 @@ function restore() {
     console.log('ℹ️  No package.json.bak — nothing to restore');
     return;
   }
-  fs.renameSync(BAK_PATH, PKG_PATH);
+  // copy + unlink instead of rename: avoids any latent cross-platform
+  // doubt about renaming over an existing destination.
+  fs.copyFileSync(BAK_PATH, PKG_PATH);
+  fs.unlinkSync(BAK_PATH);
   console.log('✅ Restored package.json from package.json.bak');
 }
 
