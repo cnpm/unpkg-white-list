@@ -31,9 +31,6 @@ function merge() {
 
   const pkg = JSON.parse(original);
   for (const field of LIST_FIELDS) {
-    delete pkg[field];
-  }
-  for (const field of LIST_FIELDS) {
     pkg[field] = readJson(path.join(DATA_DIR, `${field}.json`));
   }
 

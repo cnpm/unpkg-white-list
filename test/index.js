@@ -8,16 +8,20 @@ const ROOT = dirname(__dirname);
 const pkgFile = join(ROOT, 'package.json');
 const dataDir = join(ROOT, 'data');
 
-const pkg = JSON.parse(readFileSync(pkgFile, 'utf-8'));
-// format the package.json
-writeFileSync(pkgFile, JSON.stringify(pkg, null, 2) + '\n');
+function readAndNormalize(file) {
+  const original = readFileSync(file, 'utf-8');
+  const value = JSON.parse(original);
+  const formatted = JSON.stringify(value, null, 2) + '\n';
+  if (formatted !== original) {
+    writeFileSync(file, formatted);
+  }
+  return value;
+}
+
+const pkg = readAndNormalize(pkgFile);
 
 function loadList(name) {
-  const file = join(dataDir, `${name}.json`);
-  const value = JSON.parse(readFileSync(file, 'utf-8'));
-  // format the data file
-  writeFileSync(file, JSON.stringify(value, null, 2) + '\n');
-  return value;
+  return readAndNormalize(join(dataDir, `${name}.json`));
 }
 
 const allowPackages = loadList('allowPackages');

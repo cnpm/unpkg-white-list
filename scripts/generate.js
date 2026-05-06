@@ -70,6 +70,8 @@ function listPath(name) {
   return path.join(DATA_DIR, `${name}${suffix}.json`);
 }
 
+// Asymmetric on purpose: in DEBUG mode we read the canonical source-of-truth
+// but write to a *_draft.json sibling, so the original list stays untouched.
 function loadList(name) {
   return fs.readJsonSync(path.join(DATA_DIR, `${name}.json`));
 }
