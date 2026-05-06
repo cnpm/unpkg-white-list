@@ -15,7 +15,7 @@ jobs:
     steps:
       - name: Check reviewer permissions
         id: checkPermissions
-        uses: actions-cool/check-user-permission@v2.4.0
+        uses: actions-cool/check-user-permission@v2
         with:
           require: write
 
