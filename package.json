@@ -19239,6 +19239,9 @@
     },
     "wetrade-design": {
       "version": "*"
+    },
+    "tav-ui": {
+      "version": "*"
     }
   },
   "blockSyncScopes": [
