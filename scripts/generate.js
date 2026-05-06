@@ -6,9 +6,9 @@ const semverValidRange = require('semver/ranges/valid');
 
 /**
  * 用 CLI 方式添加新的包或者 scope
- * 
+ *
  * ### 添加一个新的包
- * 
+ *
  * ```bash
  * # npm run add -- --pkg={package name}[:{version range}]
  * npm run add -- "--pkg=urllib" # 同步 urllib 所有版本
@@ -18,14 +18,14 @@ const semverValidRange = require('semver/ranges/valid');
  * ```
  * ---
  * ### 添加一个新的 scope
- * 
+ *
  * ```bash
  * # npm run add -- --scope={scope name}
  * npm run add -- --scope=@ant-design
  * ```
  * ---
  * ### 添加一个新的超大文件包
- * 
+ *
  * ```bash
  * # npm run add -- --large-pkg={package name}[:{version range}]
  * npm run add -- "--large-pkg=aws-cdk-lib" # 同步 aws-cdk-lib 所有版本
@@ -35,7 +35,7 @@ const semverValidRange = require('semver/ranges/valid');
  * ```
  * ---
  * ### 添加一个新的超大文件 scope
- * 
+ *
  * ```bash
  * # npm run add -- --large-scope={scope name}
  * npm run add -- --large-scope=@next
@@ -49,25 +49,43 @@ Usage:
   npm run add -- --large-scope={scope name}
 
 Debug mode:
-  Set DEBUG=true environment variable to use draft output and enable debug logging.
+  Set DEBUG=true environment variable to write to data/<list>_draft.json instead of data/<list>.json and enable debug logging.
   eg: DEBUG=true npm run add -- "--pkg=urllib"
   eg: DEBUG=true npm run add -- "--large-pkg=aws-cdk-lib"
   eg: DEBUG=true npm run add -- "--large-scope=@next"
 `;
 
-const DEBUG = !!process.env.DEBUG
-const OUTPUT_PATH = path.resolve(
-  __dirname,
-  ['../package', DEBUG ? '_draft' : '', '.json'].join('')
-)
+const DEBUG = !!process.env.DEBUG;
+const DATA_DIR = path.resolve(__dirname, '../data');
 
-const PKG = require('../package.json');
 const PKG_REGEX = /^--pkg=(.+)$/;
 const SCOPE_REGEX = /^--scope=\@(.+)$/;
 const LARGE_PKG_REGEX = /^--large-pkg=(.+)$/;
 const LARGE_SCOPE_REGEX = /^--large-scope=\@(.+)$/;
 const BLOCK_SYNC_PKG_REGEX = /^--block-sync-pkg=(.+)$/;
 const BLOCK_SYNC_SCOPE_REGEX = /^--block-sync-scope=\@(.+)$/;
+
+function listPath(name) {
+  const suffix = DEBUG ? '_draft' : '';
+  return path.join(DATA_DIR, `${name}${suffix}.json`);
+}
+
+function loadList(name) {
+  return fs.readJsonSync(path.join(DATA_DIR, `${name}.json`));
+}
+
+function writeList(name, value) {
+  fs.writeJsonSync(listPath(name), value, { spaces: 2 });
+}
+
+function sortObjectByKey(obj) {
+  return Object.keys(obj)
+    .sort()
+    .reduce((acc, key) => {
+      acc[key] = obj[key];
+      return acc;
+    }, {});
+}
 
 function addPkg(input) {
   if (typeof input !== 'string' || input.length === 0) {
@@ -79,8 +97,10 @@ function addPkg(input) {
     version = '*';
   }
 
+  const allowPackages = loadList('allowPackages');
+
   // exits
-  if (PKG.allowPackages[name]) {
+  if (allowPackages[name]) {
     throw new Error(`Package ${name} already exists`);
   } else if (!semverValidRange(version)) {
     throw new Error(`Invalid version range: ${version}`);
@@ -88,26 +108,12 @@ function addPkg(input) {
 
   DEBUG && console.log(`Add package: ${name}@${version}`);
 
-  const nextAllowPackages = {
-    ...PKG.allowPackages,
-    [name]: { version, },
-  }
+  const next = sortObjectByKey({
+    ...allowPackages,
+    [name]: { version },
+  });
 
-  const sortedAllowPackages = Object.keys(nextAllowPackages)
-    .sort()
-    .reduce((acc, key) => {
-      acc[key] = nextAllowPackages[key];
-      return acc;
-    }, {});
-
-  fs.writeJsonSync(
-    OUTPUT_PATH,
-    {
-      ...PKG,
-      allowPackages: sortedAllowPackages,
-    },
-    { spaces: 2 }
-  );
+  writeList('allowPackages', next);
 
   console.log(`✅ Add package ${name}@${version} success`);
 }
@@ -121,21 +127,16 @@ function addScope(input) {
 
   DEBUG && console.log(`Add scope: ${input}`);
 
+  const allowScopes = loadList('allowScopes');
+
   // exits
-  if (PKG.allowScopes.includes(input)) {
+  if (allowScopes.includes(input)) {
     throw new Error(`Scope ${input} already exists`);
   }
 
-  const nextAllowScopes = [...PKG.allowScopes, input].sort();
+  const next = [...allowScopes, input].sort();
 
-  fs.writeJsonSync(
-    OUTPUT_PATH,
-    {
-      ...PKG,
-      allowScopes: nextAllowScopes,
-    },
-    { spaces: 2 }
-  );
+  writeList('allowScopes', next);
 
   console.log(`✅ Add scope ${input} success`);
 }
@@ -150,8 +151,10 @@ function addLargePkg(input) {
     version = '*';
   }
 
+  const allowLargePackages = loadList('allowLargePackages');
+
   // exits
-  if (PKG.allowLargePackages[name]) {
+  if (allowLargePackages[name]) {
     throw new Error(`Large package ${name} already exists`);
   } else if (!semverValidRange(version)) {
     throw new Error(`Invalid version range: ${version}`);
@@ -159,26 +162,12 @@ function addLargePkg(input) {
 
   DEBUG && console.log(`Add large package: ${name}@${version}`);
 
-  const nextAllowLargePackages = {
-    ...PKG.allowLargePackages,
-    [name]: { version, },
-  }
-  
-  const sortedAllowLargePackages = Object.keys(nextAllowLargePackages)
-    .sort()
-    .reduce((acc, key) => {
-      acc[key] = nextAllowLargePackages[key];
-      return acc;
-    }, {});
+  const next = sortObjectByKey({
+    ...allowLargePackages,
+    [name]: { version },
+  });
 
-  fs.writeJsonSync(
-    OUTPUT_PATH,
-    {
-      ...PKG,
-      allowLargePackages: sortedAllowLargePackages,
-    },
-    { spaces: 2 }
-  );
+  writeList('allowLargePackages', next);
 
   console.log(`✅ Add large package ${name}@${version} success`);
 }
@@ -190,23 +179,18 @@ function addLargeScope(input) {
     input = '@' + input;
   }
 
-  DEBUG && console.log(`Add large package: ${input}`);
+  DEBUG && console.log(`Add large scope: ${input}`);
+
+  const allowLargeScopes = loadList('allowLargeScopes');
 
   // exits
-  if (PKG.allowLargeScopes.includes(input)) {
-    throw new Error(`Large package ${input} already exists`);
+  if (allowLargeScopes.includes(input)) {
+    throw new Error(`Large scope ${input} already exists`);
   }
 
-  const nextAllowLargeScopes = [...PKG.allowLargeScopes, input].sort();
+  const next = [...allowLargeScopes, input].sort();
 
-  fs.writeJsonSync(
-    OUTPUT_PATH,
-    {
-      ...PKG,
-      allowLargeScopes: nextAllowLargeScopes,
-    },
-    { spaces: 2 }
-  );
+  writeList('allowLargeScopes', next);
 
   console.log(`✅ Add large scope ${input} success`);
 }
@@ -215,24 +199,19 @@ function addBlockSyncPkg(input) {
   if (typeof input !== 'string' || input.length === 0) {
     return console.log('💥 Invalid package name');
   }
-  
+
   DEBUG && console.log(`Add block sync package: ${input}`);
 
+  const blockSyncPackages = loadList('blockSyncPackages');
+
   // exits
-  if (PKG.blockSyncPackages.includes(input)) {
+  if (blockSyncPackages.includes(input)) {
     throw new Error(`Block sync package ${input} already exists`);
   }
-  
-  const nextBlockSyncPackages = [...PKG.blockSyncPackages, input].sort();
 
-  fs.writeJsonSync(
-    OUTPUT_PATH,
-    {
-      ...PKG,
-      blockSyncPackages: nextBlockSyncPackages,
-    },
-    { spaces: 2 }
-  );
+  const next = [...blockSyncPackages, input].sort();
+
+  writeList('blockSyncPackages', next);
 
   console.log(`✅ Add block sync package ${input} success`);
 }
@@ -246,21 +225,16 @@ function addBlockSyncScope(input) {
 
   DEBUG && console.log(`Add block sync scope: ${input}`);
 
+  const blockSyncScopes = loadList('blockSyncScopes');
+
   // exits
-  if (PKG.blockSyncScopes.includes(input)) {
+  if (blockSyncScopes.includes(input)) {
     throw new Error(`Block sync scope ${input} already exists`);
   }
 
-  const nextBlockSyncScopes = [...PKG.blockSyncScopes, input].sort();
+  const next = [...blockSyncScopes, input].sort();
 
-  fs.writeJsonSync(
-    OUTPUT_PATH,
-    {
-      ...PKG,
-      blockSyncScopes: nextBlockSyncScopes,
-    },
-    { spaces: 2 }
-  );
+  writeList('blockSyncScopes', next);
 
   console.log(`✅ Add block sync scope ${input} success`);
 }
@@ -284,7 +258,7 @@ function main() {
     isLargeScope,
     isBlockSyncPkg,
     isBlockSyncScope,
-    OUTPUT_PATH,
+    DATA_DIR,
   });
 
   if (

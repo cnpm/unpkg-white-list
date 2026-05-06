@@ -2,7 +2,7 @@
 
 Always reference these instructions first and fallback to search or bash commands only when you encounter unexpected information that does not match the info here.
 
-This is a Node.js project that maintains allowlists for unpkg functionality on npmmirror.com. The repository manages whitelisted packages and scopes in the main `package.json` file to prevent security issues with unpkg access.
+This is a Node.js project that maintains allowlists for unpkg functionality on npmmirror.com. The repository's source-of-truth for allowlists/blocklists lives under `data/*.json` (one file per list). A `prepack` hook merges those files into `package.json` at publish time, so consumers (npmmirror) still read `pkg.allowPackages`, `pkg.allowScopes`, etc. from the published tarball — but the source tree's `package.json` does NOT contain them.
 
 ## Working Effectively
 
@@ -58,16 +58,22 @@ npm run lint   # 30+ second timeout
 ## Repository Structure
 
 ### Key Files
-- `package.json` - Main configuration containing allowPackages and allowScopes
-- `scripts/generate.js` - CLI tool for adding new packages and scopes
-- `test/index.js` - Validation tests for packages and scopes
-- `eslint.config.mjs` - ESLint configuration with JSON validation rules
+- `package.json` - npm metadata + `prepack`/`postpack` hooks. Does NOT carry allowlists in source.
+- `data/*.json` - Source-of-truth for the six allowlists/blocklists (see below).
+- `scripts/generate.js` - CLI tool for adding new packages and scopes (writes `data/*.json`).
+- `scripts/build-pkg.js` - prepack/postpack helper. `merge` writes data/* into a packed package.json (with a `package.json.bak` backup); `restore` reverts.
+- `test/index.js` - Validation tests for packages and scopes (reads `data/*.json`).
+- `eslint.config.mjs` - ESLint configuration with JSON sort rules targeting `data/*.json`.
 - `.github/workflows/nodejs.yml` - CI pipeline using node-modules/github-actions
 
-### Important Sections in package.json
-- `allowPackages` - Object mapping package names to version ranges
-- `allowScopes` - Array of npm scopes (organizations) starting with '@'
-- Both sections are automatically sorted alphabetically
+### Important Data Files (under `data/`)
+- `allowPackages.json` - Object mapping package names to version ranges.
+- `allowScopes.json` - Array of npm scopes (organizations) starting with '@'.
+- `allowLargePackages.json` - Object for the sync-tgz large-file allowlist.
+- `allowLargeScopes.json` - Array for the sync-tgz large-file scope allowlist.
+- `blockSyncPackages.json` - Array of blocked package names (admin maintained).
+- `blockSyncScopes.json` - Array of blocked scopes (admin maintained).
+All six files are automatically sorted alphabetically by `npm run add` and validated by `npm run lint`.
 
 ## CI/CD Pipeline
 
@@ -92,30 +98,39 @@ npm run lint   # 30+ second timeout
 │   └── workflows/
 │       ├── nodejs.yml
 │       └── release.yml
+├── data/
+│   ├── allowScopes.json
+│   ├── allowPackages.json
+│   ├── allowLargeScopes.json
+│   ├── allowLargePackages.json
+│   ├── blockSyncScopes.json
+│   └── blockSyncPackages.json
 ├── scripts/
-│   └── generate.js
+│   ├── generate.js
+│   └── build-pkg.js
 ├── test/
 │   └── index.js
 ├── CHANGELOG.md
 ├── README.md
-├── package.json (18,900+ lines with allowlists)
+├── package.json (~40 lines, metadata + scripts only)
 ├── eslint.config.mjs
 └── LICENSE
 ```
 
-### Package.json Structure
-- Lines 1-33: Standard npm package metadata
-- Lines 34-283: allowScopes array (250+ entries)
-- Lines 284-18924: allowPackages object (6200+ entries)
+### package.json + data/ Layout
+- `package.json` is small (~40 lines): metadata + `scripts` (including `prepack` / `postpack`).
+- `data/allowPackages.json` (~6200+ entries) and `data/allowScopes.json` (~250+ entries) are the bulk of PR review surface area.
+- The published tarball's `package.json` is generated at pack time by `prepack` and DOES contain all six fields, populated from `data/*.json`. After pack, `postpack` restores the source `package.json`.
 
 ## Error Prevention
 
 ### Common Pitfalls
-- Do NOT manually edit package.json allowPackages/allowScopes - use the generate script
+- Do NOT hand-edit `package.json` to add list entries — the source `package.json` no longer carries the lists, and any rewrite would be wiped by the next `prepack`. Edit `data/*.json` (or use `npm run add`) instead.
 - Do NOT add packages without proper semver version ranges (will error: "Invalid version range")
-- Do NOT add scopes without '@' prefix  
+- Do NOT add scopes without '@' prefix
 - Do NOT add duplicate packages (will error: "Package {name} already exists")
-- Do NOT skip linting - it enforces critical sorting requirements
+- Do NOT skip linting - it enforces critical sorting requirements across all six `data/*.json` files
+- Do NOT commit `package.json.bak` (gitignored; created by `prepack`, removed by `postpack`)
 - Do NOT cancel long-running validation commands
 
 ### Validation Failures

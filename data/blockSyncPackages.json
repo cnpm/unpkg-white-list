@@ -1,0 +1,19 @@
+[
+  "@npm-torg/public-scoped-free-org-test-package-2",
+  "asciimo",
+  "big",
+  "colors",
+  "hook.io",
+  "mschema",
+  "mschema-rpc",
+  "nexpect",
+  "node-ipc",
+  "pdf",
+  "public-unscoped-test-package",
+  "resource",
+  "resource-http",
+  "resource-mesh",
+  "resources",
+  "say",
+  "view"
+]

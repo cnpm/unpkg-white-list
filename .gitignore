@@ -130,6 +130,8 @@ dist
 .pnp.*
 
 package_draft.json
+package.json.bak
+data/*_draft.json
 
 .idea
 package-lock.json

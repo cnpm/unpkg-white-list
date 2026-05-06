@@ -1,0 +1,209 @@
+{
+  "@baidumap/mapv-three": {
+    "version": "*"
+  },
+  "@belife/belife-bim-air": {
+    "version": "*"
+  },
+  "@codeblitzjs/ide-core": {
+    "version": "*"
+  },
+  "@comate/zulu": {
+    "version": "*"
+  },
+  "@kilocode/cli": {
+    "version": "*"
+  },
+  "@mastra/deployer": {
+    "version": "*"
+  },
+  "@mchp-mcc/pic-16bit": {
+    "version": "*"
+  },
+  "@mchp-mcc/pic-8bit": {
+    "version": "*"
+  },
+  "@openlist-frontend/openlist-frontend": {
+    "version": "*"
+  },
+  "@qingchencloud/openclaw-zh": {
+    "version": "*"
+  },
+  "@quasar/extras": {
+    "version": "*"
+  },
+  "@teamolab/teamo-cli": {
+    "version": "*"
+  },
+  "@tntd/dll": {
+    "version": "*"
+  },
+  "ant-design-vue": {
+    "version": "*"
+  },
+  "aws-cdk-lib": {
+    "version": "*"
+  },
+  "cline": {
+    "version": "*"
+  },
+  "dashjs": {
+    "version": "*"
+  },
+  "element-ai-vue": {
+    "version": "*"
+  },
+  "googleapis": {
+    "version": "*"
+  },
+  "gsd-pi": {
+    "version": "*"
+  },
+  "hdw2": {
+    "version": "*"
+  },
+  "heren-design-web-vue": {
+    "version": "*"
+  },
+  "koffi": {
+    "version": "*"
+  },
+  "makecoder": {
+    "version": "*"
+  },
+  "makecoder-codex-darwin-arm64": {
+    "version": "*"
+  },
+  "makecoder-codex-linux-x64": {
+    "version": "*"
+  },
+  "makecoder-codex-win32-x64": {
+    "version": "*"
+  },
+  "minecraft-data": {
+    "version": "*"
+  },
+  "ms-vue-elet": {
+    "version": "*"
+  },
+  "n20-common-lib": {
+    "version": "*"
+  },
+  "n8n-editor-ui": {
+    "version": "*"
+  },
+  "next": {
+    "version": "*"
+  },
+  "node-bin-darwin-arm64": {
+    "version": "*"
+  },
+  "node-darwin-x64": {
+    "version": "*"
+  },
+  "node-linux-arm64": {
+    "version": "*"
+  },
+  "node-linux-x64": {
+    "version": "*"
+  },
+  "node-llama-cpp": {
+    "version": "*"
+  },
+  "node-red-node-rdk-tools": {
+    "version": "*"
+  },
+  "node-sql-parser": {
+    "version": "*"
+  },
+  "node-win-x64": {
+    "version": "*"
+  },
+  "node-win-x86": {
+    "version": "*"
+  },
+  "onnxruntime-node": {
+    "version": "*"
+  },
+  "onnxruntime-web": {
+    "version": "*"
+  },
+  "openclaw": {
+    "version": "*"
+  },
+  "opencode-darwin-arm64": {
+    "version": "*"
+  },
+  "opencode-darwin-x64": {
+    "version": "*"
+  },
+  "opencode-darwin-x64-baseline": {
+    "version": "*"
+  },
+  "opencode-linux-arm64": {
+    "version": "*"
+  },
+  "opencode-linux-arm64-musl": {
+    "version": "*"
+  },
+  "opencode-linux-x64": {
+    "version": "*"
+  },
+  "opencode-linux-x64-baseline": {
+    "version": "*"
+  },
+  "opencode-linux-x64-baseline-musl": {
+    "version": "*"
+  },
+  "opencode-linux-x64-musl": {
+    "version": "*"
+  },
+  "opencode-windows-arm64": {
+    "version": "*"
+  },
+  "opencode-windows-x64": {
+    "version": "*"
+  },
+  "opencode-windows-x64-baseline": {
+    "version": "*"
+  },
+  "rari-darwin-arm64": {
+    "version": "*"
+  },
+  "rari-darwin-x64": {
+    "version": "*"
+  },
+  "rari-linux-arm64": {
+    "version": "*"
+  },
+  "rari-linux-x64": {
+    "version": "*"
+  },
+  "rari-win32-x64": {
+    "version": "*"
+  },
+  "react-icons": {
+    "version": "*"
+  },
+  "rolldown": {
+    "version": "*"
+  },
+  "rx-compo": {
+    "version": "*"
+  },
+  "tav-ui": {
+    "version": "*"
+  },
+  "tdesign-icons-vue-next": {
+    "version": "*"
+  },
+  "vibe-kanban": {
+    "version": "*"
+  },
+  "viewport-cli": {
+    "version": "*"
+  },
+  "wetrade-design": {
+    "version": "*"
+  }
+}
