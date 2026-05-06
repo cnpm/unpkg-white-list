@@ -1,0 +1,35 @@
+name: Publish Preview Release
+
+on:
+  pull_request_review:
+    types: [submitted]
+
+permissions: {}
+
+jobs:
+  check:
+    if: github.event.review.state == 'approved'
+    runs-on: ubuntu-latest
+    outputs:
+      has-permissions: ${{ steps.checkPermissions.outputs.require-result }}
+    steps:
+      - name: Check reviewer permissions
+        id: checkPermissions
+        uses: actions-cool/check-user-permission@v2
+        with:
+          require: write
+
+  publish:
+    needs: check
+    if: needs.check.outputs.has-permissions == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm install
+
+      - run: npx pkg-pr-new publish --commentWithSha
