@@ -27,12 +27,12 @@ function writeJson(file, value) {
 
 function merge() {
   const original = fs.readFileSync(PKG_PATH, 'utf-8');
-  // Don't clobber an existing backup: if a prior prepack crashed before
-  // postpack ran, package.json is already the merged form and the .bak
-  // already holds the true source. Treating .bak as immutable until
-  // restore() consumes it keeps source-of-truth recoverable.
-  if (!fs.existsSync(BAK_PATH)) {
-    fs.writeFileSync(BAK_PATH, original);
+  // If a prior prepack crashed before postpack ran, package.json is already
+  // merged and .bak holds the true source — keep .bak immutable until restore.
+  try {
+    fs.writeFileSync(BAK_PATH, original, { flag: 'wx' });
+  } catch (err) {
+    if (err.code !== 'EEXIST') throw err;
   }
 
   const pkg = JSON.parse(original);
@@ -49,8 +49,6 @@ function restore() {
     console.log('ℹ️  No package.json.bak — nothing to restore');
     return;
   }
-  // copy + unlink instead of rename: avoids any latent cross-platform
-  // doubt about renaming over an existing destination.
   fs.copyFileSync(BAK_PATH, PKG_PATH);
   fs.unlinkSync(BAK_PATH);
   console.log('✅ Restored package.json from package.json.bak');
