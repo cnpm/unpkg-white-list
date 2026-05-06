@@ -10,6 +10,8 @@ jobs:
   check:
     if: github.event.review.state == 'approved'
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     outputs:
       has-permissions: ${{ steps.checkPermissions.outputs.require-result }}
     steps:
@@ -23,6 +25,9 @@ jobs:
     needs: check
     if: needs.check.outputs.has-permissions == 'true'
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
     steps:
       - uses: actions/checkout@v6
 

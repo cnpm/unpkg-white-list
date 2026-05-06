@@ -14,7 +14,7 @@
 
 为了让 PR Review 更清晰，所有白名单/黑名单数据均拆分到独立的 JSON 文件中，作为唯一的可信来源（source of truth）。`npm publish` 前，通过 `prepack` 钩子自动将这些数据合并回 `package.json` 的对应字段，发布到 npm 的 tarball 中保持原有结构，下游消费者（如 npmmirror）的读取路径不变。
 
-```
+```text
 data/
   allowScopes.json        # 数组：开启 unpkg 的 scope 列表
   allowPackages.json      # 对象：开启 unpkg 的包名与版本范围

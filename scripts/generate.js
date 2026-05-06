@@ -72,6 +72,9 @@ function listPath(name) {
 
 // Asymmetric on purpose: in DEBUG mode we read the canonical source-of-truth
 // but write to a *_draft.json sibling, so the original list stays untouched.
+// Side effect: drafts are *not* cumulative — each DEBUG=true invocation
+// re-reads the canonical baseline, so only the most recent addition survives
+// in the draft. Run one DEBUG add at a time when inspecting output.
 function loadList(name) {
   return fs.readJsonSync(path.join(DATA_DIR, `${name}.json`));
 }

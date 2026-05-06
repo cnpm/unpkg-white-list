@@ -34,7 +34,7 @@ This is a Node.js project that maintains allowlists for unpkg functionality on n
 ### Debug Mode
 - Use `DEBUG=true` environment variable for verbose output when adding packages/scopes
   - Example: `DEBUG=true npm run add -- "--pkg=test-package:*"`
-  - Creates `package_draft.json` instead of modifying main `package.json`
+  - Writes to `data/<list>_draft.json` instead of mutating the canonical `data/<list>.json`
 
 ## Validation Requirements
 

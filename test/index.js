@@ -56,7 +56,7 @@ test('should pkg.allowPackages work', () => {
 
 test('should pkg.allowScopes work', () => {
   assert(allowScopes);
-  assert.equal(typeof allowScopes, 'object');
+  assert(Array.isArray(allowScopes), 'allowScopes should be an array');
   let scopes = 0;
   for (const name of allowScopes) {
     scopes++;
@@ -117,7 +117,7 @@ test('should pkg.allowLargePackages work', () => {
 
 test('should pkg.allowLargeScopes work', () => {
   assert(allowLargeScopes);
-  assert.equal(typeof allowLargeScopes, 'object');
+  assert(Array.isArray(allowLargeScopes), 'allowLargeScopes should be an array');
   let scopes = 0;
   for (const name of allowLargeScopes) {
     scopes++;
@@ -154,7 +154,7 @@ test('check allowLargePackages and allowLargeScopes', () => {
 
 test('should pkg.blockSyncScopes work', () => {
   assert(blockSyncScopes);
-  assert.equal(typeof blockSyncScopes, 'object');
+  assert(Array.isArray(blockSyncScopes), 'blockSyncScopes should be an array');
   let scopes = 0;
   for (const name of blockSyncScopes) {
     scopes++;
@@ -169,7 +169,7 @@ test('should pkg.blockSyncScopes work', () => {
 
 test('should pkg.blockSyncPackages work', () => {
   assert(blockSyncPackages);
-  assert.equal(typeof blockSyncPackages, 'object');
+  assert(Array.isArray(blockSyncPackages), 'blockSyncPackages should be an array');
   let packages = 0;
   for (const name of blockSyncPackages) {
     packages++;

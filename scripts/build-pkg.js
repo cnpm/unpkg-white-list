@@ -27,7 +27,13 @@ function writeJson(file, value) {
 
 function merge() {
   const original = fs.readFileSync(PKG_PATH, 'utf-8');
-  fs.writeFileSync(BAK_PATH, original);
+  // Don't clobber an existing backup: if a prior prepack crashed before
+  // postpack ran, package.json is already the merged form and the .bak
+  // already holds the true source. Treating .bak as immutable until
+  // restore() consumes it keeps source-of-truth recoverable.
+  if (!fs.existsSync(BAK_PATH)) {
+    fs.writeFileSync(BAK_PATH, original);
+  }
 
   const pkg = JSON.parse(original);
   for (const field of LIST_FIELDS) {
