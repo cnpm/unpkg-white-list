@@ -15,7 +15,7 @@ jobs:
     steps:
       - name: Check reviewer permissions
         id: checkPermissions
-        uses: actions-cool/check-user-permission@v2
+        uses: actions-cool/check-user-permission@v2.4.0
         with:
           require: write
 
@@ -24,9 +24,9 @@ jobs:
     if: needs.check.outputs.has-permissions == 'true'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
           node-version: 20
 
