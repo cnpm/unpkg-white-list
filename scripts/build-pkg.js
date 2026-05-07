@@ -27,8 +27,10 @@ function writeJson(file, value) {
 
 function merge() {
   const original = fs.readFileSync(PKG_PATH, 'utf-8');
-  // If a prior prepack crashed before postpack ran, package.json is already
-  // merged and .bak holds the true source — keep .bak immutable until restore.
+  // npm publish re-reads package.json AFTER pack() runs to build the
+  // registry manifest, so prepack must leave the merged lists in place — no
+  // postpack restore. .bak preserves the original for manual `restore` use
+  // (local `npm pack` workflow); keep it immutable on re-merge.
   try {
     fs.writeFileSync(BAK_PATH, original, { flag: 'wx' });
   } catch (err) {

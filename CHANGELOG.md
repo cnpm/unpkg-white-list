@@ -1,5 +1,9 @@
 # Changelog
 
+## <small>1.299.1 (2026-05-07)</small>
+
+* fix: drop postpack so registry packument keeps the merged lists (#569) ([bb053cb](https://github.com/cnpm/unpkg-white-list/commit/bb053cb)), closes [#569](https://github.com/cnpm/unpkg-white-list/issues/569)
+
 ## 1.299.0 (2026-05-07)
 
 * feat: allow binaryen in large package whitelist (#567) ([a3bb363](https://github.com/cnpm/unpkg-white-list/commit/a3bb363)), closes [#567](https://github.com/cnpm/unpkg-white-list/issues/567)
