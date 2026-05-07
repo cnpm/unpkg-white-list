@@ -9,8 +9,7 @@
     "test": "node --test",
     "ci": "npm test",
     "add": "node scripts/generate.js",
-    "prepack": "node scripts/build-pkg.js merge",
-    "postpack": "node scripts/build-pkg.js restore"
+    "prepack": "node scripts/build-pkg.js merge"
   },
   "devDependencies": {
     "@commitlint/cli": "^20.2.0",

@@ -1,11 +1,13 @@
 const test = require('node:test');
 const { strict: assert } = require('node:assert');
-const { readFileSync, writeFileSync } = require('node:fs');
+const { execSync } = require('node:child_process');
+const { existsSync, readFileSync, unlinkSync, writeFileSync } = require('node:fs');
 const { dirname, join } = require('node:path');
 const semverValidRange = require('semver/ranges/valid');
 
 const ROOT = dirname(__dirname);
 const pkgFile = join(ROOT, 'package.json');
+const bakFile = join(ROOT, 'package.json.bak');
 const dataDir = join(ROOT, 'data');
 
 function readAndNormalize(file) {
@@ -180,6 +182,38 @@ test('should pkg.blockSyncPackages work', () => {
   console.log('Total %d block sync packages', packages);
   assert(packages > 0);
   assert(blockSyncPackages.length === packages, 'blockSyncPackages length should be equal to packages length');
+});
+
+// Regression test for the registry-packument bug introduced by #565.
+// `npm publish` re-reads package.json AFTER `pack()` (i.e. after postpack)
+// to build the manifest it uploads to the registry. If postpack restores
+// an unmerged package.json, the registry packument loses allowPackages etc.
+// (see https://registry.npmjs.com/unpkg-white-list/1.299.0).
+test('npm pack must leave package.json with merged lists for the registry manifest', () => {
+  const savedPkg = readFileSync(pkgFile, 'utf-8');
+  const savedBak = existsSync(bakFile) ? readFileSync(bakFile) : null;
+  try {
+    execSync('npm pack --dry-run --silent', { cwd: ROOT, stdio: 'pipe' });
+    const afterPack = JSON.parse(readFileSync(pkgFile, 'utf-8'));
+    for (const field of [
+      'allowScopes',
+      'allowPackages',
+      'allowLargeScopes',
+      'allowLargePackages',
+      'blockSyncScopes',
+      'blockSyncPackages',
+    ]) {
+      assert(afterPack[field], `package.json after pack must have ${field} — npm publish re-reads it after pack to build the registry manifest`);
+    }
+    assert(Object.keys(afterPack.allowPackages).length > 0, 'allowPackages must not be empty');
+  } finally {
+    writeFileSync(pkgFile, savedPkg);
+    if (savedBak === null) {
+      if (existsSync(bakFile)) unlinkSync(bakFile);
+    } else {
+      writeFileSync(bakFile, savedBak);
+    }
+  }
 });
 
 test('check blockSyncPackages and blockSyncScopes', () => {
