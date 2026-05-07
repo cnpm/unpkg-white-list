@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.299.0 (2026-05-07)
+
+* feat: allow binaryen in large package whitelist (#567) ([a3bb363](https://github.com/cnpm/unpkg-white-list/commit/a3bb363)), closes [#567](https://github.com/cnpm/unpkg-white-list/issues/567)
+* chore: update contributors image link in README.md (#566) ([49c7814](https://github.com/cnpm/unpkg-white-list/commit/49c7814)), closes [#566](https://github.com/cnpm/unpkg-white-list/issues/566)
+* refactor: split allow/block lists out of package.json into `data/*.json` (#565) ([921830b](https://github.com/cnpm/unpkg-white-list/commit/921830b)), closes [#565](https://github.com/cnpm/unpkg-white-list/issues/565)
+
 ## 1.298.0 (2026-05-06)
 
 * feat: add tav-ui to allowLargePackages (#564) ([1adc291](https://github.com/cnpm/unpkg-white-list/commit/1adc291)), closes [#564](https://github.com/cnpm/unpkg-white-list/issues/564)
