@@ -234,6 +234,6 @@ npm run add -- --block-sync-scope=@sdjkals
 
 ## Contributors
 
-[![Contributors](https://contrib.rocks/image?repo=cnpm/unpkg-white-list)](https://github.com/cnpm/unpkg-white-list/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=cnpm/unpkg-white-list&max=100000)](https://github.com/cnpm/unpkg-white-list/graphs/contributors)
 
 Made with [contributors-img](https://contrib.rocks).
