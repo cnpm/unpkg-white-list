@@ -47,6 +47,9 @@
   "binaryen": {
     "version": "*"
   },
+  "cesium": {
+    "version": "*"
+  },
   "cline": {
     "version": "*"
   },
