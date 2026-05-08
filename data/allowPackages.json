@@ -7031,9 +7031,6 @@
   "hapi": {
     "version": "*"
   },
-  "happy": {
-    "version": "*"
-  },
   "happy-dom": {
     "version": "*"
   },

@@ -74,6 +74,9 @@
   "gsd-pi": {
     "version": "*"
   },
+  "happy": {
+    "version": "*"
+  },
   "hdw2": {
     "version": "*"
   },
