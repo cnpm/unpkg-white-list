@@ -11978,6 +11978,9 @@
   "qrcode-decoder": {
     "version": "*"
   },
+  "qrcode-encoder": {
+    "version": "*"
+  },
   "qrcode-generator": {
     "version": "*"
   },
