@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.303.0 (2026-05-12)
+
+* feat: add qrcode-encoder into allowPackages (#572) ([45b4246](https://github.com/cnpm/unpkg-white-list/commit/45b4246)), closes [#572](https://github.com/cnpm/unpkg-white-list/issues/572)
+
 ## 1.302.0 (2026-05-08)
 
 * feat: add happy to allowLargePackages (#571) ([532b814](https://github.com/cnpm/unpkg-white-list/commit/532b814)), closes [#571](https://github.com/cnpm/unpkg-white-list/issues/571)
