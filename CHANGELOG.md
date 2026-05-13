@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.304.0 (2026-05-13)
+
+* feat: add xslt-polyfill to allowPackages (#575) ([63a02cc](https://github.com/cnpm/unpkg-white-list/commit/63a02cc)), closes [#575](https://github.com/cnpm/unpkg-white-list/issues/575)
+
 ## 1.303.0 (2026-05-12)
 
 * feat: add qrcode-encoder into allowPackages (#572) ([45b4246](https://github.com/cnpm/unpkg-white-list/commit/45b4246)), closes [#572](https://github.com/cnpm/unpkg-white-list/issues/572)
