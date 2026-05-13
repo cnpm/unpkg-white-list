@@ -18467,6 +18467,9 @@
   "xprofiler": {
     "version": "*"
   },
+  "xslt-polyfill": {
+    "version": "*"
+  },
   "xss": {
     "version": "*"
   },
