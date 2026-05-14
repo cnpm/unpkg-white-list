@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.305.0 (2026-05-14)
+
+* feat: add tdesign-web-components to allowLargePackages (#577) ([ed96af7](https://github.com/cnpm/unpkg-white-list/commit/ed96af7)), closes [#577](https://github.com/cnpm/unpkg-white-list/issues/577)
+
 ## 1.304.0 (2026-05-13)
 
 * feat: add xslt-polyfill to allowPackages (#575) ([63a02cc](https://github.com/cnpm/unpkg-white-list/commit/63a02cc)), closes [#575](https://github.com/cnpm/unpkg-white-list/issues/575)
