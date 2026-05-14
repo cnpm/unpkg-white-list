@@ -215,6 +215,9 @@
   "tdesign-icons-vue-next": {
     "version": "*"
   },
+  "tdesign-web-components": {
+    "version": "*"
+  },
   "vibe-kanban": {
     "version": "*"
   },
