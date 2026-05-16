@@ -140,6 +140,9 @@
   "node-win-x86": {
     "version": "*"
   },
+  "omniroute": {
+    "version": "*"
+  },
   "onnxruntime-node": {
     "version": "*"
   },
