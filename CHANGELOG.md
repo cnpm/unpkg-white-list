@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.306.0 (2026-05-16)
+
+* feat: add omniroute to allowLargePackages (#578) ([3d07c1d](https://github.com/cnpm/unpkg-white-list/commit/3d07c1d)), closes [#578](https://github.com/cnpm/unpkg-white-list/issues/578)
+
 ## 1.305.0 (2026-05-14)
 
 * feat: add tdesign-web-components to allowLargePackages (#577) ([ed96af7](https://github.com/cnpm/unpkg-white-list/commit/ed96af7)), closes [#577](https://github.com/cnpm/unpkg-white-list/issues/577)
