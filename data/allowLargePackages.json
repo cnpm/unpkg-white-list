@@ -5,6 +5,9 @@
   "@belife/belife-bim-air": {
     "version": "*"
   },
+  "@code-yeongyu/comment-checker": {
+    "version": "*"
+  },
   "@codeblitzjs/ide-core": {
     "version": "*"
   },
