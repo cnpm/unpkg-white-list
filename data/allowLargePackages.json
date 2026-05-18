@@ -8,6 +8,9 @@
   "@codeblitzjs/ide-core": {
     "version": "*"
   },
+  "@code-yeongyu/comment-checker": {
+    "version": "*"
+  }
   "@comate/zulu": {
     "version": "*"
   },
