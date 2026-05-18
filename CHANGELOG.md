@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.307.0 (2026-05-18)
+
+* feat: add `@code-yeongyu/comment-checker` to allowLargePackages (#580) ([520df2e](https://github.com/cnpm/unpkg-white-list/commit/520df2e)), closes [#580](https://github.com/cnpm/unpkg-white-list/issues/580)
+
 ## 1.306.0 (2026-05-16)
 
 * feat: add omniroute to allowLargePackages (#578) ([3d07c1d](https://github.com/cnpm/unpkg-white-list/commit/3d07c1d)), closes [#578](https://github.com/cnpm/unpkg-white-list/issues/578)
