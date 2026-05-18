@@ -5,12 +5,12 @@
   "@belife/belife-bim-air": {
     "version": "*"
   },
+  "@code-yeongyu/comment-checker": {
+    "version": "*"
+  },
   "@codeblitzjs/ide-core": {
     "version": "*"
   },
-  "@code-yeongyu/comment-checker": {
-    "version": "*"
-  }
   "@comate/zulu": {
     "version": "*"
   },
