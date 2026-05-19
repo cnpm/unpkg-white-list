@@ -191,6 +191,12 @@
   "opencode-windows-x64-baseline": {
     "version": "*"
   },
+  "plotly.js": {
+    "version": "*"
+  },
+  "plotly.js-dist-min": {
+    "version": "*"
+  },
   "rari-darwin-arm64": {
     "version": "*"
   },
