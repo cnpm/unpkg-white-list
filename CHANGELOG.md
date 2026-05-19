@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.308.0 (2026-05-19)
+
+* feat: add plotly.js and plotly.js-dist-min to allowLargePackages.json (#581) ([2f770c7](https://github.com/cnpm/unpkg-white-list/commit/2f770c7)), closes [#581](https://github.com/cnpm/unpkg-white-list/issues/581)
+
 ## 1.307.0 (2026-05-18)
 
 * feat: add `@code-yeongyu/comment-checker` to allowLargePackages (#580) ([520df2e](https://github.com/cnpm/unpkg-white-list/commit/520df2e)), closes [#580](https://github.com/cnpm/unpkg-white-list/issues/580)
