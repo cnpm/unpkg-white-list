@@ -18712,5 +18712,8 @@
   },
   "zy-count-up": {
     "version": "*"
-  }
+  },
+  "ntt-manager": {
+    "version": "*"
+  },
 }
