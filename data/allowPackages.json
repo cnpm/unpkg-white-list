@@ -10694,6 +10694,9 @@
   "nspell": {
     "version": "*"
   },
+  "ntt-manager": {
+    "version": "*"
+  },
   "nudged": {
     "version": "*"
   },
@@ -18712,8 +18715,5 @@
   },
   "zy-count-up": {
     "version": "*"
-  },
-  "ntt-manager": {
-    "version": "*"
-  },
+  }
 }
