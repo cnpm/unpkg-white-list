@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.309.0 (2026-05-22)
+
+* feat: add ggk-happy to allowLargePackages (#583) ([7453d3e](https://github.com/cnpm/unpkg-white-list/commit/7453d3e)), closes [#583](https://github.com/cnpm/unpkg-white-list/issues/583)
+
 ## 1.308.0 (2026-05-19)
 
 * feat: add plotly.js and plotly.js-dist-min to allowLargePackages.json (#581) ([2f770c7](https://github.com/cnpm/unpkg-white-list/commit/2f770c7)), closes [#581](https://github.com/cnpm/unpkg-white-list/issues/581)
