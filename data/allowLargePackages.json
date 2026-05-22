@@ -71,6 +71,9 @@
   "element-ai-vue": {
     "version": "*"
   },
+  "ggk-happy": {
+    "version": "*"
+  },
   "googleapis": {
     "version": "*"
   },
