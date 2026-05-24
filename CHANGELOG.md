@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.310.0 (2026-05-24)
+
+* feat: add webc.site to allowPackages (#584) ([2f0d03c](https://github.com/cnpm/unpkg-white-list/commit/2f0d03c)), closes [#584](https://github.com/cnpm/unpkg-white-list/issues/584)
+
 ## 1.309.0 (2026-05-22)
 
 * feat: add ggk-happy to allowLargePackages (#583) ([7453d3e](https://github.com/cnpm/unpkg-white-list/commit/7453d3e)), closes [#583](https://github.com/cnpm/unpkg-white-list/issues/583)
