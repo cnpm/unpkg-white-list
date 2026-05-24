@@ -18074,6 +18074,9 @@
   "web3modal": {
     "version": "*"
   },
+  "webc.site": {
+    "version": "*"
+  },
   "webcola": {
     "version": "*"
   },
