@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.311.0 (2026-05-25)
+
+* feat: add bonree-icons to larg pack (#585) ([390967e](https://github.com/cnpm/unpkg-white-list/commit/390967e)), closes [#585](https://github.com/cnpm/unpkg-white-list/issues/585)
+
 ## 1.310.0 (2026-05-24)
 
 * feat: add webc.site to allowPackages (#584) ([2f0d03c](https://github.com/cnpm/unpkg-white-list/commit/2f0d03c)), closes [#584](https://github.com/cnpm/unpkg-white-list/issues/584)
