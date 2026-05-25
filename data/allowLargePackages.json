@@ -59,6 +59,9 @@
   "binaryen": {
     "version": "*"
   },
+  "bonree-icons": {
+    "version": "*"
+  },
   "cesium": {
     "version": "*"
   },
