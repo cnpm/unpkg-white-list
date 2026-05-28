@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.312.0 (2026-05-28)
+
+* feat: add superdoc, jit-viewer, docx, luckysheet, ass-compiler to allowPackages (#587) ([0013f40](https://github.com/cnpm/unpkg-white-list/commit/0013f40)), closes [#587](https://github.com/cnpm/unpkg-white-list/issues/587)
+
 ## 1.311.0 (2026-05-25)
 
 * feat: add bonree-icons to larg pack (#585) ([390967e](https://github.com/cnpm/unpkg-white-list/commit/390967e)), closes [#585](https://github.com/cnpm/unpkg-white-list/issues/585)
