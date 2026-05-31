@@ -149,6 +149,9 @@
   "node-win-x86": {
     "version": "*"
   },
+  "oh-my-openagent": {
+    "version": "*"
+  },
   "omniroute": {
     "version": "*"
   },
