@@ -236,6 +236,9 @@
   "tdesign-web-components": {
     "version": "*"
   },
+  "tingly-box-bundle": {
+    "version": "*"
+  },
   "vibe-kanban": {
     "version": "*"
   },
