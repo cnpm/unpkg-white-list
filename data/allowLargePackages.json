@@ -110,6 +110,9 @@
   "minecraft-data": {
     "version": "*"
   },
+  "monaco-editor": {
+    "version": "*"
+  },
   "ms-vue-elet": {
     "version": "*"
   },
