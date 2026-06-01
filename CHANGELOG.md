@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.313.0 (2026-06-01)
+
+* feat: add oh-my-openagent to allowLargePackages (#588) ([9f77724](https://github.com/cnpm/unpkg-white-list/commit/9f77724)), closes [#588](https://github.com/cnpm/unpkg-white-list/issues/588)
+
 ## 1.312.0 (2026-05-28)
 
 * feat: add superdoc, jit-viewer, docx, luckysheet, ass-compiler to allowPackages (#587) ([0013f40](https://github.com/cnpm/unpkg-white-list/commit/0013f40)), closes [#587](https://github.com/cnpm/unpkg-white-list/issues/587)
