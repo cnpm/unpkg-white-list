@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.315.0 (2026-06-03)
+
+* feat: add oh-my-openagent x64 packages to allowLargePackages (#591) ([80d5048](https://github.com/cnpm/unpkg-white-list/commit/80d5048)), closes [#591](https://github.com/cnpm/unpkg-white-list/issues/591)
+
 ## 1.314.0 (2026-06-01)
 
 * feat: add monaco-editor to allowLargePackages (#589) ([1320ab8](https://github.com/cnpm/unpkg-white-list/commit/1320ab8)), closes [#589](https://github.com/cnpm/unpkg-white-list/issues/589)
