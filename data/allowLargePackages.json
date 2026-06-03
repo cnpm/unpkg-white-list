@@ -155,6 +155,18 @@
   "oh-my-openagent": {
     "version": "*"
   },
+  "oh-my-openagent-linux-x64": {
+    "version": "*"
+  },
+  "oh-my-openagent-linux-x64-baseline": {
+    "version": "*"
+  },
+  "oh-my-openagent-windows-x64": {
+    "version": "*"
+  },
+  "oh-my-openagent-windows-x64-baseline": {
+    "version": "*"
+  },
   "omniroute": {
     "version": "*"
   },
