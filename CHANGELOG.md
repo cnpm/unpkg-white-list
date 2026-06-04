@@ -1,5 +1,25 @@
 # Changelog
 
+## 1.316.0 (2026-06-04)
+
+* feat(allowLargePackages): add expo-image (#592) ([af505f2](https://github.com/cnpm/unpkg-white-list/commit/af505f2)), closes [#592](https://github.com/cnpm/unpkg-white-list/issues/592)
+
+## 1.315.0 (2026-06-03)
+
+* feat: add oh-my-openagent x64 packages to allowLargePackages (#591) ([80d5048](https://github.com/cnpm/unpkg-white-list/commit/80d5048)), closes [#591](https://github.com/cnpm/unpkg-white-list/issues/591)
+
+## 1.314.0 (2026-06-01)
+
+* feat: add monaco-editor to allowLargePackages (#589) ([1320ab8](https://github.com/cnpm/unpkg-white-list/commit/1320ab8)), closes [#589](https://github.com/cnpm/unpkg-white-list/issues/589)
+
+## 1.313.0 (2026-06-01)
+
+* feat: add oh-my-openagent to allowLargePackages (#588) ([9f77724](https://github.com/cnpm/unpkg-white-list/commit/9f77724)), closes [#588](https://github.com/cnpm/unpkg-white-list/issues/588)
+
+## 1.312.0 (2026-05-28)
+
+* feat: add superdoc, jit-viewer, docx, luckysheet, ass-compiler to allowPackages (#587) ([0013f40](https://github.com/cnpm/unpkg-white-list/commit/0013f40)), closes [#587](https://github.com/cnpm/unpkg-white-list/issues/587)
+
 ## 1.311.0 (2026-05-25)
 
 * feat: add bonree-icons to larg pack (#585) ([390967e](https://github.com/cnpm/unpkg-white-list/commit/390967e)), closes [#585](https://github.com/cnpm/unpkg-white-list/issues/585)

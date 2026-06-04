@@ -74,6 +74,9 @@
   "element-ai-vue": {
     "version": "*"
   },
+  "expo-image": {
+    "version": "*"
+  },
   "ggk-happy": {
     "version": "*"
   },
@@ -108,6 +111,9 @@
     "version": "*"
   },
   "minecraft-data": {
+    "version": "*"
+  },
+  "monaco-editor": {
     "version": "*"
   },
   "ms-vue-elet": {
@@ -147,6 +153,21 @@
     "version": "*"
   },
   "node-win-x86": {
+    "version": "*"
+  },
+  "oh-my-openagent": {
+    "version": "*"
+  },
+  "oh-my-openagent-linux-x64": {
+    "version": "*"
+  },
+  "oh-my-openagent-linux-x64-baseline": {
+    "version": "*"
+  },
+  "oh-my-openagent-windows-x64": {
+    "version": "*"
+  },
+  "oh-my-openagent-windows-x64-baseline": {
     "version": "*"
   },
   "omniroute": {
