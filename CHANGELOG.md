@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.316.0 (2026-06-04)
+
+* feat(allowLargePackages): add expo-image (#592) ([af505f2](https://github.com/cnpm/unpkg-white-list/commit/af505f2)), closes [#592](https://github.com/cnpm/unpkg-white-list/issues/592)
+
 ## 1.315.0 (2026-06-03)
 
 * feat: add oh-my-openagent x64 packages to allowLargePackages (#591) ([80d5048](https://github.com/cnpm/unpkg-white-list/commit/80d5048)), closes [#591](https://github.com/cnpm/unpkg-white-list/issues/591)
