@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.317.0 (2026-06-04)
+
+* feat: add tingly-box-bundle to allowLargePackages (#593) ([035def4](https://github.com/cnpm/unpkg-white-list/commit/035def4)), closes [#593](https://github.com/cnpm/unpkg-white-list/issues/593)
+
 ## 1.316.0 (2026-06-04)
 
 * feat(allowLargePackages): add expo-image (#592) ([af505f2](https://github.com/cnpm/unpkg-white-list/commit/af505f2)), closes [#592](https://github.com/cnpm/unpkg-white-list/issues/592)
