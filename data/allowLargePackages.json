@@ -74,6 +74,9 @@
   "element-ai-vue": {
     "version": "*"
   },
+  "expo-image": {
+    "version": "*"
+  },
   "ggk-happy": {
     "version": "*"
   },
