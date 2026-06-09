@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.318.0 (2026-06-09)
+
+* feat: add makecoder-bin packages to allowLargePackages (#596) ([639fb57](https://github.com/cnpm/unpkg-white-list/commit/639fb57)), closes [#596](https://github.com/cnpm/unpkg-white-list/issues/596)
+
 ## 1.317.0 (2026-06-04)
 
 * feat: add tingly-box-bundle to allowLargePackages (#593) ([035def4](https://github.com/cnpm/unpkg-white-list/commit/035def4)), closes [#593](https://github.com/cnpm/unpkg-white-list/issues/593)
