@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.319.0 (2026-06-09)
+
+* feat: add makecoder-bin-win-x64 to allowLargePackages (#598) ([c8879ab](https://github.com/cnpm/unpkg-white-list/commit/c8879ab)), closes [#598](https://github.com/cnpm/unpkg-white-list/issues/598)
+
 ## 1.318.0 (2026-06-09)
 
 * feat: add makecoder-bin packages to allowLargePackages (#596) ([639fb57](https://github.com/cnpm/unpkg-white-list/commit/639fb57)), closes [#596](https://github.com/cnpm/unpkg-white-list/issues/596)
