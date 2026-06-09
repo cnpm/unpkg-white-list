@@ -268,5 +268,8 @@
   },
   "wetrade-design": {
     "version": "*"
+  },
+  "@formatjs/intl-numberformat": {
+    "version": "*"
   }
 }
