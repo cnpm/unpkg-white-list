@@ -110,6 +110,9 @@
   "makecoder-bin-linux-x64": {
     "version": "*"
   },
+  "makecoder-bin-win-x64": {
+    "version": "*"
+  },
   "minecraft-data": {
     "version": "*"
   },
