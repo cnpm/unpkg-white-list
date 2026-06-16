@@ -266,6 +266,9 @@
   "vibe-kanban": {
     "version": "*"
   },
+  "vibecoding-installer": {
+    "version": "*"
+  },
   "viewport-cli": {
     "version": "*"
   },

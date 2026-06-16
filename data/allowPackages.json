@@ -17507,6 +17507,9 @@
   "vh-check": {
     "version": "*"
   },
+  "vibecoding-installer": {
+    "version": "*"
+  },
   "video-react": {
     "version": "*"
   },
