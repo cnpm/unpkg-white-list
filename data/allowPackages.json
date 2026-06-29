@@ -572,6 +572,9 @@
   "@matejmazur/react-katex": {
     "version": "*"
   },
+  "@mcp-b/webmcp-local-relay": {
+    "version": "*"
+  },
   "@mdi/font": {
     "version": "*"
   },
