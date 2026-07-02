@@ -95,6 +95,9 @@
   "heren-design-web-vue": {
     "version": "*"
   },
+  "hermes-web-ui": {
+    "version": "*"
+  },
   "koffi": {
     "version": "*"
   },
