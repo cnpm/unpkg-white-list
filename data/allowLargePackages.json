@@ -44,9 +44,6 @@
   "@quasar/extras": {
     "version": "*"
   },
-  "@qwen-code/qwen-code": {
-    "version": "*"
-  },
   "@teamolab/teamo-cli": {
     "version": "*"
   },
