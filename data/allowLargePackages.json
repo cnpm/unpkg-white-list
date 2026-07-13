@@ -38,6 +38,9 @@
   "@openlist-frontend/openlist-frontend": {
     "version": "*"
   },
+  "@opensig/opendesign-token": {
+    "version": "*"
+  },
   "@qingchencloud/openclaw-zh": {
     "version": "*"
   },
