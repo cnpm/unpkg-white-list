@@ -17,6 +17,9 @@
   "@kilocode/cli": {
     "version": "*"
   },
+  "@mapnik/core-darwin-arm64": {
+    "version": "*"
+  },
   "@mapnik/core-darwin-x64": {
     "version": "*"
   },
