@@ -44,6 +44,9 @@
   "@quasar/extras": {
     "version": "*"
   },
+  "@spinejit/spine-codex": {
+    "version": "*"
+  },
   "@teamolab/teamo-cli": {
     "version": "*"
   },
