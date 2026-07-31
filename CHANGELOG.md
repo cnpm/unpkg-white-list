@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.326.0 (2026-07-31)
+
+* feat: add @opensig/opendesign-token to allowLargePackages (#609) ([7ca9a91](https://github.com/cnpm/unpkg-white-list/commit/7ca9a91)), closes [#609](https://github.com/cnpm/unpkg-white-list/issues/609)
+
 ## 1.325.0 (2026-07-06)
 
 * feat: add `@volcengine` to allowLargeScopes (#608) ([2d4b751](https://github.com/cnpm/unpkg-white-list/commit/2d4b751)), closes [#608](https://github.com/cnpm/unpkg-white-list/issues/608)
