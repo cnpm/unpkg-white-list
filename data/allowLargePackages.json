@@ -74,6 +74,9 @@
   "dashjs": {
     "version": "*"
   },
+  "drizzle-kit": {
+    "version": "*"
+  },
   "element-ai-vue": {
     "version": "*"
   },
