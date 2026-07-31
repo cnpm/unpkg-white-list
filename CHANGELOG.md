@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.327.0 (2026-07-31)
+
+* feat: add @mapnik/core-darwin-arm64 to large package whitelist (#611) ([dfb5a23](https://github.com/cnpm/unpkg-white-list/commit/dfb5a23)), closes [#611](https://github.com/cnpm/unpkg-white-list/issues/611)
+* feat: add drizzle-kit (#610) ([52cd6e4](https://github.com/cnpm/unpkg-white-list/commit/52cd6e4)), closes [#610](https://github.com/cnpm/unpkg-white-list/issues/610)
+
 ## 1.326.0 (2026-07-31)
 
 * feat: add @opensig/opendesign-token to allowLargePackages (#609) ([7ca9a91](https://github.com/cnpm/unpkg-white-list/commit/7ca9a91)), closes [#609](https://github.com/cnpm/unpkg-white-list/issues/609)
