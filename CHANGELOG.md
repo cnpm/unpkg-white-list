@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.329.0 (2026-08-04)
+
+* feat: add @dptech-corp/bohr-cli to allowLargePackages (#614) ([53bae18](https://github.com/cnpm/unpkg-white-list/commit/53bae18)), closes [#614](https://github.com/cnpm/unpkg-white-list/issues/614)
+
 ## 1.328.0 (2026-08-04)
 
 * feat(allowLargeScopes): add `@nubjs` scope (#613) ([cceb270](https://github.com/cnpm/unpkg-white-list/commit/cceb270)), closes [#613](https://github.com/cnpm/unpkg-white-list/issues/613)
