@@ -14,6 +14,9 @@
   "@comate/zulu": {
     "version": "*"
   },
+  "@dptech-corp/bohr-cli": {
+    "version": "*"
+  },
   "@kilocode/cli": {
     "version": "*"
   },
