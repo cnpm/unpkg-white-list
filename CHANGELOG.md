@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.328.0 (2026-08-04)
+
+* feat(allowLargeScopes): add `@nubjs` scope (#613) ([cceb270](https://github.com/cnpm/unpkg-white-list/commit/cceb270)), closes [#613](https://github.com/cnpm/unpkg-white-list/issues/613)
+
 ## 1.327.0 (2026-07-31)
 
 * feat: add @mapnik/core-darwin-arm64 to large package whitelist (#611) ([dfb5a23](https://github.com/cnpm/unpkg-white-list/commit/dfb5a23)), closes [#611](https://github.com/cnpm/unpkg-white-list/issues/611)
