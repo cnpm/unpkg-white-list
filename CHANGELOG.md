@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.330.0 (2026-08-06)
+
+* feat: add agent-browser to allowLargePackages (#615) ([aba19a5](https://github.com/cnpm/unpkg-white-list/commit/aba19a5)), closes [#615](https://github.com/cnpm/unpkg-white-list/issues/615)
+
 ## 1.329.0 (2026-08-04)
 
 * feat: add @dptech-corp/bohr-cli to allowLargePackages (#614) ([53bae18](https://github.com/cnpm/unpkg-white-list/commit/53bae18)), closes [#614](https://github.com/cnpm/unpkg-white-list/issues/614)
