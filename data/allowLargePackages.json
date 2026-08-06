@@ -59,6 +59,9 @@
   "@tntd/dll": {
     "version": "*"
   },
+  "agent-browser": {
+    "version": "*"
+  },
   "ant-design-vue": {
     "version": "*"
   },
