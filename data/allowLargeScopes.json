@@ -1,6 +1,7 @@
 [
   "@agentclientprotocol",
   "@anthropic-ai",
+  "@biomejs",
   "@bufbuild",
   "@cloudflare",
   "@codemod.com",
