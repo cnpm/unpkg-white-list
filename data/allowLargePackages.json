@@ -17,9 +17,6 @@
   "@dptech-corp/bohr-cli": {
     "version": "*"
   },
-  "@kilocode/cli": {
-    "version": "*"
-  },
   "@mapnik/core-darwin-arm64": {
     "version": "*"
   },
