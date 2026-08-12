@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.332.0 (2026-08-12)
+
+* feat: add `@biomejs` to allowLargeScopes (#617) ([69d406b](https://github.com/cnpm/unpkg-white-list/commit/69d406b)), closes [#617](https://github.com/cnpm/unpkg-white-list/issues/617)
+
 ## 1.331.0 (2026-08-12)
 
 * feat: add @kilocode to allowLargeScopes (#616) ([2d5fdaf](https://github.com/cnpm/unpkg-white-list/commit/2d5fdaf)), closes [#616](https://github.com/cnpm/unpkg-white-list/issues/616)
