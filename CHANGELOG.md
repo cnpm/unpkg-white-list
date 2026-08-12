@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.331.0 (2026-08-12)
+
+* feat: add @kilocode to allowLargeScopes (#616) ([2d5fdaf](https://github.com/cnpm/unpkg-white-list/commit/2d5fdaf)), closes [#616](https://github.com/cnpm/unpkg-white-list/issues/616)
+
 ## 1.330.0 (2026-08-06)
 
 * feat: add agent-browser to allowLargePackages (#615) ([aba19a5](https://github.com/cnpm/unpkg-white-list/commit/aba19a5)), closes [#615](https://github.com/cnpm/unpkg-white-list/issues/615)
