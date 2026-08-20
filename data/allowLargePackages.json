@@ -131,6 +131,9 @@
   "makecoder-bin-win-x64": {
     "version": "*"
   },
+  "mermaid": {
+    "version": "*"
+  },
   "minecraft-data": {
     "version": "*"
   },
