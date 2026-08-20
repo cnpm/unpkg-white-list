@@ -17,6 +17,18 @@
   "@comate/zulu": {
     "version": "*"
   },
+  "@deveco/deveco-code-darwin-arm64": {
+    "version": "*"
+  },
+  "@deveco/deveco-code-darwin-x64": {
+    "version": "*"
+  },
+  "@deveco/deveco-code-windows-x64": {
+    "version": "*"
+  },
+  "@deveco/deveco-code-windows-x64-baseline": {
+    "version": "*"
+  },
   "@dptech-corp/bohr-cli": {
     "version": "*"
   },
