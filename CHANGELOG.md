@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.334.0 (2026-08-20)
+
+* feat: add mermaid to allowLargePackages (#619) ([3dd9989](https://github.com/cnpm/unpkg-white-list/commit/3dd9989)), closes [#619](https://github.com/cnpm/unpkg-white-list/issues/619)
+
 ## 1.333.0 (2026-08-20)
 
 * feat: add `@amaster.ai/pi-computer-use` to allowLargePackages (#618) ([0b741d1](https://github.com/cnpm/unpkg-white-list/commit/0b741d1)), closes [#618](https://github.com/cnpm/unpkg-white-list/issues/618)
