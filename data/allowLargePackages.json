@@ -1,4 +1,7 @@
 {
+  "@amaster.ai/pi-computer-use": {
+    "version": "*"
+  },
   "@baidumap/mapv-three": {
     "version": "*"
   },
