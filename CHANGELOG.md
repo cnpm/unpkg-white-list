@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.333.0 (2026-08-20)
+
+* feat: add `@amaster.ai/pi-computer-use` to allowLargePackages (#618) ([0b741d1](https://github.com/cnpm/unpkg-white-list/commit/0b741d1)), closes [#618](https://github.com/cnpm/unpkg-white-list/issues/618)
+
 ## 1.332.0 (2026-08-12)
 
 * feat: add `@biomejs` to allowLargeScopes (#617) ([69d406b](https://github.com/cnpm/unpkg-white-list/commit/69d406b)), closes [#617](https://github.com/cnpm/unpkg-white-list/issues/617)
