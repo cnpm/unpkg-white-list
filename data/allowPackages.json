@@ -15239,6 +15239,9 @@
   "shadow-view": {
     "version": "*"
   },
+  "shaka-player": {
+    "version": "*"
+  },
   "shallow-equal": {
     "version": "*"
   },
