@@ -272,6 +272,9 @@
   "rx-compo": {
     "version": "*"
   },
+  "shaka-player": {
+    "version": "*"
+  },
   "tav-ui": {
     "version": "*"
   },
