@@ -53,6 +53,9 @@
   "@quasar/extras": {
     "version": "*"
   },
+  "@swmansion/argent": {
+    "version": ">=0.14.0 <0.23.0"
+  },
   "@teamolab/teamo-cli": {
     "version": "*"
   },
