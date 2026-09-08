@@ -16430,6 +16430,9 @@
   "tinydate": {
     "version": "*"
   },
+  "tinyhmacmd5": {
+    "version": "*"
+  },
   "tinyjs-alive-loader": {
     "version": "*"
   },
