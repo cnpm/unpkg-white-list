@@ -245,6 +245,9 @@
   "@element-plus/icons-vue": {
     "version": "*"
   },
+  "@emhome/amaxicon": {
+    "version": "*"
+  },
   "@emoji-mart/data": {
     "version": "*"
   },
