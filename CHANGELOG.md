@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.340.0 (2026-09-17)
+
+* feat: add `@opencode` to allowLargeScopes (#631) ([80ac548](https://github.com/cnpm/unpkg-white-list/commit/80ac548)), closes [#631](https://github.com/cnpm/unpkg-white-list/issues/631)
+
 ## 1.339.0 (2026-09-06)
 
 * feat: add phaser to allowLargePackages (#627) ([1cd8e88](https://github.com/cnpm/unpkg-white-list/commit/1cd8e88)), closes [#627](https://github.com/cnpm/unpkg-white-list/issues/627)
