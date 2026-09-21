@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.342.0 (2026-09-21)
+
+* feat: add pandoc-wasm to allowPackages (#633) ([9dbfe12](https://github.com/cnpm/unpkg-white-list/commit/9dbfe12)), closes [#633](https://github.com/cnpm/unpkg-white-list/issues/633)
+
 ## 1.341.0 (2026-09-18)
 
 * feat: add `@deepseek-ai` to allowLargeScopes & allowScopes (#632) ([15ba039](https://github.com/cnpm/unpkg-white-list/commit/15ba039)), closes [#632](https://github.com/cnpm/unpkg-white-list/issues/632)
