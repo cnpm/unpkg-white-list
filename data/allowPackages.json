@@ -11060,6 +11060,9 @@
   "pako": {
     "version": "*"
   },
+  "pandoc-wasm": {
+    "version": "*"
+  },
   "pandown": {
     "version": "*"
   },
