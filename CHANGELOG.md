@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.343.0 (2026-09-23)
+
+* feat: add primeicons to allowPackages (#635) ([ce40c9f](https://github.com/cnpm/unpkg-white-list/commit/ce40c9f)), closes [#635](https://github.com/cnpm/unpkg-white-list/issues/635)
+
 ## 1.342.0 (2026-09-21)
 
 * feat: add pandoc-wasm to allowPackages (#633) ([9dbfe12](https://github.com/cnpm/unpkg-white-list/commit/9dbfe12)), closes [#633](https://github.com/cnpm/unpkg-white-list/issues/633)
