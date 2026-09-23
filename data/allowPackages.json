@@ -11756,6 +11756,9 @@
   "pretty-quick": {
     "version": "*"
   },
+  "primeicons": {
+    "version": "*"
+  },
   "print-js": {
     "version": "*"
   },
