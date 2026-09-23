@@ -18698,6 +18698,12 @@
   "zrender-nightly": {
     "version": "*"
   },
+  "zsbqb-catalog": {
+    "version": "*"
+  },
+  "zsbqb-static": {
+    "version": "*"
+  },
   "zstd-codec": {
     "version": "*"
   },
