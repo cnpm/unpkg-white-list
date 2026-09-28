@@ -137,6 +137,21 @@
   "makecoder-bin-win-x64": {
     "version": "*"
   },
+  "makecoder-c-bin-darwin-arm64": {
+    "version": "*"
+  },
+  "makecoder-c-bin-darwin-x64": {
+    "version": "*"
+  },
+  "makecoder-c-bin-linux-arm64": {
+    "version": "*"
+  },
+  "makecoder-c-bin-linux-x64": {
+    "version": "*"
+  },
+  "makecoder-c-bin-win-x64": {
+    "version": "*"
+  },
   "mermaid": {
     "version": "*"
   },
