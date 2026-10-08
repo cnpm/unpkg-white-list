@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.344.0 (2026-10-08)
+
+* feat: add `@colbymchenry` to allowLargeScopes (#637) ([3782e06](https://github.com/cnpm/unpkg-white-list/commit/3782e06)), closes [#637](https://github.com/cnpm/unpkg-white-list/issues/637)
+
 ## 1.343.0 (2026-09-23)
 
 * feat: add primeicons to allowPackages (#635) ([ce40c9f](https://github.com/cnpm/unpkg-white-list/commit/ce40c9f)), closes [#635](https://github.com/cnpm/unpkg-white-list/issues/635)
