@@ -1,9 +1,7 @@
 name: Check GKD Subscription
 
 on:
-  # Needs write access to comment on fork PRs. The job only inspects diff text;
-  # it never checks out or executes code from the PR.
-  pull_request_target: # zizmor: ignore[dangerous-triggers]
+  pull_request:
     types: [opened, edited, synchronize, reopened]
 
 jobs:
@@ -11,39 +9,37 @@ jobs:
     name: Block GKD Subscription PRs
     runs-on: ubuntu-latest
     permissions:
-      contents: read
-      pull-requests: write
+      pull-requests: read
     steps:
       - name: Check for GKD-related packages
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
         run: |
+          set -euo pipefail
+
           # Scan added lines in source-of-truth allowlist files for GKD keywords.
           # Scope: package.json (defense-in-depth if lists ever creep back) and
           # the four data/allow*.json files. data/blockSync*.json is intentionally
           # excluded — adding a GKD-named entry to a block list is the right move.
           GKD_PATTERN='gkd[-_]?(subscription|rules|kit)|gkd_|[-_]gkd|(^|[^a-zA-Z0-9])@?gkd([^a-zA-Z0-9]|$)'
 
-          DIFF=$(gh pr diff "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" 2>/dev/null | awk '
+          DIFF=$(gh pr diff "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" | awk '
             /^diff --git/ { in_target = 0 }
             /^diff --git a\/(package\.json|data\/allow(Large)?(Packages|Scopes)\.json) / { in_target = 1 }
             in_target { print }
-          ' || true)
+          ')
 
-          if echo "$DIFF" | grep -iEq "^\+[^+].*($GKD_PATTERN)"; then
-            echo "❌ Detected GKD subscription-related content in allowlist files (package.json or data/allow*.json)"
+          if grep -iEq "^\+[^+].*($GKD_PATTERN)" <<< "$DIFF"; then
+            echo "::error::Detected GKD subscription-related content in allowlist files (package.json or data/allow*.json)"
 
-            # Add comment using heredoc to avoid indentation issues
-            cat > /tmp/gkd-comment.md << 'EOF'
+            cat >> "$GITHUB_STEP_SUMMARY" << 'EOF'
           🚫 **此 PR 包含 GKD 订阅规则相关的包，不符合本项目的白名单要求。**
 
           本项目 **不接受** 任何与 GKD（去广告/跳广告）订阅规则相关的包申请。这类包不是真正的 npm library，而是利用 npmmirror CDN 来分发广告屏蔽订阅规则文件，属于滥用 CDN 资源。
 
           详情请阅读 [README.md](https://github.com/cnpm/unpkg-white-list/blob/master/README.md) 中的说明。
           EOF
-
-            gh pr comment "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --body-file /tmp/gkd-comment.md
 
             exit 1
           fi
