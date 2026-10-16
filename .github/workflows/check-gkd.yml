@@ -1,7 +1,9 @@
 name: Check GKD Subscription
 
 on:
-  pull_request_target:
+  # Needs write access to comment on fork PRs. The job only inspects diff text;
+  # it never checks out or executes code from the PR.
+  pull_request_target: # zizmor: ignore[dangerous-triggers]
     types: [opened, edited, synchronize, reopened]
 
 jobs:
@@ -11,7 +13,6 @@ jobs:
     permissions:
       contents: read
       pull-requests: write
-      issues: write
     steps:
       - name: Check for GKD-related packages
         env:
