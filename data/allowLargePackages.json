@@ -98,6 +98,9 @@
   "expo-image": {
     "version": "*"
   },
+  "farming-code": {
+    "version": "<=2.2.80"
+  },
   "ggk-happy": {
     "version": "*"
   },
