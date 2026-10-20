@@ -35,6 +35,33 @@
   "@adonisjs/encryption": {
     "version": "*"
   },
+  "@agentnetwork/anet": {
+    "version": "*"
+  },
+  "@agentnetwork/anet-darwin-arm64": {
+    "version": "*"
+  },
+  "@agentnetwork/anet-darwin-x64": {
+    "version": "*"
+  },
+  "@agentnetwork/anet-linux-arm64": {
+    "version": "*"
+  },
+  "@agentnetwork/anet-linux-x64": {
+    "version": "*"
+  },
+  "@agentnetwork/anet-shell-darwin-arm64": {
+    "version": "*"
+  },
+  "@agentnetwork/anet-shell-darwin-x64": {
+    "version": "*"
+  },
+  "@agentnetwork/anet-shell-linux-arm64": {
+    "version": "*"
+  },
+  "@agentnetwork/anet-shell-linux-x64": {
+    "version": "*"
+  },
   "@aisouler/gkd_subscription": {
     "version": "*"
   },
