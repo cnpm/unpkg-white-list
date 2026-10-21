@@ -20,6 +20,9 @@
   "@dptech-corp/bohr-cli": {
     "version": "*"
   },
+  "@dsh-ops/bash-win32-x64": {
+    "version": "*"
+  },
   "@guandata/guanvis": {
     "version": "*"
   },
