@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.345.0 (2026-10-21)
+
+* feat: add `@dsh-ops/bash-win32-x64` to allowLargePackages (#641) ([ec5417b](https://github.com/cnpm/unpkg-white-list/commit/ec5417b)), closes [#641](https://github.com/cnpm/unpkg-white-list/issues/641)
+* ci: enable zizmor security checks (#638) ([e4b89d1](https://github.com/cnpm/unpkg-white-list/commit/e4b89d1)), closes [#638](https://github.com/cnpm/unpkg-white-list/issues/638)
+
 ## 1.344.0 (2026-10-08)
 
 * feat: add `@colbymchenry` to allowLargeScopes (#637) ([3782e06](https://github.com/cnpm/unpkg-white-list/commit/3782e06)), closes [#637](https://github.com/cnpm/unpkg-white-list/issues/637)
