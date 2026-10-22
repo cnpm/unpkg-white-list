@@ -8891,6 +8891,9 @@
   "leaflet": {
     "version": "*"
   },
+  "leaflet-geosearch": {
+    "version": "*"
+  },
   "leaflet-polylinedecorator": {
     "version": "*"
   },
