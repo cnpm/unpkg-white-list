@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.346.0 (2026-10-23)
+
+* feat: add leaflet-geosearch to allowPackages (#642) ([4a47c77](https://github.com/cnpm/unpkg-white-list/commit/4a47c77)), closes [#642](https://github.com/cnpm/unpkg-white-list/issues/642)
+
 ## 1.345.0 (2026-10-21)
 
 * feat: add `@dsh-ops/bash-win32-x64` to allowLargePackages (#641) ([ec5417b](https://github.com/cnpm/unpkg-white-list/commit/ec5417b)), closes [#641](https://github.com/cnpm/unpkg-white-list/issues/641)
