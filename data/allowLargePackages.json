@@ -287,6 +287,9 @@
   "shaka-player": {
     "version": "*"
   },
+  "storyclaw-assistant": {
+    "version": "*"
+  },
   "tav-ui": {
     "version": "*"
   },
