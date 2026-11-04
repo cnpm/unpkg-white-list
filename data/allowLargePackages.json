@@ -47,6 +47,9 @@
   "@mchp-mcc/pic-8bit": {
     "version": "*"
   },
+  "@minimax-ai/code": {
+    "version": "*"
+  },
   "@openlist-frontend/openlist-frontend": {
     "version": "*"
   },
