@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.347.0 (2026-11-05)
+
+* feat: add `@minimax-ai/code` to allowLargePackages (#644) ([485453a](https://github.com/cnpm/unpkg-white-list/commit/485453a)), closes [#644](https://github.com/cnpm/unpkg-white-list/issues/644)
+
 ## 1.346.0 (2026-10-23)
 
 * feat: add leaflet-geosearch to allowPackages (#642) ([4a47c77](https://github.com/cnpm/unpkg-white-list/commit/4a47c77)), closes [#642](https://github.com/cnpm/unpkg-white-list/issues/642)
