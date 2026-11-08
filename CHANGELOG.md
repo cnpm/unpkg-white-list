@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.348.0 (2026-11-08)
+
+* feat: add fullcalendar to allowPackages (#645) ([3a811eb](https://github.com/cnpm/unpkg-white-list/commit/3a811eb)), closes [#645](https://github.com/cnpm/unpkg-white-list/issues/645)
+
 ## 1.347.0 (2026-11-05)
 
 * feat: add `@minimax-ai/code` to allowLargePackages (#644) ([485453a](https://github.com/cnpm/unpkg-white-list/commit/485453a)), closes [#644](https://github.com/cnpm/unpkg-white-list/issues/644)
