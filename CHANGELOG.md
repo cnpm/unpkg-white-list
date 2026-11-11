@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.349.0 (2026-11-11)
+
+* feat: add agora-rtc-sdk-ng to allowPackages (#646) ([a195fda](https://github.com/cnpm/unpkg-white-list/commit/a195fda)), closes [#646](https://github.com/cnpm/unpkg-white-list/issues/646)
+
 ## 1.348.0 (2026-11-08)
 
 * feat: add fullcalendar to allowPackages (#645) ([3a811eb](https://github.com/cnpm/unpkg-white-list/commit/3a811eb)), closes [#645](https://github.com/cnpm/unpkg-white-list/issues/645)
