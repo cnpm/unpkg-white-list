@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.350.0 (2026-11-11)
+
+* feat: add agora-extension-ai-denoiser to allowPackages (#647) ([070769b](https://github.com/cnpm/unpkg-white-list/commit/070769b)), closes [#647](https://github.com/cnpm/unpkg-white-list/issues/647)
+
 ## 1.349.0 (2026-11-11)
 
 * feat: add agora-rtc-sdk-ng to allowPackages (#646) ([a195fda](https://github.com/cnpm/unpkg-white-list/commit/a195fda)), closes [#646](https://github.com/cnpm/unpkg-white-list/issues/646)
