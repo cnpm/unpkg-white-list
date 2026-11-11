@@ -1100,6 +1100,9 @@
   "agentkeepalive": {
     "version": "*"
   },
+  "agora-rtc-sdk-ng": {
+    "version": "*"
+  },
   "ahooks": {
     "version": "*"
   },
