@@ -1100,6 +1100,9 @@
   "agentkeepalive": {
     "version": "*"
   },
+  "agora-extension-ai-denoiser": {
+    "version": "*"
+  },
   "agora-rtc-sdk-ng": {
     "version": "*"
   },
