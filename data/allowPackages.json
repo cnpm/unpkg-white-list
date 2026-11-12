@@ -314,6 +314,9 @@
   "@gera2ld/jar-parser": {
     "version": "*"
   },
+  "@github/relative-time-element": {
+    "version": "*"
+  },
   "@glidejs/glide": {
     "version": "*"
   },
