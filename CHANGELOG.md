@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.351.0 (2026-11-12)
+
+* feat: add @github/relative-time-element to allowPackages (#648) ([ea3ce2c](https://github.com/cnpm/unpkg-white-list/commit/ea3ce2c)), closes [#648](https://github.com/cnpm/unpkg-white-list/issues/648)
+
 ## 1.350.0 (2026-11-11)
 
 * feat: add agora-extension-ai-denoiser to allowPackages (#647) ([070769b](https://github.com/cnpm/unpkg-white-list/commit/070769b)), closes [#647](https://github.com/cnpm/unpkg-white-list/issues/647)
