@@ -95,6 +95,24 @@
   "dashjs": {
     "version": "*"
   },
+  "dimcode-darwin-arm64": {
+    "version": "*"
+  },
+  "dimcode-darwin-x64": {
+    "version": "*"
+  },
+  "dimcode-linux-arm64": {
+    "version": "*"
+  },
+  "dimcode-linux-x64": {
+    "version": "*"
+  },
+  "dimcode-windows-arm64": {
+    "version": "*"
+  },
+  "dimcode-windows-x64": {
+    "version": "*"
+  },
   "drizzle-kit": {
     "version": "*"
   },
