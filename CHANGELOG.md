@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.352.0 (2026-11-13)
+
+* feat: add dimcode platform packages to allowLargePackages (#649) ([7c75726](https://github.com/cnpm/unpkg-white-list/commit/7c75726)), closes [#649](https://github.com/cnpm/unpkg-white-list/issues/649)
+
 ## 1.351.0 (2026-11-12)
 
 * feat: add @github/relative-time-element to allowPackages (#648) ([ea3ce2c](https://github.com/cnpm/unpkg-white-list/commit/ea3ce2c)), closes [#648](https://github.com/cnpm/unpkg-white-list/issues/648)
