@@ -16136,6 +16136,9 @@
   "swr": {
     "version": "*"
   },
+  "swup": {
+    "version": "*"
+  },
   "symlink-dir": {
     "version": "*"
   },
