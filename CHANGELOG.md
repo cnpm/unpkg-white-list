@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.353.0 (2026-11-19)
+
+* feat: restore swup in allowPackages (#650) ([0833aab](https://github.com/cnpm/unpkg-white-list/commit/0833aab)), closes [#650](https://github.com/cnpm/unpkg-white-list/issues/650)
+
 ## 1.352.0 (2026-11-13)
 
 * feat: add dimcode platform packages to allowLargePackages (#649) ([7c75726](https://github.com/cnpm/unpkg-white-list/commit/7c75726)), closes [#649](https://github.com/cnpm/unpkg-white-list/issues/649)
