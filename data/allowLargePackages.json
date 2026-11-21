@@ -331,5 +331,8 @@
   },
   "wetrade-design": {
     "version": "*"
+  },
+  "yumi-ai": {
+    "version": "*"
   }
 }
