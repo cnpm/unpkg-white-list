@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.354.0 (2026-11-22)
+
+* feat: add yumi-ai to allowLargePackages (#652) ([c319747](https://github.com/cnpm/unpkg-white-list/commit/c319747)), closes [#652](https://github.com/cnpm/unpkg-white-list/issues/652)
+
 ## 1.353.0 (2026-11-19)
 
 * feat: restore swup in allowPackages (#650) ([0833aab](https://github.com/cnpm/unpkg-white-list/commit/0833aab)), closes [#650](https://github.com/cnpm/unpkg-white-list/issues/650)
