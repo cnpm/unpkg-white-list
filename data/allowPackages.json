@@ -18452,6 +18452,9 @@
   "xiaochuan-source-dev": {
     "version": "*"
   },
+  "xijie-m24": {
+    "version": "*"
+  },
   "xima": {
     "version": "*"
   },
@@ -18759,9 +18762,6 @@
     "version": "*"
   },
   "zy-count-up": {
-    "version": "*"
-  },
-  "xijie-m24": {
     "version": "*"
   }
 }
